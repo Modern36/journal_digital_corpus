@@ -21,3 +21,6 @@ class NameToPathMapper(object):
 
         fname = name + ".srt"
         return out_dir / fname
+
+    def __len__(self):
+        return len(self.dict)
