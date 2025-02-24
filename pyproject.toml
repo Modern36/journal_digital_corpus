@@ -1,6 +1,6 @@
 [project]
 dependencies =[
-  "m36_utils @ https://github.com/Modern36/m36_utils/releases/tag/v0.2.1-alpha"
+  "swescribe"
 ]
 
 [tool.isort]
