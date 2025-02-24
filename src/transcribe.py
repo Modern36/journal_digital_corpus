@@ -1,3 +1,4 @@
+import subprocess
 from pathlib import Path
 
 from swescribe.__main__ import pipeline
@@ -17,6 +18,25 @@ def grous_to_paths(groups=["kino", "nuet", "sf", "sj", "ufa"]):
 def group_to_paths(group, force=False):
     group_dir = video_root / group
     for video in group_dir.glob("**/*.mpg"):
+        q = subprocess.run(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-select_streams",
+                "a",
+                "-show_entries",
+                "stream=index",
+                "-of",
+                "csv=p=0",
+                str(video),
+            ],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        if q.stdout == "":
+            continue
         name = video.name
         srt_path = mapper(group=group, name=name)
         if not (srt_path.exists() and force):
