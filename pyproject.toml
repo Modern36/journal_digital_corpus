@@ -1,0 +1,42 @@
+[project]
+dependencies =[
+  "m36_utils @ https://github.com/Modern36/m36_utils/releases/tag/v0.2.1-alpha"
+]
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 79
+
+[tool.black]
+line-length = 79
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+force-exclude = '''
+/(
+    \.toml
+  | \.yaml
+)/
+'''
+
+readme = "README.md"
+
+
+[tool.pytest.ini_options]
+addopts = [
+    "--import-mode=importlib",
+]
+testpaths = ["tests"]
+pythonpath = "src"
