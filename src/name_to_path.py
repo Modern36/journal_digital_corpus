@@ -1,10 +1,11 @@
-from settings import metadata_file
-from settings import corpus_root
+from collections import defaultdict
+
+from settings import corpus_root, metadata_file
 
 
 class NameToPathMapper(object):
     def __init__(self):
-        self.dict = {}
+        self.dict = defaultdict(str)
         with open(metadata_file, "r", encoding="utf-8") as f:
             for line in f.readlines():
                 name, year = line.split("\t")

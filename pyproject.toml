@@ -1,7 +1,9 @@
 [project]
 dependencies =[
-  "swescribe"
+  "swescribe==0.0.1"
 ]
+name = "journal_digital_corpus"
+version = "0.0.0-alpha"
 
 [tool.isort]
 profile = "black"
