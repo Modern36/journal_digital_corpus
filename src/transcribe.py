@@ -39,7 +39,9 @@ def group_to_paths(group, force=False):
             continue
         name = video.name
         srt_path = mapper(group=group, name=name)
-        if not (srt_path.exists() and force):
+        if force:
+            yield video, srt_path
+        elif not srt_path.exists():
             yield video, srt_path
 
 
