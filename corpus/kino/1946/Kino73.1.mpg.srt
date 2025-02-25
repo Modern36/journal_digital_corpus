@@ -1,0 +1,487 @@
+1
+00:00:01,231 --> 00:00:02,992
+Ett fartyg lastar.
+
+2
+00:00:04,653 --> 00:00:05,474
+Pappersmassa.
+
+3
+00:00:06,716 --> 00:00:07,416
+Kullager.
+
+4
+00:00:08,397 --> 00:00:09,858
+Sten.
+
+5
+00:00:09,878 --> 00:00:10,337
+Bräder.
+
+6
+00:00:12,298 --> 00:00:15,281
+Lastningen är avslutad och nu är det snart tid att lägga ut.
+
+7
+00:00:16,621 --> 00:00:17,882
+Här kommer chefen själv.
+
+8
+00:00:18,903 --> 00:00:22,606
+Om vi skulle ta och språka lite med honom.
+
+9
+00:00:22,626 --> 00:00:23,926
+Säg kapten, vart går färden?
+
+10
+00:00:24,968 --> 00:00:29,850
+Ja, först går vi till Las Palmas på Kanarieöarna.
+
+11
+00:00:32,914 --> 00:00:34,655
+Där lossar vi papper och lådbräder.
+
+12
+00:00:36,116 --> 00:00:38,938
+Därefter fortsätter vi till Kapstan och Durban.
+
+13
+00:00:39,237 --> 00:00:40,338
+Och vad har ni med er dit då?
+
+14
+00:00:40,598 --> 00:00:47,542
+Ja, dit har vi kulagor och separatorer, dammsugare och verktyg.
+
+15
+00:00:48,343 --> 00:00:56,067
+Sedan angör vi Bajra i portugisiska Ostafrika, där vi börjar lasta asbestos och mahognystockar.
+
+16
+00:00:56,287 --> 00:00:58,689
+Och hur lång tid räknar ni med att resan kommer att ta?
+
+17
+00:00:58,728 --> 00:01:00,530
+Ungefär åtta veckor.
+
+18
+00:01:01,893 --> 00:01:02,893
+Säg kapten, jag undrar.
+
+19
+00:01:03,253 --> 00:01:05,515
+Nu har ni alltså med er lådbräder till Kanariegöarna.
+
+20
+00:01:06,394 --> 00:01:09,156
+Men hur får den svenska säljaren sin betalning?
+
+21
+00:01:10,055 --> 00:01:11,137
+Inte tar väl ni hand om pengarna?
+
+22
+00:01:11,796 --> 00:01:13,656
+Nej, det gör jag verkligen inte.
+
+23
+00:01:14,296 --> 00:01:17,197
+Det är en sak som säljaren får hjälp med av sin bank.
+
+24
+00:01:19,099 --> 00:01:21,819
+Nå, hur ordnar ni den saken, Kammerboistet?
+
+25
+00:01:21,859 --> 00:01:23,060
+Den saken är redan ordnad.
+
+26
+00:01:23,918 --> 00:01:25,778
+Alltså, hur kan det hänga ihop?
+
+27
+00:01:25,799 --> 00:01:41,004
+Jo, tack vare det goda samarbetet mellan bankerna i de olika länderna kan, som i det här fallet, bredköparen i Las Palmas ge sin bank i uppdrag att genom banken här i Sverige betala säljaren så snart denne kan uppvisa nödiga handlingar som styrker att varan är inlastad.
+
+28
+00:01:41,405 --> 00:01:47,207
+På så vis har köparen bankens garanti för att varan levererats innan säljaren får betalt.
+
+29
+00:01:47,748 --> 00:01:53,171
+Och säljaren och sin sida har garanti för att han får sina pengar så snart varan är lastad.
+
+30
+00:01:53,710 --> 00:02:00,915
+Ofta händer det förresten när det gäller export lika väl som vid import att köparen och säljaren är fullständigt obekanta för varandra.
+
+31
+00:02:01,335 --> 00:02:10,221
+Det blir då vår sak att införskaffa och vidarebefordra de upplysningar och uppgifter som kan vara till hjälp för att en affär ska komma till stånd.
+
+32
+00:02:10,241 --> 00:02:16,905
+Ja, bakom varje sån här båtlast ligger ett omfattande arbete där erfarenhet och förutseende
+
+33
+00:02:17,277 --> 00:02:26,407
+Det svenska affärsbankernas framgångsrika samarbete med andra banker världen runt spelar här en avgörande roll.
+
+34
+00:02:29,610 --> 00:02:32,734
+Man talar med rätta om norrländska ödebygdernas isolering.
+
+35
+00:02:32,774 --> 00:02:36,418
+Men knappt fem mil från Stockholms centrum ligger en byggd med likartade problem.
+
+36
+00:02:36,457 --> 00:02:36,919
+Skärgården.
+
+37
+00:02:37,847 --> 00:02:43,449
+Som en skyffel grus, vårslöst kastad i en vattenpöl, ligger dess öar och skär spritta över en väldig yta.
+
+38
+00:02:43,830 --> 00:02:56,195
+Inom denna areal lever och arbetar tusentals människor, isolerade från varandra och fastlandet av misvida vatten, som tidvis är oframkomliga på grund av stormar, dimma eller bristande isar.
+
+39
+00:02:56,216 --> 00:03:03,860
+Med sitt nödtorft måste man ändå sörja för, och så blir fisket inte längre bara en fråga om lycka, utan en kamp mot naturens krafter.
+
+40
+00:03:03,879 --> 00:03:05,800
+Risarna är opolitliga.
+
+41
+00:03:05,881 --> 00:03:07,542
+Ena dagen varken bär eller brister i.
+
+42
+00:03:08,139 --> 00:03:14,405
+En annan dag måste man hugga loss båtarna och såga upp rännor för att kunna forcera isarna till öppet vatten.
+
+43
+00:03:14,465 --> 00:03:20,068
+När man väl har fått fisken ur havet blir frågan hur man ska få den till avsättningsplatserna.
+
+44
+00:03:20,088 --> 00:03:24,611
+Ja, skärgårdens vinterkommunikationer har varit lika brännande aktuell i mans åldrar.
+
+45
+00:03:25,233 --> 00:03:28,155
+De gamla skärkarlarna har sett ministrar komma och gå.
+
+46
+00:03:28,175 --> 00:03:35,741
+De har uppvaktat den ena efter den andra och de har återvänt med en uppmuntrande klapp på axeln och löfte om utredningar.
+
+47
+00:03:36,441 --> 00:03:37,382
+Och där är vi än idag.
+
+48
+00:03:38,211 --> 00:03:51,317
+Men livet måste gå vidare Om någon blir sjuk Hur går det då?
+
+49
+00:03:51,356 --> 00:04:05,983
+Ja då blir flygambulansen deras enda hopp I denna vinter drabbades en ung mor här ute av missfall Man ringde flygambulansen Den hade inga landningsmöjligheter som isarna var beskaffade Men man fick en förbryllande hänvisning till Stockholms centralgarage
+
+50
+00:04:09,209 --> 00:04:31,240
+Fem minuter senare lyfte en helikopter från Lindarängens flygplats Sveriges första privata räddningskår hade trätt i funktion Helikoptern är ovärdelig i sådana här situationer Den landar praktiskt taget var som helst Och snart seglade den in mellan trädtopparna och ställde sig snällt ner på gårdsplanen Beundrad av trogna och nyfikna grannar
+
+51
+00:05:06,675 --> 00:05:18,057
+Under tiden hade en av räddningskårens ambulanser och läkare delegerats till flygplatsen.
+
+52
+00:05:18,077 --> 00:05:22,899
+Läkaren kunde redan under färden till sjukhuset skaffa sig en klar bild av situationen.
+
+53
+00:05:22,978 --> 00:05:26,800
+Och 50 minuter efter larmet var kvinnan under behandling på sjukhuset.
+
+54
+00:05:26,819 --> 00:05:29,480
+Räddningskåren hade gjort det omöjliga möjligt.
+
+55
+00:05:35,471 --> 00:05:38,653
+Det ligger ett mångårigt arbete av enskilda män och företagare.
+
+56
+00:05:38,673 --> 00:05:47,137
+Vi ska be en av deras representanter, direktör Raymond Sjöqvist, att berätta om planerna för denna räddningskår.
+
+57
+00:05:47,156 --> 00:05:49,418
+Räddningskår har kommit till för att avlasta vid sjuktransporter.
+
+58
+00:05:50,259 --> 00:05:53,259
+Vi kommer att börja med abonnemangsystem efter tre typer.
+
+59
+00:05:54,000 --> 00:05:57,983
+Familjeabonnemang, bolagsabonnemang med personalen, bilbärgning.
+
+60
+00:05:58,663 --> 00:06:03,225
+Det hela kommer att bli överkomligt pris för alla samhällsklasser.
+
+61
+00:06:04,314 --> 00:06:09,517
+Här finns alltså en organisation beredd att dag och natt rädda människoliv.
+
+62
+00:06:09,557 --> 00:06:11,759
+Men den väntar sedan månader på sina papper.
+
+63
+00:06:12,499 --> 00:06:15,500
+Och papper behövs det för att rädda liv i vårt krånglig Sverige.
+
+64
+00:06:18,583 --> 00:06:22,785
+I vårt svåra försörjningsläge har skogen blivit vår mest betydande tillgång.
+
+65
+00:06:22,985 --> 00:06:26,007
+Men arbetet i den är tungt och folk söker sig inte gärna dit.
+
+66
+00:06:26,766 --> 00:06:33,891
+I denna svåra situation har den svenska industrin gjort en betydande insats för att få fram verktyg som underlättar det krävande avverkningsarbetet.
+
+67
+00:06:34,939 --> 00:06:38,600
+Förut använde man både i Sverige och i utlandet huvudsakligen tvåmansågar.
+
+68
+00:06:39,060 --> 00:06:47,963
+Så kallade stocksågar för fällning och kapning av även ganska klena träd är ett grovt slöseri med arbetskraft.
+
+69
+00:06:48,004 --> 00:06:50,903
+Stocksågarna var mestadels försedda med så kallad rivtandning.
+
+70
+00:06:51,464 --> 00:06:55,846
+Denna tandning ger varje tand tre uppgifter under sågningen.
+
+71
+00:06:55,865 --> 00:06:57,946
+I första hand ska den riva av trädets fibrer.
+
+72
+00:06:58,286 --> 00:07:03,627
+Sen bryta loss de avskurna fibrerstycken och slutligen föra den på så sätt bildade sågspånen bort.
+
+73
+00:07:05,440 --> 00:07:06,581
+Men utvecklingen gick vidare.
+
+74
+00:07:06,980 --> 00:07:08,742
+Enmansågen konstruerades.
+
+75
+00:07:08,781 --> 00:07:12,362
+Den blev ett lätthanterligt redskap för den medelgrova skogen.
+
+76
+00:07:12,403 --> 00:07:16,944
+Den har en specialtyp av rivtandningen som huvudsakligen skär då sågen skjutes framåt.
+
+77
+00:07:17,805 --> 00:07:20,966
+Idag använder man emellertid i allt större utsträckning bågsågen.
+
+78
+00:07:21,526 --> 00:07:25,067
+Den är lätthanterlig och håller spänningen i bladet som är smalt och tunt.
+
+79
+00:07:27,327 --> 00:07:31,829
+Bågsågens effektivitet är emellertid i högsta grad beroende av sågbladets konstruktion.
+
+80
+00:07:31,869 --> 00:07:34,509
+Och här har Sandvikens järnverk kommit fram till en ny typ.
+
+81
+00:07:34,935 --> 00:07:38,675
+som kan betecknas som revolutionerande, det hyveltandade bågsågbladet.
+
+82
+00:07:40,637 --> 00:07:44,158
+Detta blad har fyra skärtänder i grupp och därefter en hyvningstand.
+
+83
+00:07:44,737 --> 00:07:50,959
+Skärtänderna är skränkta, det vill säga varannan tand är vikt åt vänster och varannan åt höger.
+
+84
+00:07:51,199 --> 00:07:56,240
+Vid sågningen repar dessa tänder två spår i träet, allt eftersom fibrerna avskärs.
+
+85
+00:07:56,281 --> 00:07:59,382
+Mellan dessa båda spår bildas då en ås av kvarsittande fibrer.
+
+86
+00:07:59,980 --> 00:08:08,165
+Denna ås borthyvlas och uttransporteras nu av den efter varje skärtandgrupp sittande hyvlingstanden som arbetar på samma sätt som en hyvel.
+
+87
+00:08:08,206 --> 00:08:15,711
+Genom denna konstruktion skär sågen mycket lätt även i det hårdaste virke och den kraft som åtgår för sågningen nedbringas till ett minimum.
+
+88
+00:08:18,692 --> 00:08:21,334
+Det är emellertid inte bara sågarna som förbättrats.
+
+89
+00:08:21,415 --> 00:08:24,278
+Även metoderna för deras framställning har effektiviserats.
+
+90
+00:08:24,778 --> 00:08:28,821
+Tidigare stansades bågsågbladen för hand varvid arbetaren utförde matningen.
+
+91
+00:08:33,484 --> 00:08:40,690
+Numera sker denna fas i tillverkningen i helautomatiska maskiner där bladen tandas, hålas och klipps i en och samma maskin.
+
+92
+00:09:01,849 --> 00:09:16,782
+Skränkningen, ett tidsödande och synnerligen krävande arbete som inte tillät ett ögonblick av uppmärksamhet och sin utövare, utförs nu med osviklig precision av sin rika maskiner.
+
+93
+00:09:16,822 --> 00:09:20,544
+Och på samma sätt förhåller det sig med filningen av bladen, som också mekaniseras.
+
+94
+00:09:24,201 --> 00:09:26,822
+Men man har inte slagit sig till ro med de vunna resultaten.
+
+95
+00:09:26,884 --> 00:09:32,328
+I Sandvikens träbearbetningslaboratorier utförs inrika maskiner samma arbete som skogsarbetaren.
+
+96
+00:09:32,389 --> 00:09:37,933
+Och känsliga instrument mäter och registrerar friktionsmotstånd, energiutgång och andra faktorer.
+
+97
+00:09:37,953 --> 00:09:42,798
+Vilka klarläggande är av oskattbart värde för att lätta skogsfolkets tunga arbetsbörda.
+
+98
+00:09:45,961 --> 00:09:50,205
+Nu kanske ni tror att det här är upptakten till ett nytt reportage om Sofia-flickorna i Vålodalen.
+
+99
+00:09:50,972 --> 00:09:54,077
+Och nog har mer än ett av de här barnen drömt om en sån spänst.
+
+100
+00:09:54,097 --> 00:09:56,001
+Men det har varit svårt handikappade av sjukdom.
+
+101
+00:09:56,022 --> 00:10:04,395
+Det är nämligen bröstkläna barn från olika delar av vårt avlånga land som nu svävar fram över helagsgäldet Vidder ovan Kesödalens mjuka släntor.
+
+102
+00:10:06,620 --> 00:10:13,744
+Innehavaren av Kesedalens turiststation, ingenjör Werner Sjö, har nämligen tagit ett synnerligen begärtansvärt initiativ.
+
+103
+00:10:13,764 --> 00:10:21,787
+Han har ordnat det så att bröstklena barn får invadera hans station och fortsätta sin skolgång där under eftervintern då den egentliga turistsäsongen är över.
+
+104
+00:10:21,826 --> 00:10:32,270
+När det är varmt och vackert hålls lektionerna i det fria av en examinerad lärare och kurserna i detsamma som barnen har i sina respektive klasser så ingen behöver bli efter.
+
+105
+00:10:36,384 --> 00:10:40,966
+Magisten är ingen vanligt torr gubbe tycker barnen för han är utbildad skidlärare också.
+
+106
+00:10:41,405 --> 00:10:43,346
+Och det är betydligt mer värt i deras ögon.
+
+107
+00:10:43,907 --> 00:10:46,268
+Han nöjer sig inte bara med att tala om hur man ska göra.
+
+108
+00:10:46,668 --> 00:10:47,447
+Han gör det också.
+
+109
+00:10:47,947 --> 00:10:52,950
+Och sen gäller det att hänga med i svängar och brantor.
+
+110
+00:11:04,321 --> 00:11:10,164
+Skolhemmet står under betryggande kontroll av provincialläkaren och den har kunnat glädja sig åt goda resultat.
+
+111
+00:11:10,705 --> 00:11:18,210
+Men den som är mest glad är nog ingenjör Sjö för han har fått slåss med skoloråd och kommunalpampar som inte ville ta emot nådgåvor från enskilda.
+
+112
+00:11:18,889 --> 00:11:22,873
+Hur det sen gick med barnen det var tydligen en sekundärfråga.
+
+113
+00:11:22,913 --> 00:11:24,374
+Men nu går det rätta vägen.
+
+114
+00:11:24,453 --> 00:11:31,298
+En friskare livsföring för att bygga upp för ärftliga anlag, bristande kost, igenbommade fönster och tusen andra fördomar förstört.
+
+115
+00:11:36,160 --> 00:11:37,260
+Men till sist en fråga.
+
+116
+00:11:37,802 --> 00:11:41,984
+Kesudalens turiststation är en av landets minsta och ingen särskilt lönande affär.
+
+117
+00:11:42,683 --> 00:11:46,205
+Innehavaren får någon krona om dagen i bidrag för varje barn.
+
+118
+00:11:46,225 --> 00:11:50,027
+Resten får han ta ur egen ficka eller ur den fond han startar bland sina gäster.
+
+119
+00:11:50,986 --> 00:11:51,648
+Han gör det gärna.
+
+120
+00:11:52,327 --> 00:11:55,048
+Men vi har stora och rika turiststationer.
+
+121
+00:11:55,089 --> 00:11:59,890
+Vad tycker ni som äger dem enskilt eller genom aktier om det här initiativet?
+
+122
+00:11:59,971 --> 00:12:01,331
+Är det inte efterföljansvärt?

@@ -1,0 +1,347 @@
+1
+00:00:07,613 --> 00:00:11,696
+Nästa underverk som vi ska stifta bekantskap med är stygnräkningsinstrumentet.
+
+2
+00:00:12,337 --> 00:00:17,221
+Det stora instrumentet registrerar antalet stygn som syns och den tid som det tar.
+
+3
+00:00:17,260 --> 00:00:19,843
+Tiden mäts med en noggrannhet av en tusendel sekund.
+
+4
+00:00:20,564 --> 00:00:23,545
+Med hjälp av instrumentet får man fram standardtider för sämnad.
+
+5
+00:00:24,466 --> 00:00:31,352
+Impulserna till instrumentet från symaskinen förmedlas av en fotocell och en skiva på symaskinens huvudaxel.
+
+6
+00:00:31,391 --> 00:00:37,256
+Skivan är försedd med små remser av Scotchlite som ger impulser till fotocellen när symaskinen går.
+
+7
+00:00:38,749 --> 00:00:46,073
+Det här skrivande instrumentet överför uppgifter om tid, antal stygn och hastighet till en remsa som ger en klar bild av händelseförloppet.
+
+8
+00:00:48,036 --> 00:00:54,859
+Och vi presenterar chefen för färdiglagret, Sture Johansson, som tar emot en ständig ström av vagnar med färdiga plagg.
+
+9
+00:00:55,621 --> 00:01:06,209
+Hans uppgift är att tillsammans med en stab av medarbetare registrera alla inkommande plagg till lager samt att se till att det med uppgifter till faktureringsavdelningen går vidare till packning och distribution.
+
+10
+00:01:07,096 --> 00:01:10,257
+Distributionen omfattar idag inte bara den svenska marknaden.
+
+11
+00:01:10,697 --> 00:01:18,742
+I själva verket råder det väl ingen tvekan om att Junex-plaggen verksamt bidragit till att göra den svenska konfektionen känd och uppskattad även utomlands.
+
+12
+00:01:19,423 --> 00:01:24,846
+Så först är färdiga varorna ut på det nya arbetsbesparande transportbandet till väntande bilarna.
+
+13
+00:01:26,427 --> 00:01:28,588
+Junex har flera dotterbolag.
+
+14
+00:01:28,649 --> 00:01:33,992
+Ett av dem är inrymt i fabrikskomplexet i Husqvarna, nämligen industriaktiebolaget Koordinad.
+
+15
+00:01:35,147 --> 00:01:38,230
+Kordinal har helt inriktat sig på tillverkning av sysilke.
+
+16
+00:01:38,772 --> 00:01:44,197
+Köpare är inte bara allmänheten utan i lika hög grad konfektionsindustrin i hela landet.
+
+17
+00:01:45,078 --> 00:01:50,343
+Därför är det förstås naturligt att dotterföretaget också levererar sysilke till Junex samtliga fabriker.
+
+18
+00:01:51,045 --> 00:01:57,012
+Och här, liksom inom koncernens övriga fabriker, är materialtroningen och kontrollen mycket sträng.
+
+19
+00:01:58,341 --> 00:02:06,829
+Man tar täta stickprov och här kontrollerar företagets chef, disponent Jürgen Severs, några nya spolningar som fabriken just gjort.
+
+20
+00:02:09,695 --> 00:02:12,137
+Noggrannhet är kvaliténs hörntelare.
+
+21
+00:02:12,236 --> 00:02:18,179
+Och här i Junex-skolan har man i praktiken tillämpat talesättet att lära sig krypa innan man kan gå.
+
+22
+00:02:18,618 --> 00:02:20,679
+Att lära sig sy innan man kan sy.
+
+23
+00:02:21,280 --> 00:02:25,800
+Civilingenjör Paul Gustafsson håller just en teoretisk lektion i råvarukunskap.
+
+24
+00:02:26,401 --> 00:02:31,923
+Men naturligtvis är det praktiska sömnadsarbetet en minst lika väsentlig del av undervisningen.
+
+25
+00:02:32,002 --> 00:02:36,484
+Eleverna får till exempel till en början lära sig sy i papper i alla möjliga vindlingar.
+
+26
+00:02:37,163 --> 00:02:38,465
+Det är inte så lätt om det ser ut.
+
+27
+00:02:39,025 --> 00:02:40,985
+Det gäller att hålla tungan räckt i mun.
+
+28
+00:02:42,227 --> 00:02:45,248
+Undervisningen blir förstås småningom allt mer avancerad.
+
+29
+00:02:45,770 --> 00:02:50,932
+Yrkets många finesser bibringas till nyanställda under ständig och sakkunnig ledning.
+
+30
+00:02:51,854 --> 00:02:57,318
+En skola av den här typen har inte bara verksamt bidragit till att skapa en yrkesskicklighet av hög klass.
+
+31
+00:02:58,179 --> 00:03:01,080
+Den har också gjort mycket för att öka yrkets anseende.
+
+32
+00:03:02,882 --> 00:03:08,586
+Men på Junex är man mer än vanligt medveten om att människan inte lever enbart av och för arbete.
+
+33
+00:03:09,320 --> 00:03:14,842
+I själva verket har företaget gjort sig kämt över hela landet för sina omfattande sociala arrangemang.
+
+34
+00:03:14,862 --> 00:03:15,963
+Vi börjar i köket.
+
+35
+00:03:16,503 --> 00:03:24,508
+Fru Karlsson, som regerar enväldigt i den här avdelningen, ansvarar för att personalen får omväxlande och god mat till självkostnadspris.
+
+36
+00:03:25,068 --> 00:03:27,568
+Och det är sannoliken inget litet ansvar.
+
+37
+00:03:27,669 --> 00:03:32,531
+Inte mindre än 75 000 portioner framställs årligen i det hypermoderna köket.
+
+38
+00:03:33,288 --> 00:03:35,128
+Och här kommer några imponerande siffror till.
+
+39
+00:03:35,209 --> 00:03:44,832
+20 000 ton potatis, 50 000 liter mjölk och närmare 10 ton bröd slukas av hungriga Junexare i den trivsamt funktionella restaurangen.
+
+40
+00:03:45,393 --> 00:03:51,556
+Ett företag av Junex-dimensioner får naturligtvis ständigt gäster från när och fjärran och för dem har inrättats en gästmatsal.
+
+41
+00:03:52,975 --> 00:03:58,778
+I stora trevliga klubbrum kan personalen koppla av en stund, dricka kaffe och lyssna till musik.
+
+42
+00:04:01,183 --> 00:04:07,205
+Men lunchtimmen kan utnyttjas på många andra och kanske mer aktiva sätt än att lyssna på musik i klubbrummet.
+
+43
+00:04:09,407 --> 00:04:15,430
+Många föredrar till exempel att bekanta sig med pingpongspelets, förlåt ordstennisens, edla finesser.
+
+44
+00:04:15,490 --> 00:04:20,971
+En rik föreningsverksamhet kan utvecklas när ledningen är förstående och ställer materiell och utrymme till förfogande.
+
+45
+00:04:21,937 --> 00:04:24,860
+Men nog är det skönt att bara koppla av på sin lunchtimme.
+
+46
+00:04:24,879 --> 00:04:30,625
+Det finns många möjligheter också till det, till exempel på franska terrassen med sin fridfullt plaskande springbrunn.
+
+47
+00:04:31,286 --> 00:04:37,331
+Eller på någon av solbryggorna som naturligtvis är särskilt lockande under klara vackra sommardagar.
+
+48
+00:04:38,574 --> 00:04:41,596
+Härifrån har man också en härlig utsikt över vätten.
+
+49
+00:04:42,927 --> 00:04:51,576
+På tal om vetten och föreningsverksamhet så har Junex en energisk och framgångsrik roddklubb som många gånger skymtat i rekordtabellerna.
+
+50
+00:04:52,576 --> 00:04:59,425
+Båthuset med startbryggan ligger bara något stenkast från fabriken så det är lätt gjort att sticka iväg på en träningstur.
+
+51
+00:05:00,305 --> 00:05:03,946
+Bakom roddklubbens framgångar ligger många och hårda träningstimmar.
+
+52
+00:05:04,685 --> 00:05:13,968
+Gunexior är skön och skjuter fart, driven av kraftiga rytmiska årtag medan kvällsolen dalar över den fagra vättenbygden.
+
+53
+00:05:33,516 --> 00:05:38,678
+1954 lanserades en över hela landet uppmärksammad reklamform.
+
+54
+00:05:39,399 --> 00:05:43,841
+Junex flygande fönster startade på en turné som omfattade ett femtiotal städer.
+
+55
+00:05:44,601 --> 00:05:47,963
+En specialbyggd buss blev det som hela arrangemanget byggdes upp kring.
+
+56
+00:05:48,083 --> 00:05:51,024
+Och på torg och centrala platser ägde föreställningarna rum.
+
+57
+00:05:52,141 --> 00:05:59,872
+Det uppmärksammade projektet var närmast ett svar på den stora konsumentdebatten som präglade press och radio 1953.
+
+58
+00:05:59,913 --> 00:06:07,485
+Programmet tog inte bara sikte på att presentera kvaliteter och modeller utan skulle främst utgöra ett svar på frågan, vad ska kläder kosta?
+
+59
+00:06:08,685 --> 00:06:15,608
+Bryggor monterades runt bussen som för övrigt dels var byggd som ett rullande skyltfönster och dels som en estrad för det uppträdande.
+
+60
+00:06:16,348 --> 00:06:20,389
+Anordningarna var väl genomtänkta och monteringen gick snabbt och lättvindigt.
+
+61
+00:06:20,990 --> 00:06:24,971
+Så görs ballongerna klara och släpps upp för att ge en festlig upptakt till evenemanget.
+
+62
+00:06:25,851 --> 00:06:27,432
+Föreställningen kan börja.
+
+63
+00:06:27,992 --> 00:06:33,514
+Tydepunkten var en mycket uppskattad klädvisning som sågs ibland av ända upp till 5 000 personer.
+
+64
+00:06:34,295 --> 00:06:41,319
+De olika flaggen presenterades av Anne Kengel och visningen kommenterades av en confrancier som hade sin plats på bussens tak.
+
+65
+00:06:41,838 --> 00:06:51,223
+Confrancieren förklarade bland annat att vad biskreddaren var för oss alla i seklets ungdom är idag konfektionen för detaljisterna och vår generation.
+
+66
+00:06:51,264 --> 00:06:54,925
+På varje plats fick han talrika bevis för att tesen var riktig.
+
+67
+00:06:54,946 --> 00:06:56,447
+För intresse var det så det förslok.
+
+68
+00:06:57,478 --> 00:07:02,461
+Man vågar väl lugnt påstå att projektet redan från början accepterades av hela svenska folket.
+
+69
+00:07:02,701 --> 00:07:08,908
+Och undra på det med den stilfulla omväxtande kollektion till rimliga priser som passerade revy.
+
+70
+00:07:10,396 --> 00:07:19,060
+Intresset var nog lika stort både hos den manliga och kvinnliga publiken eftersom de manliga manikängerna var nästan lika mycket i elden som sina kvinnliga kollegor.
+
+71
+00:07:19,740 --> 00:07:23,701
+Det är naturligtvis omöjligt att exakt uppskatta hur många människor som sett uppvisningarna.
+
+72
+00:07:24,382 --> 00:07:29,345
+Men man räknar med att minst 125 000 personer varit närvarande vid premiärturnén.
+
+73
+00:07:30,413 --> 00:07:33,254
+Jag nog gjorde den halvtimmeslånga uppvisningen succé.
+
+74
+00:07:33,415 --> 00:07:40,398
+Det kände allt man i kängorna när det poserade på det tillgjort som kanske inte föreställer världen, men i varje fall en väsentlig del av den.
+
+75
+00:07:40,997 --> 00:07:48,601
+Svenska folkets klädintresse har utvecklats och svenskarna är numera ett välklätt folk, väl medvetna om priser och kvaliteter.
+
+76
+00:07:48,641 --> 00:07:55,064
+På ett enkelt och trevligt sätt har man nått kontakt med den publik man önskade träffa och tog också greppet direkt på publiken.
+
+77
+00:07:55,565 --> 00:07:58,166
+Ännu ett friskt initiativ hade kröns med framgång.
+
+78
+00:08:05,290 --> 00:08:13,612
+En av de mest natursköna platserna i Småland är väl utan tvekan Smålands Taberg som också är den högst belägna punkten i hela landskapet.
+
+79
+00:08:14,473 --> 00:08:22,755
+På senare år har bergets framtid stötts och blötts i kultur- och riksdagskretsar men lär nu vara säkrad åtminstone i vår generation.
+
+80
+00:08:22,815 --> 00:08:28,076
+Berget höjer sig högt över den omgivande skogen och kan ses på många mils avstånd.
+
+81
+00:08:28,857 --> 00:08:33,198
+Självaktligen har man en vid utsikt från dess topp bland annat över samhället Taberg.
+
+82
+00:08:34,183 --> 00:08:40,567
+I samhällets centrum skymtar man en idyllisk byggnad som betytt och betyder en hel del för invånarna.
+
+83
+00:08:41,868 --> 00:08:44,850
+Det är ju Nextra, en fabrik som ingår i koncernen.
+
+84
+00:08:45,649 --> 00:08:48,451
+I Tabergsfabriken sysselsätts ett 70-tal personer.
+
+85
+00:08:49,172 --> 00:08:59,236
+Från början hade man ingen servering för personalen men under senare år har inrätts en liten trivsam bar där företagets arkitekt återigen fått tillfälle att visa sitt mångsidiga kunnande.
+
+86
+00:09:01,465 --> 00:09:07,410
+Så kan maten förtäras i den trevliga och intima matsalen som inrätts i allmoges stil.
+
+87
+00:09:09,994 --> 00:09:15,299
+Och sedan står den småländska skogsluften till förfogande för en stunds avkoppling.

@@ -1,0 +1,367 @@
+1
+00:00:01,669 --> 00:00:05,392
+Vår gamle vän Oskar har rest i München på affärsresa och skriver följande kort hem.
+
+2
+00:00:06,073 --> 00:00:09,755
+Kära Agda, det är mycket vackert i München och jag har mycket att göra.
+
+3
+00:00:09,775 --> 00:00:11,656
+Sitter i sammanträden hela dagarna.
+
+4
+00:00:11,695 --> 00:00:12,717
+Annars mår jag bra.
+
+5
+00:00:12,776 --> 00:00:13,237
+Hur mår du?
+
+6
+00:00:13,317 --> 00:00:15,257
+Du undrar vad jag gör på kvällarna.
+
+7
+00:00:15,298 --> 00:00:16,559
+Jag arbetar då också.
+
+8
+00:00:16,579 --> 00:00:18,739
+Kära Agda har kolossalt mycket att göra.
+
+9
+00:00:18,780 --> 00:00:23,702
+Hoppas det framgår av bilden och framgår inte det så beror det på att jag skickat fel kort till dig.
+
+10
+00:00:23,722 --> 00:00:25,885
+Grabbarna på firman ska i så fall ha det här kortet.
+
+11
+00:00:26,745 --> 00:00:27,887
+De brukar alltid gå hit.
+
+12
+00:00:27,926 --> 00:00:30,289
+Jag har lovat att hälsa från dem till Friderike.
+
+13
+00:00:30,309 --> 00:00:31,751
+Det tar hon på ett ben.
+
+14
+00:00:31,791 --> 00:00:32,231
+Hej!
+
+15
+00:00:32,591 --> 00:00:34,234
+Nu ska jag på nytt sammanträde.
+
+16
+00:00:34,253 --> 00:00:36,036
+Friderike har lovat följa med.
+
+17
+00:00:36,076 --> 00:00:37,758
+Hjärtliga hälsningar, din Oskar.
+
+18
+00:01:02,576 --> 00:01:04,078
+Vintern kommer och går huller om buller.
+
+19
+00:01:04,138 --> 00:01:06,980
+Den gick lite slarvigt nere i Mölndalstrakten strax bredvid Göteborg.
+
+20
+00:01:07,001 --> 00:01:14,847
+När all snön smälte steg nämligen Mölndalstrakten 23 cm över den kritiska punkten, alltså 13,04 meter över havet och gatorna blev mer eller mindre oförbara.
+
+21
+00:01:15,308 --> 00:01:17,971
+Åtta fastigheter utan värme och spårväxttrafiken nedlagt.
+
+22
+00:01:18,411 --> 00:01:23,615
+Mölndal har sin gammalt dåligt rykte som översvämningsort och har därför som enda plats i Sverige så kallad vattenberedskap.
+
+23
+00:01:24,016 --> 00:01:29,040
+Landgångar av trä klarar gångtrafikanterna och roddbåtar plockas fram ur skyl på bakgårdar för att frakta omkring folk.
+
+24
+00:01:29,421 --> 00:01:33,506
+Oavsett detta drog snösmältningen med sig skador för hundratusentals kronor nere på västkusten.
+
+25
+00:01:34,606 --> 00:01:35,927
+Och barnen lekte gondoljärer.
+
+26
+00:01:36,287 --> 00:01:38,471
+Nu vet man alltså att Nordens Venedig ligger i Mölndal.
+
+27
+00:01:45,989 --> 00:01:47,471
+Det går fort att bygga hus nu för tiden.
+
+28
+00:01:47,570 --> 00:01:51,814
+På Storängsbotten i Stockholm reser för närvarande den största utställningshallen i norra Europa.
+
+29
+00:01:52,034 --> 00:01:54,055
+168 meter lång och 60 meter bred.
+
+30
+00:01:54,477 --> 00:01:54,996
+Hur det går till?
+
+31
+00:01:55,457 --> 00:02:01,501
+Platta fogas till platta och allt sammans vilar på en stoma av strängbetong där balkarna har en spännvidd av upp till 25 meter.
+
+32
+00:02:01,962 --> 00:02:03,164
+Det hela går lätt att demontera.
+
+33
+00:02:03,483 --> 00:02:04,704
+Hallen blir nämligen flyttbar.
+
+34
+00:02:05,045 --> 00:02:09,149
+I fem år räknar dock direktör Claesson i Sankt Eriksmässan med att hallen ska stå på sin nuvarande plats.
+
+35
+00:02:09,449 --> 00:02:14,612
+Och någon gång i mars slår vårens stora bilsalong upp sina portar där skickliga arbetare nu balanserar.
+
+36
+00:02:24,037 --> 00:02:31,282
+Nuets hobbyavdelning har skyndat ner till Lasnières i Frankrike där det finns en fotograf som lyckats bygga elektriska lok inte större än en tvåkrona.
+
+37
+00:02:31,824 --> 00:02:36,728
+Monsieur Damery har byggt en hel serie små lokomotiv som drivs med två- och fyrvoltsbatterier.
+
+38
+00:02:37,348 --> 00:02:39,610
+Motorn gör fyra till sju tusen varv i minuten.
+
+39
+00:02:40,495 --> 00:02:45,520
+Miniatyrmodellen arbetade på samma sätt som ett vanligt elektriskt lok och strömmen leddes genom skenorna.
+
+40
+00:02:46,060 --> 00:02:48,401
+En timme tar det för Monsieur Damery att bygga motorn.
+
+41
+00:02:48,763 --> 00:02:51,885
+Men konstruktionen av ett enda lok kräver mer än 100 arbetstimmar.
+
+42
+00:02:52,325 --> 00:02:54,268
+Så har ni en ledig stund så sätt igång.
+
+43
+00:03:13,300 --> 00:03:15,022
+Zoologisk sensation i Göteborg.
+
+44
+00:03:16,985 --> 00:03:22,633
+Från forskningsresanen Rolf Blomberg har Sjöfartsmuseet fått två boaormar, rara djur på en och en halv meter vardera.
+
+45
+00:03:23,014 --> 00:03:25,578
+Två fullvuxna ormar och en kexburk borde man kanske säga.
+
+46
+00:03:25,877 --> 00:03:27,741
+För det var kexburken som var det intressantaste.
+
+47
+00:03:29,712 --> 00:03:35,854
+I den valdes nämligen till professor Nubelins glada överraskning tretton stycken boormsöngar född under resan från Sydamerika.
+
+48
+00:03:36,414 --> 00:03:40,775
+Det hör till ovanligheten att en sån kurs är dagens ljus när mamman och pappan befinner sig på resande fot.
+
+49
+00:03:41,096 --> 00:03:45,537
+Men ska det hända så händer det och efter detta vet man att boormar inte drar sig för lite besvär.
+
+50
+00:03:46,537 --> 00:03:50,038
+Pappa boorm ser både frisk och stolt ut efter den lyckliga tilldragelsen.
+
+51
+00:03:54,217 --> 00:03:56,218
+Hjärtliga hälsningar från hela familjen.
+
+52
+00:04:08,890 --> 00:04:14,175
+Det var 12 grader kallt om näsan och god kommers för korvgubbarna när de olympiska vindarna svepte in i Vroksberg.
+
+53
+00:04:14,254 --> 00:04:16,615
+Det var tredje uttagningen för Cortina som stod på dagordningen.
+
+54
+00:04:16,916 --> 00:04:18,997
+Herrarna skulle slåss om placeringarna på tre milen.
+
+55
+00:04:21,379 --> 00:04:24,721
+Kring nummer 21, Sixten Jernberg, knöts intresset i allra högsta grad.
+
+56
+00:04:29,264 --> 00:04:35,769
+Dalmasen Samuelsson nummer 19 gick ut fint och gjorde en imponerande åkning men konkurrensen var svår idag, inte minst från masarna själva.
+
+57
+00:04:40,709 --> 00:04:45,713
+I spåren på Allan Andersson från Nidre kom 25-man Per-Erik Larsson och honom fanns det anledning att se upp med.
+
+58
+00:04:45,752 --> 00:04:48,314
+Sixten Jernberg tog de två första varven som en uppmjukning.
+
+59
+00:04:48,555 --> 00:04:56,959
+Sin stora offensiv skulle han sätta in på sista varvet.
+
+60
+00:04:57,000 --> 00:05:01,483
+Per-Erik Larsson hade tagit ledningen redan efter fem kilometer och bevakade den omsorgsfullt.
+
+61
+00:05:01,684 --> 00:05:03,425
+Nu ska Sixten Jernberg ut på sista varvet.
+
+62
+00:05:03,925 --> 00:05:06,146
+Gunnar Samuelsson från Lima går i mål som fjärde man.
+
+63
+00:05:07,668 --> 00:05:09,028
+Och Sixten Jernberg som trea.
+
+64
+00:05:10,091 --> 00:05:14,795
+Sixten till vänster fick tiden 1.40.41, 24 sekunder bättre än Samuelsson.
+
+65
+00:05:15,975 --> 00:05:19,139
+Morapojken Sune Larsson i mål som går tvåa på 1.40.13.
+
+66
+00:05:19,439 --> 00:05:21,380
+Moranisse gratulerade särskilt hjärtligt.
+
+67
+00:05:21,701 --> 00:05:29,387
+Men dagens segerherre blev Sune Larssons kusin Per-Erik Larsson som efter ett glansfullt lopp vann på 1.39.41 och så var de kortinabiljetterna klara.
+
+68
+00:05:32,822 --> 00:05:37,843
+Det är ju alldeles självklart att ska man åka skidor fort i olympiad eller inte ska man ställa sig bakom en motorcykel eller en bil.
+
+69
+00:05:37,882 --> 00:05:40,783
+Det är en djärv och hisnande sport som odlas i Zell am See i Tyskland.
+
+70
+00:05:46,464 --> 00:05:49,326
+Vill man öka spänningen och riskerna ytterligare ska man tolka efter bil.
+
+71
+00:05:49,346 --> 00:05:50,505
+Banan är trång och hal.
+
+72
+00:05:50,526 --> 00:05:53,086
+Den som tappar taget har inte särskilt stor utsikt att överleva.
+
+73
+00:05:53,687 --> 00:05:57,447
+Ja, det här är kanske ingenting för Per-Erik Larsson, lilldjärvens med 16 och allt vad de heter.
+
+74
+00:05:57,687 --> 00:06:00,809
+Men det är onekligen farter och djärvighet som kunde vara värda en liten medalj.
+
+75
+00:06:21,675 --> 00:06:24,958
+Så har det slutboksats i juniormästerskapen Eriksdalshallen i Stockholm.
+
+76
+00:06:24,978 --> 00:06:31,761
+Den lille 1-3-välteviktaren Kurt Hjelm från Värnamo, han har ett V på svarta byxbenet, körde hårt med sin vänsterkrop mot årstagrabben Göran Wahlberg.
+
+77
+00:06:32,362 --> 00:06:33,742
+Det blev både att ge och ta.
+
+78
+00:06:33,781 --> 00:06:36,624
+Hjelm chansade friskt, bombarderade oavbrutet sin motståndare.
+
+79
+00:06:36,663 --> 00:06:38,185
+Wahlberg hade allt svårare att gardera sig.
+
+80
+00:06:38,225 --> 00:06:41,607
+I andra ronden tappade Hjelm balansen och passade på att vila upp sig ett slag.
+
+81
+00:06:42,026 --> 00:06:43,468
+Wahlberg hittade inte till rätt hörna.
+
+82
+00:06:44,348 --> 00:06:49,870
+I sista ronden gav han upp och Hjelm kunde hämta sitt mästerskapstecken efter en hård men välboksad omgång.
+
+83
+00:06:53,447 --> 00:06:58,456
+I mellanvikt ställde Daniel Freiman i mörk skrud upp mot fallshamtsjägaren Gero Kryshansson från Hisingen.
+
+84
+00:06:58,495 --> 00:07:00,939
+Freiman är en skicklig yngling med en förträfflig vänsterkrok.
+
+85
+00:07:01,261 --> 00:07:04,105
+Kryshansson tål mycket stryk och en hel del blev det under kvällens lopp.
+
+86
+00:07:13,091 --> 00:07:17,497
+Det blev ett sorgkantat bud hem till Hisingen för Kirshansson och en välförtjänt seger för Daniel Freyman.
+
+87
+00:07:17,877 --> 00:07:24,605
+Finalen i tungvikt inleddes med en hektisk slagväxling som en annan yngling från Hisingen, Erling Nyberg i vita byxor, satte igång mot Sture Olsson.
+
+88
+00:07:25,007 --> 00:07:27,951
+Ja, det blev en vild sluggning så vild att domaren höll på att krampas ner.
+
+89
+00:07:36,576 --> 00:07:40,677
+Så småningom kom Olsson ur blåsvedret då Joe Louis från Hisingen åkte på ett par varningar.
+
+90
+00:07:43,800 --> 00:07:44,980
+Klar för sista ronden.
+
+91
+00:07:45,000 --> 00:07:47,701
+Sture Olsson går upp och pepprar sönder sin motståndare med krogslag.
+
+92
+00:07:55,165 --> 00:07:58,947
+Det gick raka vägen till mästerskapstitel och så var det roliga slut för den här gången.

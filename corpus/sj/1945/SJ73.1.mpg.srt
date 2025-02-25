@@ -1,0 +1,351 @@
+1
+00:00:09,127 --> 00:00:17,632
+Detta är SJ-film nummer 130 som ger en överblick av det mer än 30-åriga elektrifieringsarbetet vid stadsbanorna.
+
+2
+00:00:18,492 --> 00:00:20,833
+Visar arbetets gång och resultatet idag.
+
+3
+00:00:58,302 --> 00:01:01,304
+Vårt land är rikt på sjöar, forsar, älvar och strömmar.
+
+4
+00:01:01,743 --> 00:01:06,144
+Och i dessa väldigt naturliga vattenkrafttillgångar äger Sverige en nationalförmögenhet.
+
+5
+00:01:07,185 --> 00:01:12,325
+Redan i början på detta århundrade var den praktiska användningen av den elektriska kraften utexperimenterad.
+
+6
+00:01:12,906 --> 00:01:26,411
+Och man förstod vilka stora ekonomiska värden man skulle vinna om man kunde exploatera dessa rika krafttillgångar och göra sig mer eller mindre oberoende av det dyrbara utländska stenkålen som bränste till industrier och transportdrift.
+
+7
+00:01:26,471 --> 00:01:29,432
+Elektrisk kraft istället för ångdrift blev tidenslös.
+
+8
+00:01:30,572 --> 00:01:36,474
+Att järnvägarna har kunnat hävda sin ställning som vårt lands viktigaste transportmedel beror framförallt på elektrifieringen.
+
+9
+00:01:37,114 --> 00:01:41,495
+Den har medfört ökad transportkapacitet, förbättrad ekonomi och större driftsäkerhet.
+
+10
+00:01:42,903 --> 00:01:49,647
+Efter förberedande försök år 1905-1907 ansågs tiden mogen för ett mer omfattande elektrifieringsföretag.
+
+11
+00:01:50,388 --> 00:01:57,912
+Det förlades till den 129 kilometer långa linjen Kiruna-riksgränsen som av flera skäl befanns vara lämplig för ett försök i större skala.
+
+12
+00:01:58,713 --> 00:02:12,581
+Dels sammanhände det mer utnyttjande av de stora malmfinnheterna vid Kiruna och de gynnsamma utskäpningsmöjligheterna vid den närliggande isfria hamn i Narvik och dels kunde den tunga trafiken och det hårda klimatet sätta materielen på svåra och värdefulla prov.
+
+13
+00:02:13,759 --> 00:02:16,741
+Efter fem års arbete var elektrifieringen klar 1915.
+
+14
+00:02:17,902 --> 00:02:27,191
+Arbetet fortsattes till Gällivare mellan 1918 och 1920 och tre år senare var arbetet färdigt ända ner till Luleå, den andra av Malmbolagets stora exporthamnar.
+
+15
+00:02:28,991 --> 00:02:33,795
+Västra stambanans elektrifiering började 1923 och tre år senare var den fullbordad.
+
+16
+00:02:34,658 --> 00:02:43,943
+När det första elektrodrivna tåget från Göteborg rullade in på Stockholms central såg man bland det närvarande naturligtvis två av den svenska stadsbaneelektrifieringens förgrundsmän.
+
+17
+00:02:44,582 --> 00:02:48,024
+Generaldirektören Axel Granholm och byråchefen Ivan Överholm.
+
+18
+00:02:50,125 --> 00:02:53,806
+Efter 1926 blev det några års paus i elektrifieringsarbetet.
+
+19
+00:02:54,387 --> 00:02:57,968
+Men 1933 inviger sträckan Stockholm-Malmö-Trölleborg.
+
+20
+00:02:58,688 --> 00:03:01,610
+Dåvarande kommunikationsministern Henning Leo bevittnade evenemangen.
+
+21
+00:03:02,967 --> 00:03:05,968
+Och så utökades den byggnadsverksamhet som ännu pågår.
+
+22
+00:03:08,110 --> 00:03:12,794
+Elektrifieringsarbetet förutsätter en noggrann planering och omfattande mätningar och undersökningar.
+
+23
+00:03:13,634 --> 00:03:18,840
+Det gäller att driva ned de vanliga telegrapledningarna och fastställa läget för järnvägens egna svagströmsledningar.
+
+24
+00:03:19,680 --> 00:03:24,824
+Med hjälp av en grävmaskin upptas vid sidan av spåret ett kabeldike på ungefär 70 cm djup.
+
+25
+00:03:25,485 --> 00:03:29,388
+Grävmaskinen består av en på en specialvagn monterad tryckluftmanövrerad plog.
+
+26
+00:03:31,567 --> 00:03:35,908
+Kabeln med telefon- och telegrafledningarna löper ner i fåran genom en så kallad rensningsplog.
+
+27
+00:03:36,748 --> 00:03:41,811
+Den är försedd med ett i plogbilen inbyggd hjul och över det hjulet löper kabeln ner i fåran.
+
+28
+00:03:43,292 --> 00:03:48,674
+Med de tekniska resurser som nu står till förfogande lägger man i medelsvår terräng ut omkring två kilometer kabellängd.
+
+29
+00:03:49,774 --> 00:03:51,935
+Ibland har man kommit upp till över åtta kilometer per dag.
+
+30
+00:03:53,336 --> 00:03:56,396
+När kabeln är nedlagd börjar man med stolpsättningen.
+
+31
+00:03:56,417 --> 00:04:00,739
+Materielen dirigeras snabbt och säkert efter en uppgjord plan till de utsedda stolplägena.
+
+32
+00:04:01,743 --> 00:04:06,866
+Dessförinnan har kontaktledningstolparnas placering bestämts genom stakning och därmed också deras dimensioner.
+
+33
+00:04:07,546 --> 00:04:11,008
+Kurvorna kräver nämligen både flera och kraftigare stolpar än raksträckorna.
+
+34
+00:04:12,968 --> 00:04:20,052
+Stolparna och på deras förstärkning avstras strävor förses med fundament av betong som vanligen utförs på arbetsplatsen.
+
+35
+00:04:20,072 --> 00:04:25,555
+Fundamenten gjuts i form av olika standardmått och därefter resas stolparna med de kringgjutna fundamenten.
+
+36
+00:04:26,877 --> 00:04:33,680
+Stågfundamenteringen utförs av åtta manalag och dagsprestationen för ett sådant lag varierar naturligtvis allt efter markens beskaffenhet.
+
+37
+00:04:34,641 --> 00:04:39,303
+För en längre sträcka brukar medeltalet vara en 3-4 fundament per dag i normalt förekommande terräng.
+
+38
+00:04:39,843 --> 00:04:46,747
+Och då är att märka att arbetet, liksom i kabelläggningen, måste utföras under tågpauserna och inte få störa den ordinarie trafiken.
+
+39
+00:05:14,651 --> 00:05:20,677
+Genom elektrifieringen har många svenska fabriker och industrier sysselsatts med massproduktion av elektroteknisk materiel.
+
+40
+00:05:21,617 --> 00:05:24,339
+Nästan allt som behövs för ändamålet produceras inom landet.
+
+41
+00:05:25,444 --> 00:05:32,766
+Därigenom har också arbetstillfällen skapats i utmodentlig omfattning vilket många gånger i tider av arbetslöshet varit av synnerligen stor betydelse.
+
+42
+00:05:33,867 --> 00:05:41,250
+Enbart för kontaktledningen går det åt detaljer av hundratals olika slag för vilka svensk arbetskraft och svensk material kommer till användning.
+
+43
+00:05:42,831 --> 00:05:44,291
+Men för att återgå till arbetet på linjen.
+
+44
+00:05:45,031 --> 00:05:48,072
+När stolpsättaren gjort sitt kommer turen till montagearbetaren.
+
+45
+00:05:48,973 --> 00:05:55,156
+På särskilda arbetståg körs den tekniska materielen för montering ut på linjen och kastas av i varje stolpe.
+
+46
+00:05:56,007 --> 00:06:00,247
+Blåsningsarbetet blir på så sätt mycket rast undanstökat.
+
+47
+00:06:00,267 --> 00:06:03,528
+Det är isolatorer och rörkonstruktioner som ska bära upp kontaktledningen.
+
+48
+00:06:04,069 --> 00:06:08,050
+Det så kallade utliggarna sätts ihop på marken.
+
+49
+00:06:08,069 --> 00:06:12,031
+Det hissas sedan färdiga upp i stolparna och fastsättas och justeras i höjdled.
+
+50
+00:06:13,151 --> 00:06:17,632
+Varje man har sin särskilda uppgift och arbetet utförs snabbt och säkert av kunniga händer.
+
+51
+00:07:03,088 --> 00:07:08,012
+När man hunnit så långt att stolpar, utliggare och ledningsbryggor är färdiga börjar trådutdragningen.
+
+52
+00:07:09,074 --> 00:07:20,223
+Alla till kontaktledningssystemet hörande ledningar, profiltråd, bärlina och återgångsledning levereras uppspolade på stora trångor och trådutdragningen sker från speciellt inrättade montagetåg.
+
+53
+00:07:21,403 --> 00:07:24,045
+Samtidigt med kontaktledningen monteras en belysningsledning.
+
+54
+00:07:26,146 --> 00:07:32,232
+Sedan kontaktledningen avspänts, förankras, justerats och inkopplats är den nya linjen i stort sett färdig att tas i bruk.
+
+55
+00:08:08,069 --> 00:08:11,511
+Ständigt och jämt arbetar den stora kraftkällan i Forsar och Vattenta.
+
+56
+00:08:12,271 --> 00:08:16,874
+Kraftverken förvandlar naturenergin till elektrisk ström som i ledningar går ut över hela Sverige.
+
+57
+00:08:18,086 --> 00:08:27,651
+Genom kraftverkens tilloppstunnel störtar vattenmassorna fram mot turbinen som driver den elektriska generatorn vilken i sin tur altsar en elektrisk ström med en spänning av omkring 10 000 volt.
+
+58
+00:08:29,572 --> 00:08:34,294
+För att den elektriska energin lättare ska kunna överföras på längre sträckor måste spänningen emellertid höjas.
+
+59
+00:08:34,955 --> 00:08:39,778
+Ju längre ledningen är desto större blir motståndet och desto större måste tydligen också spänningen vara.
+
+60
+00:08:40,918 --> 00:08:46,562
+I kraftverkens transformatorer höjs därför spänningen till lämpligt värde ibland ända upp till över 130 000 volt.
+
+61
+00:08:48,179 --> 00:08:57,966
+Sen distribueras strömmen genom stamlinjerna till de anslutande omformarstationerna och där reduceras energin genom omformare och transformatorer ner till ungefär 16 000 volt.
+
+62
+00:08:59,826 --> 00:09:03,568
+Från omformarstationen fortsätter så strömmen genom kontaktledningen till elektrologet.
+
+63
+00:09:04,389 --> 00:09:13,595
+Det är energimängder från kraftstationen som kanske ligger på mycket stort avstånd som störtar ned genom kontaktbygglarna, utlöser sig i väldiga magnetiska krafter i motornas ankare.
+
+64
+00:09:14,844 --> 00:09:23,791
+Lokomotivet är försett med två drivmotorer som genom kuggväxter är kopplade till en gemensam mellanaxel och från denna överförs drivkraften genom koppelstänger till drivhjulen.
+
+65
+00:09:24,711 --> 00:09:35,159
+På så sätt slungar kraftverkens elektriska generatorer in i banornas ledningsnät oerhörda mängder energi och lokomotiven tar ut så mycket kraft det behöver för att driva sina motorer.
+
+66
+00:09:36,761 --> 00:09:41,946
+Tack vare vattenkraftens utnyttjande har årsbehovet av stenkål minskat med avsevärda mängder.
+
+67
+00:09:41,966 --> 00:09:44,347
+Farten har blivit högre och tågförbindelserna tätare.
+
+68
+00:09:45,221 --> 00:09:53,869
+Andra fördelar är jämnare behagligare gång, större driftsäkerhet, större renlighet, mindre smörjmedelsåtgång och besparingar i fråga om lok och personal.
+
+69
+00:09:55,549 --> 00:09:59,852
+Under 1941 började man skönja slutmålet för det väldiga 30-åriga arbetet.
+
+70
+00:10:00,453 --> 00:10:05,158
+Elektrifieringen av den över 2000 kilometer långa sträckan Tälleborg-Rikstjänsten.
+
+71
+00:10:06,077 --> 00:10:09,301
+I början av året var arbetena klara upp till Vännäs.
+
+72
+00:10:12,102 --> 00:10:12,743
+I slutet av 1941
+
+73
+00:10:13,720 --> 00:10:15,280
+hade elektriperingen nått Jörn.
+
+74
+00:10:16,880 --> 00:10:20,282
+Det var 1894 som Norra stambanan inbides av Oscar II.
+
+75
+00:10:20,841 --> 00:10:30,485
+Sedan dess har de ångdrivna tågen frustrat fram över vidsträckta ödemarker och genom mångmila skogar under ljusa norrländska sommarnätter och gnistrande kalla vinterdagar.
+
+76
+00:10:31,966 --> 00:10:41,688
+I Jörn avlöstes elektroloket av det gamla beprövade ångloket som fortsatte upp till Boden och så växlade ännu en tid upp i Västerbotten gammalt och nytt.
+
+77
+00:10:43,499 --> 00:10:47,942
+Kanske var ånglokmotivet för lekmannens ögon mera imponerande och dramatiskt verkningsfullt.
+
+78
+00:10:48,743 --> 00:10:55,028
+Med den långa ångpannan, med sina ångfrustande ventiler, skinande stänger, bollmande skorsten och tjutande ångbissla.
+
+79
+00:10:55,707 --> 00:11:05,315
+Men bakom elektrolokets enkla och nyktra fasad finns enorma kraftresurser som tillåter forcering av långa och branta stigningar på ett sätt som ångloket aldrig kunnat göra.
+
+80
+00:11:06,096 --> 00:11:10,259
+Där det förr behövdes två ånglok, där klarar nu ett ensamt elektrolok samma sak.
+
+81
+00:11:13,227 --> 00:11:20,208
+I februari 1942 är slutligen sträckan mellan Jörn och Boden, den sista etappen av norra stambanan, färdigelektrifierad.
+
+82
+00:11:20,730 --> 00:11:23,309
+Och därmed är Sveriges alla stambanor elektrifierade.
+
+83
+00:11:23,929 --> 00:11:29,671
+Det betyder att sammanlagt 85% av trafikkapaciteten på SAS-banorna har omdanats för elektrisk drift.
+
+84
+00:11:29,691 --> 00:11:34,932
+En resa till Lilleborg och Riksgränsen tog på ångdriftens tid närmare 52 timmar.
+
+85
+00:11:35,451 --> 00:11:38,253
+Tiden har i och med elektrifieringen nedbringats med en tredjedel.
+
+86
+00:11:39,628 --> 00:11:49,993
+Efter norra stambanans elektrifiering följer närmast arbetena på stadsbanelinjerna Ånge-Sundsvall, Gävle-Ockelbo, Helsingborg-Hessleholm och Eslöv-Ramlösa och andra planerats.
+
+87
+00:11:50,812 --> 00:11:56,975
+Men i Sveriges stadsbanors historia är norra stambanans fullbordad elektrifiering en anmärkningsvärd tilldragelse.
+
+88
+00:11:57,557 --> 00:12:01,798
+Ett betydelsefullt skede av vårt lands kommunikationsväsendet har nått sin avslutning.

@@ -1,0 +1,387 @@
+1
+00:00:03,835 --> 00:00:04,296
+Hej!
+
+2
+00:00:04,315 --> 00:00:11,481
+Var det du lärde gärna dina gamla visor?
+
+3
+00:00:11,541 --> 00:00:19,106
+Jag trodde du skulle göra nya visor på den här resan.
+
+4
+00:00:19,126 --> 00:00:19,928
+Ja, nu förstår jag.
+
+5
+00:00:19,948 --> 00:00:21,349
+Jag fick ett brev ifrån Ellinor.
+
+6
+00:00:21,368 --> 00:00:23,690
+Då blev jag ju sentimental.
+
+7
+00:00:23,710 --> 00:00:27,493
+Det var det jag beträffade, så jag har verkligen gjort en ny visa.
+
+8
+00:00:27,513 --> 00:00:29,335
+Ja, så vad heter den då?
+
+9
+00:00:29,375 --> 00:00:31,617
+Ja, det är en vårmadrigal som jag kallar för Pierina.
+
+10
+00:00:32,667 --> 00:00:37,295
+Jag får höra den förresten.
+
+11
+00:00:37,595 --> 00:00:39,158
+Ja, det hinner vi nog innan jag måste av på bryggan.
+
+12
+00:00:47,905 --> 00:00:54,710
+Låande bonarna Mandelträds blommorna Står som en sky över kullarna Tupparna gal bortom tullarna Vinbergen väntar oss
+
+13
+00:01:09,760 --> 00:01:11,364
+Där grönska rankorna över den röda jorden nu.
+
+14
+00:01:18,337 --> 00:01:20,817
+Men ner i dalen, där blommar du.
+
+15
+00:01:20,878 --> 00:01:22,418
+O Pierina, när gör du ditt val?
+
+16
+00:01:22,438 --> 00:01:23,659
+Snart är du nitton år.
+
+17
+00:01:23,718 --> 00:01:26,759
+Är du i dalen, min borna brigal?
+
+18
+00:01:26,778 --> 00:01:27,700
+Vill du bli min i år?
+
+19
+00:01:44,237 --> 00:01:45,578
+Svar ger dig hjärtat och svar ger dig handen.
+
+20
+00:01:45,597 --> 00:01:46,778
+Handen du kysst som jag lyfter vid din sång.
+
+21
+00:01:46,799 --> 00:01:47,478
+Svar ger dig blommorna.
+
+22
+00:02:08,265 --> 00:02:11,808
+Som jag bär i varven ja alla dina blommor små Som du gav mig när vi möttes då Som du gav mig när vi möttes då När du smög till mitt fönster på tå
+
+23
+00:02:34,479 --> 00:02:38,242
+Kom ner för kullarna, kom över spångarna, kom över bäcken och ängen dröm, kom nu när morgonen är så skön.
+
+24
+00:02:54,633 --> 00:02:56,514
+Kom, du som sjunger där.
+
+25
+00:02:56,534 --> 00:02:57,816
+Kom, du som har mig kär.
+
+26
+00:02:57,855 --> 00:02:59,176
+Kom under lönnarna, under linn.
+
+27
+00:02:59,217 --> 00:03:00,356
+Kom med den doftande vårens linn.
+
+28
+00:03:15,430 --> 00:03:17,010
+Kom till min sida, kom viska mitt namn, kom i min öppna fan.
+
+29
+00:03:17,070 --> 00:03:18,811
+Näktergal sjung vid ditt lugniga bo, för den ja du ger min tro.
+
+30
+00:03:42,014 --> 00:03:42,775
+Ja, den du tror.
+
+31
+00:03:43,014 --> 00:03:44,635
+Den kommer nog att gå till hjärta för många.
+
+32
+00:03:44,675 --> 00:03:44,975
+Tror du?
+
+33
+00:03:45,015 --> 00:03:45,216
+Ja.
+
+34
+00:03:45,256 --> 00:03:45,896
+Jag vet inte.
+
+35
+00:03:46,016 --> 00:03:47,758
+Då börjar jag med att skära in i min nya bok.
+
+36
+00:03:47,777 --> 00:03:48,739
+Jaså, vad heter den då?
+
+37
+00:03:48,778 --> 00:03:49,498
+Pang, Dryader och jag.
+
+38
+00:03:49,538 --> 00:03:51,140
+Om dagen vid sitt arvetsöva gör en husmor då.
+
+39
+00:03:51,221 --> 00:03:52,581
+Hon har så många sysslor och många steg att gå.
+
+40
+00:04:08,050 --> 00:04:09,812
+Och ändå får hon aldrig sitt hem just så som hon vill.
+
+41
+00:04:09,852 --> 00:04:11,234
+För klockan går och tiden den räcker inte till.
+
+42
+00:04:20,827 --> 00:04:22,788
+Ja, landringen i världen kan vara ganska svår.
+
+43
+00:04:22,809 --> 00:04:24,089
+Det gäller ju att välja som man det bästa får.
+
+44
+00:04:24,129 --> 00:04:25,810
+Men om vi också valde rätt så stod det vid oss ganska slätt.
+
+45
+00:04:25,850 --> 00:04:27,492
+Om vi ej fick det på vår som jorden ger var dår.
+
+46
+00:04:27,512 --> 00:04:28,391
+Ja, visst ger bröd ryggraden stöd.
+
+47
+00:04:28,432 --> 00:04:28,973
+Smörgåsen ätes med goda
+
+48
+00:04:52,512 --> 00:04:57,233
+Kraften som fås av denna gås Kan dock ge mammorna extra slit Vem gläds inte åt att se korkmattan blank Och frun som av arbetet blivit så slang Men om det gäller något jobb som är tyngre än så
+
+49
+00:05:20,817 --> 00:05:22,242
+Är det bra att vara två?
+
+50
+00:05:27,317 --> 00:05:28,519
+Sätt maskinen igång, fru kapten.
+
+51
+00:05:28,538 --> 00:05:29,420
+Sätt maskinen igång, fru kapten.
+
+52
+00:05:29,439 --> 00:05:30,180
+Sätt tvättmaskinen igång.
+
+53
+00:05:30,201 --> 00:05:31,641
+Vrid på ett knapp och lägg sorgen i en säck.
+
+54
+00:05:31,682 --> 00:05:32,963
+Inga bekymmer, din klädkojmera rymmer.
+
+55
+00:05:33,024 --> 00:05:34,305
+Farväl, farväl, all din smuts är på tväck.
+
+56
+00:05:34,324 --> 00:05:35,565
+Farväl, farväl, all din smuts är på tväck.
+
+57
+00:05:53,079 --> 00:05:54,360
+Man, dom, mor och morska män finns i gamla Sverige än.
+
+58
+00:05:54,380 --> 00:05:56,523
+Förr så gällde det att stå i damm och rök, nu så gäller det att stå i kök.
+
+59
+00:05:56,543 --> 00:05:59,064
+Oförskräckt novis lär sig viden spis, laga mat på tusen vis.
+
+60
+00:05:59,185 --> 00:06:02,427
+Först och främst får han dock veta att man bör sätta piff på allt med smör, smör, smör.
+
+61
+00:06:24,480 --> 00:06:29,100
+Husmoden, hon får ligga i med väldig energi och sällan är hon fri.
+
+62
+00:06:29,120 --> 00:06:32,221
+Flitig, det är hon som ett bi, hon sliter mera än de flesta.
+
+63
+00:06:32,240 --> 00:06:36,341
+Dels måste hon ju hålla rent, för det är rent gemänt, man kan förstå om det klänt.
+
+64
+00:06:36,382 --> 00:06:39,502
+Han skrepar ner på tidigt sent och frun får klara av det mesta.
+
+65
+00:06:39,543 --> 00:06:43,262
+Hon skurar faste och trappa, allt trasigt det får hon lappa.
+
+66
+00:06:43,302 --> 00:06:46,803
+Se om sin luft slittar kappa, när hushållspengarna är knappa.
+
+67
+00:06:46,863 --> 00:06:49,863
+I varje brå ska hon damma, hon ska stå färdig med samma.
+
+68
+00:06:49,884 --> 00:06:52,725
+Som någon ropar på mamma, hon ögonbobot bak och fram ha.
+
+69
+00:06:54,204 --> 00:06:58,127
+Husmoden under dagens lopp ska bara passa upp med kaffe och med dopp.
+
+70
+00:06:58,168 --> 00:07:01,350
+Och hon ska sköta ström på stopp och hushållet organisera.
+
+71
+00:07:01,670 --> 00:07:05,252
+Hon upp på brödet breder smör och kaffepannan hör hon puttra som se bör.
+
+72
+00:07:05,593 --> 00:07:08,495
+Och med ett morgonglatt humör ska husets herre hon servera.
+
+73
+00:07:08,654 --> 00:07:12,778
+När han sin skäggstubb ska raka och råka skära sin baka.
+
+74
+00:07:12,937 --> 00:07:16,560
+Då får hans lag vida maka i något utbrott förorsaka.
+
+75
+00:07:16,759 --> 00:07:20,122
+Hon hjälper knyta kravatten och sätter på honom hatten.
+
+76
+00:07:20,283 --> 00:07:23,444
+Och när han går säger matten ett en farväl till hjärteskatten.
+
+77
+00:07:24,605 --> 00:07:46,201
+Husmor, hon har ett chaufför två Hon stilla är förstå, nu hon får känna på Benen som lärfingar ska gå Och sällan får hon sitta Vedra ska varje garderob Och trev i åttoråb som hyser en mikrov Medan hon lyser tv-tåb Som rosar upp på balhörsdrilla Jag sov väl bitti som sena Får husmå vara på bena Och som en skottspolerskena Som barnen hela är och rena
+
+78
+00:07:47,281 --> 00:07:50,863
+Hon lagar läckrar på klätter och dukar fram på arketter.
+
+79
+00:07:50,903 --> 00:07:54,666
+En massa olika rätter som husens fader värdesätter.
+
+80
+00:07:54,947 --> 00:07:58,709
+Husfaden billar i blotta sill och strömming om akryl när jag också kall vid dill.
+
+81
+00:07:58,728 --> 00:08:02,050
+Hur man får kopan räcka till det många gånger är en gåta.
+
+82
+00:08:02,071 --> 00:08:06,233
+Det ska vara grädde, mjölk och smör och stek som i mör och ut i allt man gör.
+
+83
+00:08:06,434 --> 00:08:09,716
+Måste man visa gott humör och aldrig gå omkring och bråta.
+
+84
+00:08:10,055 --> 00:08:15,098
+Hon måste plättarna grädda och rensa lake och jädda och alla sängarna bädda.
+
+85
+00:08:15,538 --> 00:08:16,980
+Och hålla ungarna välklädda.
+
+86
+00:08:17,519 --> 00:08:19,180
+Hon ingen vila får njuta.
+
+87
+00:08:19,201 --> 00:08:21,021
+När till affären får hon kuta.
+
+88
+00:08:21,060 --> 00:08:22,562
+Och för sin knappa valuta.
+
+89
+00:08:22,841 --> 00:08:25,163
+Med alla diskar stå och pruta.
+
+90
+00:08:25,182 --> 00:08:26,884
+På hemmens forskningsinstitut.
+
+91
+00:08:26,903 --> 00:08:29,024
+Där har man räknat ut att husmor absolut.
+
+92
+00:08:29,045 --> 00:08:32,046
+Får innan dagen nått sitt slut med 140 saker i äkta.
+
+93
+00:08:32,566 --> 00:08:34,326
+Får hon en ledig stund ibland.
+
+94
+00:08:34,346 --> 00:08:36,067
+Då ska hon taga handels om sin äkta man.
+
+95
+00:08:36,087 --> 00:08:38,229
+Dels om det barnungar som han vill se korrekta och perfekta.
+
+96
+00:08:38,249 --> 00:08:39,469
+Hon lappar barnens flaneller.
+
+97
+00:08:41,870 --> 00:08:54,006
+Och lagar kall flickadeller Lägger på burk kantareller Och saftar inne på beteller På kväll när husfagern slagen Och så ses narkofagen Då ligger husmoden tagen Planerande för morgondagen

@@ -1,0 +1,535 @@
+1
+00:00:27,597 --> 00:00:31,858
+Sileriet är den avdelning där massan befrias från fasta föroreningar.
+
+2
+00:00:32,359 --> 00:00:39,860
+Hit hör kvist, otillräckligt kokade träflis och bark samt andra föroreningar av olika slag såsom järnskrot och dyligt.
+
+3
+00:00:41,061 --> 00:00:44,783
+På denna schematiska täckning ser vi massans väg genom sileriet.
+
+4
+00:00:45,302 --> 00:00:51,365
+Från tvätteribingen passerar den en skrotfälla och pumpas upp till en nivålåda.
+
+5
+00:00:54,737 --> 00:00:59,621
+Här är inkopplad en koncentrationsregulator som ger massan en bestämd och jämn koncentration.
+
+6
+00:01:01,281 --> 00:01:03,262
+Massan går vidare genom försorterare.
+
+7
+00:01:03,643 --> 00:01:05,084
+Kvisten återkommer vi till senare.
+
+8
+00:01:06,164 --> 00:01:07,325
+Silas i finsilar.
+
+9
+00:01:07,665 --> 00:01:09,626
+Vi återkommer senare till översinningsmassan.
+
+10
+00:01:13,188 --> 00:01:14,888
+Och avvattnas på urvattnare.
+
+11
+00:01:15,700 --> 00:01:20,522
+Den del av massan som ska blekas pumpas direkt från urvattnarna till blekeriet.
+
+12
+00:01:20,942 --> 00:01:27,686
+Den massa som inte ska blekas avvattnas ytterligare på ett massafilter och går sedan igenom ett antal kollgångar.
+
+13
+00:01:30,346 --> 00:01:32,227
+Vi omsätter detta schema i verklighetsbilder.
+
+14
+00:01:33,368 --> 00:01:37,671
+I förgrunden ser vi skrotfällan där all sten och skrot av större storlek uppsamlas.
+
+15
+00:01:40,432 --> 00:01:44,293
+Bakom skrotfällan syns pumpen som pumpar massan upp till sileriet.
+
+16
+00:01:48,111 --> 00:01:51,534
+Massaledningen från pumpen mynnar ut i denna nivålåda.
+
+17
+00:01:57,156 --> 00:02:03,819
+Det är av vikt att nivålådan alltid är full för att en jämn och bestämd tillförsel av massa ska äga rum till sileriet.
+
+18
+00:02:06,441 --> 00:02:15,425
+En annan viktig detalj för att erhålla denna jämna och bestämda tillförsel av massa till silarna är att den koncentrationsregleras innan den lämnar nivålådan.
+
+19
+00:02:16,823 --> 00:02:22,585
+Här används för koncentrationsregleringen en cellregulator genom vilken en delström av massablandningen får passera.
+
+20
+00:02:29,967 --> 00:02:36,330
+Regulatorn består av indikator, omställare samt regleringsorgan.
+
+21
+00:02:38,010 --> 00:02:45,674
+I indikatorlådans flott höravdelning framrinner massa av lägre koncentration lättare, hastigare, varvid nivån blir låg.
+
+22
+00:02:46,752 --> 00:02:51,713
+Massa av högre koncentration drinner trögare, långsammare, varvid nivån blir hög.
+
+23
+00:02:51,753 --> 00:03:09,459
+Klottörens rörelser överföras till omställarens styrskena som tillåter det ena eller andra spärret att under sin fram- och återgående rörelse gripa in i fiktionshjulet och vrida detta åt ena eller andra hållet så att den av omställaren påverkade vattenmetilen öppnas eller strypes.
+
+24
+00:03:13,290 --> 00:03:18,852
+Från nivålådan går den koncentrationssäglade massan ner i en fördelningsränna och därefter ut på försorterarna.
+
+25
+00:03:22,992 --> 00:03:34,835
+Som försorterare användes här Jönsson-vibrationssilar typ R. Denna typ av Jönsson-silar med perforerad botten är särskilt lämplig som försorterare eller kvistfångare som de också kallas.
+
+26
+00:03:39,155 --> 00:03:41,955
+Silen består av ett siltråg med perforerad botten.
+
+27
+00:03:45,728 --> 00:03:51,051
+Kråget är elastiskt upphängt och hålls i en intensiv men välkontrollerad vibration.
+
+28
+00:03:56,855 --> 00:03:58,837
+Massan ledes in i silens ena ände.
+
+29
+00:03:59,277 --> 00:04:05,562
+Fibrerna passerar genom hålen medan kviss och andra större föroreningar snabbt bortföras till andra änden av silen.
+
+30
+00:04:08,955 --> 00:04:16,560
+Här avskiljas resterande fullgoda fibrer från föroreningarna genom sköljning med vattenspritsar och kvisten vandrar vidare över till kvistrännan.
+
+31
+00:04:18,262 --> 00:04:22,144
+En väl avvägd vattenmängd på silens vattenspritsar är av stor betydelse.
+
+32
+00:04:22,586 --> 00:04:25,427
+För lite vatten, prima massa medföljer kvisten.
+
+33
+00:04:25,867 --> 00:04:33,273
+För mycket vatten, kvisten kvarhålls för länge i försorteraren med risk för att den slås sönder och delar av den medföljer den prima massan.
+
+34
+00:04:35,019 --> 00:04:40,524
+Massan är nu befriad från större föroreningar men innehåller en hel del sådana av mindre storleksordning.
+
+35
+00:04:40,725 --> 00:04:43,687
+Den ska därför finsilas vilket här sker på biffarsilar.
+
+36
+00:04:45,528 --> 00:04:49,391
+Biffarsilen hör till den grupp finsilar som kallas roterande silar.
+
+37
+00:04:49,752 --> 00:04:54,555
+Den består av två djupna gavelstativ vilka bär upp lagren för en genomgående axel.
+
+38
+00:04:59,879 --> 00:05:03,682
+På denna axel är monterad en slungtrumma med längsgående slunglistor.
+
+39
+00:05:08,584 --> 00:05:15,807
+Här intages vatten som går in i slungtrumman och kastas ut genom det spritsvattenhål som finns utefter slunglistorna.
+
+40
+00:05:16,747 --> 00:05:19,829
+Runt slungtrumman är de perforerade silplåtarna monterade.
+
+41
+00:05:20,910 --> 00:05:25,151
+De är halvcirkelformiga och i silens längdriktning uppdelade i tre sektioner.
+
+42
+00:05:25,732 --> 00:05:32,535
+Silplåtarnas håldiameter är störst närmast massaintaget, exempelvis 2 mm, sedan 1,5 och 1 mm.
+
+43
+00:05:33,615 --> 00:05:37,858
+I silens sista sektion påsprissas ytterligare vatten genom denna ringsprits.
+
+44
+00:05:39,192 --> 00:05:40,333
+Detta vatten intas här.
+
+45
+00:05:48,637 --> 00:05:50,598
+Uterst är täckplåtarna monterade.
+
+46
+00:05:51,139 --> 00:05:55,281
+I dessa finns öppning nedtill för uttagning av den silade massan.
+
+47
+00:05:59,084 --> 00:06:00,685
+Silens arbetssätt är följande.
+
+48
+00:06:01,444 --> 00:06:07,348
+Från en nivå som är lika med silens toppunkt rinner massan in i den snäckformigt utformade gaveln.
+
+49
+00:06:11,055 --> 00:06:25,307
+Den går in mellan slungtrumman och silplåtarna och genom slungtrummans rotation tvingas den prima massafibern igenom de små hålen i silplåtarna och styres av silens ytterplåtare ner mot botten där den rinner ut i en uppsamlingsränna.
+
+50
+00:06:27,148 --> 00:06:36,435
+Små stickor som kallas spet, bark och diverse andra föroreningar föras i silens längdriktning över till silens andra ände och kastas av slunglistorna ut genom en öppning.
+
+51
+00:06:37,033 --> 00:06:41,576
+Deras skrep plus en del primamassa som medföljer kallas översilningsmassa.
+
+52
+00:06:44,800 --> 00:06:49,624
+För att nå ett gott silningsresultat med en bifarsil måste rätt mycket översilningsmassa uttas.
+
+53
+00:06:53,305 --> 00:06:56,788
+Reglering av mängden sker med ringspritsen som sitter på silgaveln.
+
+54
+00:07:00,713 --> 00:07:09,201
+Går mycket vatten genom denna utspädes massan på sin väg ur silen och går lättare ut genom de små hålen i silens sista sektion.
+
+55
+00:07:09,221 --> 00:07:15,386
+Mer massa hinner gå genom silplåtarna och översilningsmassamängden blir mindre.
+
+56
+00:07:17,548 --> 00:07:21,850
+Det inverkar på silningsresultatet på så sätt att den silade massan blir orenare.
+
+57
+00:07:25,473 --> 00:07:30,317
+Förhållandet blir det motsatta om vattnet minskas på ringspritsen, mer översilningsmassa
+
+58
+00:07:32,670 --> 00:07:34,851
+Mindre föroreningar i den silade massan.
+
+59
+00:07:35,271 --> 00:07:40,132
+Det gäller att hålla en lämpligt vald översillningsmängd, 4-5 procent brukar vara vanligt.
+
+60
+00:07:41,814 --> 00:07:45,194
+Denna reglering av mängden översillningsmassa kan lätt ordnas automatiskt.
+
+61
+00:07:45,694 --> 00:07:47,975
+I detta fall är en nivåregulator inkopplad.
+
+62
+00:07:48,675 --> 00:07:58,218
+Regulatorns impulsrör är nedsänkt i rännan för översillningsmassan och regulatorn ökar och minskar vattenmängden på ringspritsen efter impulser från impulsröret.
+
+63
+00:08:04,744 --> 00:08:10,987
+En annan detalj av stor vikt för ett gott silningsresultat är att bifärssilen är fullt belastad.
+
+64
+00:08:11,007 --> 00:08:15,269
+Om flera silar användes ska massan dessutom vara jämnt fördelade till varje sil.
+
+65
+00:08:16,189 --> 00:08:20,612
+Ett uttryck för en sils belastning är det antal ampere som silmotorn förbrukar.
+
+66
+00:08:21,112 --> 00:08:24,494
+Detta värde kan alltså användas för kontroll av en sils belastning.
+
+67
+00:08:27,415 --> 00:08:34,538
+En av silarens arbetsuppgifter är att kontrollera att den silade massan som lämnar finsilarna har den önskade renheten.
+
+68
+00:08:36,177 --> 00:08:48,326
+En liten delström av denna massa rinner här kontinuerligt över en upplyst glasskiva och i den stunds betraktande av den genomlysta massaströmmen upptäcks lätt eventuella brister i renheten.
+
+69
+00:08:50,106 --> 00:08:53,448
+I denna kontroll var massan bemängd av småspet.
+
+70
+00:08:53,869 --> 00:08:57,672
+Orsaken brukar i de flesta fall vara att översinningsmängden är för liten.
+
+71
+00:08:59,832 --> 00:09:04,576
+Silaren får då höja impulsorganet till den regulator som bestämmer översinningsmängden
+
+72
+00:09:04,940 --> 00:09:06,120
+På så sätt ökar mängden.
+
+73
+00:09:09,520 --> 00:09:12,322
+Vid ett annat tillfälle är massan förorenad av större spet.
+
+74
+00:09:12,761 --> 00:09:20,125
+Orsaken kan vara att det gått hål på en silplåt eller har silplåtarnas tätningsband kommit ur sitt rätta läge.
+
+75
+00:09:25,206 --> 00:09:27,826
+Det gäller nu att ta reda på vilken av silarna som är felaktig.
+
+76
+00:09:35,168 --> 00:09:38,190
+Nu hade Nilsson tur, han upptäckte feriet omedelbart.
+
+77
+00:09:39,250 --> 00:09:41,311
+Silen stoppas och reparatörerna tillkallas.
+
+78
+00:09:44,852 --> 00:09:49,414
+Ett stort hål har uppstått i en silplåt, varför den måste utbytas mot en hel plåt.
+
+79
+00:09:53,256 --> 00:09:58,620
+Vid ett annat tillfälle har tätningsbandet förskjutits ur sitt rätta läge, varför det får läggas till rätta.
+
+80
+00:10:02,062 --> 00:10:13,010
+Förutom biffarsilen som vi här visat finns även andra typer av finsilar, exempelvis plansilen, alforssilen samt vibrationssilar.
+
+81
+00:10:14,552 --> 00:10:19,355
+En typ av vibrationssilar är lindbladssilen vars verkningssätt är följande.
+
+82
+00:10:19,395 --> 00:10:25,301
+Massan inledes i tråget och silas genom den slitsade plåten på trummans utsida.
+
+83
+00:10:25,321 --> 00:10:30,605
+De frånsilade föroreningarna medföljer silplåten och avspritsas här med spritsröret
+
+84
+00:10:31,109 --> 00:10:33,529
+Spritsröret tjänar även till att rensa silplåten.
+
+85
+00:10:34,931 --> 00:10:39,974
+Spritsvattnet med föroreningar uppfångas och bortledes av samlingsrännan ovanför trumman.
+
+86
+00:10:40,874 --> 00:10:43,895
+Föroreningar kan även avledas över ett breddavlopp på tråget.
+
+87
+00:10:45,236 --> 00:10:51,720
+En roterande obalans försätter siltrumman i exentriska diversioner vinkelrätt mot trummans längdaxel.
+
+88
+00:10:57,239 --> 00:10:59,759
+Efter silningen är massan utspädd med mycket vatten.
+
+89
+00:11:00,220 --> 00:11:03,700
+Blandningen håller bara 5-6 kg massa per kubikmeter.
+
+90
+00:11:04,019 --> 00:11:06,681
+Den ska därför förtjockas, vilket sker på urvattnare.
+
+91
+00:11:10,360 --> 00:11:15,221
+Massans förtjockning regleras med ett spjäll som sitter i avloppsledningen från urvattnaren.
+
+92
+00:11:16,522 --> 00:11:19,363
+En urvattnare kan vara orsak till stora fiberförluster.
+
+93
+00:11:19,883 --> 00:11:25,964
+Därför ska man kontrollera det vatten som lämnar urvattnaren med jämna mellanrum för att konstatera om det innehåller fiber.
+
+94
+00:11:26,658 --> 00:11:32,743
+Ett enkelt sätt att prova detta är att fylla en mensur med urvattnarvatten och låta mensuren stå en stund.
+
+95
+00:11:34,203 --> 00:11:36,504
+Här ser vi ett prov som är tillfredsställande.
+
+96
+00:11:39,147 --> 00:11:40,989
+Och ett annat som är mindre tillfredsställande.
+
+97
+00:11:41,668 --> 00:11:46,993
+Visar provet så mycket fiber bör åtgärder omedelbart vidtas för att få felet avhjälpt.
+
+98
+00:11:49,587 --> 00:11:57,373
+Förutom direkta hål som kan uppstå på urvattnarens silduk brukar felet ofta vara att tätningsbanden inte sluter ordentligt tätt.
+
+99
+00:11:57,812 --> 00:11:59,614
+Då gäller det att dra åt dessa bättre.
+
+100
+00:12:03,076 --> 00:12:07,219
+Från urvattnarna pumpas massan upp på filter där ytterligare vatten borttas.
+
+101
+00:12:12,902 --> 00:12:18,605
+Efter detta filter har massan en torrhalt av cirka 15% som är lämplig för nästa process.
+
+102
+00:12:21,174 --> 00:12:27,056
+Ett annat sätt att avvattna massan är att låta den gå direkt från silarna till ett speciellt massafilter.
+
+103
+00:12:27,456 --> 00:12:31,996
+Av dessa finns olika typer såsom lindblad, kamyr, hedemora med flera.
+
+104
+00:12:35,998 --> 00:12:37,557
+Det här är ett lindbladsfilter.
+
+105
+00:12:38,177 --> 00:12:44,318
+För att massan ska få den önskade torrhalten av 15% måste filtret kompletteras med en avtagningspress.
+
+106
+00:12:46,759 --> 00:12:49,240
+En tvärsektion av filtret visar oss dess verkningssätt.
+
+107
+00:12:49,921 --> 00:12:58,945
+Vid trummans nedgående sida fylls celler och suvkanaler med vätska på grund av den tryckskillnadsområde mellan massablandningen och vätskan inuti trumman.
+
+108
+00:13:01,826 --> 00:13:07,948
+Vid den uppåtgående sidan ökas tryckskillnaden efterhand genom den vätska som är innesluten i suvkanalerna.
+
+109
+00:13:12,150 --> 00:13:19,333
+Vätskan i celler och suvkanaler töms så snart suvkanalernas mynningar kommer ovanför vätskenivån inuti trumman.
+
+110
+00:13:24,451 --> 00:13:26,291
+Vi återgår till filtret i sileriet.
+
+111
+00:13:26,871 --> 00:13:31,371
+Med dess skruvtransportörer går nu den avvattnade massan ned på kollergångar.
+
+112
+00:13:33,293 --> 00:13:38,214
+En kollergång består av ett stenpar som rullar och gnider mot en fast sten.
+
+113
+00:13:38,573 --> 00:13:48,275
+Massan går från stenpar till stenpar och på detta sätt krossas de eventuella fiberbuntar som finns kvar i massan och fibern får överhuvudtaget en smidigare karaktär.
+
+114
+00:13:53,792 --> 00:13:59,177
+Efter passerandet av det sista stenparet speds massan med vatten och pumpas till pappsalen.
+
+115
+00:14:06,624 --> 00:14:13,870
+Vi har nu följt massans väg genom sileri och kollergångar och återgår till vårt silningsschema för att följa kvistens behandling.
+
+116
+00:14:14,850 --> 00:14:19,195
+Vi kommer ihåg att kvisten avskildes i försorterarna och hamnade i kvistrännan.
+
+117
+00:14:21,172 --> 00:14:25,692
+Den går vidare till en kvistavvattnare och sen ut på kollergångar för kvist.
+
+118
+00:14:28,073 --> 00:14:29,533
+Silas på en kvistsil.
+
+119
+00:14:30,053 --> 00:14:34,215
+Den grova fraktionen, översinningsmassan, går tillbaka till kvistavvattnaren.
+
+120
+00:14:39,515 --> 00:14:43,596
+Från silen går kvistmassan via en urvattnare till kvistmassebingen.
+
+121
+00:14:44,697 --> 00:14:50,759
+Omsätter vi nu detta schema i verklighetsbilder så ser vi hur kvisten lämnar förshoteren och ramlar ned i kvistrännan.
+
+122
+00:14:56,504 --> 00:15:02,288
+I rännan är nedsänkt en korg, en skrotfäll av mindre format och vi ska se efter vad den samlar upp.
+
+123
+00:15:13,332 --> 00:15:20,096
+Av detta skrot kan det inte bli någon kvistmassa och blev det inte uppfångat här skulle det bara förstöra maskiner och apparater.
+
+124
+00:15:23,547 --> 00:15:29,210
+Kvisten rinner vidare ned på en kvistavvattnare och därifrån ner på speciella kvistkallergångar.
+
+125
+00:15:30,530 --> 00:15:35,553
+Efter kallringen silas och urvattnas kvistmassan och är sedan färdig att köras fram på torkmaskin.
+
+126
+00:15:42,498 --> 00:15:48,701
+Vi erinnar oss att man från biffarsilen erhåller renare massa och man tar ut rätt mycket översinningsmassa.
+
+127
+00:15:49,451 --> 00:15:53,452
+Den prima massan som ingår i översiljningsmassan måste givetvis tillvaratas.
+
+128
+00:15:53,913 --> 00:16:00,654
+Och det tillgår så att översiljningsmassan från samtliga finsilar samlas och silas på en särskild sil.
+
+129
+00:16:02,895 --> 00:16:04,956
+Översiljningen från denna sil går till kvisten.
+
+130
+00:16:06,597 --> 00:16:12,879
+Medan den silade massan passerar en vårtrappsanläggning där tyngre föroreningar som grus och dyligt borttas.
+
+131
+00:16:13,860 --> 00:16:15,301
+Den avvattnas sedan på ett filter.
+
+132
+00:16:17,812 --> 00:16:22,274
+kollras och pumpar slutligen tillbaka till en av massabingarna i tvätteriet.
+
+133
+00:16:27,716 --> 00:16:30,398
+Massans silning och kollring är så avslutade.
+
+134
+00:16:30,918 --> 00:16:38,341
+Här, liksom överallt i fabriken, har yrkesskycklighet och noggrannhet en avgörande inverkan på det slutliga resultatet.

@@ -1,0 +1,311 @@
+1
+00:00:01,750 --> 00:00:10,253
+Varvid springan öppnar sig och ger objektivet en fri utsikt på månen som står exakt framför objektivet.
+
+2
+00:00:17,437 --> 00:00:23,580
+Men stjärnhimlen skenbara dagliga rörelse för månen så snabbt genom bildfältet att den snart åter är borta.
+
+3
+00:00:26,481 --> 00:00:28,103
+Men även för detta har tekniken sörj.
+
+4
+00:00:28,812 --> 00:00:37,000
+Ännu en gång trycker man på en knapp och åter sätter sig en elektrisk motor i rörelse och drar ett urverk så att kikaren ständigt följer molnen.
+
+5
+00:00:37,740 --> 00:00:45,228
+I lugn och ro kan vi nu betrakta molnen som om vi inte vore som i verkligheten 400 000 utan bara 4000 km borta från den.
+
+6
+00:00:45,869 --> 00:00:48,593
+Men vi ser för lite, vad har vi då för nytta av en jättekikare?
+
+7
+00:00:49,179 --> 00:00:58,262
+Med några handgrepp åstadkommer vi en förstoring på 1500 gånger och kommer nu månen så nära att avståndet bara är 270 kilometer.
+
+8
+00:00:58,722 --> 00:01:03,383
+Det vill säga ungefär lika långt som fågelvägen mellan Stockholm och Jönköping.
+
+9
+00:01:04,063 --> 00:01:04,882
+Men vad är det här?
+
+10
+00:01:05,403 --> 00:01:10,144
+Bilden är ju fullkomligt oskarp, suddig och flimrar så starkt att man knappast kan urskilja någonting.
+
+11
+00:01:10,965 --> 00:01:16,807
+Skulle då i alla fall vår med alla tekniska finesser byggda jättekikare vara mycket ofullkomlig?
+
+12
+00:01:17,367 --> 00:01:17,587
+Nej.
+
+13
+00:01:18,367 --> 00:01:23,391
+Men vi stöter på en av de gränser som den mäktiga naturen har satt för oss och vår teknik.
+
+14
+00:01:24,111 --> 00:01:25,492
+Det är luften.
+
+15
+00:01:26,772 --> 00:01:34,135
+Lufthöljet som omger vår jord är inte bara ett väldigt hinder för bilar och flygmaskiner utan också för ljusstrålen som den delvis absorberar.
+
+16
+00:01:34,996 --> 00:01:46,783
+Vind och ojämn uppvärmning sätter lufthöljet som för oss är en nödvändig livsbetingelse i långvarig dallring och rörelse och bildar slöjor som kastar ljusstrålarna liksom en lekboll hit och dit.
+
+17
+00:01:48,359 --> 00:01:58,489
+Ögat ser detta på sommardagar som luftflimmer och om nätterna som stjärnornas blinkningar.
+
+18
+00:01:59,588 --> 00:02:09,937
+Tack vare den oerhörda kikarförstoringen framträder detta flimmer så starkt att det egentliga föremålet för iakttagelsen som ligger långt, långt bakom flimmret knappast mer kan iakttagas.
+
+19
+00:02:11,979 --> 00:02:17,063
+Mot detta lika naturliga som oundvikliga förhållande hjälper inte ens den mest raffinerade kikarteknik.
+
+20
+00:02:17,551 --> 00:02:35,445
+utan endast människans hjärnvilja, hennes oändliga intresse, hennes tålmodiga väntan på det sällsynta ögonblick av absolut stillhet i luften och hennes minutiösa utnyttjande av dessa dyrbara stunder, till och med när det uppträda på olämpliga tider och under det bistert kalla vinternätterna.
+
+21
+00:02:36,192 --> 00:02:54,317
+Månen avslöjar sig för oss i kikaren som en väldig livlös öken bildad av väldiga slätter och bergskedjor kluvna av djupa skåror och översållade med många ringformiga vallar av vilka det största är omkring 100 kilometer och det minsta endast några hundra meter stora.
+
+22
+00:03:06,716 --> 00:03:12,819
+Riktar vi vår himlastege på en av de ljusstarkaste fixstjärnorna så ser vi knappast mer än en strålande klar ljuspunkt.
+
+23
+00:03:13,741 --> 00:03:19,944
+För vårt öga synes alltså himlastegen snart vara vid den gräns som vår teknik inte mer kan överstiga.
+
+24
+00:03:22,225 --> 00:03:25,248
+Med ögat får vi inte på långt när lära känna världen.
+
+25
+00:03:25,729 --> 00:03:29,311
+Vi vill emellertid också mäta stjärnevärlden med vår himlastege.
+
+26
+00:03:29,711 --> 00:03:30,372
+Och det kan vi.
+
+27
+00:03:31,700 --> 00:03:41,383
+För detta ändamål är en oerhört noggrant arbetande mätapparat tillbyggd, en mikrometer som hjälper oss att mäta fixstjärnornas inbördes avstånd.
+
+28
+00:03:45,104 --> 00:03:51,145
+Vi vill också lära känna stjärnornas beskaffenhet, liksom en kemisk i sitt laboratorium analyserar ett ämne.
+
+29
+00:03:52,365 --> 00:03:54,966
+Därtill hjälper oss spektralapparaten.
+
+30
+00:04:01,223 --> 00:04:09,617
+Med hjälp av ett system av glasprismor delar den öppen stjärnas ljus i ett band bildat av alla regnbågens färger, det så kallade spektrum.
+
+31
+00:04:10,057 --> 00:04:15,127
+Detta spektrum genomdraget av en mängd ljusare och mörkare linjer visar stjärnans egenskaper.
+
+32
+00:04:15,711 --> 00:04:31,360
+Av dessa linjer kan astrofysiken inte bara utläsa om man har att göra med en avkyld himlakropp eller med en glödande gaspoll, utan också vilka grundämnen denna himlakropp är sammansatt, vilken temperatur, vilken hastighet, ja, i vissa fall till och med vilken ålder den har.
+
+33
+00:04:32,081 --> 00:04:37,423
+Men mikrometer och mikroskoper hänvisar det till kikaren som till den hämtar stjärnornas ljus.
+
+34
+00:04:38,264 --> 00:04:43,067
+Utan denna himlastege vore det begränsade, liksom det mänskliga ögat.
+
+35
+00:04:47,557 --> 00:04:54,521
+Pupillen, ögats ljussamlande öppning är i bästa fall 8 mm i genomskärning och släpper bara in en begränsad ljusmängd på nätinnan.
+
+36
+00:04:55,242 --> 00:04:59,524
+Med våra jätteinstruments objektiv förstorar vi den ljussamlande ytan oerhört.
+
+37
+00:05:00,026 --> 00:05:05,850
+Vid en objektivgenomskärning på 1,5 meter är ytan 30 och 5000 gånger större än det mänskliga ögatspupill.
+
+38
+00:05:06,449 --> 00:05:10,173
+Sådana jättestora objektiv kan emellertid inte framställas i linssystem.
+
+39
+00:05:10,473 --> 00:05:13,454
+I deras ställe använder man sig av en ljussamlande spegel.
+
+40
+00:05:15,439 --> 00:05:19,901
+En sådan ljusgigant ser vi här representerad i Europas största spegelteleskop.
+
+41
+00:05:20,562 --> 00:05:25,365
+Ungefär en och en halv meters genomskärning har detta jätterör med en längd av nio meter.
+
+42
+00:05:26,086 --> 00:05:32,791
+42,5 ton väger denna koloss och låter ändå lekande lätt vrida sig i alla riktningar.
+
+43
+00:05:36,757 --> 00:05:51,903
+Då vid denna konstruktion iakttagelse göras även vid den främre högt över observatoriegolvet svävande rörenden är ikupolspringan som självfallet likaledes kan vridas på rullar i alla riktningar inbyggd en plattform för observatören.
+
+44
+00:05:53,562 --> 00:05:56,963
+Men vad tjänar den oerhörda ljusstyrkan hos ett objektiv?
+
+45
+00:05:57,264 --> 00:05:58,845
+En mikrometers noggrannhet.
+
+46
+00:05:59,303 --> 00:06:07,571
+Spektroskopets mångsidighet till när det så lätt tröttade med personliga fel och misstag behäftade mänskliga ögat ska utnyttja allt detta.
+
+47
+00:06:08,550 --> 00:06:13,254
+Vår himlastege måste vara opersonlig, mekaniskt exakt.
+
+48
+00:06:13,975 --> 00:06:27,225
+Därför har vi den fotografiska plåten som aldrig tröttnar utan tvärtom visar desto mer ju längre den belyses som är omutligt noggrann när den har att upptaga stjärnbilder, stjärnmätningar eller stjärnspektra.
+
+49
+00:06:41,276 --> 00:06:45,379
+Och nu kan framstöten i rymden göras.
+
+50
+00:06:50,041 --> 00:06:54,084
+Det är en fläck på det nattliga himlen på vilken vårt öga bara upptäcker några små stjärnor.
+
+51
+00:06:54,644 --> 00:06:57,365
+Vårt teleskopsöga betraffar den tio minuter.
+
+52
+00:07:00,987 --> 00:07:04,490
+Och den fotografiska plåten registrerar hundratals stjärnor.
+
+53
+00:07:05,185 --> 00:07:09,288
+Spektroskopet visar att alla dessa ljusa punkter är lysande solar.
+
+54
+00:07:09,968 --> 00:07:23,196
+Mätningen säger att dessa solar är så långt borta att ljusstrålen som tillryggalägger 300 000 km i sekunden behöver 5000 år för att tillryggalägga denna sträcka.
+
+55
+00:07:23,916 --> 00:07:27,379
+Det vill säga det ljus som idag når vårt teleskop.
+
+56
+00:07:28,920 --> 00:07:33,502
+Lämnade denna stjärna när en farao i det gamla Egypten byggde Svingsen.
+
+57
+00:07:34,201 --> 00:07:35,201
+Vi går vidare.
+
+58
+00:07:36,442 --> 00:07:41,807
+På Vintergatens mattskimrande band riktar vi objektivet som belyses en halvtimme.
+
+59
+00:07:46,891 --> 00:08:00,122
+Och på fotografiplåten ser vi ljussimret upplöst i miljoner och åter miljoner stjärnor vars avstånd från jorden är så stort att ljusstrålen behöver 20-30 tusen år för att genomlöpa det.
+
+60
+00:08:05,535 --> 00:08:08,057
+En timme tittar teleskopet på den nattliga himlen.
+
+61
+00:08:08,516 --> 00:08:19,264
+På dess genomträngande ljusstyrka har på den fotografiska plåten tecknat dimmiga bilder, kaotiska moln av stoffpartiklar som i oerhörda vidder fyller det oerhörda rummet.
+
+62
+00:08:27,391 --> 00:08:31,194
+I världens slut bakom Vintergatens stjärnmål.
+
+63
+00:08:33,527 --> 00:08:36,509
+På ett blekt litet ljusmoln riktar vi vår himlastege.
+
+64
+00:08:37,070 --> 00:08:40,192
+Under två timmar riktar vi kolossen på det lilla ljusmolnet.
+
+65
+00:08:41,894 --> 00:08:45,918
+Och på den fotografiska plåten blir av den svaga bilden en glänsande ljusspiral.
+
+66
+00:08:46,538 --> 00:08:49,061
+Under tre timmar låter vi teleskopet skåda ut.
+
+67
+00:08:51,703 --> 00:08:58,389
+Och det skarpa öga sönderdelar den dimmliknande nebulosan i miljoner, ja miljarder enskilda stjärnsolar.
+
+68
+00:09:00,232 --> 00:09:09,379
+På ett avstånd som ljusstrålen behöver 900 000 år för att genomlöpa har vår himlastege upptäckt ett nytt vintergatsystem.
+
+69
+00:09:10,639 --> 00:09:13,721
+Allt längre riktar vi vårt teleskop ut i universum.
+
+70
+00:09:14,282 --> 00:09:19,566
+Allt längre belysa vi och allt längre tränga vi ut i alltets dystra, omätliga djup.
+
+71
+00:09:20,326 --> 00:09:28,532
+Men istället för att nå gränsen stöter vi på hundratusenden, ja miljoner, dimmliknande bilder som utvecklar sig som spiralnebuloser.
+
+72
+00:09:29,187 --> 00:09:32,129
+Världsalltet är ännu inte på långt när slut.
+
+73
+00:09:33,250 --> 00:09:36,732
+Men vi har nått gränsen för vår himlasteges prestationsförmåga.
+
+74
+00:09:37,552 --> 00:09:41,515
+Den har spänt över avstånd som människorna väl kunnat uttala men aldrig begripa.
+
+75
+00:09:41,995 --> 00:09:46,639
+Den har skänkt oss kunskap om alltets storlek inför vilken vi beundrande böjer oss.
+
+76
+00:09:47,279 --> 00:09:52,004
+Men till universums gränser kan den icke bära oss.
+
+77
+00:09:52,024 --> 00:09:56,427
+Tekniken fortsätter att bygga ännu större teleskop med ännu kraftigare objektiv.
+
+78
+00:09:57,294 --> 00:10:04,369
+Skall det mänskliga ögat någonsin med dess hjälp kunna skåda världsalltets gränser?
