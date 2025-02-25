@@ -3,7 +3,10 @@
 Transcriptions of all  the `journal digital` videos. Created with
 Swescribe -- a wrapper around WhisperX.
 
+## Version 0.0.0-alpha
 
+Created with `SweScribe==v0.0.1`
+No manual editing done.
 
 ## files
 
