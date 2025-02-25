@@ -1,0 +1,815 @@
+1
+00:00:08,080 --> 00:00:09,942
+Han skriver mycket om spion, faran.
+
+2
+00:00:09,981 --> 00:00:12,163
+Håll tyst med vad du vill.
+
+3
+00:00:12,263 --> 00:00:14,464
+Spionen lägger pussar.
+
+4
+00:00:14,964 --> 00:00:15,644
+Och håll din bit.
+
+5
+00:00:15,685 --> 00:00:15,804
+Tack.
+
+6
+00:00:15,865 --> 00:00:18,966
+Tack, vad menar du med det?
+
+7
+00:00:19,606 --> 00:00:21,608
+Ja, tack för sockret igen.
+
+8
+00:00:21,628 --> 00:00:23,309
+Förresten, det är väl gemensam egendom?
+
+9
+00:00:24,030 --> 00:00:25,089
+Det är klart jag behåller biten.
+
+10
+00:00:25,670 --> 00:00:27,190
+Jag har talat om spionens bit.
+
+11
+00:00:27,210 --> 00:00:29,411
+Spionens?
+
+12
+00:00:29,431 --> 00:00:30,952
+Vilken spion?
+
+13
+00:00:31,733 --> 00:00:32,654
+Jag känner ingen spion.
+
+14
+00:00:33,433 --> 00:00:34,634
+Han ska väl inte ha någon socker av oss?
+
+15
+00:00:35,195 --> 00:00:35,456
+Du är omöjlig.
+
+16
+00:00:35,475 --> 00:00:35,936
+Läser du inte tidningen?
+
+17
+00:00:35,957 --> 00:00:36,777
+Jo, jag höll på med det.
+
+18
+00:00:36,796 --> 00:00:38,497
+Men jag tycks inte få fortsätta i frö för dig.
+
+19
+00:00:38,537 --> 00:00:40,460
+Jaja, tala nu bara inte om några obehöriga vattenskap.
+
+20
+00:00:40,479 --> 00:00:40,859
+Vattenskap?
+
+21
+00:00:40,880 --> 00:00:41,720
+Det vet jag ju knappt själv.
+
+22
+00:00:41,740 --> 00:00:43,701
+Men jag vet att jag ska gå ner på gyllene skeppet nu.
+
+23
+00:00:43,722 --> 00:00:43,862
+Tjena.
+
+24
+00:00:43,881 --> 00:00:44,021
+Tjena.
+
+25
+00:00:44,061 --> 00:00:44,862
+Hej, tjena Oskar.
+
+26
+00:00:44,902 --> 00:00:46,143
+Varför har du så elegant på plankan för mig idag?
+
+27
+00:00:46,164 --> 00:00:47,304
+Ja, du vet man ska sticka iväg till sjöss nu.
+
+28
+00:00:47,323 --> 00:00:48,064
+Tack, det är ingenting för mig.
+
+29
+00:00:48,104 --> 00:00:49,405
+Jag sitter bara och snackar med grabbar.
+
+30
+00:00:49,445 --> 00:00:50,085
+Och nu då, till sjöss?
+
+31
+00:01:04,317 --> 00:01:06,698
+Du som är murare, vad tänker du byta framtid?
+
+32
+00:01:06,759 --> 00:01:09,079
+Nej, men vi har fått ett jobb för kustförsvaret.
+
+33
+00:01:09,099 --> 00:01:09,239
+Seriöst?
+
+34
+00:01:09,260 --> 00:01:09,879
+Vad är det för jobb va?
+
+35
+00:01:09,900 --> 00:01:13,441
+Ja, det vet jag inte så noga, men vi sticker i alla fall iväg från uthamnen i eftermiddag.
+
+36
+00:01:13,460 --> 00:01:14,100
+Ja, vart då då?
+
+37
+00:01:14,120 --> 00:01:14,402
+Vart då?
+
+38
+00:01:14,421 --> 00:01:16,221
+Tror du man snackar bredvid mun, va?
+
+39
+00:01:16,242 --> 00:01:17,483
+Förresten, det vet jag inte så noga själv.
+
+40
+00:01:17,503 --> 00:01:17,643
+Nej, nej.
+
+41
+00:01:17,662 --> 00:01:19,763
+Murare till skärgården för kustförsvaret.
+
+42
+00:01:19,802 --> 00:01:21,524
+Det kan vara betydda nya befästningar.
+
+43
+00:01:33,536 --> 00:01:35,798
+Någonstans.
+
+44
+00:01:35,817 --> 00:01:36,179
+Men var?
+
+45
+00:01:37,140 --> 00:01:37,799
+Och vilka?
+
+46
+00:01:38,441 --> 00:01:41,563
+Ja, det visste han inte själv, sa han.
+
+47
+00:01:41,584 --> 00:01:42,344
+Ta reda på det då.
+
+48
+00:01:42,364 --> 00:01:42,405
+Ja.
+
+49
+00:02:04,742 --> 00:02:06,623
+Jasså, två betongblandare.
+
+50
+00:02:07,424 --> 00:02:12,330
+Då rör det sig nog antingen om en bunkeranläggning eller luftvärn eller något annat batteri.
+
+51
+00:02:13,151 --> 00:02:16,316
+Ja, det blir sak att ta reda på vilket det är.
+
+52
+00:02:52,117 --> 00:02:59,463
+Ja, nu är fundamenten av vägning klara så nu väntar vi bara på kanonerna.
+
+53
+00:02:59,484 --> 00:03:03,127
+Det har inte varit lite hemlighetsfullt det här.
+
+54
+00:03:03,146 --> 00:03:04,668
+Bara det tjänar något till.
+
+55
+00:03:04,967 --> 00:03:05,468
+Vad menar du?
+
+56
+00:03:05,669 --> 00:03:07,349
+Du ska inte missförstå mig.
+
+57
+00:03:07,950 --> 00:03:13,155
+Jag menar att här går vi och passar och vaktar mot det satyr som kan komma från något håll.
+
+58
+00:03:13,944 --> 00:03:17,668
+Ibland fryser vi men vi grinar inte så illa åt det.
+
+59
+00:03:17,747 --> 00:03:18,587
+Inte nu.
+
+60
+00:03:18,608 --> 00:03:22,510
+Vi kanske begriper varför vi måste vara här och frysa en smula.
+
+61
+00:03:22,631 --> 00:03:25,133
+Ett eller annat år till.
+
+62
+00:03:25,152 --> 00:03:30,355
+Tjäringen och ungarna där hemma de har också trassl på flera sätt.
+
+63
+00:03:30,376 --> 00:03:32,578
+De klagar heller inte så mycket.
+
+64
+00:03:32,617 --> 00:03:35,479
+Jag tycker vi skulle försöka låta bli att klaga allihop.
+
+65
+00:03:35,500 --> 00:03:37,901
+Vi skulle gå in för att hålla käften.
+
+66
+00:03:37,921 --> 00:03:39,983
+Både med det vi vet och det vi inte vet.
+
+67
+00:03:43,242 --> 00:03:44,843
+En svensk tiger, vet du.
+
+68
+00:03:44,924 --> 00:03:46,024
+En svensk tiger, ja.
+
+69
+00:03:46,223 --> 00:03:46,343
+Mm.
+
+70
+00:03:46,403 --> 00:03:49,025
+Men det finns kanske andra djur i vår herrshage.
+
+71
+00:03:49,064 --> 00:03:50,466
+Fast vi inte vill kännas vid dem.
+
+72
+00:03:51,246 --> 00:03:51,645
+Rotter.
+
+73
+00:03:53,546 --> 00:03:55,548
+Kan ni säga mig vart ägget ska gå?
+
+74
+00:03:55,568 --> 00:03:56,907
+Varför vill ni ha reda på det?
+
+75
+00:03:56,927 --> 00:04:01,430
+Jo, jag har en kompis ute i skärgården som ska ha ett paket och jag tänkte att ägget kanske går åt det hållet.
+
+76
+00:04:01,469 --> 00:04:02,129
+Nej, jag vet inte.
+
+77
+00:04:02,189 --> 00:04:04,711
+Men ni kan ju gå in och fråga kapten om ni har passersedel.
+
+78
+00:04:04,811 --> 00:04:05,192
+Ja, visst.
+
+79
+00:04:05,211 --> 00:04:05,372
+Varsågod.
+
+80
+00:04:05,391 --> 00:04:05,951
+Den här gäller inte längre.
+
+81
+00:04:09,712 --> 00:04:10,193
+Gör den inte?
+
+82
+00:04:10,954 --> 00:04:11,554
+Nej.
+
+83
+00:04:11,794 --> 00:04:13,594
+Då måste jag ha fått den gamla med mig hemifrån då.
+
+84
+00:04:13,615 --> 00:04:15,115
+Vi stod hemma och hämtade den rätta då.
+
+85
+00:04:15,294 --> 00:04:16,196
+Ja visst, det ska jag göra.
+
+86
+00:04:16,216 --> 00:04:17,956
+Den där har jag sett stricka omkring här flera gånger.
+
+87
+00:04:17,976 --> 00:04:18,476
+Vad säger du?
+
+88
+00:04:18,497 --> 00:04:18,877
+Polisen.
+
+89
+00:04:18,896 --> 00:04:19,257
+Stig in.
+
+90
+00:04:19,297 --> 00:04:19,997
+Det är för kallt.
+
+91
+00:04:20,017 --> 00:04:20,658
+Stig in för en andel.
+
+92
+00:04:20,697 --> 00:04:20,817
+Tackar.
+
+93
+00:04:39,696 --> 00:04:41,237
+Det var länge sedan sist.
+
+94
+00:04:41,257 --> 00:04:44,059
+Jo, jag vill egentligen bara fråga vad Oskar håller till.
+
+95
+00:04:44,098 --> 00:04:46,220
+Han är ju någonstans ute i skärgården har jag hört.
+
+96
+00:04:46,259 --> 00:04:46,920
+Han har varit, ja.
+
+97
+00:04:46,961 --> 00:04:48,601
+Men han kommer hem i eftermiddag.
+
+98
+00:04:48,622 --> 00:04:51,204
+Ja, jag har haft honom på... Jag är ute i skärgården en hel månad.
+
+99
+00:04:51,223 --> 00:04:55,646
+Men vill du inte kalla och vänta på att vi ser om han inte kommer snart?
+
+100
+00:04:55,666 --> 00:04:56,007
+Nej, tack.
+
+101
+00:04:56,047 --> 00:04:57,127
+Jag har lite bråttom just nu.
+
+102
+00:04:57,168 --> 00:04:58,449
+Jag tittar in lite senare då.
+
+103
+00:04:58,509 --> 00:04:59,389
+Ett sju centimeter batteri.
+
+104
+00:04:59,408 --> 00:04:59,488
+Bra.
+
+105
+00:04:59,528 --> 00:04:59,930
+Med eget.
+
+106
+00:05:00,009 --> 00:05:00,589
+Men att går den?
+
+107
+00:05:00,610 --> 00:05:01,290
+Såg ni inte reda på det?
+
+108
+00:05:09,923 --> 00:05:12,605
+Jo, jag försökte nog, men jag hade en för gammal passersedel.
+
+109
+00:05:12,886 --> 00:05:14,548
+Och det kontrollerade ni inte först?
+
+110
+00:05:14,588 --> 00:05:17,730
+Nej, men jag frågade Murans fru också, och hon visste inget.
+
+111
+00:05:18,050 --> 00:05:19,011
+Nej, det förstår jag.
+
+112
+00:05:19,672 --> 00:05:22,553
+Det är ovanligt idiotiskt allt sammans.
+
+113
+00:05:22,574 --> 00:05:23,514
+Men ni får försöka igen.
+
+114
+00:05:23,675 --> 00:05:24,375
+Ett ögonblick.
+
+115
+00:05:24,735 --> 00:05:25,076
+Vad är det?
+
+116
+00:05:25,115 --> 00:05:25,697
+Hörde ni inte?
+
+117
+00:05:25,737 --> 00:05:26,396
+Det är polisen.
+
+118
+00:05:26,437 --> 00:05:29,139
+Det har visat sig att han i en månads tid haft en trogen hanslangar i Kalle Svensson.
+
+119
+00:05:36,055 --> 00:05:39,137
+De får till uppgift att förse honom med vissa detaljer angående vårt försvar.
+
+120
+00:05:39,276 --> 00:05:40,517
+Vem kunde tänka sig det?
+
+121
+00:05:40,598 --> 00:05:40,817
+Kalle.
+
+122
+00:05:40,858 --> 00:05:41,939
+Honom som han kände så länge man minns.
+
+123
+00:05:41,959 --> 00:05:42,939
+Och han var här och försökte med mig.
+
+124
+00:05:42,978 --> 00:05:43,800
+Men det sprack han på.
+
+125
+00:05:43,899 --> 00:05:44,819
+Så jag behöll min bit.
+
+126
+00:05:44,839 --> 00:05:46,461
+Men hur har han kunnat få reda på så mycket?
+
+127
+00:05:46,480 --> 00:05:47,961
+Du har väl inte sagt något om mitt jobb?
+
+128
+00:05:47,982 --> 00:05:48,081
+Vem?
+
+129
+00:05:48,122 --> 00:05:48,221
+Jag?
+
+130
+00:05:48,262 --> 00:05:49,923
+Jag har inte sett honom på evigheter.
+
+131
+00:05:50,004 --> 00:05:50,624
+Utan på gyllen i skeppet nu.
+
+132
+00:06:05,026 --> 00:06:05,545
+Ja, jävlar.
+
+133
+00:06:05,646 --> 00:06:10,367
+Ja, jag ser karar.
+
+134
+00:06:10,927 --> 00:06:26,970
+Men jag behöver min bit så fruntimmer jag är.
+
+135
+00:06:27,050 --> 00:06:30,391
+Rätt in i en storskog i Estrikland går en nyanlagd bilväg.
+
+136
+00:06:31,091 --> 00:06:35,553
+Det är ett av de många bevisen på att skogen nu i ökad omfattning är en arbetsplats året runt.
+
+137
+00:06:36,213 --> 00:06:41,255
+Vårt avspärrade varjaland kräver i år en vedavverkning på 55 miljoner kubikmeter.
+
+138
+00:06:41,656 --> 00:06:45,197
+Det betyder 20 procents ökning av föregående års behov.
+
+139
+00:06:45,218 --> 00:06:49,358
+20 miljoner dagsverken måste göras för att vinterkylar ska kunna bemästras.
+
+140
+00:06:49,598 --> 00:06:53,341
+För att våra transportmedel och viktiga industrier ska kunna hållas igång.
+
+141
+00:06:54,153 --> 00:07:05,101
+Det vill säga att 70 000 man måste året runt ha sitt arbete i skogen vilket i sin tur betyder att ny, icke skogsvan arbetskraft måste tillföras vid hårdföra huggarnas lag.
+
+142
+00:07:05,762 --> 00:07:11,286
+Industriarbetare och andra kraftkarlar måste komma till hjälp och raskt tränas till skogshuggare.
+
+143
+00:07:12,187 --> 00:07:19,314
+Detta brottskande omskolningsverk kräver för det första instruktörer och vi ibland tränade skogskarlar som uttagits till en instruktörskurs.
+
+144
+00:07:20,062 --> 00:07:25,146
+I denna stund inpräntas hos dem sanningssatsen, en god verktygsvård är halva arbetet.
+
+145
+00:07:25,588 --> 00:07:32,012
+Demonstratör och chefinstruktör ger dem nu vinkar om hur minutiöst man måste uppmärksamma den lärosatsen i skogen.
+
+146
+00:07:36,726 --> 00:07:40,911
+I Hilleviks gamla bruksherrgård två mil norr om Gävle, instruktörskursen förlagd.
+
+147
+00:07:41,391 --> 00:07:45,475
+Den pågår parallellt med en av länsarbetsnämnden arrangerad kockakurs.
+
+148
+00:07:45,975 --> 00:07:52,240
+Här på Hillevik grundas alltså de två viktigaste förutsättningarna för en från andra arbetsläger utökad skogshuggarstam.
+
+149
+00:07:52,721 --> 00:07:55,004
+Goda instruktörer och goda kockor.
+
+150
+00:07:55,483 --> 00:07:57,485
+Kockan den kanske allra viktigaste.
+
+151
+00:07:58,367 --> 00:08:01,428
+Skogsarbetet kräver för närvarande ungefär tusen kockor.
+
+152
+00:08:01,509 --> 00:08:03,031
+Ett absolut ofrånkomligt krav.
+
+153
+00:08:03,791 --> 00:08:13,076
+Kockan måste bli en dugande husmor för ett större hushåll och under 15 dagars kurs ska den lärdomen inhämtas i lektionsrum, kök och visthusbodar.
+
+154
+00:08:13,136 --> 00:08:25,420
+Inköp och proviantering under ransoneringstvång, förvaring och tillhörning av maten och ett skogslagsekonomi är den teoretiska undervisningen som på Hellevik dagligen tillämpas praktiskt i hushållet för instruktörskursens 14 mannar.
+
+155
+00:08:26,240 --> 00:08:27,800
+Se på kockeleven i förgrunden.
+
+156
+00:08:28,062 --> 00:08:31,543
+Så manglar man tvätt i en skogskoja med butellj och skärbreda.
+
+157
+00:08:33,464 --> 00:08:38,506
+Kursens föreståndarinna, fröken Belander, övervakar varje detalj och det är många av viktiga.
+
+158
+00:08:39,187 --> 00:08:40,988
+Begagnat av en koklåda till exempel.
+
+159
+00:08:42,609 --> 00:08:48,532
+I en med hö och säckväv stoppad lår sänks den kokande grytan med ett högsäckslock på och håller sig kokande.
+
+160
+00:08:49,253 --> 00:08:51,494
+Yngsta eleven heter Greta Nylén.
+
+161
+00:08:51,774 --> 00:08:53,715
+Hon är omkring 20 år och från Hyllevik.
+
+162
+00:08:54,195 --> 00:08:57,177
+Henne ska vi ta och följa på hennes kommande kockarväg i skogen.
+
+163
+00:08:57,756 --> 00:09:12,701
+Men innan vi filmhastigt avslutar kockakursen måste vi konstatera att sjukvårdsundervisning ingår i kursen under ledning av en mångförfaren sjuksyster som av lång erfarenhet vet att fot, knä och handskador ska snabbt kunna komma till behandling i skogen.
+
+164
+00:09:14,361 --> 00:09:18,243
+Och nu är Greta Nylén efter 15 dagars kurs kocka i en koja i skogen.
+
+165
+00:09:18,802 --> 00:09:24,404
+Varje morgon klockan fem måste hon upp ur sängen i den bråliknande men frisamma jomfruburen innanför kojans kök.
+
+166
+00:09:25,366 --> 00:09:29,811
+Det är ingen tid att dra sig på, för klockan halv sju ska frukosten stå på skogshuggarnas bord.
+
+167
+00:09:29,831 --> 00:09:35,296
+Det ska genast blåsas liv och kraft i en ny dag av slit och slep och verksamhetsglädje.
+
+168
+00:09:36,736 --> 00:09:38,317
+Och varsågoda, här är frukosten.
+
+169
+00:09:38,399 --> 00:09:39,379
+Ett stadigt mål.
+
+170
+00:09:39,399 --> 00:09:42,782
+För ni ska veta att en skogskarl behöver upp till 6000 kalorier om dagen.
+
+171
+00:09:43,543 --> 00:09:45,504
+Mer än dubbelt så mycket som en vanlig människa.
+
+172
+00:09:46,201 --> 00:09:48,201
+Och det ser unga Greta till att det får.
+
+173
+00:09:48,621 --> 00:09:49,182
+Hon kan det.
+
+174
+00:09:49,221 --> 00:09:51,123
+Hon är ingen jänta vilket som helst.
+
+175
+00:09:51,143 --> 00:09:52,303
+Hon är en drottning i skogen.
+
+176
+00:09:52,583 --> 00:09:56,184
+Och gamla hårdbarkade karar som just inte är snarare till beröm och vackra ord.
+
+177
+00:09:56,524 --> 00:09:59,086
+Tungt arbete gör truten trög heter det.
+
+178
+00:09:59,385 --> 00:10:01,147
+Säger att de har den bästa kockan.
+
+179
+00:10:01,527 --> 00:10:03,028
+Det säger nästan alla skogshuggalag.
+
+180
+00:10:04,982 --> 00:10:07,264
+Får jag nu presentera Gretas riksarbetslag.
+
+181
+00:10:07,784 --> 00:10:08,985
+Ivan Törn Norsund.
+
+182
+00:10:09,525 --> 00:10:11,386
+Och hans bror Einar som lägger ett res.
+
+183
+00:10:11,706 --> 00:10:13,408
+Båda är sågverksarbetare.
+
+184
+00:10:14,168 --> 00:10:17,350
+Robert Jonsson är maskinformare i Skogen Olssons jyteri i Gävle.
+
+185
+00:10:17,890 --> 00:10:21,394
+Gustav Svanberg som barkar timmer för tömning i hantlangar i samma jyteri.
+
+186
+00:10:21,594 --> 00:10:25,416
+Och hans bror Arvid Rotbarkaren är reparatör i Gävleverkstaden.
+
+187
+00:10:29,818 --> 00:10:32,681
+Gösta Malm lägger bassar i de kistor det ska bli kofoder.
+
+188
+00:10:32,701 --> 00:10:34,341
+Och han är också från Gävleindustrin.
+
+189
+00:10:35,798 --> 00:10:37,100
+Och så är Oskar Öberg.
+
+190
+00:10:37,320 --> 00:10:40,221
+Hans turtopp ska bli sulfatved.
+
+191
+00:10:40,241 --> 00:10:43,965
+Erik Sjöberg är sedan gammalt van vid tre sågverksarbetare i Norrsöndet.
+
+192
+00:10:44,365 --> 00:10:48,048
+Men Emil Spring hör till det garde som dragit ut från Skoglund Olsson.
+
+193
+00:10:49,068 --> 00:10:55,974
+Arbetsmarknadskommissionen har redat till omkring 5000 industriföretag att avstå arbetskraft till skogen.
+
+194
+00:10:57,195 --> 00:10:59,216
+Och se här vad fint det alla gör i skogen.
+
+195
+00:10:59,256 --> 00:11:04,600
+Det är ingen skövning som pågår utan en sedan många år önskad välbehövlig utrensning.
+
+196
+00:11:05,870 --> 00:11:08,634
+Men låt oss återvända till Greta i den moderna skogskojan.
+
+197
+00:11:09,515 --> 00:11:14,282
+Säg flickor av alla de husliga slag och i alla åldrar från låt mig säga 20 till 40 år.
+
+198
+00:11:14,761 --> 00:11:20,609
+Skulle ni inte tillsammans med de duktiga industriarbetarna vilja vara skogens viktigaste person.
+
+199
+00:11:20,769 --> 00:11:23,352
+125 kronor i månaden och allting fritt är lönen.
+
+200
+00:11:23,763 --> 00:11:26,346
+För att nu inte tala om den inre tillfredsställelsen.
+
+201
+00:11:26,405 --> 00:11:34,573
+Medvetandet om att vara en av de viktigaste kuggarna i det maskineri som är vår industris kraftverk och hela landets värmecentral.
+
+202
+00:11:35,134 --> 00:11:36,775
+Bliv kockor mina damer.
+
+203
+00:11:37,917 --> 00:11:40,298
+Och göm fru god och skön.
+
+204
+00:11:40,339 --> 00:11:41,720
+Hör en frusen ynglingsbön.

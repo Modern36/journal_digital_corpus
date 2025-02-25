@@ -1,0 +1,7 @@
+1
+00:09:56,390 --> 00:09:56,971
+I namn.
+
+2
+00:09:57,975 --> 00:10:00,158
+Det får stanna i den punkt gescheitert.

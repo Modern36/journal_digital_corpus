@@ -1,0 +1,423 @@
+1
+00:00:24,553 --> 00:00:25,835
+Nej, men gud, vänstern, inte!
+
+2
+00:00:25,856 --> 00:00:26,435
+Nej, men förfaren!
+
+3
+00:00:29,800 --> 00:00:30,399
+Vad var det med henne?
+
+4
+00:00:30,440 --> 00:00:31,762
+Var hon sjuk?
+
+5
+00:00:32,142 --> 00:00:34,084
+Nej, nu var hon nog frisk igen.
+
+6
+00:00:34,103 --> 00:00:39,429
+Kan du tänka dig att hon låg sjuk i 14 dagar och nu har kamrén dragit av vikariens lön för henne?
+
+7
+00:00:39,450 --> 00:00:40,530
+Nej, det menar du inte.
+
+8
+00:00:41,411 --> 00:00:45,415
+Och vi på landet som har avhundrat ser för att ni har så lätt arbete och nöjen och fritid och allting.
+
+9
+00:00:45,435 --> 00:00:45,555
+Fritid?
+
+10
+00:00:45,576 --> 00:00:45,615
+Ja.
+
+11
+00:00:47,918 --> 00:00:50,121
+Sa du fritid?
+
+12
+00:00:50,222 --> 00:00:55,146
+Idag var halva personalen inkallade till extra-tjänstgöring fast det är söndag.
+
+13
+00:00:55,207 --> 00:00:56,328
+Inte ett öre får vi för det.
+
+14
+00:00:56,408 --> 00:01:01,853
+Ibland fick jag pappa nästan ha rätt när han säger att vi skulle bida fackförening och sätta hårt mot hårt.
+
+15
+00:01:01,893 --> 00:01:03,155
+Tror du det blir bättre då?
+
+16
+00:01:03,396 --> 00:01:07,980
+Det borde vara lag på att vi privatanställda fick lite tryggare arbetsförhållanden.
+
+17
+00:01:08,021 --> 00:01:09,341
+Fastighetssemester och cykel.
+
+18
+00:01:10,183 --> 00:01:11,263
+Men det vill ju inte sossarna.
+
+19
+00:01:11,543 --> 00:01:12,144
+Vill de inte?
+
+20
+00:01:12,444 --> 00:01:14,486
+Ja, men de ska ju stå på de förtryckta sidan.
+
+21
+00:01:15,085 --> 00:01:15,805
+När det gäller arbetarna, ja.
+
+22
+00:01:15,825 --> 00:01:16,867
+Men oss har de ingenting till överspår.
+
+23
+00:01:16,887 --> 00:01:18,548
+Ja, det finns verkligen ett lagförslag som folkpartiklar är genom.
+
+24
+00:01:18,567 --> 00:01:19,287
+Men sossarna säger ju nej.
+
+25
+00:01:19,308 --> 00:01:19,888
+Nej, det är konstigt.
+
+26
+00:02:21,802 --> 00:02:29,388
+Det kan inte nog framhållas vilken betydelse samhällsordningen har för framåtskridande och allmän tränad i ett land.
+
+27
+00:02:29,974 --> 00:02:37,518
+Sambandet mellan de politiska och sociala förhållandena och den materiella utvecklingen är dock uppenbart.
+
+28
+00:02:37,538 --> 00:02:45,319
+Andlig, politisk och kulturell frihet är då i själva verket de förnämsta hävstängerna för sociala och ekonomiska framsteg.
+
+29
+00:02:45,860 --> 00:02:52,603
+Sålunda är det tankens och forskningens frihet som öppnat vägarna till nutidens vetande på olika områden.
+
+30
+00:02:52,923 --> 00:02:58,664
+Ett vetande som kunnat omsättas i upptäckter och uppfinningar av det mest revolutionerande slag.
+
+31
+00:03:31,569 --> 00:03:38,512
+Det är på den ekonomiska friheten och den enskildes initiativ som vår storartade produktionsapparat blivit uppbyggd.
+
+32
+00:03:39,572 --> 00:03:42,212
+Och på denna vilar i sin tur hela vårt ekonomiska liv.
+
+33
+00:04:44,846 --> 00:04:50,708
+Steg för steg av nya marker har vunnits och område efter område har införlivats med kulturarvet.
+
+34
+00:04:52,129 --> 00:04:57,170
+På jordbrukets, industrins, handelns och samfällsens fält, överallt
+
+35
+00:04:57,644 --> 00:05:05,009
+har den enskilde medborgarens verksamhetslust och den fria tävlan varit grundläggande faktorer för framåtskridandet.
+
+36
+00:05:06,490 --> 00:05:09,192
+Nya tider tarvar dock i små nya arbetsformer.
+
+37
+00:05:09,973 --> 00:05:16,137
+När den enskilda verksamheten söker stärka sin ställning genom sammanslutningar inom skilda näringsgrupper är den på rätt väg.
+
+38
+00:05:16,158 --> 00:05:23,622
+Till genom ändamålsenlig organisation kan stora värden vinnas och bevaras åt det gemensamma folkhushållet.
+
+39
+00:05:25,083 --> 00:05:29,043
+Men även inom föreningsväsendet bör den enskildes rätt respekteras.
+
+40
+00:05:29,644 --> 00:05:34,745
+Friheten att välja arbete och näring bör vara en självklar rättighet i ett fritt samhälle.
+
+41
+00:05:35,745 --> 00:05:46,247
+På visst håll görs en strävan gällande att med kringskärande av den enskildes rörelsefrihet lägga allt fler och fler områden av näringslivet under statens herravälde.
+
+42
+00:05:46,826 --> 00:05:49,427
+Denna strävan går fram efter skilda vägar.
+
+43
+00:05:49,807 --> 00:05:58,771
+Dels söker den insnöra näringarna i allt snävare och snävare former genom allihandaregleringar och skärpt kontroll.
+
+44
+00:05:59,112 --> 00:06:07,235
+Dels vill den genom införande av monopol förbehålla vissa verksamhetsområden för statlig eller halvstatlig drift.
+
+45
+00:06:08,375 --> 00:06:13,718
+För dem som vill javäna friheten gäller det att bjuda dylika tendenser ett fast motstånd.
+
+46
+00:06:14,769 --> 00:06:21,793
+Det som IVRA för den socialisering av näringslivet har inte gjort klart för sig alla de följder som därav skulle uppkomma.
+
+47
+00:06:22,295 --> 00:06:29,918
+Ju mer staten lägger under sig av praktisk verksamhet, desto mer sväller också den statliga förvaltningsapparaten ut.
+
+48
+00:06:31,040 --> 00:06:34,322
+Nya ämbetsverk måste inrättas för de vidgade uppgifterna.
+
+49
+00:06:35,262 --> 00:06:40,466
+Den allmänna rörelsen måste alltmer dirigeras genom reglementen istället för praktiskt handlande.
+
+50
+00:06:41,550 --> 00:06:46,033
+Byråkrati och funktionärsvälde tränga in där sunt förnuft ensamt borde råda.
+
+51
+00:06:47,014 --> 00:06:51,079
+Folkets inflytande på samhällsutvecklingen kommer på så sätt att bli mindre.
+
+52
+00:06:52,300 --> 00:06:57,564
+Mohenda passar ett system med starkt utvecklad statlig drift i diktaturländer.
+
+53
+00:06:58,345 --> 00:07:04,230
+I en demokratisk stat åter måste vi bevara den fria företagsamheten som en av samhällets grundpelare.
+
+54
+00:07:06,348 --> 00:07:14,634
+Folkpartiet hävdar det enskilda initiativets överlägsenhet och vill bekämpa alla försök till förstatligande av nya verksamhetsgrenar.
+
+55
+00:07:15,154 --> 00:07:28,245
+Vi ledas därvid av övertygelsen att en produktionsform av mer eller mindre socialistiskt skaplunne icke förmår framskapa den elstånd som är grunden för fortsatt framåtskridande och ökat trivsel.
+
+56
+00:07:29,067 --> 00:07:35,391
+Vi anser också att den enskilde medborgarens ansvar för sig själv är en värdefull faktor som bör bevaras.
+
+57
+00:07:37,334 --> 00:07:42,379
+När vi i vårt land nu går till val står vi inför ett allvarligt avgörande.
+
+58
+00:07:42,939 --> 00:07:50,845
+Den som vill slå vakt om vårt folks andliga och ekonomiska frihet finner i Folkpartiet det bästa stödet för sina strävanden.
+
+59
+00:07:54,247 --> 00:07:55,389
+Ja, vi säger väl det då.
+
+60
+00:07:55,889 --> 00:07:57,990
+Ni får gå som extra över sommaren så får vi se sen.
+
+61
+00:07:58,511 --> 00:07:59,932
+Sen kommer ju allting an på valen.
+
+62
+00:07:59,992 --> 00:08:01,233
+Ja, jag får väl sätta igång genast.
+
+63
+00:08:01,353 --> 00:08:02,113
+Ja, fralill.
+
+64
+00:08:02,473 --> 00:08:03,454
+Där står en att börja med.
+
+65
+00:08:04,454 --> 00:08:04,735
+Jaha.
+
+66
+00:08:47,789 --> 00:08:47,951
+Hör du?
+
+67
+00:09:38,011 --> 00:09:38,513
+Är det där du menar?
+
+68
+00:09:38,533 --> 00:09:38,972
+Ja, där ska vi bo.
+
+69
+00:09:38,993 --> 00:09:40,375
+Ja, det vill säga... Ja, om det går som det ska vid valet, ja.
+
+70
+00:09:40,394 --> 00:09:40,615
+Det gör det.
+
+71
+00:09:40,635 --> 00:09:42,298
+Nu är jag som far hem och omvänder hela socken att rösta med folkpartiet.
+
+72
+00:09:42,317 --> 00:09:43,019
+Och då har vi vårt på det torrade.
+
+73
+00:10:45,359 --> 00:10:46,020
+Här har du folkpartiet.
+
+74
+00:10:46,041 --> 00:10:46,240
+Tackar du.
+
+75
+00:10:46,260 --> 00:10:46,642
+God dag, Kjellgren.
+
+76
+00:10:49,591 --> 00:10:50,173
+Vad nu då?
+
+77
+00:10:50,232 --> 00:10:51,254
+Jo, de här tar jag hand om.
+
+78
+00:10:51,274 --> 00:10:52,875
+Godamma, mamma och pappa.
+
+79
+00:10:52,914 --> 00:10:54,255
+Naja, sin dag.
+
+80
+00:10:54,275 --> 00:10:55,116
+Här ska ni få se.
+
+81
+00:10:55,136 --> 00:10:56,697
+Det är de här som är de rätta.
+
+82
+00:10:56,758 --> 00:10:58,359
+Ja, så du kom hit i alla fall?
+
+83
+00:10:58,399 --> 00:10:58,458
+Ja.
+
+84
+00:10:58,479 --> 00:10:59,860
+Och här har du, Karin.
+
+85
+00:10:59,899 --> 00:11:01,081
+Tack ska du ha.
+
+86
+00:11:01,120 --> 00:11:03,702
+Jag har ingen rösträtt än, men annars vet jag nog att det här är de rätta.
+
+87
+00:11:03,722 --> 00:11:04,004
+Socialisterna!
+
+88
+00:11:04,024 --> 00:11:04,464
+Socialisterna!
+
+89
+00:11:04,543 --> 00:11:04,923
+Socialisterna!
+
+90
+00:11:04,943 --> 00:11:05,264
+Socialisterna!
+
+91
+00:11:05,284 --> 00:11:05,565
+Socialisterna!
+
+92
+00:11:18,735 --> 00:11:18,977
+Välkomna in.
+
+93
+00:11:21,869 --> 00:11:23,929
+Välkomna till Folkpartiet!
+
+94
+00:11:24,029 --> 00:11:25,470
+Välkomna till Folkpartiet!
+
+95
+00:11:25,509 --> 00:11:27,010
+Välkomna till Folkpartiet!
+
+96
+00:11:50,097 --> 00:11:51,999
+Folkpartiet, rösta med Folkpartiet!
+
+97
+00:11:52,038 --> 00:11:53,440
+Folkpartiet, rösta med Folkpartiet!
+
+98
+00:11:53,519 --> 00:11:54,860
+Folkpartiet, rösta med Folkpartiet!
+
+99
+00:11:54,900 --> 00:11:56,162
+Folkpartiet, rösta med Folkpartiet här!
+
+100
+00:11:56,241 --> 00:11:58,263
+Folkpartiet, rösta med Folkpartiet här!
+
+101
+00:11:58,323 --> 00:11:59,624
+Men mamma, vad gör mamma här?
+
+102
+00:11:59,644 --> 00:12:00,725
+Rösta med Folkpartiet är det rätta!
+
+103
+00:12:14,514 --> 00:12:15,855
+Men ni lilla prym, säker då på att det är den rätta?
+
+104
+00:12:15,875 --> 00:12:16,296
+Jo då, lilla Norden.
+
+105
+00:12:16,316 --> 00:12:17,135
+Den här duger åt vem som helst.
+
+106
+00:12:17,155 --> 00:12:21,320
+Jag lämnade nyss en likadan åt herr högermannen Hans och en annan åt hans pappa, den gamla socialdemokratern Olof Leonard Sandgren.

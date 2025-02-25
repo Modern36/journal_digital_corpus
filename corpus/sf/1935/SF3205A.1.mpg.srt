@@ -1,0 +1,327 @@
+1
+00:01:11,246 --> 00:01:19,911
+I Österlandet, där knappast något moln beslöjer den praktfulla stjärnhimlen, föddes astronomin, vetenskapen om stjärnorna.
+
+2
+00:01:24,763 --> 00:01:28,605
+Nätterna igenom observerade babylons präster stjärnornas lock.
+
+3
+00:01:33,646 --> 00:01:36,046
+En enkel stenpelare var deras instrument.
+
+4
+00:01:36,066 --> 00:01:41,649
+Tidpunkten då vissa stjärnor gick upp bakom denna pelare angav de olika årstiderna.
+
+5
+00:01:42,388 --> 00:01:49,870
+Ur stjärnkonstellationerna utläste det de levande varelsernas skiftande öden som de ansåg olösligt förenade med stjärnorna.
+
+6
+00:01:51,600 --> 00:01:56,483
+Hos många av dessa stjärnkunniga steg förvisso frågan om stjärnornas väsen och natur upp.
+
+7
+00:01:56,524 --> 00:02:02,826
+Men ouppnåliga, oändligt avlägsna och omöjliga att utforska strålade natthimlens ljus.
+
+8
+00:02:03,287 --> 00:02:07,650
+Ljusen från andra sfärer och genom årtusenden förblev det så.
+
+9
+00:02:12,310 --> 00:02:28,659
+Renässansens astronomer var lika fångna av stjärnornas mystik, men beskälade som det vore av den inbrytande nyare tidens kunskapstörst, mätte det med konstrika instrument stjärnornas plats och lock i rymden och lade därmed grunden till kunskapen om en ny världsbild.
+
+10
+00:02:34,802 --> 00:02:40,787
+Men deras frågor om det fjärran avlägsna stjärnornas väsen och natur förblev obesvarade.
+
+11
+00:02:48,521 --> 00:02:56,824
+Då hände det sig, det var år 1608, att det kom en främling in till glassliparen Johannes Lippershei som hade en liten affär i den holländska staden Middelburg.
+
+12
+00:02:57,104 --> 00:02:59,403
+Främlingen var enligt segnen en genius.
+
+13
+00:03:01,604 --> 00:03:09,026
+Om er snåde har svårt att se på långt håll så kan jag rekommendera ett konkavslipat glas.
+
+14
+00:03:09,903 --> 00:03:20,867
+Men om däremot er snåde inte kan läsa bokstäver på nära håll så vore en konvexslipad lins kanske att anbefala.
+
+15
+00:03:20,907 --> 00:03:21,987
+Ge mig det där glaset.
+
+16
+00:03:22,008 --> 00:03:23,808
+Jaha.
+
+17
+00:03:23,848 --> 00:03:27,789
+Vill er snåde gå till fönstret så ska vi prova det.
+
+18
+00:03:51,604 --> 00:03:52,844
+Det här glaset är något väl starkt?
+
+19
+00:03:52,865 --> 00:03:55,007
+Ja, i så fall, Herr Snodde, har jag svagare slickning.
+
+20
+00:03:55,046 --> 00:03:56,247
+Ett ögonblick bara, Herr Snodde.
+
+21
+00:03:56,268 --> 00:03:56,628
+Ja, det här...
+
+22
+00:04:18,552 --> 00:04:22,115
+Det tror jag skulle passa i Snådes ögon bättre.
+
+23
+00:04:22,156 --> 00:04:30,362
+Ville Snåde försöka det?
+
+24
+00:04:30,382 --> 00:04:31,824
+Nej, ge mig hellre det första.
+
+25
+00:04:32,204 --> 00:04:33,365
+Ja, men Snåde befaller.
+
+26
+00:04:34,185 --> 00:04:34,386
+Va?
+
+27
+00:04:35,146 --> 00:04:36,067
+Var är mina glas?
+
+28
+00:04:45,654 --> 00:04:47,516
+Hör du, din lille Lymmel.
+
+29
+00:04:48,375 --> 00:04:49,557
+Vad gör du med mina linser?
+
+30
+00:04:50,697 --> 00:04:53,718
+Titta, jag ser kyltoppen tydligt.
+
+31
+00:04:53,759 --> 00:04:55,540
+Prat, för där var inte dina ögon.
+
+32
+00:04:55,879 --> 00:04:56,420
+Ta hit dem.
+
+33
+00:04:56,579 --> 00:04:57,439
+Nej, nej.
+
+34
+00:04:57,480 --> 00:04:59,221
+Se, kyltoppen är alldeles stor.
+
+35
+00:05:00,062 --> 00:05:02,862
+Vad pratar du?
+
+36
+00:05:02,882 --> 00:05:03,302
+Får jag se?
+
+37
+00:05:11,107 --> 00:05:11,987
+Ja, besyn.
+
+38
+00:05:24,416 --> 00:05:24,937
+Är snodde?
+
+39
+00:05:27,158 --> 00:05:27,678
+Är snodde?
+
+40
+00:05:27,699 --> 00:05:46,269
+Ja, det må jag då säga.
+
+41
+00:05:48,591 --> 00:05:50,653
+En samlingslins fram till.
+
+42
+00:05:51,754 --> 00:05:53,514
+En spridningslins bak till.
+
+43
+00:05:54,136 --> 00:06:01,819
+Det var den stora uppfinning Lippers här gjorde, kikaren, med vars tillhjälp man kunde komma avlägsna föremål skenbart nära.
+
+44
+00:06:08,642 --> 00:06:21,970
+Galileo Galilei, den stora italienske fysiken, var den första som riktade detta underbara instrument mot stjärnhimlen och därmed började en ny epok i astronomins historia, studiet av himlakropparnas natur.
+
+45
+00:06:24,487 --> 00:06:28,468
+Galilei beskrev månen som ett klot med plana ytor och berg.
+
+46
+00:06:35,230 --> 00:06:38,632
+Han visste att planeterna, till exempel Jupiter, bor och klot.
+
+47
+00:06:39,971 --> 00:06:45,814
+Kikaren var emellertid mycket ofullkomlig, förstorade för lite och var föga lämplig för studiet av stjärnorna.
+
+48
+00:06:46,574 --> 00:06:50,355
+Men Galileis verk blev en sporre för studiet av världsalltet.
+
+49
+00:06:57,276 --> 00:07:01,877
+Johannes Kepler, den store tyska astronomen, hörde talas om Galileis kikare.
+
+50
+00:07:02,677 --> 00:07:13,281
+Genomträngd av längtan att åtminstone med blicken tränga in i den kosmiska världen gjorde han vid sitt arbetsbord konstruktionen till den astronomiska tub som använts under århundraden.
+
+51
+00:07:16,343 --> 00:07:20,685
+Men att utföra denna konstruktion blev honom aldrig förundrat.
+
+52
+00:07:24,987 --> 00:07:25,906
+Den nyare tiden kom.
+
+53
+00:07:26,502 --> 00:07:40,725
+Och se, stålet, järnet, ångan och elektriciteten möjliggjorde skapandet av de kupolkrönta byggnaderna, observatorierna, himlastegarna, med vars hjälp det 20-århundradets människor kunde skaffa sig kunskap om den stjärnströdda himlen.
+
+54
+00:07:46,048 --> 00:07:49,048
+Vi befinner oss nu i Tysklands modernaste observatorium.
+
+55
+00:07:50,189 --> 00:07:54,629
+Ni ser här den stora refraktorn i universitetsobservatoriet i Neubabelsberg.
+
+56
+00:07:55,387 --> 00:08:04,997
+I princip grundar sig detta jätteinstrument av 12,5 meters längd och 3 kvarts meters diameter på den konstruktion som Johannes Kepler gjorde för 300 år sedan.
+
+57
+00:08:05,637 --> 00:08:14,228
+Men först haft var det samverkan av modernast optik, finmekanik och teknik har man lyckats framställa detta underverk av precision och prestation.
+
+58
+00:08:16,166 --> 00:08:29,773
+Ett mäktigt objektiv trollar fram en ljusstark, absolut stillastående och färgren bild av den avlägsna stjärnan som iakttagits i andra änden av röret genom ett felfritt okularsystem som ger förstoringar ända upp till 1500 gånger.
+
+59
+00:08:32,854 --> 00:08:45,038
+En pelare av en meters genomskärning och tio meters höjd på betonggrund bär på sin topp den massiva och med högsta precision byggda med två axlar försedda uppställningsanordningen för refraktorn.
+
+60
+00:08:48,785 --> 00:08:59,174
+Kring den ena axeln som exakt pekar mot himlens nordpol och därför kallas polaraxeln vrider sig den jättetunga kikaren lekande lätt i öst-väst riktningen.
+
+61
+00:09:01,616 --> 00:09:09,484
+I rätt vinkel mot denna axel står den andra axel vid vars ena enda jättekikaren hänger och vid dess andra en motvikt som exakt håller balansen.
+
+62
+00:09:10,063 --> 00:09:13,346
+Omkring denna axel vrider sig röret i nord-syd riktningen.
+
+63
+00:09:17,094 --> 00:09:23,616
+Genom samverkan av dessa båda rörelseriktningar kan refraktorn lekande lätt riktas på vilken punkt som helst av himlavalvet.
+
+64
+00:09:31,720 --> 00:09:42,203
+Kupolen med 15 meters genomskärning och 55 tons vikt skyddar instrumentet för väder och vind och är enbart den ett underverk av modern ingenjörskonst.
+
+65
+00:09:43,072 --> 00:09:48,076
+Driven av elektriska motorer kan den löpande på ett system av rullar vridas runt.
+
+66
+00:09:52,841 --> 00:10:00,548
+Likaledes driven av elektriska motorer kan kupålspringan öppnas så att objektivets jätteöga blickar ut mot himlen.
+
+67
+00:10:01,750 --> 00:10:05,014
+Detta är den yttre bilden av ett modernt observatorium.
+
+68
+00:10:10,722 --> 00:10:18,465
+En sådan himlasteges verkliga tekniska underverk avslöjar sig emellertid först när natten bryter in och astronomen börjar sitt arbete.
+
+69
+00:10:19,264 --> 00:10:21,546
+Låt oss följa honom.
+
+70
+00:10:24,947 --> 00:10:26,628
+Kikaren ska inriktas på månen.
+
+71
+00:10:27,467 --> 00:10:31,989
+Utan att öppna kupolen och utan att kasta en blick på himlen är detta möjligt.
+
+72
+00:10:37,171 --> 00:10:38,750
+I astronomisk årsbok
+
+73
+00:10:39,183 --> 00:10:41,365
+är månens ställning angiven för varje dag.
+
+74
+00:10:42,066 --> 00:10:49,370
+Efter en titt på klockan tar observatören ur denna katalog först månens ställning i östvästriktningen som är angiven i vinkelgrader.
+
+75
+00:10:54,072 --> 00:11:04,177
+I ett avläsningsmikroskop iakttar han en delskala på polaraxeln och vrider kikaren kring denna axel tills talet på delskalan motsvarar denna vinkel.
+
+76
+00:11:05,153 --> 00:11:09,376
+Så är refraktorn inställd i öst-väst riktningen.
+
+77
+00:11:15,120 --> 00:11:18,823
+Ur katalogen tar observatören månens läge i nordsydriktningen.
+
+78
+00:11:20,565 --> 00:11:26,568
+Och inställer även denna vinkel genom avläsningsmikroskopet på den andra axelns delskala.
+
+79
+00:11:30,471 --> 00:11:33,754
+Då är himlastegen riktad på månen.
+
+80
+00:11:35,447 --> 00:11:43,995
+Ännu är kupolen sluten och polarspetsen står oöppnåeligt högt över observatoriegolvet men även därför har tekniken sörjt.
+
+81
+00:11:46,357 --> 00:11:56,008
+Ett tryck på en knapp på instrumenttavlan och drivet av elektriska motorer höjer sig det tunga observatoriegolvet upp till kikaren så att observatören bekvämt kan göra sina iakttagelser.
+
+82
+00:11:58,190 --> 00:12:04,736
+Åter ett tryck på en elektrisk knapp och kupolen vrider sig tills den slutna springan står mitt för

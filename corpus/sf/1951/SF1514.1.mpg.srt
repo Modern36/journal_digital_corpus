@@ -1,0 +1,215 @@
+1
+00:00:04,192 --> 00:00:06,394
+Nobelfest i Stockholms konserthus.
+
+2
+00:00:07,535 --> 00:00:12,678
+För femtionde gången ska priserna för vetenskap och vitterhet delas ut i Sveriges huvudstad.
+
+3
+00:00:14,579 --> 00:00:20,222
+De kungliga anländer, kung Gustav Adolf, drottning Louise, prinsessan Sibylla, prinsarna Bertil och Wilhelm.
+
+4
+00:00:37,482 --> 00:00:37,662
+Sjunger.
+
+5
+00:00:37,682 --> 00:00:37,823
+Sjunger.
+
+6
+00:00:37,843 --> 00:00:37,982
+Sjunger.
+
+7
+00:00:38,043 --> 00:00:38,183
+Sjunger.
+
+8
+00:01:48,522 --> 00:01:52,864
+Nobelstiftelsens ordförande, hans excellens riksmarschalken Herr Ekeberg talar.
+
+9
+00:01:53,465 --> 00:01:59,149
+Eders majesteter, eders kungliga högheter, mina damer och herrar.
+
+10
+00:02:00,489 --> 00:02:08,536
+Nobelstiftelsen framför i underdånighet sin välkomsthälsning till hans majestät konungen och hennes majestät drottningen.
+
+11
+00:02:09,496 --> 00:02:15,820
+Och hälsar värdsamt övriga medlemmar av konungahuset som hedrar denna högtidlighet med sin närvaro.
+
+12
+00:02:17,247 --> 00:02:23,870
+Stiftelsen hälsar årets pristagare och alla som samlats här för att bringa dem sin hyllning.
+
+13
+00:02:26,170 --> 00:02:36,774
+I fjol vid Nobelstiftelsens 50-årshögtid hyllade vi i denna sal minnet av vår värdade och älskade kung Gustav.
+
+14
+00:02:38,435 --> 00:02:43,096
+För några veckor sedan drabbades vårt konungahus åter av sorg.
+
+15
+00:02:44,372 --> 00:02:52,394
+Prins Karl, härtigen av Västergötland, följde sin äldre broder bort över tidens gränser.
+
+16
+00:02:54,034 --> 00:02:59,515
+Hans namn och hans gärning ska aldrig förgetas.
+
+17
+00:02:59,536 --> 00:03:05,138
+I yngre år reste han sig ett ärminne i försvarsväsendets tjänst.
+
+18
+00:03:06,358 --> 00:03:08,519
+Men vid sin bortgång framstod han
+
+19
+00:03:09,312 --> 00:03:21,219
+såsom den främste bäraren i vårt land av det fredens och människokärlekens idéer och strävanden som valt det röda korset till sin symbol.
+
+20
+00:03:21,539 --> 00:03:31,526
+Till de hyllningar som från skilda länder och folk bringats den bortgångne må det vara Nobelstiftelsen tillåtet att foga sin egen.
+
+21
+00:03:32,927 --> 00:03:37,971
+Prins Karls tankevärd och livsverk tillhörde förvisso den
+
+22
+00:03:38,776 --> 00:03:46,640
+som stiftelsens grundläggare förstod att uppskatta och som det är stiftelsens uppgift att befrämja.
+
+23
+00:03:54,365 --> 00:04:05,911
+Efter anförande av professor Waller utdelas fysikpriset till Sir John Cockcroft, chef för engelska atomenergianläggningen i Harwell och professorn vid universitetet i Dublin, Ernest Walton.
+
+24
+00:04:08,038 --> 00:04:12,120
+som ibland säger att det är det första steget som gäller.
+
+25
+00:04:12,300 --> 00:04:25,584
+Det här sägandet kan användas i den verkliga meningen för er uppfattning av transmutationer av atomiska nukleer av artificiellt accelererade partiklar.
+
+26
+00:04:27,365 --> 00:04:32,547
+Jag frågar er nu om ni kan få er Nobelpris från händerna av hans majestät, kungen.
+
+27
+00:04:39,218 --> 00:04:39,459
+Välkomna.
+
+28
+00:05:29,153 --> 00:05:35,937
+Professor Westgren har arrangerat kemikristagarna och forskarna Edwin McMillan och svenskättlingen Glenn Seaborg.
+
+29
+00:05:50,487 --> 00:05:53,048
+Det är ett stort glädje att få se dig.
+
+30
+00:05:53,069 --> 00:05:53,709
+Tack så mycket.
+
+31
+00:06:22,658 --> 00:06:29,420
+Här vänder sig professor Bergstrand till pristagaren i fysiologi och medicin, gula febens bekämpare Max Tyler.
+
+32
+00:06:30,524 --> 00:06:45,819
+The International Health Division of the Rockefeller Foundation has carried on comprehensive and fruitful work in combating the yellow fever and in extending our knowledge of its nature.
+
+33
+00:06:45,858 --> 00:06:55,348
+Among the many who have made their contributions, you take an especially prominent place because you have opened a way
+
+34
+00:06:56,141 --> 00:07:02,004
+till en bättre förståelse av sin epidemiologi och till en effektiv prophylaxis mot den.
+
+35
+00:07:02,024 --> 00:07:09,947
+Karolins institut älskar ditt forskningsarbete så högt, inte minst för sin praktiska värde, att det ser ut att vara bra att få denna års Nobelpris i fysiologi och medicin för dig.
+
+36
+00:07:22,233 --> 00:07:30,399
+Och nu, doktor Taylor, jag frågar dig om du kan få priset från händerna av hans majestät, vårt gränslösa karl.
+
+37
+00:07:51,884 --> 00:07:54,327
+Tack så mycket.
+
+38
+00:08:21,288 --> 00:08:29,355
+Svenska akademiens ständige sekreterare Dr. Anders Österling talade slutligen för den svenska litteraturpristagaren Per Lagerqvist.
+
+39
+00:08:29,596 --> 00:08:48,711
+I en ungdomlig programskrift från 1913 med titeln Ordkonst och bildkonst gävdes en den gången obekant författare vid namn Per Lagerqvist att gå till storms mot den dåtida skönlitteraturens dekadans.
+
+40
+00:08:49,625 --> 00:08:51,985
+Sådan han från sina krav uppfattade den.
+
+41
+00:08:53,706 --> 00:09:01,530
+Man kan där finna uttalanden som i sin allför kategoriska form stöter på truismen.
+
+42
+00:09:02,331 --> 00:09:10,634
+Men som i ljuset av diktarens egen senare gärning får en annan och djupare innebörd.
+
+43
+00:09:12,375 --> 00:09:15,397
+Ett av dessa uttalanden lyder sålunda.
+
+44
+00:09:16,998 --> 00:09:18,719
+Diktarens uppgift är
+
+45
+00:09:19,682 --> 00:09:31,710
+Att konstnärligt förklara tiden, lämna åt oss och eftervärlden det konstnärliga uttrycket för dess tanke och känsla.
+
+46
+00:09:34,331 --> 00:09:49,241
+Det kan väl nu fastställas att han själv i sin följande utveckling till mognad och storhet har målmedvetet uppfyllt just denna viktiga fordran.
+
+47
+00:09:51,057 --> 00:10:07,566
+Per Lagerqvist Vi som har följt din bana på närmare håll vi känner väl till din obenägenhet att personligen framträda offentligt.
+
+48
+00:10:09,687 --> 00:10:20,351
+Då detta nu likväl måste ske så ber jag dig vara förvissad om att vi lyckönskar dig uppriktigt till den belöning
+
+49
+00:10:21,041 --> 00:10:29,047
+som du enligt Svenska Akademiens mening har förtjänat framför varje medtävlare just nu.
+
+50
+00:10:31,067 --> 00:10:37,052
+Dessa meriter har jag här måste lovprisa i din egen närvaro.
+
+51
+00:10:39,173 --> 00:10:45,619
+Om inte tillfället går så högtidligt skulle jag helst vara frestad
+
+52
+00:10:46,456 --> 00:10:56,580
+Att använda det gamla, enkla talesättet vid gåvor och till slut bara säga välbekomma.
+
+53
+00:10:58,760 --> 00:11:05,883
+Och härmed ber jag dig nu ur vår konungshänder mottaga 1951 års Nobelpris i litteratur.
+
+54
+00:11:14,265 --> 00:11:15,086
+Du kan stanna här och dansa.

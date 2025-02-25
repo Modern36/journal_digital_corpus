@@ -1,0 +1,499 @@
+1
+00:00:01,461 --> 00:00:05,025
+På en utställning i Stockholm har visats senaste nytt i kontorsutrustning.
+
+2
+00:00:05,065 --> 00:00:10,252
+Eftersom automationen tydligen varit ett insteg även på det moderna kontoret var doktor Axel Wennergren med vid invigningen.
+
+3
+00:00:11,233 --> 00:00:14,897
+Det här kanske inte precis har med automation att göra men tycks ha visst värde i alla fall.
+
+4
+00:00:15,237 --> 00:00:17,559
+Det är det gånglösa arkivutrymmet som demonstreras.
+
+5
+00:00:17,960 --> 00:00:21,804
+Hulorna står tätt intill varann och när man vill åt något är det bara att skjuta på hela skåpet.
+
+6
+00:00:28,768 --> 00:00:31,489
+Det är minsann inte det lättaste för en lekman att förklara vad som för sig går.
+
+7
+00:00:31,870 --> 00:00:35,371
+Så mycket kan sägas att det är fråga om varubeställning på halvautomatisk väg.
+
+8
+00:00:37,252 --> 00:00:39,212
+Beställningen registreras på en hålremsa.
+
+9
+00:00:41,173 --> 00:00:43,473
+Här gäller det lagerbokföring på samma genialiska sätt.
+
+10
+00:00:44,054 --> 00:00:47,575
+I kassaapparaten registreras valutslaget vilket i sin tur noteras på remsan.
+
+11
+00:00:49,554 --> 00:00:57,597
+Remsan matas in i en elektronmaskin vilken inte bara kommer ihåg och registrerar allting utan också automatiskt beställer nya varor när de gamla är slut.
+
+12
+00:01:05,665 --> 00:01:08,647
+Den här hästen är en av 70 travare som tränas av ett stall i Holland.
+
+13
+00:01:09,326 --> 00:01:11,548
+Tidigt varje morgon tas hästarna ut för att motioneras.
+
+14
+00:01:11,787 --> 00:01:15,368
+Rutinen är väl i stort sett den samma vid alla sådana här anläggningar i alla länder.
+
+15
+00:01:16,388 --> 00:01:19,909
+Men ägaren av detta stall, Herr Geersen, har länge haft ett stort problem.
+
+16
+00:01:20,430 --> 00:01:24,632
+Det har varit svårt att få tag i arbetskraft och därför har hästarnas träning och motion blivit eftersatt.
+
+17
+00:01:25,412 --> 00:01:28,212
+Han måste alltså hitta på någonting för att rulla bot på detta förhållande.
+
+18
+00:01:33,617 --> 00:01:34,418
+Och vad hittade han på?
+
+19
+00:01:34,659 --> 00:01:37,400
+Jo, han lät sätta upp en skena på cirka två meters höjd över marken.
+
+20
+00:01:38,001 --> 00:01:41,103
+På denna skena löpte små hjul och vid de små hjulen fästes korta rämmar.
+
+21
+00:01:41,543 --> 00:01:43,784
+Sådana skenor sattes upp längs hela träningsbanan.
+
+22
+00:01:44,665 --> 00:01:47,087
+Varje morgon band samtliga hästar i stallet fast vid rämmarna.
+
+23
+00:01:48,649 --> 00:01:53,733
+En traktor drog runt hjulen, hästarna följde med och fick sin motion utan precis individuell översyn.
+
+24
+00:01:54,793 --> 00:01:58,855
+Vi vet inte vad sakkunskapen kan ha att säga om detta revolutionerande system för träning av travare.
+
+25
+00:01:59,275 --> 00:02:00,314
+En sak är då klar.
+
+26
+00:02:00,334 --> 00:02:04,236
+Herr Gersen är mannen som spänner vagnen, i det här fallet traktorn, för hästen.
+
+27
+00:02:14,139 --> 00:02:18,722
+Jan Levenstams radiostyrda båt har en gång gått hela den långa vägen från Helsingborg till Helsingör.
+
+28
+00:02:19,102 --> 00:02:23,883
+På modellsportens dag fick han nöja sig med att köra den i en för dagens specialbyggd damm på Stadshagens idrottsplats.
+
+29
+00:02:25,293 --> 00:02:27,633
+Det är rent märkvärdigt vad de här entusiasterna kan åstadkomma.
+
+30
+00:02:27,993 --> 00:02:33,514
+Modellerna är faktiskt små tekniska underverk och man förstår att många hobbytimmar ligger bakom framträdandet på den årliga stora dagen.
+
+31
+00:02:39,556 --> 00:02:43,598
+På Erik Grönqvists modell av vaxhånsbåten Nemdö står kaptenen fortfarande på bryggan.
+
+32
+00:02:46,459 --> 00:02:48,718
+Båten drivs av en liten ångmaskin som går på rödsprit.
+
+33
+00:02:48,998 --> 00:02:51,000
+Kanske det är lösningen på skärgårdstrafikens problem.
+
+34
+00:02:57,897 --> 00:02:59,618
+Givetvis fanns också snabba bilar med.
+
+35
+00:02:59,939 --> 00:03:06,125
+Så fort gick de att man på den begränsade banan knappt hann följa dem med blicken.
+
+36
+00:03:07,746 --> 00:03:11,248
+Det var Speedväglandskampen som tvingade arrangören att förlägga tävlingarna till stadshagen.
+
+37
+00:03:11,609 --> 00:03:13,431
+Annars håller man till på Östermalms idrottsplats.
+
+38
+00:03:13,950 --> 00:03:16,573
+Trots detta hade inte mindre än 3000 åskådare infunnit sig.
+
+39
+00:03:16,992 --> 00:03:21,276
+Det här är ett tvåmotorigt amfibieplan av typen Albatross som demonstrerades av Åke Åkesson.
+
+40
+00:03:30,947 --> 00:03:32,788
+Det är naturligtvis värdefulla saker de här planen.
+
+41
+00:03:33,068 --> 00:03:34,628
+Mycket kärleksfullt arbete ligger bakom.
+
+42
+00:03:35,229 --> 00:03:39,872
+Därför kan det, som vi ska få se, ha sina risker att ställa upp i en sån här ballongjakt än en nyhet för året.
+
+43
+00:03:42,592 --> 00:03:43,554
+Det kan gå så här.
+
+44
+00:03:47,358 --> 00:03:50,419
+I Göteborgs slagskog finns en vattensamling som kallas Stora dammen.
+
+45
+00:03:50,759 --> 00:03:53,721
+Om man traskar runt den 24 gånger så har man traskat 20 kilometer.
+
+46
+00:03:54,300 --> 00:03:58,783
+För att få vara med och gå i Melbourne fordras att man tillryggaräger den distansen dels mycket fort, dels regelriktigt.
+
+47
+00:03:59,063 --> 00:04:03,566
+Och det var för att undersöka om särskildas i himmar kunde det som en kvalificeringstävling anordnades i den faglarna in.
+
+48
+00:04:07,927 --> 00:04:11,750
+Lite olika stilar kunde studeras under tävlingen som lockat sammanlagt sju stycken deltagare.
+
+49
+00:04:20,766 --> 00:04:23,968
+Lasse Hindmar drog fram i täten redan från början följd av Folke Sakrisson.
+
+50
+00:04:24,588 --> 00:04:29,331
+Vi är inga experter på den här grenen men bekant är ju sedan tidigare att Hindmars gångstil inte alltid funnit nåd inför domarna.
+
+51
+00:04:29,630 --> 00:04:30,891
+Den här gången fick han en varning.
+
+52
+00:04:32,651 --> 00:04:33,612
+20 kilometer var det.
+
+53
+00:04:33,653 --> 00:04:34,273
+Målet hegrar.
+
+54
+00:04:36,394 --> 00:04:40,456
+Hindmar leder betryggande och den lilla publikskara som mötte upp i slavskogen ger honom en applåd.
+
+55
+00:04:42,588 --> 00:04:44,509
+Strax före mållinjen stannar Himmar upp en smula.
+
+56
+00:04:44,810 --> 00:04:47,552
+Är det kanske för att se om någon vid det här stadiet vill dra honom från banan?
+
+57
+00:04:47,833 --> 00:04:49,293
+Det förekom i en tävling för en tid sedan.
+
+58
+00:04:52,516 --> 00:04:54,199
+På andra plats går Folke Sackrisson in.
+
+59
+00:04:56,701 --> 00:04:58,343
+Ettan och tvåan postar ut tillsammans.
+
+60
+00:05:02,547 --> 00:05:04,769
+Och vem var där om inte självaste gångprofeten Teti?
+
+61
+00:05:05,048 --> 00:05:06,711
+Han ville väl se till att allt gick som det skulle.
+
+62
+00:05:12,954 --> 00:05:16,076
+En långvägagäst angjorde nyligen kajen i Göteborgs frihamn.
+
+63
+00:05:16,117 --> 00:05:19,117
+Fartygets nationalitet var rysk men närmast kom det från Spetsbergen.
+
+64
+00:05:19,798 --> 00:05:24,281
+Fartyget är enligt uppgift på 12 000 ton och genom sin konstruktion väl skickat att gå i is.
+
+65
+00:05:24,982 --> 00:05:26,201
+Op Amurmansk är namnet.
+
+66
+00:05:26,923 --> 00:05:31,785
+Så snart Op lagt till samlades man för att hälsa sig till tre av de ombordvarande välkomna åter till civilisationen.
+
+67
+00:05:32,245 --> 00:05:35,747
+Det var svenskarna Walter Schytt och Erik Eriksson samt norrmannen Nils-Jörgen Schumacher.
+
+68
+00:05:35,767 --> 00:05:39,889
+De tre hade jämt två ryska forskare varit isolerade på Spetsbergen i två veckor.
+
+69
+00:05:41,086 --> 00:05:42,988
+Här är forskarnas ryske helikopterförare.
+
+70
+00:05:44,449 --> 00:05:45,170
+Kockan på Opp.
+
+71
+00:05:47,432 --> 00:05:49,576
+Och här kommer fartygets kapten Injurskin.
+
+72
+00:05:56,603 --> 00:06:01,608
+Under utfrågningen har forskarna satt Opps besättning snällt och lyssnade över det hela vakade Stalin.
+
+73
+00:06:03,387 --> 00:06:04,487
+Och Lenin.
+
+74
+00:06:04,507 --> 00:06:07,149
+Ingen av de isolerade tvivlade någonsin på att räddningen skulle komma.
+
+75
+00:06:07,370 --> 00:06:08,930
+Man bedrev sitt arbete som om ingenting hänt.
+
+76
+00:06:09,331 --> 00:06:11,413
+Man får förmoda att det ändå kändes skönt att komma hem igen.
+
+77
+00:06:15,776 --> 00:06:21,841
+Dan Wern var mannen som skulle göra att sätta nytt rekord på gamla paradistansen 1500 meter och slå sitt eget 3-42-0.
+
+78
+00:06:22,261 --> 00:06:23,762
+Ingvar Eriksson skulle också vara med i loppet.
+
+79
+00:06:24,322 --> 00:06:27,865
+Och lika så Norrmannen Boisen som dock är specialist på kortare sträckor.
+
+80
+00:06:27,884 --> 00:06:30,107
+Dans rekordförsök skulle göras på Stoffskogsvallen.
+
+81
+00:06:32,112 --> 00:06:35,473
+Omedelbart efter starten lade sig Olle Åberg enligt förhandsritningarna i täten.
+
+82
+00:06:35,494 --> 00:06:38,935
+Han drog hårt och noterade som mellantid på 400 meter 56 sekunder.
+
+83
+00:06:39,475 --> 00:06:40,755
+Dan Wern låg på andraplats.
+
+84
+00:06:40,975 --> 00:06:43,136
+Ingvar Eriksson hade här ingen direktkänning med täten.
+
+85
+00:06:50,437 --> 00:06:52,218
+Olle Åberg bröt loppet efter två varv.
+
+86
+00:06:52,478 --> 00:06:54,300
+Mellantiden för Dan var 1.56.
+
+87
+00:06:54,579 --> 00:06:57,860
+Rolf Gottfridsson övertog dragarbetet med Wern fortfarande på andraplats.
+
+88
+00:06:58,000 --> 00:06:58,761
+Ingvar låg fyra.
+
+89
+00:07:05,120 --> 00:07:09,262
+Nu när ett varv återstår i hararna ur leken, Dan Wern drar själv, tätt följd av Ingvar Eriksson.
+
+90
+00:07:09,601 --> 00:07:11,942
+Mellantiden har varit så god att en världstid är att vänta.
+
+91
+00:07:12,163 --> 00:07:13,684
+Spänningen är stor på Slottskogsvallen.
+
+92
+00:07:15,264 --> 00:07:18,985
+Ännu på halva upploppet leder Dan och han kör förtvivlat för att skaka av sig den ättrige Ingvar.
+
+93
+00:07:19,206 --> 00:07:21,607
+Men denne ger sig inte, tvärtom ökar han takten och går om.
+
+94
+00:07:22,288 --> 00:07:25,348
+Ingvar Eriksson har varit med länge, äntligen slog det riktigt för honom.
+
+95
+00:07:25,389 --> 00:07:27,569
+3.41.2, bara 6 tiondelar över världsrekordet.
+
+96
+00:07:30,451 --> 00:07:34,716
+Dan Vänemannen som återförde fram svensk medeldistanslöpning i främsta ledet blev åter tvåa.
+
+97
+00:07:35,096 --> 00:07:36,639
+Nu får han i alla fall sällskap i Melbourne.
+
+98
+00:07:39,382 --> 00:07:40,583
+Dan såg lite ledsen ut först.
+
+99
+00:07:40,764 --> 00:07:42,786
+Rekordförsöket hade ju egentligen anordnats för honom.
+
+100
+00:07:43,105 --> 00:07:45,189
+Men sen blev det en hjärtlig klapp i magen för segraren.
+
+101
+00:07:48,836 --> 00:07:58,043
+Den som den 2 oktober stod med den rättvist klockan i näven kunde konstatera att det var precis 11.29 som finska presidentparet Kekkonen anlände till Bromma för att avlägga officiellt besök i Sverige.
+
+102
+00:07:58,964 --> 00:08:01,346
+Det var första gången en sådan statsvisit inleds på Bromma.
+
+103
+00:08:01,646 --> 00:08:04,769
+Det kan inte hjälpas att det blir lite festligare när gästerna kommer sjövägen.
+
+104
+00:08:08,052 --> 00:08:11,154
+I all sin guldsmidda parad stod kungen och väntade nedanför planet.
+
+105
+00:08:11,555 --> 00:08:15,137
+Presidenten var diskret klädd i sitt ämbetets galadress, han var med andra ord sivil.
+
+106
+00:08:18,735 --> 00:08:20,295
+Ett hjärtligt välkommen från vår drottning.
+
+107
+00:08:20,797 --> 00:08:24,420
+Kungen får buga sig djupt för att nå lilla Netta, fru Sylvie Kekkonens hand.
+
+108
+00:08:26,500 --> 00:08:28,382
+Presidenten hälsar på prinsessan Sibylla.
+
+109
+00:08:30,850 --> 00:08:34,932
+När det allmänna hälsandet styckas undan ombads presidenten inspektera hederskompaniet.
+
+110
+00:08:35,693 --> 00:08:43,278
+Om det nu är så att ceremonieret är lite annorlunda i Finland vid sådana här tillfällen eller om presidenten ännu inte har så stor vana vid militära inspektioner vill vi låta vara osagt.
+
+111
+00:08:43,759 --> 00:08:48,100
+Faktum är att kungen mildt men bestämt måste avhålla presidenten från att också inspektera musikkåren.
+
+112
+00:08:48,380 --> 00:08:49,142
+Sånt görs inte här.
+
+113
+00:08:59,058 --> 00:09:03,801
+Så kom turen till medlemmarna av regeringen som artiga och vattenkammare stod uppställda in vid flygpaviljongen.
+
+114
+00:09:04,302 --> 00:09:06,643
+Där var det rätning vänster med statsministern som riktkarl.
+
+115
+00:09:23,350 --> 00:09:26,631
+När också diplomaterna klarats av lämnar hela sällskapet flygplatsen.
+
+116
+00:09:26,932 --> 00:09:28,052
+Först presidenten och kungen.
+
+117
+00:09:32,332 --> 00:09:38,278
+Så drottningen och fru Sylvie och sen den övriga mottagningskommittén med finska utrikesministern Ralf Törngren ibland sig.
+
+118
+00:09:40,980 --> 00:09:47,585
+Efter en bilfärd in till stadshuset Alafangio satte man sig upp i galavagnarna och anträdde den korta resan upp till slottet.
+
+119
+00:10:18,620 --> 00:10:23,182
+Från stadshuset gick kortegen över Tegelbacken, in på Fredsgatan och ut på Gustav Adolfs torg.
+
+120
+00:10:23,602 --> 00:10:25,883
+Norrbro kom sen förstås och så ner på Skeppsbro.
+
+121
+00:10:57,830 --> 00:11:03,816
+Ett varmt och hjärtligt mottagande fick han, presidenten, men som väntat upprepades inte scenerna från det elisabetanska besöket.
+
+122
+00:11:04,277 --> 00:11:09,261
+När det gäller skådespel har en ung och vacker drottning betydligt större möjligheter att sätta sinnena i brand än en president.
+
+123
+00:11:20,176 --> 00:11:23,657
+Drottningen och fru Kekkonen fick vänta ett slag utanför ingången till slottet.
+
+124
+00:11:28,078 --> 00:11:31,940
+Medan världen själv och presidenten steg ur sin vagn och försvann in i västra valvet.
+
+125
+00:11:32,340 --> 00:11:36,101
+Lite vila kunde de behöva innan de tog ett tur med det digra besöksprogrammet.
