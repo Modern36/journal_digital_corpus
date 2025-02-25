@@ -10,3 +10,6 @@ __pycache__/
 *.code-workspace
 .vscode/
 .env
+
+
+*.egg-info/

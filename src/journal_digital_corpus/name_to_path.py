@@ -1,6 +1,6 @@
 from collections import defaultdict
 
-from settings import corpus_root, metadata_file
+from journal_digital_corpus.settings import corpus_root, metadata_file
 
 
 class NameToPathMapper(object):

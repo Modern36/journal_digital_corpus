@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from settings import corpus_root
+from journal_digital_corpus.settings import corpus_root
 
 
 class Corpus:

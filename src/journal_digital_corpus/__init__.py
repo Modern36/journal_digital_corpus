@@ -1,0 +1,1 @@
+from journal_digital_corpus.corpus import Corpus

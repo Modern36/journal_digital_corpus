@@ -1,9 +1,22 @@
 [project]
 dependencies =[
-  "swescribe==0.0.1"
+  "dotenv==0.9.9",
+  "python-dotenv==1.0.1"
 ]
 name = "journal_digital_corpus"
-version = "0.0.0-alpha"
+version = "0.0.1"
+readme = "README.md"
+
+[project.urls]
+Homepage = "https://modernatider1936.se"
+Repository = "https://github.com/Modern36/journal_digital_corpus"
+
+[project.optional-dependencies]
+dev = [
+  "swescribe==0.0.1",
+  "pytest",
+  "tqdm==4.67.1"
+]
 
 [tool.isort]
 profile = "black"
