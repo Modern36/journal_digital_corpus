@@ -21,3 +21,9 @@ def test_read_txt(srt_file):
     text = corpus._read_file(srt_file)
 
     assert text == "First line\n\nSecond line"
+
+
+@pytest.mark.xfail(strict=True, reason="Red phase")
+def count_files():
+    corpus = Corpus("txt")
+    assert len(corpus) == 2564
