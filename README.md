@@ -14,3 +14,11 @@ No manual editing done.
   from smdb.
 - `/.env` is used to store environmental variables:
    - `JOURNAL_DIGITALROOT` is the **local** absolute path to the videos.
+
+
+# Todo:
+
+The plan is to add functionalities later:
+ - [ ] Limit the process to specific groups
+ - [ ] Limit the process to specific years
+ - [ ] Outputting srt or json formats of the files
