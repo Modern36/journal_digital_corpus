@@ -3,9 +3,14 @@
 Transcriptions of all  the `journal digital` videos. Created with
 Swescribe -- a wrapper around WhisperX.
 
-## Version 0.0.0-alpha
+## Installation
 
-Created with `SweScribe==v0.0.1`
+Git clone repository, cd in to the directory and run:
+`python -m pip install -e . `
+
+## Version 0.0.1
+
+Created with `SweScribe==v0.0.1` on `2025-02-25`
 No manual editing done.
 
 ## files

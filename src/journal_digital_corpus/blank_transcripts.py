@@ -1,4 +1,4 @@
-from settings import corpus_root, empty_srts_file
+from journal_digital_corpus.settings import corpus_root, empty_srts_file
 
 
 def emtpy_srt():

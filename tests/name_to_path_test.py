@@ -1,4 +1,4 @@
-from src.name_to_path import NameToPathMapper
+from journal_digital_corpus.name_to_path import NameToPathMapper
 
 
 def test_creation():

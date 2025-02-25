@@ -1,16 +1,15 @@
 import subprocess
-from pathlib import Path
 
 from swescribe.__main__ import pipeline
 from tqdm import tqdm
 
-from blank_transcripts import (
+from journal_digital_corpus.blank_transcripts import (
     load_empty_filenames,
     remove_empty_transcripts,
     write_empty_filenames,
 )
-from name_to_path import NameToPathMapper
-from settings import video_root
+from journal_digital_corpus.name_to_path import NameToPathMapper
+from journal_digital_corpus.settings import video_root
 
 mapper = NameToPathMapper()
 
