@@ -1,6 +1,7 @@
 import os
 import re
 from collections import namedtuple
+from tqdm import tqdm
 
 srt_input_dir = os.path.abspath("corpus")
 txt_output_dir = os.path.abspath("corpus_txt")
@@ -55,7 +56,7 @@ def convert_srt_to_txt(input_dir, output_dir):
             if file.endswith(".srt"):
                 srt_files.append((root, file))
 
-    for root, file in srt_files:
+    for root, file in tqdm(srt_files, desc="Processing srt files"):
         input_path = os.path.join(root, file)
         rel_dir = os.path.relpath(root, input_dir)
         target_dir = os.path.join(output_dir, rel_dir)
