@@ -2,8 +2,6 @@ import os
 import re
 from collections import namedtuple
 
-from swescribe import num_test_cases
-
 srt_input_dir = os.path.abspath("corpus")
 txt_output_dir = os.path.abspath("corpus_txt")
 
@@ -56,11 +54,6 @@ def convert_srt_to_txt(input_dir, output_dir):
         for file in files:
             if file.endswith(".srt"):
                 srt_files.append((root, file))
-
-    if len(srt_files) != num_test_cases:
-        raise ValueError(
-            f"Expected {num_test_cases} SRT files, found {len(srt_files)}"
-        )
 
     for root, file in srt_files:
         input_path = os.path.join(root, file)
