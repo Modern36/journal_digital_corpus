@@ -1,14 +1,13 @@
 import os
 import re
 from collections import namedtuple
-from pathlib import Path
 
 from swescribe import num_test_cases
-from swescribe.paths import srt_output_dir, txt_output_dir
 
-SubtitleSegment = namedtuple(
-    "SubtitleSegment", ["idx", "start", "end", "text"]
-)
+srt_input_dir = os.path.abspath("corpus")
+txt_output_dir = os.path.abspath("corpus_txt")
+
+SubtitleSegment = namedtuple("SubtitleSegment", ["idx", "start", "end", "text"])
 
 
 def time_str_to_seconds(t):
@@ -131,34 +130,39 @@ def clear_subtitle_segments_text(segments, filename_base):
 
 
 def convert_srt_to_txt(input_dir, output_dir):
-    os.makedirs(output_dir, exist_ok=True)
+    input_dir = os.path.abspath(input_dir)
+    output_dir = os.path.abspath(output_dir)
 
-    srt_files = [f for f in os.listdir(input_dir) if f.endswith(".srt")]
+    # Recursively gather all .srt files along with their subdirectory paths.
+    srt_files = []
+    for root, _, files in os.walk(input_dir):
+        for file in files:
+            if file.endswith(".srt"):
+                srt_files.append((root, file))
 
     if len(srt_files) != num_test_cases:
         raise ValueError(
             f"Expected {num_test_cases} SRT files, found {len(srt_files)}"
         )
 
-    for srt_file in srt_files:
-        input_path = os.path.join(input_dir, srt_file)
-        output_filename = os.path.splitext(srt_file)[0] + ".txt"
-        output_path = os.path.join(output_dir, output_filename)
+    for root, file in srt_files:
+        input_path = os.path.join(root, file)
+        rel_dir = os.path.relpath(root, input_dir)
+        target_dir = os.path.join(output_dir, rel_dir)
+        os.makedirs(target_dir, exist_ok=True)
+        output_filename = os.path.splitext(file)[0] + ".txt"
+        output_path = os.path.join(target_dir, output_filename)
 
         segments = parse_srt(input_path)
 
-        filename_base = os.path.splitext(srt_file)[0]
-        cleaned_segments = clear_subtitle_segments_text(
-            segments, filename_base
-        )
+        filename_base = os.path.splitext(file)[0]
+        cleaned_segments = clear_subtitle_segments_text(segments, filename_base)
 
-        cleaned_lines = [
-            seg.text for seg in cleaned_segments if seg.text.strip()
-        ]
+        cleaned_lines = [seg.text for seg in cleaned_segments if seg.text.strip()]
 
         with open(output_path, "w", encoding="utf-8") as outfile:
             outfile.write("\n\n".join(cleaned_lines) + "\n")
 
 
 if __name__ == "__main__":
-    convert_srt_to_txt(srt_output_dir, txt_output_dir)
+    convert_srt_to_txt(srt_input_dir, txt_output_dir)
