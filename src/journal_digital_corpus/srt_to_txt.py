@@ -8,7 +8,8 @@ srt_input_dir = os.path.abspath("corpus")
 txt_output_dir = os.path.abspath("corpus_txt")
 
 SubtitleSegment = namedtuple(
-    "SubtitleSegment", ["idx", "start", "end", "text"]
+    "SubtitleSegment",
+    ["idx", "start", "end", "text", "num_words", "duration_seconds"],
 )
 time_pattern = re.compile(
     r"(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})"
@@ -36,11 +37,18 @@ def parse_srt(srt_path):
         start, end = match.groups()
         idx = int(idx_line)
 
+        start_second = srt_time_to_seconds(start)
+        end_second = srt_time_to_seconds(end)
+        duration_seconds = end_second - start_second
+        num_words = len(text_line.split())
+
         yield SubtitleSegment(
             idx=idx,
             start=start,
             end=end,
             text=text_line,
+            duration_seconds=duration_seconds,
+            num_words=num_words,
         )
 
 
