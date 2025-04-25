@@ -1,11 +1,7 @@
-import os
 import re
 from collections import namedtuple
 
 from tqdm import tqdm
-
-srt_input_dir = os.path.abspath("corpus")
-txt_output_dir = os.path.abspath("corpus_txt")
 
 SubtitleSegment = namedtuple(
     "SubtitleSegment",
