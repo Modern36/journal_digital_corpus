@@ -17,8 +17,13 @@ time_pattern = re.compile(
 
 def srt_time_to_seconds(t):
     hours, minutes, s_milli = t.split(":")
-    s, milli = s_milli.split(",")
-    return int(hours) * 3600 + int(minutes) * 60 + int(s) + int(milli) / 1000.0
+    seconds, milli = s_milli.split(",")
+    return (
+        int(hours) * 3600
+        + int(minutes) * 60
+        + int(seconds)
+        + int(milli) / 1000.0
+    )
 
 
 def parse_srt(srt_path):
@@ -32,7 +37,12 @@ def parse_srt(srt_path):
         start, end = match.groups()
         idx = int(idx_line)
 
-        yield SubtitleSegment(idx=idx, start=start, end=end, text=text_line)
+        yield SubtitleSegment(
+            idx=idx,
+            start=start,
+            end=end,
+            text=text_line,
+        )
 
 
 def convert_srt_to_txt(input_dir, output_dir):
