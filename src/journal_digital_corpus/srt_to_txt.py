@@ -50,32 +50,3 @@ def parse_srt(srt_path):
             duration_seconds=duration_seconds,
             num_words=num_words,
         )
-
-
-def convert_srt_to_txt(input_dir, output_dir):
-    input_dir = os.path.abspath(input_dir)
-    output_dir = os.path.abspath(output_dir)
-
-    srt_files = []
-    for root, _, files in os.walk(input_dir):
-        for file in files:
-            if file.endswith(".srt"):
-                srt_files.append((root, file))
-
-    for root, file in tqdm(srt_files, desc="Processing srt files"):
-        input_path = os.path.join(root, file)
-        rel_dir = os.path.relpath(root, input_dir)
-        target_dir = os.path.join(output_dir, rel_dir)
-        os.makedirs(target_dir, exist_ok=True)
-        output_filename = os.path.splitext(file)[0] + ".txt"
-        output_path = os.path.join(target_dir, output_filename)
-
-        segments = list(parse_srt(input_path))
-        cleaned_lines = [seg.text for seg in segments if seg.text.strip()]
-
-        with open(output_path, "w", encoding="utf-8") as outfile:
-            outfile.write("\n\n".join(cleaned_lines) + "\n")
-
-
-if __name__ == "__main__":
-    convert_srt_to_txt(srt_input_dir, txt_output_dir)
