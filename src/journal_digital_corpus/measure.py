@@ -1,6 +1,7 @@
 import re
 from collections import namedtuple
 
+from settings import corpus_root
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
