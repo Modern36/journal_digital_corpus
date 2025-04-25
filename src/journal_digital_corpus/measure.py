@@ -91,4 +91,4 @@ if __name__ == "__main__":
         measurements_description, sep="\t", float_format="%.2f"
     )
 
-    df.describe().sum().to_csv(measurements_sum, sep="\t", float_format="%.2f")
+    df.sum().to_csv(measurements_sum, sep="\t", float_format="%.2f")
