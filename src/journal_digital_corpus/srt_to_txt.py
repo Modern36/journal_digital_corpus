@@ -33,14 +33,13 @@ def parse_srt(srt_path):
             time_line = lines[1].strip()
             text_lines = lines[2:]
             match = time_pattern.match(time_line)
-            if match:
-                start, end = match.groups()
-                text = " ".join(
-                    line.strip() for line in text_lines if line.strip()
-                )
-                idx = int(idx_line)
+            start, end = match.groups()
+            text = " ".join(
+                line.strip() for line in text_lines if line.strip()
+            )
+            idx = int(idx_line)
 
-                yield SubtitleSegment(idx=idx, start=start, end=end, text=text)
+            yield SubtitleSegment(idx=idx, start=start, end=end, text=text)
 
 
 def convert_srt_to_txt(input_dir, output_dir):
