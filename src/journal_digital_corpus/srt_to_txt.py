@@ -10,6 +10,9 @@ txt_output_dir = os.path.abspath("corpus_txt")
 SubtitleSegment = namedtuple(
     "SubtitleSegment", ["idx", "start", "end", "text"]
 )
+time_pattern = re.compile(
+    r"(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})"
+)
 
 
 def srt_time_to_seconds(t):
@@ -22,9 +25,6 @@ def parse_srt(srt_path):
     with open(srt_path, "r", encoding="utf-8") as f:
         content = f.read().strip()
     blocks = content.split("\n\n")
-    time_pattern = re.compile(
-        r"(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})"
-    )
 
     segments = []
     for block in blocks:
