@@ -49,9 +49,8 @@ def parse_srt(srt_path):
         )
 
 
-if __name__ == "__main__":
+def measure_corpus():
     srts = tqdm(list(corpus_root.glob("**/*.srt")))
-
     for srt in srts:
         srts.desc = srt.stem
         num_segments = 0
@@ -61,3 +60,9 @@ if __name__ == "__main__":
             num_segments += 1
             duration_seconds += segment.duration_seconds
             num_words += segment.num_words
+        yield {
+            "file": srt.stem,
+            "num_segments": num_segments,
+            "duration_seconds": duration_seconds,
+            "num_words": num_words,
+        }
