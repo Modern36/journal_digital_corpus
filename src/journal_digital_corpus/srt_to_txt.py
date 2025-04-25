@@ -39,10 +39,8 @@ def parse_srt(srt_path):
                 text = " ".join(
                     line.strip() for line in text_lines if line.strip()
                 )
-                try:
-                    idx = int(idx_line)
-                except ValueError:
-                    continue
+                idx = int(idx_line)
+
                 segments.append(
                     SubtitleSegment(idx=idx, start=start, end=end, text=text)
                 )
