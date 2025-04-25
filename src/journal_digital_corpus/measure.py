@@ -73,4 +73,6 @@ if __name__ == "__main__":
     df = pd.DataFrame(measure_corpus())
     df.to_csv(measurements, sep="\t", index=False)
 
-    df.describe().to_csv(measurements_description, sep="\t")
+    df.describe().to_csv(
+        measurements_description, sep="\t", float_format="%.2f"
+    )
