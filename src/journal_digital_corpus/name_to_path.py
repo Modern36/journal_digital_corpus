@@ -1,12 +1,12 @@
 from collections import defaultdict
 
-from journal_digital_corpus.settings import corpus_root, metadata_file
+from journal_digital_corpus.settings import corpus_root, name_year_mapping
 
 
 class NameToPathMapper(object):
     def __init__(self):
         self.dict = defaultdict(str)
-        with open(metadata_file, "r", encoding="utf-8") as f:
+        with open(name_year_mapping, "r", encoding="utf-8") as f:
             for line in f.readlines():
                 name, year = line.split("\t")
                 self.dict[name] = year.strip()
