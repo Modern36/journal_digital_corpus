@@ -3,7 +3,12 @@ from collections import namedtuple
 
 import pandas as pd
 from NameSeconds import NameSeconds
-from settings import corpus_root, measurements, measurements_description
+from settings import (
+    corpus_root,
+    measurements,
+    measurements_description,
+    measurements_sum,
+)
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
@@ -85,3 +90,5 @@ if __name__ == "__main__":
     df.describe().to_csv(
         measurements_description, sep="\t", float_format="%.2f"
     )
+
+    df.describe().sum().to_csv(measurements_sum, sep="\t", float_format="%.2f")

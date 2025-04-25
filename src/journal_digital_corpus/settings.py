@@ -15,3 +15,6 @@ empty_srts_file = project_root / "empty.tsv"
 
 measurements = corpus_root / "measurements.tsv"
 measurements_description = corpus_root / "measurements_description.tsv"
+
+
+measurements_sum = corpus_root / "measurements_sum.tsv"
