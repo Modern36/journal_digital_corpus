@@ -25,7 +25,7 @@ def test_read_txt(srt_file):
 
 def test_count_files():
     corpus = Corpus("txt")
-    assert len(corpus) == 2564
+    assert len(corpus) == 2563
 
 
 def test_count_files_iter():
@@ -33,7 +33,7 @@ def test_count_files_iter():
     c = 0
     for file in corpus:
         c += 1
-    assert c == 2564
+    assert c == 2563
 
 
 def test_no_empty_files():

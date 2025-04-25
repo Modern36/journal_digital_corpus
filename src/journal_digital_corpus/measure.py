@@ -2,7 +2,7 @@ import re
 from collections import namedtuple
 
 import pandas as pd
-from settings import corpus_root, measurements
+from settings import corpus_root, measurements, measurements_description
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
@@ -71,4 +71,6 @@ def measure_corpus():
 
 if __name__ == "__main__":
     df = pd.DataFrame(measure_corpus())
-    df.to_csv(corpus_root / "measurements.tsv", sep="\t", index=False)
+    df.to_csv(measurements, sep="\t", index=False)
+
+    df.describe().to_csv(measurements_description, sep="\t")

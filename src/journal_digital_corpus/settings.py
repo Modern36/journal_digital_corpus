@@ -12,3 +12,4 @@ name_year_mapping = project_root / "name_year.tsv"
 empty_srts_file = project_root / "empty.tsv"
 
 measurements = corpus_root / "measurements.tsv"
+measurements_description = corpus_root / "measurements_description.tsv"
