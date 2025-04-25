@@ -27,10 +27,7 @@ def parse_srt(srt_path):
     blocks = content.split("\n\n")
 
     for block in blocks:
-        lines = block.split("\n")
-        idx_line = lines[0].strip()
-        time_line = lines[1].strip()
-        text_lines = lines[2:]
+        idx_line, time_line, *text_lines = block.split("\n")
         match = time_pattern.match(time_line)
         start, end = match.groups()
         text = " ".join(line.strip() for line in text_lines if line.strip())
