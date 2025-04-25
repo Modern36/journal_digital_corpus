@@ -71,6 +71,9 @@ def measure_corpus():
 
 if __name__ == "__main__":
     df = pd.DataFrame(measure_corpus())
+
+    df.sort_values(by="file", inplace=True)
+
     df.to_csv(measurements, sep="\t", index=False)
 
     df.describe().to_csv(
