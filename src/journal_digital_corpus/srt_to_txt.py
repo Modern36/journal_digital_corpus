@@ -1,18 +1,21 @@
 import os
 import re
 from collections import namedtuple
+
 from tqdm import tqdm
 
 srt_input_dir = os.path.abspath("corpus")
 txt_output_dir = os.path.abspath("corpus_txt")
 
-SubtitleSegment = namedtuple("SubtitleSegment", ["idx", "start", "end", "text"])
+SubtitleSegment = namedtuple(
+    "SubtitleSegment", ["idx", "start", "end", "text"]
+)
 
 
-def time_str_to_seconds(t):
-    h, m, s_milli = t.split(":")
+def srt_time_to_seconds(t):
+    hours, m, s_milli = t.split(":")
     s, milli = s_milli.split(",")
-    return int(h) * 3600 + int(m) * 60 + int(s) + int(milli) / 1000.0
+    return int(hours) * 3600 + int(m) * 60 + int(s) + int(milli) / 1000.0
 
 
 def parse_srt(srt_path):
