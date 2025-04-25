@@ -1,7 +1,7 @@
 import re
 from collections import namedtuple
 
-from settings import corpus_root
+from settings import corpus_root, measurements
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
@@ -47,3 +47,17 @@ def parse_srt(srt_path):
             duration_seconds=duration_seconds,
             num_words=num_words,
         )
+
+
+if __name__ == "__main__":
+    srts = tqdm(list(corpus_root.glob("**/*.srt")))
+
+    for srt in srts:
+        srts.desc = srt.stem
+        num_segments = 0
+        duration_seconds = 0
+        num_words = 0
+        for segment in parse_srt(srt):
+            num_segments += 1
+            duration_seconds += segment.duration_seconds
+            num_words += segment.num_words
