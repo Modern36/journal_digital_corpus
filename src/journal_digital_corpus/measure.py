@@ -1,6 +1,7 @@
 import re
 from collections import namedtuple
 
+import pandas as pd
 from settings import corpus_root, measurements
 from tqdm import tqdm
 
@@ -16,7 +17,7 @@ time_pattern = re.compile(
 def srt_time_to_seconds(t):
     hours, minutes, s_milli = t.split(":")
     seconds, milli = s_milli.split(",")
-    return (
+    return int(
         int(hours) * 3600
         + int(minutes) * 60
         + int(seconds)
@@ -66,3 +67,8 @@ def measure_corpus():
             "duration_seconds": duration_seconds,
             "num_words": num_words,
         }
+
+
+if __name__ == "__main__":
+    df = pd.DataFrame(measure_corpus())
+    df.to_csv(corpus_root / "measurements.tsv", sep="\t", index=False)
