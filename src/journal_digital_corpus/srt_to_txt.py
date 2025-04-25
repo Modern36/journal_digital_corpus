@@ -29,9 +29,8 @@ def srt_time_to_seconds(t):
 def parse_srt(srt_path):
     with open(srt_path, "r", encoding="utf-8") as f:
         content = f.read().strip()
-    blocks = content.split("\n\n")
 
-    for block in blocks:
+    for block in content.split("\n\n"):
         idx_line, time_line, text_line = block.split("\n")
         match = time_pattern.match(time_line)
         start, end = match.groups()
