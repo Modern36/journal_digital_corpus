@@ -26,7 +26,6 @@ def parse_srt(srt_path):
         content = f.read().strip()
     blocks = content.split("\n\n")
 
-    segments = []
     for block in blocks:
         lines = block.split("\n")
         if len(lines) >= 2:
@@ -41,10 +40,7 @@ def parse_srt(srt_path):
                 )
                 idx = int(idx_line)
 
-                segments.append(
-                    SubtitleSegment(idx=idx, start=start, end=end, text=text)
-                )
-    return segments
+                yield SubtitleSegment(idx=idx, start=start, end=end, text=text)
 
 
 def convert_srt_to_txt(input_dir, output_dir):
@@ -65,7 +61,7 @@ def convert_srt_to_txt(input_dir, output_dir):
         output_filename = os.path.splitext(file)[0] + ".txt"
         output_path = os.path.join(target_dir, output_filename)
 
-        segments = parse_srt(input_path)
+        segments = list(parse_srt(input_path))
         cleaned_lines = [seg.text for seg in segments if seg.text.strip()]
 
         with open(output_path, "w", encoding="utf-8") as outfile:
