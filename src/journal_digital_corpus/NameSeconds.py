@@ -1,6 +1,6 @@
 import subprocess
 
-from journal_digital_corpus.settings import name_seconds_mapping, video_root
+from settings import name_seconds_mapping, video_root
 
 
 class NameSeconds:

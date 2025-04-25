@@ -2,10 +2,9 @@ import re
 from collections import namedtuple
 
 import pandas as pd
+from NameSeconds import NameSeconds
 from settings import corpus_root, measurements, measurements_description
 from tqdm import tqdm
-
-from journal_digital_corpus.NameSeconds import NameSeconds
 
 SubtitleSegment = namedtuple(
     "SubtitleSegment",
@@ -53,6 +52,8 @@ def parse_srt(srt_path):
 
 
 def measure_corpus():
+    ns = NameSeconds()
+
     srts = tqdm(list(corpus_root.glob("**/*.srt")))
     for srt in srts:
         srts.desc = srt.stem
@@ -68,20 +69,16 @@ def measure_corpus():
             "num_segments": num_segments,
             "speech_seconds": duration_seconds,
             "num_words": num_words,
+            "video_seconds": ns[srt.stem],
         }
+
+    ns.save()
 
 
 if __name__ == "__main__":
-    ns = NameSeconds()
 
     df = pd.DataFrame(measure_corpus())
     df.sort_values(by="file", inplace=True)
-
-    df["video_seconds"] = df.apply(
-        lambda row: ns.get_duration(row["file"]), axis=1
-    )
-
-    ns.save()
 
     df.to_csv(measurements, sep="\t", index=False)
 
