@@ -13,9 +13,9 @@ SubtitleSegment = namedtuple(
 
 
 def srt_time_to_seconds(t):
-    hours, m, s_milli = t.split(":")
+    hours, minutes, s_milli = t.split(":")
     s, milli = s_milli.split(",")
-    return int(hours) * 3600 + int(m) * 60 + int(s) + int(milli) / 1000.0
+    return int(hours) * 3600 + int(minutes) * 60 + int(s) + int(milli) / 1000.0
 
 
 def parse_srt(srt_path):
