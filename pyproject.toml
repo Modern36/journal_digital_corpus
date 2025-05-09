@@ -3,6 +3,7 @@ dependencies =[
   "dotenv==0.9.9",
   "python-dotenv==1.0.1"
   "pandas==2.2.3",
+  "tqdm==4.67.1",
 ]
 name = "journal_digital_corpus"
 version = "0.0.1"
