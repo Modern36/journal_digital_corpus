@@ -11,10 +11,12 @@ from journal_digital_corpus.blank_transcripts import (
 from journal_digital_corpus.name_to_path import NameToPathMapper
 from journal_digital_corpus.settings import video_root
 
-mapper = NameToPathMapper()
+speech_path_mapper = NameToPathMapper(video_root)
+
+groups = ("kino", "nuet", "sf", "sj", "ufa")
 
 
-def video_path_pairs(groups=["kino", "nuet", "sf", "sj", "ufa"]):
+def video_path_pairs():
     for group in groups:
         yield from group_to_video_paths(group)
 
@@ -27,7 +29,7 @@ def group_to_video_paths(group, force=False):
             continue
 
         name = video.name
-        srt_path = mapper(group=group, name=name)
+        srt_path = speech_path_mapper(group=group, name=name)
         if not (force and srt_path.exists()):
             continue
 
