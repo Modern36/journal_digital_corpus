@@ -38,7 +38,7 @@ def group_to_intertitle_paths(group, force=False):
 
         name = video.name
         srt_path = intetitel_path_mapper(group=group, name=name)
-        if not (force and srt_path.exists()):
+        if srt_path.exists() and not force:
             continue
 
         yield video, srt_path
