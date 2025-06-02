@@ -1,13 +1,14 @@
 import re
 from collections import namedtuple
+from pathlib import Path
 
 import pandas as pd
 from NameSeconds import NameSeconds
 from settings import (
-    corpus_root,
     measurements,
     measurements_description,
     measurements_sum,
+    speech_root,
 )
 from tqdm import tqdm
 
@@ -56,10 +57,10 @@ def parse_srt(srt_path):
         )
 
 
-def measure_corpus():
+def measure_corpus(corpus_subdir: Path):
     ns = NameSeconds()
 
-    srts = tqdm(list(corpus_root.glob("**/*.srt")))
+    srts = tqdm(list(corpus_subdir.glob("**/*.srt")))
     for srt in srts:
         srts.desc = srt.stem
         num_segments = 0
@@ -80,8 +81,7 @@ def measure_corpus():
     ns.save()
 
 
-if __name__ == "__main__":
-
+def store_corpus_measurements(measure_corpus):
     df = pd.DataFrame(measure_corpus())
     df.sort_values(by="file", inplace=True)
 
@@ -92,3 +92,8 @@ if __name__ == "__main__":
     )
 
     df.sum().to_csv(measurements_sum, sep="\t", float_format="%.2f")
+
+
+if __name__ == "__main__":
+
+    store_corpus_measurements(measure_corpus)
