@@ -1,6 +1,7 @@
 import subprocess
 
-from swescribe.__main__ import swescribe_pipeline
+from stum.video_to_srt import pipeline as stum_pipeline
+from swescribe.__main__ import pipeline as swescribe_pipeline
 from tqdm import tqdm
 
 from journal_digital_corpus.blank_transcripts import (
@@ -87,6 +88,6 @@ if __name__ == "__main__":
         swescribe_pipeline(video_path, srt_path)
 
     for video_path, srt_path in tqdm(intertitle_path_pairs(), total=5217):
-        pass  # pipeline(video_path, srt_path)
+        stum_pipeline(video_path, srt_path)
 
     remove_empty_transcripts()
