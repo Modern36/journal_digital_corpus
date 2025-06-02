@@ -1,4 +1,5 @@
 from collections import defaultdict
+from pathlib import Path
 
 from journal_digital_corpus.settings import corpus_root, name_year_mapping
 
@@ -6,8 +7,9 @@ from journal_digital_corpus.settings import corpus_root, name_year_mapping
 class NameToPathMapper(object):
     def __init__(
         self,
+        root: Path = corpus_root,
     ):
-        self.root = corpus_root
+        self.root = root
         self.dict = defaultdict(str)
         with open(name_year_mapping, "r", encoding="utf-8") as f:
             for line in f.readlines():
