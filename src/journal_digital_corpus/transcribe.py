@@ -84,10 +84,18 @@ def group_to_speech_paths(group, force=False):
 
 
 if __name__ == "__main__":
-    for video_path, srt_path in tqdm(speech_path_pairs(), total=5217):
+    for video_path, srt_path in tqdm(
+        speech_path_pairs(),
+        total=5217,
+        desc="Speech Transcription",
+    ):
         swescribe_pipeline(video_path, srt_path)
 
-    for video_path, srt_path in tqdm(intertitle_path_pairs(), total=5217):
+    for video_path, srt_path in tqdm(
+        intertitle_path_pairs(),
+        total=5217,
+        desc="Intertitle Transcription",
+    ):
         stum_pipeline(video_path, srt_path)
 
     remove_empty_transcripts()
