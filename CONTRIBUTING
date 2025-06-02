@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-Welcome to stum! We're excited that you're interested in contributing.
+Welcome to journal_digital_corpus! We're excited that you're interested in contributing.
 These guidelines are designed to make the contribution process as
 straightforward as possible.
 
@@ -15,17 +15,17 @@ being merged.
 1.  **Fork the Repository**: If you don't have write access to the main
     repository, start by forking it on GitHub. Click the "Fork" button at the
     top right of the
-    [stum repository page](https://github.com/Modern36/stum).
+    [journal_digital_corpus repository page](https://github.com/Modern36/journal_digital_corpus).
 
 2.  **Clone Your Fork**: Clone your forked repository to your local machine.
     Replace `your-username` with your actual GitHub username.
     ```sh
-    git clone https://github.com/your-username/stum.git
-    cd stum
+    git clone https://github.com/your-username/journal_digital_corpus.git
+    cd journal_digital_corpus
     ```
 
 3.  **Set Up Your Development Environment**:
-    * **Python Version**: stum requires Python `>=3.10` as specified
+    * **Python Version**: journal_digital_corpus requires Python `>=3.10` as specified
         in `pyproject.toml`. We recommend using a virtual environment (e.g.,
         `venv`) to manage dependencies.
         ```sh
@@ -94,9 +94,9 @@ being merged.
     git push origin my-awesome-feature
     ```
 
-2.  **Open a Pull Request (PR)**: Go to the stum repository on GitHub and
+2.  **Open a Pull Request (PR)**: Go to the journal_digital_corpus repository on GitHub and
     click the "New pull request" button.
-    * Ensure the base repository is `Modern36/stum` and the base branch is
+    * Ensure the base repository is `Modern36/journal_digital_corpus` and the base branch is
         `main` (or the relevant development branch).
     * Ensure the head repository is your fork and the compare branch is
         `my-awesome-feature`.
@@ -119,11 +119,11 @@ When reporting a bug, please include:
 *   Steps to reproduce the bug.
 *   What you expected to happen.
 *   What actually happened.
-*   Your operating system, Python version, and stum version.
+*   Your operating system, Python version, and journal_digital_corpus version.
 
 ## License
 
-By contributing to stum, you agree that your contributions will be
+By contributing to journal_digital_corpus, you agree that your contributions will be
 licensed under the CC-BY-NC 4.0 License that covers the project.
 
 ## Questions?
@@ -131,4 +131,4 @@ licensed under the CC-BY-NC 4.0 License that covers the project.
 If you have any questions, feel free to ask by opening an issue on the issue
 tracker.
 
-Thank you for contributing to stum!
+Thank you for contributing to journal_digital_corpus!
