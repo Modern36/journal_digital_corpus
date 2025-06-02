@@ -1,6 +1,6 @@
 import subprocess
 
-from swescribe.__main__ import pipeline
+from swescribe.__main__ import swescribe_pipeline
 from tqdm import tqdm
 
 from journal_digital_corpus.blank_transcripts import (
@@ -36,7 +36,7 @@ def group_to_intertitle_paths(group, force=False):
     for video in group_dir.glob("**/*.mpg"):
 
         name = video.name
-        srt_path = speech_path_mapper(group=group, name=name)
+        srt_path = intetitel_path_mapper(group=group, name=name)
         if not (force and srt_path.exists()):
             continue
 
@@ -84,6 +84,9 @@ def group_to_speech_paths(group, force=False):
 
 if __name__ == "__main__":
     for video_path, srt_path in tqdm(speech_path_pairs(), total=5217):
-        pipeline(video_path, srt_path)
+        swescribe_pipeline(video_path, srt_path)
+
+    for video_path, srt_path in tqdm(intertitle_path_pairs(), total=5217):
+        pass  # pipeline(video_path, srt_path)
 
     remove_empty_transcripts()
