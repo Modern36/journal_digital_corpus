@@ -1,10 +1,10 @@
 from pathlib import Path
 
-from journal_digital_corpus.settings import corpus_root
+from journal_digital_corpus.settings import speech_root
 
 
 class Corpus:
-    _root = corpus_root
+    _root = speech_root
 
     def __init__(self, mode="txt"):
         self.set_mode(mode=mode)
