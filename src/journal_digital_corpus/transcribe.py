@@ -14,12 +14,12 @@ from journal_digital_corpus.settings import video_root
 mapper = NameToPathMapper()
 
 
-def groups_to_paths(groups=["kino", "nuet", "sf", "sj", "ufa"]):
+def video_path_pairs(groups=["kino", "nuet", "sf", "sj", "ufa"]):
     for group in groups:
-        yield from group_to_paths(group)
+        yield from group_to_video_paths(group)
 
 
-def group_to_paths(group, force=False):
+def group_to_video_paths(group, force=False):
     empty_files = load_empty_filenames()
     group_dir = video_root / group
     for video in group_dir.glob("**/*.mpg"):
@@ -59,7 +59,7 @@ def group_to_paths(group, force=False):
 
 
 if __name__ == "__main__":
-    for video_path, srt_path in tqdm(groups_to_paths(), total=5217):
+    for video_path, srt_path in tqdm(video_path_pairs(), total=5217):
         pipeline(video_path, srt_path)
 
     remove_empty_transcripts()
