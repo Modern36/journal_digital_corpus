@@ -4,7 +4,10 @@ from journal_digital_corpus.settings import corpus_root, name_year_mapping
 
 
 class NameToPathMapper(object):
-    def __init__(self):
+    def __init__(
+        self,
+    ):
+        self.root = corpus_root
         self.dict = defaultdict(str)
         with open(name_year_mapping, "r", encoding="utf-8") as f:
             for line in f.readlines():
@@ -16,7 +19,7 @@ class NameToPathMapper(object):
         year = self.dict[short_name]
         if year == "":
             year = "XXXX"
-        out_dir = corpus_root / group / year
+        out_dir = self.root / group / year
         out_dir.mkdir(exist_ok=True, parents=True)
 
         fname = name + ".srt"
