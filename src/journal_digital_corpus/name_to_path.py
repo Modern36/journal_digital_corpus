@@ -1,13 +1,13 @@
 from collections import defaultdict
 from pathlib import Path
 
-from journal_digital_corpus.settings import corpus_root, name_year_mapping
+from journal_digital_corpus.settings import name_year_mapping, speech_root
 
 
 class NameToPathMapper(object):
     def __init__(
         self,
-        root: Path = corpus_root,
+        root: Path = speech_root,
     ):
         self.root = root
         self.dict = defaultdict(str)
