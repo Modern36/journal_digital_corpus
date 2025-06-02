@@ -4,7 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 from NameSeconds import NameSeconds
-from settings import speech_root
+from settings import intertitle_root, speech_root
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
@@ -97,3 +97,4 @@ def store_corpus_measurements(corpus_subdir: Path):
 if __name__ == "__main__":
 
     store_corpus_measurements(speech_root)
+    store_corpus_measurements(intertitle_root)
