@@ -14,12 +14,3 @@ intertitle_root = corpus_root / "intertitle"
 name_year_mapping = project_root / "name_year.tsv"
 name_seconds_mapping = project_root / "name_seconds.tsv"
 empty_srts_file = project_root / "empty.tsv"
-
-
-measurements = speech_root / "measurements.tsv"
-measurements_description = speech_root / "measurements_description.tsv"
-measurements_sum = speech_root / "measurements_sum.tsv"
-
-measurements = intertitle_root / "measurements.tsv"
-measurements_description = intertitle_root / "measurements_description.tsv"
-measurements_sum = intertitle_root / "measurements_sum.tsv"

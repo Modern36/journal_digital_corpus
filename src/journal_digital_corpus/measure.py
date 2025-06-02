@@ -4,12 +4,7 @@ from pathlib import Path
 
 import pandas as pd
 from NameSeconds import NameSeconds
-from settings import (
-    measurements,
-    measurements_description,
-    measurements_sum,
-    speech_root,
-)
+from settings import speech_root
 from tqdm import tqdm
 
 SubtitleSegment = namedtuple(
@@ -81,8 +76,13 @@ def measure_corpus(corpus_subdir: Path):
     ns.save()
 
 
-def store_corpus_measurements(measure_corpus):
-    df = pd.DataFrame(measure_corpus())
+def store_corpus_measurements(corpus_subdir: Path):
+
+    measurements = corpus_subdir / "measurements.tsv"
+    measurements_description = corpus_subdir / "measurements_description.tsv"
+    measurements_sum = corpus_subdir / "measurements_sum.tsv"
+
+    df = pd.DataFrame(measure_corpus(corpus_subdir))
     df.sort_values(by="file", inplace=True)
 
     df.to_csv(measurements, sep="\t", index=False)
@@ -96,4 +96,4 @@ def store_corpus_measurements(measure_corpus):
 
 if __name__ == "__main__":
 
-    store_corpus_measurements(measure_corpus)
+    store_corpus_measurements(speech_root)
