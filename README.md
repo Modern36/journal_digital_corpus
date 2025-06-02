@@ -103,3 +103,34 @@ historical sources. The project is
 
 The Journal Digital Corpus is licensed under the [CC-BY-NC 4.0](./LICENSE)
 International license.
+
+## References
+
+```bibtex
+@article{bain2022whisperx,
+  title={WhisperX: Time-Accurate Speech Transcription of Long-Form Audio},
+  author={Bain, Max and Huh, Jaesung and Han, Tengda and Zisserman, Andrew},
+  journal={INTERSPEECH 2023},
+  year={2023}
+}
+```
+
+```bibtex
+@inproceedings{malmsten2022hearing,
+  title={Hearing voices at the national library : a speech corpus and acoustic model for the Swedish language},
+  author={Malmsten, Martin and Haffenden, Chris and B{\"o}rjeson, Love},
+  booktitle={Proceeding of Fonetik 2022 : Speech, Music and Hearing Quarterly Progress and Status Report, TMH-QPSR},
+  volume={3},
+  year={2022}
+}
+```
+
+```bibtex
+@inproceedings{zhou2017east,
+  title={East: an efficient and accurate scene text detector},
+  author={Zhou, Xinyu and Yao, Cong and Wen, He and Wang, Yuzhi and Zhou, Shuchang and He, Weiran and Liang, Jiajun},
+  booktitle={Proceedings of the IEEE conference on Computer Vision and Pattern Recognition},
+  pages={5551--5560},
+  year={2017}
+}
+```
