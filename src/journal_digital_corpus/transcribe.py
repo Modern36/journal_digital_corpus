@@ -9,19 +9,41 @@ from journal_digital_corpus.blank_transcripts import (
     write_empty_filenames,
 )
 from journal_digital_corpus.name_to_path import NameToPathMapper
-from journal_digital_corpus.settings import video_root
+from journal_digital_corpus.settings import (
+    intertitle_root,
+    speech_root,
+    video_root,
+)
 
-speech_path_mapper = NameToPathMapper(video_root)
+speech_path_mapper = NameToPathMapper(speech_root)
+intetitel_path_mapper = NameToPathMapper(intertitle_root)
 
 groups = ("kino", "nuet", "sf", "sj", "ufa")
 
 
-def video_path_pairs():
+def speech_path_pairs():
     for group in groups:
-        yield from group_to_video_paths(group)
+        yield from group_to_speech_paths(group)
 
 
-def group_to_video_paths(group, force=False):
+def intertitle_path_pairs():
+    for group in groups:
+        yield from group_to_intertitle_paths(group)
+
+
+def group_to_intertitle_paths(group, force=False):
+    group_dir = video_root / group
+    for video in group_dir.glob("**/*.mpg"):
+
+        name = video.name
+        srt_path = speech_path_mapper(group=group, name=name)
+        if not (force and srt_path.exists()):
+            continue
+
+        yield video, srt_path
+
+
+def group_to_speech_paths(group, force=False):
     empty_files = load_empty_filenames()
     group_dir = video_root / group
     for video in group_dir.glob("**/*.mpg"):
@@ -61,7 +83,7 @@ def group_to_video_paths(group, force=False):
 
 
 if __name__ == "__main__":
-    for video_path, srt_path in tqdm(video_path_pairs(), total=5217):
+    for video_path, srt_path in tqdm(speech_path_pairs(), total=5217):
         pipeline(video_path, srt_path)
 
     remove_empty_transcripts()
