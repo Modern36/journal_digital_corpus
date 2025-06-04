@@ -12,8 +12,8 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     environment:
-      name: hatch
-      url: https://pypi.org/p/stum
+      name: hatch-build
+      url: https://pypi.org/p/journal_digital
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
