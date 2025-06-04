@@ -7,6 +7,9 @@ from NameSeconds import NameSeconds
 from settings import intertitle_root, speech_root
 from tqdm import tqdm
 
+from pathlib import Path
+import re
+
 SubtitleSegment = namedtuple(
     "SubtitleSegment",
     ["idx", "start", "end", "text", "num_words", "duration_seconds"],
@@ -110,4 +113,15 @@ if __name__ == "__main__":
     intertitle_count = intertitle.num_segments.values[0]
     intertitle_words = intertitle.num_words.values[0]
 
-    pass
+    readme_path = Path(__file__).parents[2] / "README.md"
+    assert readme_path.exists()
+
+    readme = readme_path.read_text()
+    readme = re.sub(
+        "<!-- numbers -->.+<!-- numbers -->",
+        f"""<!-- numbers --> The corpus consists of {speech_words:,} words transcribed from {speech_hours:,} hours of speech from {speech_files:,} videos and {intertitle_words:,} words from {intertitle_count:,} intertitles from {intertitle_files:,} videos. <!-- numbers -->
+""",
+        readme,
+    )
+
+    readme_path.write_text(readme, encoding="utf-8")

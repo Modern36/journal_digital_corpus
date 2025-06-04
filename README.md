@@ -18,15 +18,9 @@ This corpus is the result of two purpose-built libraries:
 - **[stum](https://github.com/Modern36/stum)** – an OCR tool for detecting and
   transcribing intertitles in silent film footage.
 
-The corpus consists
-of <!-- words --> 2,XXX,XXX <!-- words --> words
-transcribed
-from <!-- videos --> 2,XXX  <!-- videos --> videos,
-totalling <!-- hours --> XXXXXX <!-- hours --> hours
-of speech. In addition, it
-includes <!-- iwords --> XXXX <!-- iwords --> words
-from <!-- intertitles --> XXXX <!-- intertitles --> intertitles
-from <!-- silent --> XXXX <!-- silent --> videos.
+<!-- numbers --> The corpus consists of 2,229,854 words transcribed from 204 hours of speech from 2,553 videos and 302,342 words from 49,119 intertitles from 4,333 videos. <!-- numbers -->
+
+
 
 The primary files used for this project are publicly available on
 [Filmarkivet.se](https://www.filmarkivet.se/), a web
