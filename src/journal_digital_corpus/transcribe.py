@@ -35,7 +35,10 @@ def intertitle_path_pairs():
 
 def group_to_intertitle_paths(group, force=False):
     group_dir = video_root / group
+    empty_files = load_empty_filenames(intertitle_root)
     for video in group_dir.glob("**/*.mpg"):
+        if video.name in empty_files:
+            continue
 
         name = video.name
         srt_path = intetitel_path_mapper(group=group, name=name)
@@ -46,8 +49,8 @@ def group_to_intertitle_paths(group, force=False):
 
 
 def group_to_speech_paths(group, force=False):
-    empty_files = load_empty_filenames()
     group_dir = video_root / group
+    empty_files = load_empty_filenames(speech_root)
     for video in group_dir.glob("**/*.mpg"):
         if video.name in empty_files:
             continue
@@ -81,7 +84,7 @@ def group_to_speech_paths(group, force=False):
             yield video, srt_path
         elif not srt_path.exists():
             yield video, srt_path
-    write_empty_filenames(empty_files)
+    write_empty_filenames(speech_root, empty_files)
 
 
 def tuple_stum_pipeline(pair):
@@ -98,12 +101,17 @@ if __name__ == "__main__":
     ):
         swescribe_pipeline(video_path, srt_path)
 
+    remove_empty_transcripts(speech_root)
+
     with multiprocessing.Pool() as pool:
-        bad = tqdm(desc="Intertitle Transcription", total=5217)
+        bad = tqdm(
+            desc="Intertitle Transcription",
+            total=5217 - 880,
+        )
         for task in pool.imap_unordered(
             tuple_stum_pipeline, intertitle_path_pairs(), chunksize=10
         ):
             if task:
                 bad.update(1)
 
-    remove_empty_transcripts()
+    remove_empty_transcripts(intertitle_root)
