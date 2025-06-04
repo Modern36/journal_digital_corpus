@@ -18,10 +18,9 @@ This corpus is the result of two purpose-built libraries:
 - **[stum](https://github.com/Modern36/stum)** – an OCR tool for detecting and
   transcribing intertitles in silent film footage.
 
-The corpus consists of 2,XXX,XXX words transcribed from 2,XXX videos, totalling
-XXXXXX minutes of speech. In addition, it includes XXXX words from XXXX
-intertitles – of which XXXX are from silent videos, and XXXX are from the 2,XXX
-videos with speech.
+<!-- numbers --> The corpus consists of 2,229,854 words transcribed from 204 hours of speech from 2,553 videos and 302,342 words from 49,119 intertitles from 4,333 videos. <!-- numbers -->
+
+
 
 The primary files used for this project are publicly available on
 [Filmarkivet.se](https://www.filmarkivet.se/), a web
@@ -32,21 +31,21 @@ resource containing curated parts of Swedish film archives.
 Git clone repository, cd in to the directory and run:
 `python -m pip install -e . `
 
+`python -m pip install journal_digital`
+
 ## 2025-06-04
 
-Created with `SweScribe==v0.1.0` and `stum==v.0.2.0` on `2025-06-04`.
-No manual editing done.
+Created with `SweScribe==v0.1.0` and `stum==v.0.2.0` on `2025-06-04` without
+manual editing.
 
 ## Files
 
 - `/name_year.tsv`: Pairings of filename and publication year, based on metadata
   from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
-- `/.env` is used to store environmental variables:
-   - `JOURNAL_DIGITALROOT` is the **local** absolute path to the videos.
 
 ```
 /corpus
-├── /intertitles
+├── /intertitle
 │   ├── /collection_1
 │   ├── /collection_2
 │   └── /collection_3
@@ -80,12 +79,13 @@ No manual editing done.
 │           └── video_3.srt
 ```
 
-## Todo:
+### Develop Setup
 
-The plan is to add functionalities later:
- - [ ] Limit the process to specific groups
- - [ ] Limit the process to specific years
- - [ ] Outputting srt or json formats of the files
+`python -m pip install '.[dev]'`
+`pre-commit install`
+
+Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.
+
 
 ## Research Context and Licensing
 
