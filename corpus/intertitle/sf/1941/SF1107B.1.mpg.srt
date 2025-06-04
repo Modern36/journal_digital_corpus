@@ -1,0 +1,47 @@
+0
+00:00:00,040 --> 00:00:00,080
+DI
+
+1
+00:00:00,120 --> 00:00:00,120
+Male
+
+2
+00:00:00,280 --> 00:00:01,040
+NONE		i Moskva
+
+3
+00:02:29,120 --> 00:02:29,120
+Lon
+
+4
+00:02:29,480 --> 00:02:29,480
+fel		 		IV e
+
+5
+00:02:29,520 --> 00:02:29,520
+SF		RE		4		dk
+
+6
+00:02:29,720 --> 00:02:30,320
+NR		14 IUFDE FACT NI	JIOATOA I	GR LOER TIDS SEN	söt 19892 bsm tölz nobnot	Fre
+
+7
+00:03:51,240 --> 00:03:51,240
+ML
+
+8
+00:03:51,360 --> 00:03:51,760
+Cypern.		NING ON	TRUPPERNA	på Cypern ha fått förstärkningar	DT TENTAN	utökats.
+
+9
+00:05:07,360 --> 00:05:07,360
+Vv
+
+10
+00:05:07,520 --> 00:05:07,520
+KL	4U
+
+11
+00:05:07,760 --> 00:05:08,440
+PETE		BUCKINGHAM PALACE	har fått sitt eget hemvärn. Det	inspekteras här av kungaparet.

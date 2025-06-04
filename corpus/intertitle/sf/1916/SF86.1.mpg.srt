@@ -1,0 +1,19 @@
+0
+00:00:00,360 --> 00:00:01,360
+Ett besök		rn		KE
+
+1
+00:01:12,200 --> 00:01:12,560
+Barnen hälsa	gästerna välkomna.
+
+2
+00:02:41,400 --> 00:02:41,720
+RA ER
+
+3
+00:04:37,640 --> 00:04:37,920
+Vyer från ön.
+
+4
+00:05:57,240 --> 00:05:57,600
+Avskedstal och	avfärden efter en		högst angenäm dag.

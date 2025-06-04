@@ -1,0 +1,31 @@
+0
+00:01:56,600 --> 00:01:56,600
+WES
+
+1
+00:04:41,520 --> 00:04:41,520
+NTY	NONE
+
+2
+00:05:00,840 --> 00:05:00,840
+HJ
+
+3
+00:05:16,880 --> 00:05:16,880
+NS
+
+4
+00:06:05,400 --> 00:06:05,760
+sbilöt tgiliöm sv sb tonål £2		IS Sell		KITTS US TS EAST Sn	KOSS
+
+5
+00:06:49,680 --> 00:06:49,880
+I Övertorneå. Besök vid Sveriges	nordligaste folkhögskola.
+
+6
+00:07:30,560 --> 00:07:30,960
+Inspektion av trupperna i Boden.
+
+7
+00:08:52,960 --> 00:08:53,240
+Hem till Stockholm igen.

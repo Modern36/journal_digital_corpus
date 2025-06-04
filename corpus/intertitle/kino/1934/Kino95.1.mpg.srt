@@ -1,0 +1,43 @@
+0
+00:04:27,600 --> 00:04:27,600
+KA	4U
+
+1
+00:04:27,760 --> 00:04:27,760
+FI		AR
+
+2
+00:06:19,600 --> 00:06:19,600
+AI	SIV
+
+3
+00:06:19,720 --> 00:06:19,720
+Fl		AR
+
+4
+00:07:30,960 --> 00:07:31,240
+IN
+
+5
+00:07:31,400 --> 00:07:31,400
+Fi		NN
+
+6
+00:08:02,320 --> 00:08:02,320
+CI	BuU
+
+7
+00:08:02,480 --> 00:08:02,480
+Fi		AR
+
+8
+00:08:02,680 --> 00:08:03,040
+TRANEBERGSBRON,	den senaste och största	infarten till Stockholm,		ITE NT
+
+9
+00:08:37,560 --> 00:08:47,000
+De kungliga med kron-		prinsen i spetsen bevistade	högtidligheten.
+
+10
+00:09:46,920 --> 00:09:47,600
+Den första spårvagnen	FEST EST ASA RAN	PITT RTV or He

@@ -1,0 +1,35 @@
+0
+00:00:00,160 --> 00:00:00,160
+SAG	NM
+
+1
+00:00:00,200 --> 00:00:00,200
+ER	SU
+
+2
+00:00:00,240 --> 00:00:00,240
+JD
+
+3
+00:00:00,320 --> 00:00:00,320
+ML
+
+4
+00:00:00,440 --> 00:00:01,000
+Cld och	vatten.		Fo TATT	katastrofen i U.S. HA.
+
+5
+00:03:26,360 --> 00:03:26,960
+SYNDAFLOD
+
+6
+00:06:53,800 --> 00:06:53,800
+ATS	VA
+
+7
+00:06:54,040 --> 00:06:54,040
+ML
+
+8
+00:06:54,160 --> 00:06:54,880
+Ulrich Salchow		ordförande i Internationella Skridsko-		förbundet, tiofaldig världsmästare i konst-		åkning, presenterar nu med några ord	den tiofaldiga världsmästarinnan		SONJA HENIE.

@@ -1,0 +1,91 @@
+0
+00:00:00,360 --> 00:00:00,360
+LO		Z5t
+
+1
+00:00:00,560 --> 00:00:00,560
+-11	ANT
+
+2
+00:00:00,640 --> 00:00:00,640
+FI		AR
+
+3
+00:01:33,920 --> 00:01:33,920
+INNE
+
+4
+00:01:34,000 --> 00:01:34,000
+Xs
+
+5
+00:01:34,040 --> 00:01:34,040
+0ExS
+
+6
+00:01:34,120 --> 00:01:34,120
+192	JU
+
+7
+00:01:34,240 --> 00:01:34,240
+AR
+
+8
+00:01:34,400 --> 00:01:35,200
+[ i TT RETRANS		VALSLAGET I BERLIN.	Några kameraskott från första	omgången i det spännande	presidentvalet.
+
+9
+00:02:40,440 --> 00:02:43,520
+i JA	Achtung!	Bannkreis		lh		I
+
+10
+00:02:52,440 --> 00:02:52,440
+LÄN	Å
+
+11
+00:02:52,720 --> 00:02:52,720
+HM
+
+12
+00:03:22,320 --> 00:03:22,720
+De lyckliga pristagarinnorna . ..
+
+13
+00:03:32,440 --> 00:03:32,920
+... jämte sina män.
+
+14
+00:03:44,880 --> 00:03:45,200
+På väg till lunch på Stads-	bl
+
+15
+00:04:11,640 --> 00:04:11,640
+ML
+
+16
+00:04:11,760 --> 00:04:12,360
+IVAR KREUGERS	FRÅNFÄLLE.		Den bortgångnes stoft föres		Fit Lanto tue Ara	Victor Emanuel till Nord-	banvården i Paris.
+
+17
+00:05:28,120 --> 00:05:28,680
+Sista färden försiggick i	RYTTARE	från Vasakyrkans		SC
+
+18
+00:06:23,600 --> 00:06:24,120
+... till krematoriet å Norra	begravningsplatsen.
+
+19
+00:07:12,720 --> 00:07:12,720
+RULE	LM
+
+20
+00:07:12,760 --> 00:07:12,760
+VN		SVAN
+
+21
+00:07:12,800 --> 00:07:12,800
+UY ES	Pe
+
+22
+00:07:12,840 --> 00:07:12,840
+STAL

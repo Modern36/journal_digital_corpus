@@ -1,0 +1,31 @@
+0
+00:00:00,120 --> 00:00:00,120
+Sv TA MN		ABL/
+
+1
+00:00:00,280 --> 00:00:00,280
+IKT		Te
+
+2
+00:00:00,320 --> 00:00:00,320
+«f pi	NER	ER
+
+3
+00:00:00,400 --> 00:00:00,400
+AR
+
+4
+00:03:25,960 --> 00:03:26,960
+visM ommod .sbstinöv sgnät	2dnsdrisT 2slgvoCl dao broblaiT	Hie åq nsglsdrsmmozbim Ii	5 AL EEE A
+
+5
+00:03:33,480 --> 00:03:33,840
+ISTER ST	tralstation var timmar i förväg	fylld av vänner och beundrare . . .
+
+6
+00:07:53,640 --> 00:07:53,800
+Banketten på Saltsjöbaden av-		slutade andra dagen, och en god		del av den tredje ägnades åt	filmstaden i Råsunda.
+
+7
+00:08:59,680 --> 00:09:01,960
+"lnsgi smmod iV Idast boseoT"

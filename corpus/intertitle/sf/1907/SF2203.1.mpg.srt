@@ -1,0 +1,63 @@
+0
+00:00:00,040 --> 00:00:00,120
+RÅ	FASA
+
+1
+00:00:00,160 --> 00:00:00,160
+FAIR	Mån		al.
+
+2
+00:00:00,280 --> 00:00:00,280
+GON	RN	ie
+
+3
+00:00:50,600 --> 00:00:50,600
+JOURI	ÄMNI	SCEN
+
+4
+00:00:50,720 --> 00:00:50,720
+bä 6N	FITN	SANN
+
+5
+00:00:50,760 --> 00:00:50,800
+SE FETT		FYRAN
+
+6
+00:02:18,720 --> 00:02:19,080
+NAN	EINZUC	ORD)
+
+7
+00:02:19,120 --> 00:02:19,120
+TV 4		VI Ale
+
+8
+00:02:19,160 --> 00:02:19,160
+SV Lo	AAA		NES
+
+9
+00:02:19,200 --> 00:02:19,200
+ble	NG Val	kd pra
+
+10
+00:02:19,240 --> 00:02:19,240
+Ol	UVN
+
+11
+00:06:30,160 --> 00:06:30,480
+Tyska Kejsaren		på resa.
+
+12
+00:11:08,160 --> 00:11:08,240
+AN ON
+
+13
+00:11:08,360 --> 00:11:08,360
+US SG	YSL	RN 7
+
+14
+00:11:08,480 --> 00:11:08,640
+TYSKLAND.		LITT	Kejsaren och		kejsarinnan till häst.		uj
+
+15
+00:11:21,040 --> 00:11:21,320
+Ua PERL TT		Kejsaren och	kejsarinnan anlända för	FL ETAC NANNE	härtigens döpelse.

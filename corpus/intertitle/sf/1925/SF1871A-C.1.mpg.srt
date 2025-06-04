@@ -1,0 +1,231 @@
+0
+00:00:07,120 --> 00:00:07,840
+NER SE		Hie 151 läXe 1öp sleropst		MBA
+
+1
+00:00:51,320 --> 00:00:51,880
+Fats		Fagersta Bruk är beläget i	centrum av Norbergs Bergs-	lag I Norra Västmanland
+
+2
+00:01:40,720 --> 00:01:41,240
+Kg SIS		pr från början av sexton-	hundratalet har järntillverkning	bedrivits I Fagersta. Här visas	lämningar från de äldre nu	nedlagda industrierna
+
+3
+00:02:11,240 --> 00:02:11,720
+ELISE		Fagersta gamla och nuvarande	brukskontor
+
+4
+00:02:34,480 --> 00:02:34,920
+ENT		[IEEE början	hämtat järnmalm av stor	[LETTERS VS
+
+5
+00:02:54,800 --> 00:02:55,360
+ISS		Malmen uppfordras från 340	meters djup och fraktas på	egen järnväg till bruket
+
+6
+00:03:36,480 --> 00:03:37,000
+ELIS		[GTI EET ET ST TT	med träkol, delvis från		egna skogar
+
+7
+00:06:28,840 --> 00:06:29,520
+ELISE		UTEN EET STEN	världens största träkolshus
+
+8
+00:06:34,640 --> 00:06:35,240
+LISE		[LT IEA TT ET NT	världens modernaste	BLÄSTERHYTTA FÖR	TRÄKOLSTACKJÄRN
+
+9
+00:07:10,400 --> 00:07:11,120
+LENI EINES		I rostugnarna förberedes	malmen för uppsättning	på masugnarna
+
+10
+00:07:27,240 --> 00:07:27,760
+LISE		Malmhundar frakta den	rostade malmen upp		till masugnskransen
+
+11
+00:07:31,960 --> 00:07:32,480
+SES		Masugnarna beskickas med	malm, träkol och kalk I väl		avvägda proportioner
+
+12
+00:08:05,440 --> 00:08:06,040
+NTE		En sättning
+
+13
+00:08:17,800 --> 00:08:18,280
+SAGER SES		FST SENT RET	Mal sTsT TS NT EE
+
+14
+00:08:37,280 --> 00:08:37,720
+AES		ETT STATT
+
+15
+00:08:44,040 --> 00:08:44,520
+KÖLEN		Tackjärnsutslag
+
+16
+00:09:41,840 --> 00:09:42,360
+RT EIS		Utsikt från masugnskransen	över MARTINVERKET med	tjänstemannabostäder och	gamla herrgården i	ETS
+
+17
+00:10:20,280 --> 00:10:20,880
+bag		[ERE TTT	omsmältes tackjärnet med	skrot från egna tillverkningar	till stål av högklassig kvalitet
+
+18
+00:10:37,160 --> 00:10:37,760
+bas		En ugn beskickas
+
+19
+00:10:57,160 --> 00:10:57,720
+ELISE		Tillsättning av järnmalm i små	portioner, varigenom chargens	kolhalt nedbringas
+
+20
+00:11:06,080 --> 00:11:06,960
+ELISE		U CLAESON STR TS TS	EET TT TES SETS ST	analys av förprov, som me-	delst rörpost sändes till	RESTS
+
+21
+00:12:10,400 --> 00:12:11,000
+LOI		Skänken förvärmes med		masugnsgas
+
+22
+00:12:20,520 --> 00:12:21,160
+FACES		Ett utslag
+
+23
+00:12:35,840 --> 00:12:36,640
+Köla SINE		Tappningstemperaturen	kontrolleras medelst	pyrometer
+
+24
+00:13:00,920 --> 00:13:02,160
+FOLLET		ETTER ERE TER SA	kokiller och prov uttages
+
+25
+00:13:39,000 --> 00:13:39,640
+Kd INS		Jämsides med de kemiska	proven utföras smidesprov för	FORSEN TS SS
+
+26
+00:14:13,080 --> 00:14:13,720
+IIS		Chargens fullständiga analys	fastställes | det välutrustade	kemiska laboratoriet
+
+27
+00:14:43,240 --> 00:14:44,000
+EIS		När göten kallnat, uttagas de	ur kokillerna
+
+28
+00:14:57,560 --> 00:14:58,200
+bÖRNGELIN EEG		ENIERRRER EST SER		[TRE TESTO SST ETEN		ETEN TSE STUNT KITE	SSV
+
+29
+00:15:10,400 --> 00:15:10,880
+ES		Eventuella ytfel avlägsnas	genom slipning eller mejsling
+
+30
+00:15:13,080 --> 00:15:14,280
+Andra avdelningen
+
+31
+00:16:02,560 --> 00:16:03,680
+NS		GÖTVALSVERKET
+
+32
+00:17:06,320 --> 00:17:07,040
+Föga EINES		Elektrisk manövrering av		valsverket
+
+33
+00:18:00,680 --> 00:18:01,400
+LAI		Topp- och bottenämnen	”nickas” varma och avslås i	kallt tillstånd för kontroll av	brottytan
+
+34
+00:18:20,320 --> 00:18:20,920
+IIS		Härefter föras ämnena ut till	ämnesgården
+
+35
+00:18:44,160 --> 00:18:44,840
+ka SI ES		Före färdigvalsningen		underkastas ämnena den		noggrannaste kontroll. De	betas och mejslas
+
+36
+00:19:08,920 --> 00:19:09,520
+NIE		FÄRDIGVALSNING I	MEDIUMVERK
+
+37
+00:19:09,560 --> 00:20:23,320
+FAL
+
+38
+00:20:23,360 --> 00:20:24,640
+FIS		ENL
+
+39
+00:21:10,200 --> 00:21:12,360
+KÖLNS		TRÅDVALSNING
+
+40
+00:22:25,960 --> 00:22:26,440
+bas		TILLVERKNING AV IHÅLIGT	BORRSTÅL
+
+41
+00:22:29,040 --> 00:22:33,000
+ENSE		Ämnena borras...
+
+42
+00:22:50,880 --> 00:22:52,640
+FOSS		SME
+
+43
+00:23:19,040 --> 00:23:19,800
+FÖDS		och valsas
+
+44
+00:24:05,720 --> 00:24:06,280
+LISE		Urblåsning av kärnan
+
+45
+00:24:24,840 --> 00:24:25,360
+be NE SES		[ERE
+
+46
+00:26:07,240 --> 00:26:07,960
+ELISE		PLÅTVALSVERKET	[a TS TS	skattad som kvalitetsvara och	ENE TS EET TNE ST	vyrplattor, sågblad, sågklingor,	maskinknivar och hyvelstål	av alla slag
+
+47
+00:26:41,560 --> 00:26:42,240
+ORT SKO		SÅGBLADSVERKSTADEN	Inom denna avdelning till-	verkas även MASKINKNIVAR	och HYVELSTÅL samt	SPIRALFJÄDRAR
+
+48
+00:27:16,400 --> 00:27:17,040
+ÖRACLER SO		ERT ETT
+
+49
+00:28:16,800 --> 00:28:17,480
+Ö FAGERSTA 0		[AST
+
+50
+00:29:04,480 --> 00:29:05,040
+ORM EESRO		pnimnävlevora
+
+51
+00:29:18,160 --> 00:29:18,800
+ÖRA SEO		TERES SES
+
+52
+00:29:18,840 --> 00:29:29,000
+SpoERSTA BRY		(GÖ) SPECIAL STÅL Ö		P FAGERSTA
+
+53
+00:29:53,640 --> 00:29:54,240
+Ö FAGERSTA &		Maskinknivar
+
+54
+00:29:54,280 --> 00:30:07,000
+KOR ZE NO		[C--		ÄT		fun fart frn faznfruf nl		[LEG Jere		Lip ata LL EN SN		SAL er een AY = FARA Fr ln O	os AV TER	0		FER NT ENN
+
+55
+00:30:07,040 --> 00:30:07,640
+FÖDS		Fagersta tillverkar även		sänksmiden
+
+56
+00:30:07,680 --> 00:30:20,120
+ö	H	3
+
+57
+00:30:20,160 --> 00:30:20,880
+Ö FAGERSTA &		SÅGEN, där Fagersta förädlar		virket från sina egna skogar,		och där sågblad och klingor	praktiskt provas

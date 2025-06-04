@@ -1,0 +1,123 @@
+0
+00:00:00,040 --> 00:00:00,560
+SVENSK	FILMINDUSTRIS	REVY		Ne KJ EET		e)
+
+1
+00:00:00,600 --> 00:00:00,600
+WH	SN
+
+2
+00:00:00,640 --> 00:00:00,640
+NR	MES
+
+3
+00:00:00,680 --> 00:00:00,680
+LA	LIES
+
+4
+00:00:00,720 --> 00:00:00,720
+088
+
+5
+00:00:00,760 --> 00:00:00,760
+Ta	193
+
+6
+00:00:00,800 --> 00:00:00,800
+-I 1	KE
+
+7
+00:00:00,880 --> 00:00:00,880
+Fi
+
+8
+00:00:01,000 --> 00:00:01,400
+4 SOS TA		Kungainspektionen	vid invigningen av	Lantbrukshögskolan	i Ultuna den 30	oktober.
+
+9
+00:01:41,360 --> 00:01:41,360
+LER
+
+10
+00:01:41,680 --> 00:01:41,680
+VERA ARR	VN	Erin		FÖRTSEaSE	snogrom ensgeb
+
+11
+00:01:41,720 --> 00:01:42,320
+. BEG NveR ahleubnimlia senove SN		LEE ARN	FYN	.JÅ AILIYI		EJE RNA	.fogrom 2r19geb
+
+12
+00:03:10,080 --> 00:03:10,080
+ER
+
+13
+00:03:10,120 --> 00:03:10,120
+ME
+
+14
+00:03:10,240 --> 00:03:10,240
+ER	SKU
+
+15
+00:03:10,480 --> 00:03:10,840
+BG Svensk Filmindustris Revy 1995		0-Ta NGAN		FÖR DÖVAS VÄL	här hälsat på i Råsunda och	provgår här en dekoration för	S. F-filmen ”Kungen kommer.”
+
+16
+00:03:46,440 --> 00:03:46,440
+Was	JP
+
+17
+00:03:46,640 --> 00:03:46,640
+FNS GM		har ägt rum i Spångatrakten.
+
+18
+00:03:46,680 --> 00:03:47,120
+GB Svensk Filmindustris Revy 1935		FN IANA UNISE TGN		har ägt rum i Spångatrakten.
+
+19
+00:04:19,520 --> 00:04:19,520
+yt	088
+
+20
+00:04:19,560 --> 00:04:19,560
+åa	Ju
+
+21
+00:04:19,800 --> 00:04:20,480
+5 Svensk Filmindustris Revy 1935		S. F-PERSONALEN	LÄR SIG SJUKVÅRD.
+
+22
+00:05:03,240 --> 00:05:03,240
+kö		oc
+
+23
+00:05:03,320 --> 00:05:03,320
+EA
+
+24
+00:05:03,600 --> 00:05:03,600
+E Svensk Filmindustris Revy 1935		FARVÄL,	TROCADERO!
+
+25
+00:06:03,080 --> 00:06:03,080
+EE
+
+26
+00:06:03,160 --> 00:06:03,160
+1775
+
+27
+00:06:03,200 --> 00:06:03,200
+Lik
+
+28
+00:06:03,440 --> 00:06:03,440
+ML
+
+29
+00:06:03,560 --> 00:06:04,000
+insk Filmindustris Revy 1935		 		Segelflygning på		3.500 meters höjd.	En 4-landskamp i segel-	flygning har ägt rum å	Jungfrauhoch i Schweiz.
+
+30
+00:06:11,040 --> 00:06:13,360
+Tyskland segrade genom	Dittmar.

@@ -1,0 +1,63 @@
+0
+00:00:00,920 --> 00:00:00,920
+IEI	NINA	atoll
+
+1
+00:00:49,800 --> 00:00:49,800
+FVARL	. HV		+4	Av	1 MM
+
+2
+00:01:14,680 --> 00:01:14,680
+4U
+
+3
+00:01:14,800 --> 00:01:14,800
+AR
+
+4
+00:01:47,360 --> 00:01:47,360
+192	4U
+
+5
+00:01:47,480 --> 00:01:47,480
+AR
+
+6
+00:02:44,640 --> 00:02:44,640
+4Uu
+
+7
+00:02:44,760 --> 00:02:44,760
+AR
+
+8
+00:03:13,680 --> 00:03:13,720
+3		SCHAHEN AV PERSIEN	har varit på en fransysk visit	hos presidenten av grankrike,
+
+9
+00:03:13,760 --> 00:03:14,000
+Svenska Biograf: YRKE Teaterns Revy		 		SoA SN	har varit på en fransysk visit	hos presidenten av Frankrike.
+
+10
+00:03:14,040 --> 00:03:14,040
+.		San 0 I Ce	| LJ	PE	SCHAHEN SJÅPERSIEN		IE va org en [ERS SS	IST TTT ANA 2 IycksA
+
+11
+00:03:14,080 --> 00:03:14,200
+a a		 		SCHAHEN AV PERSIEN		har varit på en fransysk visit	hos presidenten av Frankrike,
+
+12
+00:03:22,280 --> 00:03:22,360
+fe ETS ER
+
+13
+00:03:22,400 --> 00:03:22,400
+Svenska 2	KJ		POLITSK DISKUSSION PÅ		 	  	 		AIG I PM goumnent med	knytnälf$tna vid ett Michael	[ONIRERR T Ag KS ETet		av det TER området,	200009
+
+14
+00:03:22,440 --> 00:03:22,640
+EN 4		 		NE SS		POLITISK DISKUSSION PÅ	IRLAND.		FIAT MAS NTE ETS dt		knytnåvarna vid ett av Michael		Collins arrangerat möte i hjärtat		av det republikanska området.
+
+15
+00:04:08,600 --> 00:04:08,880
+Svenska Biograf- =E FOTEN		Även i Sydafrika går det livligt	till. Bilder från oroligheterna i	Johannesburg.

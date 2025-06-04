@@ -1,0 +1,19 @@
+0
+00:00:00,200 --> 00:06:37,000
+EL	4U
+
+1
+00:06:37,120 --> 00:06:37,120
+FI	AR
+
+2
+00:07:39,600 --> 00:07:39,680
+Göteborg i fågelperspektiv:		Staden sedd från Tyska kyrkans tom		AB. COSMORAMA
+
+3
+00:09:17,960 --> 00:09:18,120
+ND	i jen
+
+4
+00:10:10,120 --> 00:10:10,280
+"Här ska' I se en riktig		Landalakäring!		AB. COSMORAMA

@@ -1,0 +1,3 @@
+0
+00:08:28,200 --> 00:08:28,560
+SKANSENS		Lea eV SSA		mma

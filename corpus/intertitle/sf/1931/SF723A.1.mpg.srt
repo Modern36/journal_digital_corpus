@@ -1,0 +1,67 @@
+0
+00:00:00,240 --> 00:00:00,240
+nr		tel
+
+1
+00:00:00,280 --> 00:00:00,280
+11		KATY	SS
+
+2
+00:00:00,360 --> 00:00:00,360
+FI		AR
+
+3
+00:00:00,520 --> 00:00:00,920
+Svensk FILMINDUSTRIS		VECKOREVY		"1951		Ner 8. 8 Nittonde årg.
+
+4
+00:01:31,960 --> 00:01:31,960
+192	4Uu
+
+5
+00:01:32,000 --> 00:01:32,000
+SF		REVY		ti-
+
+6
+00:01:32,080 --> 00:01:32,080
+FI		AR
+
+7
+00:01:32,240 --> 00:01:32,600
+E Svensk Filmindustris Veckorevy 1931		STILLASTÅENDE	BALLONG.		En fransk ingenjör har kon-		struerat ett slags styrbar bal-		long, som kan hålla sig stilla	på samma ställe i luften.
+
+8
+00:01:32,640 --> 00:01:33,320
+PAR UN VENT SOUFFLANT	A 40 Km UHEURE
+
+9
+00:03:17,240 --> 00:03:17,240
+192	4Uu
+
+10
+00:03:17,280 --> 00:03:17,280
+1]		ANTIY	HS
+
+11
+00:03:17,360 --> 00:03:17,360
+FI		AR
+
+12
+00:03:17,520 --> 00:03:17,960
+7 PATHÉ GAZETTE, LONDON 1931		”ALLT VÄL OMBORD!”	De av känd orsak avbrutna	engelska flottmanövrarna i	Nordsjön ha återupptagits.
+
+13
+00:05:23,600 --> 00:05:23,600
+192	4Uu
+
+14
+00:05:23,640 --> 00:05:23,640
+12		ANT	AS
+
+15
+00:05:23,720 --> 00:05:23,720
+FI		AR
+
+16
+00:05:23,880 --> 00:05:24,280
+JORDSKREDET	I ENGLAND.		McDonald-koalitionens	oerhörda valseger	hösten 1931.		Officin: PATHÉ.

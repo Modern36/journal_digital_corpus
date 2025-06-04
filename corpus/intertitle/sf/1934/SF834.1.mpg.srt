@@ -1,0 +1,67 @@
+0
+00:01:02,680 --> 00:01:02,680
+LSLN		LäXIA
+
+1
+00:01:02,760 --> 00:01:02,760
+HUNT
+
+2
+00:01:02,800 --> 00:01:02,800
+VI
+
+3
+00:01:02,840 --> 00:01:02,840
+RAS	IC
+
+4
+00:01:02,880 --> 00:01:02,880
+ER
+
+5
+00:01:03,120 --> 00:01:03,960
+SVERIGE TOG		GULDMEDALJ		NI INN
+
+6
+00:01:51,280 --> 00:01:51,280
+2	SA
+
+7
+00:01:51,440 --> 00:01:51,440
+192
+
+8
+00:01:51,560 --> 00:01:51,560
+AR
+
+9
+00:01:51,680 --> 00:01:52,560
+COWBOY-HJÄLTE	I STAN.
+
+10
+00:02:46,920 --> 00:02:47,400
+Svensk FILMINDUSTRIS		VECKOREVY	1934
+
+11
+00:02:47,920 --> 00:02:48,640
+INET	na		Under pågående övningar med		artilleriofficerare på Järvafältet	i eldens ledning följa smällarna	tätt och precist.
+
+12
+00:04:25,840 --> 00:04:26,400
+P. W. WIDENGREN		slog utom tävlan		finska motoreliten	= på Kottbybanan.
+
+13
+00:04:43,400 --> 00:04:43,720
+Omkring halva loppet ledde	finnen Älm med sitt Fordskåp.
+
+14
+00:05:17,200 --> 00:05:17,600
+KATA ONINVA	oamoÅ-stlA niz bom nensd	FSS
+
+15
+00:05:24,120 --> 00:05:24,480
+Älms segraretid blev	krv
+
+16
+00:05:27,400 --> 00:05:27,720
+Den verklige segraren.

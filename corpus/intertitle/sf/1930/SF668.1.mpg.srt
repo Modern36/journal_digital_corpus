@@ -1,0 +1,23 @@
+0
+00:00:52,800 --> 00:00:52,800
+Nav	MY
+
+1
+00:00:52,840 --> 00:00:52,840
+ge
+
+2
+00:00:52,880 --> 00:00:52,880
+192	4U
+
+3
+00:00:53,000 --> 00:01:30,080
+AR
+
+4
+00:01:30,240 --> 00:01:30,640
+( Å- FILMINDUSTRIS VECKOREVY 1930		STOCKHOLMS NYASTE	FOLKSKOLA		är den funktionalistiskt betonade		skolbyggnaden vid Ålstenstorg.
+
+5
+00:01:48,040 --> 00:01:48,040
+SES	SD

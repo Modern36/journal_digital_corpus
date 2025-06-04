@@ -1,0 +1,47 @@
+0
+00:00:00,040 --> 00:00:00,280
+ke II		LOT		KONUNG GUSTAF	anländer till Ystad för att	närvara vid den stora	Skånemanöverns = stridsöv-	LL EL
+
+1
+00:01:00,440 --> 00:01:00,680
+5 paRAMDUNT|OuRHALEN 2		Ankomsten till högkvarteret,	där konungen övertog	högsta ledningen.
+
+2
+00:02:38,600 --> 00:02:38,920
+65 monoumTouRNALEn 88		Konungen och Kronprinsen	JESSE
+
+3
+00:03:07,320 --> 00:03:07,560
+LET TI od		sköt 1öt 160 NoNiposvA	KAL RA a VASA ETS	Kro
+
+4
+00:03:42,800 --> 00:03:43,000
+Te		”Krigarn vilar sig” . . .
+
+5
+00:04:23,680 --> 00:04:23,960
+65 Famn ouRNaLEN €88		Kronprinsessan och prins	Karl-Johan besöka krigsskå-		[ETEN
+
+6
+00:05:05,000 --> 00:05:05,000
+El	ERA	DD
+
+7
+00:05:05,080 --> 00:05:05,080
+AR
+
+8
+00:09:31,360 --> 00:09:31,360
+LF	ALVA
+
+9
+00:09:31,480 --> 00:09:31,480
+AT
+
+10
+00:09:31,520 --> 00:09:31,520
+Fd		1319
+
+11
+00:09:31,600 --> 00:09:31,600
+HA	fl

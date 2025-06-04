@@ -1,0 +1,103 @@
+0
+00:03:53,480 --> 00:03:54,200
+GAMLA	NYA
+
+1
+00:05:22,000 --> 00:05:22,360
+Kl
+
+2
+00:05:31,960 --> 00:05:32,360
+Slusstrafiken.
+
+3
+00:05:56,680 --> 00:05:57,000
+Bågspännaren.
+
+4
+00:06:06,600 --> 00:06:18,520
+Österlånggatan mot söder.
+
+5
+00:06:26,160 --> 00:06:26,520
+Gavelhus vid Österlånggatan.
+
+6
+00:06:35,120 --> 00:06:47,680
+Portal i Stora Hoparegränd.
+
+7
+00:07:01,560 --> 00:07:01,840
+Portal från Carl Larssons födel-	sehus på Prästgatan.
+
+8
+00:07:13,960 --> 00:07:14,400
+Portal vid Prästgatan.
+
+9
+00:07:26,760 --> 00:07:27,080
+IATA EE
+
+10
+00:07:35,200 --> 00:07:35,440
+Portal från Petersénska	IEA
+
+11
+00:07:42,960 --> 00:07:43,240
+Riddarhuset.
+
+12
+00:08:05,520 --> 00:08:05,800
+Storkyrkan från Stortorget.
+
+13
+00:08:18,440 --> 00:08:18,760
+EA
+
+14
+00:08:32,080 --> 00:08:32,400
+Tyska Brunn.
+
+15
+00:08:43,080 --> 00:08:43,360
+Järntorget.
+
+16
+00:08:52,600 --> 00:08:52,840
+Kanslihuset.
+
+17
+00:09:02,680 --> 00:09:03,000
+FITA TE ET
+
+18
+00:09:28,640 --> 00:09:28,920
+Ett av slottslejonen.
+
+19
+00:09:42,160 --> 00:09:42,400
+Slottets östra fasad.
+
+20
+00:10:00,800 --> 00:10:01,080
+Logårdstrappan.
+
+21
+00:10:14,480 --> 00:10:14,840
+Slottsbacken.
+
+22
+00:10:28,000 --> 00:10:28,240
+Mittpartiet av slottets södra	fasad.
+
+23
+00:10:45,960 --> 00:10:46,200
+Tessinska Palatset.
+
+24
+00:11:00,000 --> 00:11:00,320
+Portal från Tessinska Palatset.
+
+25
+00:11:12,720 --> 00:11:13,000
+Kers CB SAT

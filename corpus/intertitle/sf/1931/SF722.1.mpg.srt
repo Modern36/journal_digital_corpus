@@ -1,0 +1,143 @@
+0
+00:00:00,200 --> 00:00:00,200
+nr		tel
+
+1
+00:00:00,240 --> 00:00:00,240
+oo NR	IR		-13
+
+2
+00:00:00,320 --> 00:00:00,320
+AR
+
+3
+00:00:00,440 --> 00:00:00,880
+EO s dustris Veckorevy 1931		AMERIKANSKA	TANKAR		sky inga hinder, som finnas		i deras väg.
+
+4
+00:01:03,680 --> 00:01:03,680
+192	4U
+
+5
+00:01:03,720 --> 00:01:03,720
+11	ANT	7S
+
+6
+00:01:03,800 --> 00:01:03,800
+AR
+
+7
+00:01:03,920 --> 00:01:04,320
+”Typuer) ewjeyej] yo	undey') ameyD 10 esay Bis	e1ny 2pig 1seJ suopuoTJ	uej Jsewopåun sjejuasn]		"SV.LOW	NYMW VanNQUad VAL		161 ÄNMIOMIDA SMISApupujLJ ASUDAS
+
+8
+00:02:03,160 --> 00:02:03,160
+sd
+
+9
+00:02:03,320 --> 00:02:03,320
+SZ
+
+10
+00:02:03,440 --> 00:02:03,440
+PRV
+
+11
+00:02:03,480 --> 00:02:03,480
+-I 1		ANTY	för
+
+12
+00:02:03,560 --> 00:02:03,560
+AR
+
+13
+00:02:03,680 --> 00:02:04,600
+DAMERNAS	DJURGÅRDSPROMENAD.	I färgglada munderingar star-	tade omkring 400 damer av	alla åldrar i Götas och Svensk	Damtidnings gångtävlan Djur-		[ere lan
+
+14
+00:03:10,080 --> 00:03:10,080
+Svensk FILMINDUSTRIS		VECKOREVY	1931
+
+15
+00:03:10,120 --> 00:03:11,080
+5 Svensk Filmi		D:R TORSTEN	FOGELQVIST,	nyvald medlem av De	Aderton, vid sitt arbets-	bord på Dagens Nyheters	[ENS
+
+16
+00:03:24,560 --> 00:03:24,560
+BEKVÄM	NN TO:NNETNN NN		De, som voro med vid Kungs-		gatans invigning i november	1911, kunde knappast drömma	om det nuvarande Centrum.
+
+17
+00:03:24,600 --> 00:03:25,080
+GG Svensk ustris Veckorevy 1931		BEKVÄM	NY FÖRBINDELSELED.	De, som voro med vid Kungs-	Feer TNT stt UL Al	1911, kunde knappast drömma	om det nuvarande Centrum.
+
+18
+00:04:06,600 --> 00:04:07,160
+Genom ägarnas till Centrum	försorg har nu en bekväm	trappgata öppnats mellan	Kungsgatan och Malm-	skilnadsgatan.
+
+19
+00:04:11,040 --> 00:04:11,680
+CTS An	Iya
+
+20
+00:05:20,440 --> 00:05:20,880
+GG NN		INFANTERIET	MODERNISERAT.	Omfattande experiment ha i	tio dagar bedrivits på	Järvafältet.
+
+21
+00:05:47,120 --> 00:05:47,840
+Förnämsta nyheten är in-		BEN CSS LET EN stas LR tratt aTd		med talrika portabla granat-	LES Er
+
+22
+00:06:02,920 --> 00:06:03,440
+Eldledaren befinner sig långt	framför pjäserna och leder	[CRIME Lag
+
+23
+00:06:23,800 --> 00:06:24,280
+Bane
+
+24
+00:06:45,760 --> 00:06:46,240
+Kronprinsen och försökens	[ERA STAR I
+
+25
+00:07:19,400 --> 00:07:20,360
+Försvarskommissionen	bedriver studier.
+
+26
+00:07:27,160 --> 00:07:27,800
+Förbimarsch för kronprinsen	och lantförsvarets spetsar.
+
+27
+00:08:18,400 --> 00:08:18,400
+SLUSSOMRÅDETS	OMGESTALTNING.	Det omfattande arbetet har	delvis börjat och snart kunna	bilder sådana som dessa		Er SE FESEN
+
+28
+00:08:18,440 --> 00:08:19,440
+Rivningen av en av Stock-	holms äldsta restauranger,	Ia EET
+
+29
+00:09:02,800 --> 00:09:03,320
+KYRKAN-—KOMMUNEN.		Solnas prästerskap vunno en		2—1 seger över kommunens		tjänstemän i en fotbollsmatch.		Socknens arbetslösa vunno	1500 kronor på affären.
+
+30
+00:09:18,040 --> 00:09:18,640
+Lagens kaptener, kyrkoherde	Ekman och kommunalnämn-	dens ordförande Enberg, be-	gåvades med blomster före	slantsinglingen inför domaren		T. Tegnér.
+
+31
+00:09:29,400 --> 00:09:30,040
+035108 AASE ES
+
+32
+00:09:56,920 --> 00:09:57,440
+Kyrkans segrande lag.
+
+33
+00:10:01,840 --> 00:10:02,360
+Kommunens lag.
+
+34
+00:10:07,680 --> 00:10:07,880
+5 Svensk Filmindustris Veckorevy 1931		MUSSOLINI MÖNSTRAR		en armé på 20,000 unga fas-		cister, som från alla delar av		Italien kommit till Rom för att	hylla hövdingen.
+
+35
+00:10:51,760 --> 00:10:52,080
+GG NN		THOMAS A. EDISON	— den store uppfinnaren —	har avlidit 84-årig.

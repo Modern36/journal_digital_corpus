@@ -1,0 +1,107 @@
+0
+00:00:00,040 --> 00:00:00,040
+WNSEN
+
+1
+00:00:00,160 --> 00:00:00,160
+NN		NYSS
+
+2
+00:00:00,200 --> 00:00:00,200
+4U
+
+3
+00:00:00,240 --> 00:00:00,240
+ti-
+
+4
+00:00:00,440 --> 00:00:00,960
+BG Svensk Filmindustris Revy 1937		BERLIN FIRAR SITT	700-ÅRSJUBILEUM.
+
+5
+00:00:43,560 --> 00:00:43,560
+JU
+
+6
+00:00:43,600 --> 00:00:43,600
+AR	WNIR	SÅ
+
+7
+00:00:43,800 --> 00:00:44,160
+Ge Svensk Filmindustris Revy 1937		UNGERSKA	SÅNGKÖRER	fira ett stort sångjubileum		i Budapest.
+
+8
+00:00:44,200 --> 00:00:44,840
+ÖNTAISNAA	VBÄRAIATTUJIAG		ES N	3 RE	KG SÖS	sog
+
+9
+00:01:32,240 --> 00:01:32,240
+VIzza	So
+
+10
+00:01:32,320 --> 00:01:32,320
+4U
+
+11
+00:01:32,360 --> 00:01:32,360
+11	KATY
+
+12
+00:01:32,560 --> 00:01:32,960
+Ge Svensk Filmindustris Revy 1937		FESTSPELEN	I SALZBURG	ha hela musikvärldens blickar	riktade på sig. Men bara på	bio kan man få göra en titt	bakom kulisserna.
+
+13
+00:01:33,000 --> 00:01:33,440
+Hinter den Kulissen der	Salzburger Festspiele
+
+14
+00:02:46,520 --> 00:02:46,520
+-11	ANTN	SS
+
+15
+00:02:46,720 --> 00:02:47,040
+Ge Svensk Filmindustris Revy 1937		TYSKA FLYGPLANET	NORDMEER		har överflugit Ätlanten. Snart	skall även Tyskland upprätta	reguljär flygtrafik på U.S. A.
+
+16
+00:03:13,520 --> 00:03:13,520
+nr.		tel
+
+17
+00:03:13,760 --> 00:03:14,200
+SHIRLEY HANOVER		vinner Ämerikas största trav-		tävling i ett glänsande lopp	och sätter också nytt rekord.
+
+18
+00:04:43,120 --> 00:04:43,120
+4U
+
+19
+00:04:43,160 --> 00:04:43,160
+NR	NNIA		-13
+
+20
+00:04:43,360 --> 00:04:43,760
+Ge Svensk Filmindustris Revy 1937		PRICKSKYTTAR.	Amerikanska poliser tävla		i pistolskjutning.
+
+21
+00:05:20,880 --> 00:05:20,880
+SEN	-ONN
+
+22
+00:05:20,920 --> 00:05:20,920
+NV
+
+23
+00:05:20,960 --> 00:05:20,960
+PL		ESS
+
+24
+00:05:21,000 --> 00:05:21,000
+CAN		EhE
+
+25
+00:05:21,040 --> 00:05:21,040
+AU
+
+26
+00:05:21,280 --> 00:05:21,680
+Pe Svensk Filmindustris Revy 1937		NYA	FRANCISCANER-	MUNKAR	invigas enligt gammal	ritual i U.S. Ä.

@@ -1,0 +1,63 @@
+0
+00:00:00,240 --> 00:00:00,240
+NNE	El	NPA
+
+1
+00:00:00,280 --> 00:00:00,280
+I		ÄLTA		Å		Ne
+
+2
+00:00:00,320 --> 00:00:00,320
+Ra
+
+3
+00:00:00,640 --> 00:00:00,960
+Nordbanen og St. Nicolaus		Station.
+
+4
+00:00:13,760 --> 00:00:14,040
+Den rede Port.		-		2	CS
+
+5
+00:03:03,080 --> 00:03:03,280
+Zarens kanoner.		SI
+
+6
+00:03:08,920 --> 00:03:09,120
+Den röda platsen.
+
+7
+00:06:03,760 --> 00:06:03,920
+FÖR REOT	Jasnaja Poljana.		15316 a RATTAT	av hans bortgång.
+
+8
+00:07:07,760 --> 00:07:07,960
+Leo Tolstoi		OEN
+
+9
+00:07:11,920 --> 00:07:12,000
+Tolstois Bibliothek		OET
+
+10
+00:07:16,000 --> 00:07:16,120
+Jasnaja Poljana		LOT
+
+11
+00:07:35,240 --> 00:07:35,400
+OSSE GR	Gorbunof - Possado		[EN
+
+12
+00:07:49,520 --> 00:07:49,640
+Der Tannenwald,	in dem Tolstoj Scenen aus seinem	Roman « Anna Karenina» spielen lässt		ET
+
+13
+00:08:48,840 --> 00:08:48,880
+Abordnungen	der Landbevölkerung		ALB 2208 16
+
+14
+00:08:58,080 --> 00:08:58,120
+Die Trauerversammlung
+
+15
+00:09:35,280 --> 00:09:35,440
+FREI eiEchA		|	|	|		LOETEN

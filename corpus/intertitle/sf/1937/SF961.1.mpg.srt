@@ -1,0 +1,119 @@
+0
+00:00:00,040 --> 00:00:00,040
+DANS
+
+1
+00:00:00,240 --> 00:00:00,240
+KR	BEU
+
+2
+00:00:00,520 --> 00:00:01,080
+Ge Svensk Filmindustris Revy 1937		DROTTNING	VIKTORIAS	PORTRÄTTBYST.
+
+3
+00:00:25,840 --> 00:00:25,840
+MÅ
+
+4
+00:00:26,000 --> 00:00:26,680
+GE Svensk Filmindustris Revy 1937		A.B. F. 25 ÅR.
+
+5
+00:01:33,440 --> 00:01:33,440
+TR	4Uu
+
+6
+00:01:33,560 --> 00:01:33,560
+MH
+
+7
+00:02:21,960 --> 00:02:21,960
+KL	BEV
+
+8
+00:02:22,080 --> 00:02:22,080
+MH
+
+9
+00:02:55,400 --> 00:02:55,520
+TILL
+
+10
+00:02:55,640 --> 00:02:55,640
+EL
+
+11
+00:02:55,720 --> 00:02:55,720
+KL	SU
+
+12
+00:02:55,840 --> 00:02:55,840
+MÅ
+
+13
+00:02:56,000 --> 00:02:56,520
+GG SE		SVENSKA	FILMSAMFUNDETS	MEDALJ	Era	Gösta Ekman.
+
+14
+00:03:14,560 --> 00:03:14,560
+TR	BEV
+
+15
+00:04:12,080 --> 00:04:12,080
+|		192	JU
+
+16
+00:04:12,200 --> 00:04:12,200
+FI
+
+17
+00:04:12,360 --> 00:04:12,880
+BE EEE		Dre	GASVERK	får var man på Jylland,	ITC RESO	BESS
+
+18
+00:04:43,680 --> 00:04:43,680
+|		TD	EU
+
+19
+00:04:43,800 --> 00:04:43,800
+FI
+
+20
+00:04:43,960 --> 00:04:44,480
+Be Svensk Filmindustris Revy 1937		LINCOLN:	PUÖRSNN AN		mellan Manhattan och New	Jersey, som kostar 85 millioner	dollar, närmar sig sin fullbordan.
+
+21
+00:05:09,160 --> 00:05:09,160
+TR	EV
+
+22
+00:05:09,280 --> 00:05:09,280
+FI
+
+23
+00:05:09,440 --> 00:05:09,920
+4 Svensk Filmindustris Revy 1937		EN MODERN	TRAKTOR	kan användas till litet		EMINCHEG
+
+24
+00:05:58,920 --> 00:05:59,040
+VULLDA
+
+25
+00:05:59,240 --> 00:05:59,240
+ED	AU
+
+26
+00:05:59,360 --> 00:05:59,360
+Fl
+
+27
+00:05:59,520 --> 00:05:59,920
+4 SA		KAPITOLIUM	I WASHINGTON	blir årligen grundligt tvättat,		innan kongressen samlas.
+
+28
+00:06:22,760 --> 00:06:22,760
+Å		AR
+
+29
+00:06:22,920 --> 00:06:23,440
+NANNA	.ATIIACOM		 		nsgninllörerulid nån 15830		O		NE

@@ -1,0 +1,11 @@
+0
+00:00:00,040 --> 00:00:27,280
+TRANSPORT	av	TRANS-	FORMATOR
+
+1
+00:00:56,760 --> 00:01:02,880
+Den forslas på en		10-axlig s.k. Q-vagn		med 5 ä 10 km has-	tighet.
+
+2
+00:02:39,800 --> 00:02:43,840
+Avlastningen sker med	stor försiktighet.

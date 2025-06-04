@@ -1,0 +1,119 @@
+0
+00:00:00,040 --> 00:00:00,040
+ä		FY
+
+1
+00:00:00,080 --> 00:00:00,080
+KV ERCE		Då
+
+2
+00:00:00,120 --> 00:00:00,120
+EJ	YE
+
+3
+00:00:00,160 --> 00:00:00,160
+PITE	[7
+
+4
+00:00:00,200 --> 00:00:00,200
+193	EU
+
+5
+00:00:00,320 --> 00:00:00,320
+ML
+
+6
+00:00:00,440 --> 00:00:01,120
+(5 Svensk Filmindustris Revy 1937		FÖRSTA	VÅRSOLEN.
+
+7
+00:00:26,880 --> 00:00:26,880
+192	4U
+
+8
+00:00:27,120 --> 00:00:27,600
+(5 Svensk Filmindustris Revy 1937		S. M. I BOXNING.
+
+9
+00:01:25,880 --> 00:01:25,880
+193	SU
+
+10
+00:03:15,240 --> 00:03:15,760
+AUTO:		UTSTÄLLNINGEN		I BERLIN	har öppnats av riks-	kansler Hitler.
+
+11
+00:04:21,960 --> 00:04:21,960
+4 SE EN		ROOSEVELTS STRID	OM HÖGSTA	DOMSTOLEN.
+
+12
+00:04:22,000 --> 00:04:22,600
+KE Svensk Filmindustris Revy 1937	å		ROOSEVELTS STRID	OM HÖGSTA	IOK
+
+13
+00:04:53,840 --> 00:04:54,360
+KE SO		IDROTT FÖR	SKOGSKARLAR.
+
+14
+00:05:24,560 --> 00:05:24,960
+VA		RAN
+
+15
+00:05:25,040 --> 00:05:25,040
+ML
+
+16
+00:05:25,160 --> 00:05:25,840
+KE Svensk Filmindustris Revy 1937		(OKT NNE	KATASTROFEN	I GÖTEBORG.
+
+17
+00:06:21,480 --> 00:06:21,480
+193	BIR
+
+18
+00:06:21,600 --> 00:06:21,600
+ML
+
+19
+00:06:21,720 --> 00:06:22,240
+KE Svensk Filmi DEE		VINTERSPELEN	I ÖRNSKÖLDSVIK.
+
+20
+00:07:33,080 --> 00:07:33,080
+bk
+
+21
+00:07:33,400 --> 00:07:33,400
+TLL	NV
+
+22
+00:07:33,440 --> 00:07:33,440
+EL	4U
+
+23
+00:07:33,480 --> 00:07:33,480
+KEY)		JD
+
+24
+00:07:33,560 --> 00:07:33,560
+FI
+
+25
+00:10:01,360 --> 00:10:01,360
+ML
+
+26
+00:10:01,480 --> 00:10:02,600
+Göteborg, 4 mars 1937.		Katastrof i hamnen.		Vid en sjösättning på Eriksberg	har Svenska Lloyds Suecia		rammats och sjunkit.
+
+27
+00:10:27,040 --> 00:10:27,280
+Här en bild från 1929, då		Svecia gjorde sin första resa.
+
+28
+00:10:42,880 --> 00:10:43,080
+od 5q pie tllöte 10d tepyhol	aböb 19vö 15n tentiov doo nat
+
+29
+00:12:14,600 --> 00:12:14,840
+Sjösatta 12.000-tonnaren	Kollbjörg.- Akterskeppet har		tryckts in vid kollisionen.

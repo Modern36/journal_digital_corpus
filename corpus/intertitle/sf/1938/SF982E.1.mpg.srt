@@ -1,0 +1,47 @@
+0
+00:00:00,480 --> 00:00:00,480
+AU
+
+1
+00:02:57,640 --> 00:03:00,720
+MACEN	des	ULL
+
+2
+00:05:05,720 --> 00:05:05,720
+JIV		Id 738
+
+3
+00:05:05,880 --> 00:05:05,880
+192	41U
+
+4
+00:05:58,880 --> 00:06:00,440
+Fr BERT mn ARR		| Hausousdeutfeyen		 		Meceftoffen
+
+5
+00:06:03,040 --> 00:06:04,600
+1	rä F BR [NES
+
+6
+00:06:58,840 --> 00:06:58,840
+193	41U
+
+7
+00:06:59,080 --> 00:06:59,800
+NIECH ZYJE KRÖL KAROL II.	LENI TIS ATT	W WARSZAWIE.		Dostojny gosc zamieszkal w b. palacu	krölewskint w tazienkach, gdzie	Pan Prezydent Rzeczypospolitej		i Marszalek Smigly-Rydz rewizytowali		go po wizycie na Zamku.		ERE ARN
+
+8
+00:08:32,240 --> 00:08:32,240
+191	1U
+
+9
+00:08:32,360 --> 00:08:32,360
+ML
+
+10
+00:09:15,480 --> 00:09:15,480
+bond
+
+11
+00:10:38,840 --> 00:10:38,840
+17	NAIV	Is

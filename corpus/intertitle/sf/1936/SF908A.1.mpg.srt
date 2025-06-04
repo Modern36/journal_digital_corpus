@@ -1,0 +1,55 @@
+0
+00:00:00,240 --> 00:00:00,240
+Zz	VPA
+
+1
+00:00:00,360 --> 00:00:00,360
+193	4Uu
+
+2
+00:00:00,640 --> 00:00:01,240
+e SER		HOS MORMOR	OCH MORFAR	JTI
+
+3
+00:02:13,400 --> 00:02:14,000
+BROMMAFÄLTET	INR UARLAA
+
+4
+00:02:47,880 --> 00:02:47,880
+SNURRORNAS	MARATHON.
+
+5
+00:02:47,920 --> 00:02:48,560
+BG Svensk Filmindustris Revy 1936		SNURRORNAS	MARATHON.
+
+6
+00:03:13,200 --> 00:03:13,840
+Ge EE		ORFEUS SPELAR	IN KCG SU AIN
+
+7
+00:03:55,720 --> 00:04:30,000
+Ge Svensk Filmindustris Revy 1936		KUGLEPOSTEN KOM	SÅG OCH SEGRADE.
+
+8
+00:06:07,200 --> 00:06:07,880
+FE SM		yen	DM IUNOr NU
+
+9
+00:06:35,480 --> 00:06:36,200
+4 Svensk Filmindustris Revy 1936		FLYGOLYCKAN	I TFART (ON
+
+10
+00:07:49,800 --> 00:07:50,400
+EB Svensk Filmindustris Revy 1936		REGERINGSSKIFTE.		Den 19 juni 1936 avgick	ministären Per Albin Hansson.	De avgående statsråden läm-	FRE NS EN
+
+11
+00:08:13,240 --> 00:08:13,880
+Ministären Axel Pehrsson	samlas till sin inträdes-	IE
+
+12
+00:09:07,800 --> 00:09:08,320
+EDT	efter konseljen.
+
+13
+00:09:36,840 --> 00:09:37,440
+BE Svensk Filmindustris Revy 1936		SKÅDESPELARNAS	TENNISTÄVLINGAR	PÅ SALTSJÖBADEN.

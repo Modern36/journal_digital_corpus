@@ -1,0 +1,75 @@
+0
+00:00:00,120 --> 00:00:00,120
+SNES		bl I
+
+1
+00:00:00,160 --> 00:00:00,160
+”68Å		Gav
+
+2
+00:00:00,200 --> 00:00:00,200
+4U
+
+3
+00:00:00,240 --> 00:00:00,240
+-I 1]	ög
+
+4
+00:00:00,480 --> 00:00:01,160
+Fotboll på		amerikanska.
+
+5
+00:04:53,920 --> 00:04:53,920
+AANRY
+
+6
+00:04:54,080 --> 00:04:54,080
+192	4U
+
+7
+00:05:09,880 --> 00:05:10,320
+Aeroplanet klarade den orkan,		som till och med drev fisk-	måsarna i land.
+
+8
+00:05:17,080 --> 00:05:17,760
+Ett ovädersreportage från	amerikanska Atlantkusten.
+
+9
+00:05:44,800 --> 00:05:44,880
+Badorterna voro värst utsatta,	och skadorna belöpte sig till		miljoner.
+
+10
+00:06:15,520 --> 00:06:15,520
+Ma
+
+11
+00:06:15,560 --> 00:06:15,560
+-I 1	KATA
+
+12
+00:06:15,800 --> 00:06:16,120
+Ge Svensk Filmindustris Revy 1935		RYSKA KVINNLIGA	FALLSKÄRMSHOPPARE	I TRUPP.
+
+13
+00:07:49,960 --> 00:07:49,960
+192	4Uu
+
+14
+00:07:50,240 --> 00:07:50,720
+BE Svensk Filmindustris Revy 1935		COWBOYS		från hela Västem avsluta		säsongen med en hej-	dundrande rodeo.
+
+15
+00:08:26,800 --> 00:08:26,800
+147		/
+
+16
+00:08:26,840 --> 00:08:26,840
+NILHU		CURE
+
+17
+00:08:26,920 --> 00:08:26,920
+192	JU
+
+18
+00:08:27,160 --> 00:08:27,600
+BE Svensk Filmindustris Revy 1935		JULTOMTEN	ÄR SNÄLL —	ÄVEN I		CHICAGO!

@@ -1,0 +1,83 @@
+0
+00:00:01,320 --> 00:00:01,400
+LR
+
+1
+00:00:01,520 --> 00:00:01,520
+SYNA		NE		Fd
+
+2
+00:00:01,560 --> 00:00:01,560
+UOT	[MÅ		kn an er
+
+3
+00:01:02,520 --> 00:01:02,600
+PRE
+
+4
+00:01:02,720 --> 00:01:02,720
+IAVIf	d Av		-TA
+
+5
+00:02:01,800 --> 00:02:01,800
+NAbslö	all		TATT
+
+6
+00:02:31,720 --> 00:02:31,720
+1400	IVIM/		Nr. jet
+
+7
+00:04:58,120 --> 00:04:58,240
+ARNE		5
+
+8
+00:04:58,360 --> 00:04:58,360
+avel		re
+
+9
+00:06:47,200 --> 00:06:47,320
+Lp
+
+10
+00:06:47,360 --> 00:06:47,360
+NJA
+
+11
+00:06:47,400 --> 00:06:47,400
+BA
+
+12
+00:06:47,440 --> 00:06:47,440
+AHUC	GAV		TÄATST”N
+
+13
+00:07:55,120 --> 00:07:55,120
+av		ÄT
+
+14
+00:07:55,240 --> 00:07:55,240
+eg		Bj
+
+15
+00:09:01,560 --> 00:09:01,560
+14UO	AE		EF. Rv
+
+16
+00:09:22,000 --> 00:09:58,440
+Italiens halva	-slayflotta stridsvduyliy	ROM: Ett fartyg svårt skadat		Stockholm får smördagar	Prost räddar Lucia-juryn hade	flickors liv rekordsvårt val		Prof. Lundstedt till regeringen om Wöghratarsen
+
+17
+00:11:32,480 --> 00:11:32,920
+President Kallio	död.
+
+18
+00:12:16,600 --> 00:12:16,600
+VAYT
+
+19
+00:12:16,640 --> 00:12:16,640
+Väl JoD	NINYy	tfaloll
+
+20
+00:14:06,720 --> 00:14:08,880
+LEG		IKOTKAAN SelRE SE Ke 3	Åtitkorka fG EAP FN

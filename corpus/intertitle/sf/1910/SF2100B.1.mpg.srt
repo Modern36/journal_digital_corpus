@@ -1,0 +1,59 @@
+0
+00:00:00,200 --> 00:00:00,200
+193	4U
+
+1
+00:00:00,320 --> 00:00:00,320
+AR
+
+2
+00:00:00,520 --> 00:00:00,720
+Nordbanen og St. Nicolaus		Station.		6	”
+
+3
+00:00:13,320 --> 00:00:13,400
+.J109 sbor nod		Cl) Cu		fer [a
+
+4
+00:00:18,520 --> 00:00:34,840
+Loubjanka Pladsen.
+
+5
+00:02:08,280 --> 00:02:08,560
+Kremls historiske Klokker.		(CA fm		[GT KSM
+
+6
+00:03:29,800 --> 00:03:29,800
+193	4U
+
+7
+00:03:30,120 --> 00:03:30,280
+Jägarnes uppbrott.
+
+8
+00:03:56,400 --> 00:03:56,640
+Storfursten utdelar	åt jägarne numren på de platser,		hvarest de skola postera.
+
+9
+00:04:02,240 --> 00:04:02,280
+Några hjortar skrämma		upp en stor skara vildänder.
+
+10
+00:04:33,560 --> 00:04:33,680
+Jakt på vildsvin.
+
+11
+00:05:32,440 --> 00:05:32,560
+Samlingssignal.
+
+12
+00:05:40,240 --> 00:05:40,400
+Vildsvinen försvara	sig tappert. Hundarne bära tydliga	märken efter de heta striderna.
+
+13
+00:05:51,080 --> 00:05:51,240
+INLETT EN LENNCE
+
+14
+00:06:32,480 --> 00:06:32,600
+Jägarnes lunch.

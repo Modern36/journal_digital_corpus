@@ -1,0 +1,79 @@
+0
+00:00:00,240 --> 00:00:00,240
+PElKTTG	82517
+
+1
+00:00:00,320 --> 00:00:00,320
+192	4U
+
+2
+00:00:00,360 --> 00:00:00,360
+INVEST		SD
+
+3
+00:00:00,440 --> 00:00:00,440
+AR
+
+4
+00:00:00,600 --> 00:00:00,720
+UTE	GÖTEBORG.
+
+5
+00:00:00,760 --> 00:00:00,800
+=]		 		——S—		 		 		MTG	GÖTEBORG.
+
+6
+00:00:00,840 --> 00:00:00,840
+== 2		 		VINTERBILDER FRÅN	GÖTEBORG.		 		 		 		ff		 		 		[a =====================(]
+
+7
+00:00:18,040 --> 00:00:18,200
+Danska vägen i snöskrud.
+
+8
+00:00:57,480 --> 00:00:57,640
+Er		 		RIDES OT
+
+9
+00:01:37,880 --> 00:01:38,040
+På "Stora Dammen".
+
+10
+00:01:54,960 --> 00:01:55,160
+I kälkbacken.
+
+11
+00:02:44,480 --> 00:02:44,520
+EM	LA		NN
+
+12
+00:02:44,560 --> 00:02:44,560
+192	SKU
+
+13
+00:02:44,680 --> 00:02:44,680
+AR
+
+14
+00:03:43,800 --> 00:04:29,840
+hb		äg ägt fb ort AR
+
+15
+00:06:53,680 --> 00:06:53,680
+SON		I
+
+16
+00:06:53,760 --> 00:06:53,760
+192
+
+17
+00:06:54,040 --> 00:06:54,320
+GENOM SVERIGES	Re		HALLANDS ”VÄDERÖ.”		 		[EE
+
+18
+00:06:54,360 --> 00:06:54,480
+FELT ET EO OL TO TI	Jaud såillsävbye 29di9v8 biv	LC EE CE nee CT ET	-n9å9 nia doo villsåår sdit tail		OR EEERER ST TT
+
+19
+00:09:13,920 --> 00:09:14,120
+Till följd av den alltid i en	riktning gående vinden, har en	stor del av öns träd erhållit	mycket egendomliga och karak-		täristiska former.

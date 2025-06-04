@@ -1,0 +1,7 @@
+0
+00:00:00,040 --> 00:00:40,600
+CH	Bengt Almberg	RN	Arne Lagercrantz	Produktion.		Svensk Filmindustri
+
+1
+00:08:42,240 --> 00:08:45,400
+C 53551		BOU ARFA 70
