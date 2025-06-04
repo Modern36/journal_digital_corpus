@@ -1,3 +1,4 @@
+import multiprocessing
 import subprocess
 
 from stum.video_to_srt import pipeline as stum_pipeline
@@ -83,6 +84,12 @@ def group_to_speech_paths(group, force=False):
     write_empty_filenames(empty_files)
 
 
+def tuple_stum_pipeline(pair):
+    video_path, srt_path = pair
+    stum_pipeline(video_path, srt_path)
+    return srt_path.exists()
+
+
 if __name__ == "__main__":
     for video_path, srt_path in tqdm(
         speech_path_pairs(),
@@ -91,11 +98,12 @@ if __name__ == "__main__":
     ):
         swescribe_pipeline(video_path, srt_path)
 
-    for video_path, srt_path in tqdm(
-        intertitle_path_pairs(),
-        total=5217,
-        desc="Intertitle Transcription",
-    ):
-        stum_pipeline(video_path, srt_path)
+    with multiprocessing.Pool() as pool:
+        bad = tqdm(desc="Intertitle Transcription", total=5217)
+        for task in pool.imap_unordered(
+            tuple_stum_pipeline, intertitle_path_pairs(), chunksize=10
+        ):
+            if task:
+                bad.update(1)
 
     remove_empty_transcripts()

@@ -16,7 +16,7 @@ Repository = "https://github.com/Modern36/journal_digital_corpus"
 [project.optional-dependencies]
 dev = [
   "swescribe[whisperx]==0.1.0",
-  "stum==0.1.1",
+  "stum==0.2.0",
   "pytest==8.2.0",
   "tqdm==4.67.1"
 ]
