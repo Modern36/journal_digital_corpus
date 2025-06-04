@@ -12,6 +12,8 @@ def emtpy_srt(corpus_dir):
 
 
 def load_empty_filenames(empty_srts_file):
+    if empty_srts_file.is_dir():
+        empty_srts_file = empty_srts_file / "empty.tsv"
     if not empty_srts_file.exists():
         return set()
     with open(empty_srts_file, "r", encoding="utf8") as f:
@@ -19,6 +21,9 @@ def load_empty_filenames(empty_srts_file):
 
 
 def write_empty_filenames(empty_srts_file, empyt_ids_set: list):
+    if empty_srts_file.is_dir():
+        empty_srts_file = empty_srts_file / "empty.tsv"
+
     with open(empty_srts_file, "w", encoding="utf8") as f:
         f.write("\n".join(empyt_ids_set))
 
