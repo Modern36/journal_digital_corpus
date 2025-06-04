@@ -2,11 +2,11 @@
 build-backend = "hatchling.build"
 requires = [
     "hatchling",
-    "hatch-calver",
+    "hatch-vcs",
 ]
 
 [tool.hatch.version]
-scheme = "calver"
+source = "vcs"
 
 [project]
 dependencies =[
@@ -16,7 +16,7 @@ dependencies =[
   "tqdm==4.67.1",
 ]
 name = "journal_digital"
-version = "2025-06-04"
+dynamic = ["version"]
 readme = "README.md"
 authors = [
   {name = "Robert Aspenskog", email = "robert.aspenskog@gmail.com"},
@@ -52,8 +52,6 @@ classifiers = [
     "Topic :: Utilities",
 ]
 description = "Transcriptions from the Swedish newsreel archive Journal Digital"
-readme = "README.md"
-license = {"file"= "LICENSE"}
 license = {text = "CC-BY-NC-4.0"}
 
 
