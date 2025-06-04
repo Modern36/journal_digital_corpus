@@ -91,7 +91,16 @@ def store_corpus_measurements(corpus_subdir: Path):
         measurements_description, sep="\t", float_format="%.2f"
     )
 
-    df.sum().to_csv(measurements_sum, sep="\t", float_format="%.2f")
+    sum_df = df.sum().reset_index()
+    sum_df.iloc[0, 0] = "num_files"
+    sum_df.iloc[0, 1] = len(df)
+    sum_df.to_csv(
+        measurements_sum,
+        sep="\t",
+        float_format="%.2f",
+        index=False,
+        header=False,
+    )
 
 
 if __name__ == "__main__":
