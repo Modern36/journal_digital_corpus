@@ -119,7 +119,7 @@ if __name__ == "__main__":
     readme = readme_path.read_text()
     readme = re.sub(
         "<!-- numbers -->.+<!-- numbers -->",
-        f"""<!-- numbers --> The corpus consists of {speech_words:,} words transcribed from {speech_hours:,} hours of speech from {speech_files:,} videos and {intertitle_words:,} words from {intertitle_count:,} intertitles from {intertitle_files:,} videos. <!-- numbers -->
+        f"""<!-- numbers --> The corpus consists of {speech_words:,} words transcribed from {speech_hours:,} hours of speech across {speech_files:,} videos and {intertitle_words:,} words from {intertitle_count:,} intertitles from {intertitle_files:,} videos. <!-- numbers -->
 """,
         readme,
     )
