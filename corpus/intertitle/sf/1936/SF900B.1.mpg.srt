@@ -1,0 +1,75 @@
+0
+00:00:00,280 --> 00:00:00,280
+4U
+
+1
+00:00:00,520 --> 00:00:00,960
+e Svensk Filmindustris Revy 1936	Vid		minneshögtidligheten		i Berlin		för de i kriget stupade,		paraderade trupperna för	Hitler.
+
+2
+00:01:21,800 --> 00:01:21,880
+LÄ
+
+3
+00:01:21,920 --> 00:01:21,920
+kod	VY
+
+4
+00:01:21,960 --> 00:01:21,960
+ANN	NÅ
+
+5
+00:01:22,000 --> 00:01:22,000
+YKL
+
+6
+00:01:22,040 --> 00:01:22,040
+YR	La
+
+7
+00:01:22,080 --> 00:01:22,080
+122	EU
+
+8
+00:01:22,320 --> 00:01:22,920
+MINIATYR-	BOXARE	I RINGEN.
+
+9
+00:02:52,440 --> 00:02:52,520
++	sl
+
+10
+00:02:52,840 --> 00:02:53,240
+GB Svensk Filmindustris Revy 1936		Den världsberömde		fysiologen Pavlov,	Nobelpristagare 1904, hedrades	vid sitt frånfälle med lit de	parad och statsbegravning.
+
+11
+00:02:53,280 --> 00:02:53,880
+FIND Ne RS LIK RS	DY Ren	Lol LV TIN		 		DES CENTAINES DES MILLIERS	DE TRAVAILLEURS PASSAIENT DEVANT	IE CERCUEIL DU GRAND SAVANT
+
+12
+00:04:15,960 --> 00:04:15,960
+193	4U
+
+13
+00:04:16,240 --> 00:04:16,600
+stris Revy 1936		 		Ungrarna slogo		Tyskland	i fotbollslandskamp	i Budapest med 3	mål mot 2.
+
+14
+00:05:26,840 --> 00:05:26,920
+AD
+
+15
+00:05:27,120 --> 00:05:27,120
+Få
+
+16
+00:06:57,400 --> 00:06:57,640
+FENA		FÄNENz
+
+17
+00:06:57,680 --> 00:06:57,680
+122	AU
+
+18
+00:06:57,960 --> 00:06:58,560
+FLOOD	are	RN ove ene Vt

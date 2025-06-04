@@ -1,0 +1,91 @@
+0
+00:00:00,240 --> 00:00:00,240
+192	4U
+
+1
+00:00:00,280 --> 00:00:00,280
+11	Fj20	TS
+
+2
+00:00:00,480 --> 00:00:00,920
+SVENSK SEGER	I UNGERN.		A LK dog BK E,	Budapest, i ishockey	med 4—3.
+
+3
+00:00:29,000 --> 00:00:29,000
+SCEN y		MaA
+
+4
+00:00:29,160 --> 00:00:29,160
+192	4U
+
+5
+00:00:29,400 --> 00:00:29,960
+GLIMT FRÅN		SKRIDSKOFEST	I WIEN.
+
+6
+00:01:21,520 --> 00:01:21,520
+PL		3
+
+7
+00:01:21,560 --> 00:01:21,560
+193	4U
+
+8
+00:01:21,800 --> 00:01:22,160
+PIGG MUSSE		på Palazzo Venezias balkong		efter det stora fascistrådets		sammanträde.
+
+9
+00:02:03,040 --> 00:02:03,040
+-	Näs 4	JAGA
+
+10
+00:02:03,080 --> 00:02:03,080
+NFLÖD	o		Ng
+
+11
+00:02:03,120 --> 00:02:03,120
+FANNY		ta
+
+12
+00:02:03,200 --> 00:02:03,200
+tel
+
+13
+00:02:03,440 --> 00:02:03,880
+ETT	VÄRLDSPOLITISKT	INTERMEZZO.		Japanerna sänka den	amerikanska kanonbåten		Panay
+
+14
+00:03:37,800 --> 00:03:37,800
+Fe		ZOsS
+
+15
+00:03:37,880 --> 00:03:37,880
+4U
+
+16
+00:03:37,920 --> 00:03:37,920
+-12		MES 3
+
+17
+00:03:38,120 --> 00:03:38,600
+DEN STORA		RODEON	I LOS ANGELES.
+
+18
+00:04:13,520 --> 00:04:13,520
+12		MIX
+
+19
+00:04:13,720 --> 00:04:14,080
+ITALIEN	I ABESSINIEN.		En stor religiös procession	på väg kön vicekungens	palats till Santa Mariakyrkan
+
+20
+00:08:12,520 --> 00:08:12,520
+VANOR	er
+
+21
+00:08:12,680 --> 00:08:12,680
+tel
+
+22
+00:08:12,720 --> 00:08:12,720
+AR	Was		13

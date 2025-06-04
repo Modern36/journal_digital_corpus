@@ -1,0 +1,67 @@
+0
+00:00:00,120 --> 00:00:00,120
+SUT	EETE
+
+1
+00:00:00,280 --> 00:00:00,280
+4U
+
+2
+00:00:00,560 --> 00:00:01,040
+ME SVENSKA BIOGRAFTEATERN E=		 		 		EN HÄFTIG ELDSVÅDA	har härjat spisbrödsfabriken	Kronan vid Sundbyberg, var-	vid stora mängder bröd och	spannmål förstördes.		 		RET SON
+
+3
+00:01:02,600 --> 00:01:10,960
+I”		5
+
+4
+00:01:31,560 --> 00:01:32,000
+EN HÄFTIG ELDSVÅDA		har på måndagsmorgonen	härjat ett par åkarstallar på	Söder (Stockholm), varvid	stallarne och en mängd hö	blevo lågornas rov.		 		PRE ENE		mE= SVENSKA BIOGRAFTEATERN [E=s]
+
+5
+00:02:15,120 --> 00:02:15,560
+EEE ET		 		 		 		 		ELDENS HÄRJNINGAR.	En våldsam eldsvåda har del-	vis ödelagt Terrasitaktiebola-	gets kemiska fabrik på Kungs-		[ala tetS MR BST aTS st) I		PE		 		 		 		 		 		 		 		De
+
+6
+00:02:55,520 --> 00:02:55,800
+(EES		 		 		 		ERT		 		(2		 		 		 		 		EN FÖRÖDANDE ELDS-	ND	har åter härjat Gasaccumu-	lators verkstäder å	IEC		 		SE EES		 		 		 		Ga		 		 		C
+
+7
+00:04:19,840 --> 00:04:19,840
+-OUuASÖ
+
+8
+00:04:19,920 --> 00:04:19,920
+192	4Uu
+
+9
+00:04:20,200 --> 00:04:20,720
+FJODOR GS	senaste förvärf. En slang	[RT STERIL DIET		belysningsanordningar.		LEA
+
+10
+00:07:40,720 --> 00:07:40,720
+1922
+
+11
+00:07:40,840 --> 00:07:40,840
+Pe	rä
+
+12
+00:07:41,120 --> 00:07:42,400
+Våra raska brandmän måste	dagligen tränas för sittansvars-	fulla och farliga arbete.	Hakstegsexercis
+
+13
+00:08:14,600 --> 00:08:14,960
+En gymnastiklektion under	brandkapten Gyllenham-	mars ledning
+
+14
+00:10:36,520 --> 00:10:36,840
+KOREA EES CREST VAC		BISSE
+
+15
+00:12:13,560 --> 00:12:13,960
+30 sekunder senare äro vagnarna	på väg till brandstället.
+
+16
+00:12:24,640 --> 00:12:25,520
+”Johannes” kommer

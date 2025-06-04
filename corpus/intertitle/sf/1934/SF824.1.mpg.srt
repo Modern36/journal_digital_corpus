@@ -1,0 +1,39 @@
+0
+00:00:00,280 --> 00:00:00,280
+pl	SER
+
+1
+00:00:00,480 --> 00:00:01,240
+45 Svensk Filmindustris Veckorevy 1934		Svenska Scoutrörelsen	bet dT LEN IA	Scoutchefen pratar		I		? CC RSKR LSS
+
+2
+00:02:22,520 --> 00:02:22,520
+zac PÅ SÄLJAKT		CM	é MM	j
+
+3
+00:04:24,920 --> 00:04:25,680
+(5 Sorak Fimindstra V		KYSS SES Enda
+
+4
+00:05:51,320 --> 00:05:52,120
+Naturkatastrofen i Norge.
+
+5
+00:07:22,240 --> 00:07:23,400
+RE Rn ERE
+
+6
+00:08:46,240 --> 00:08:46,720
+SVENSK FILMINDUSTRIS		VECKOREVY	1934		  	 		 		Tjuguförsta årg.
+
+7
+00:08:46,760 --> 00:08:46,760
+Yr	DA
+
+8
+00:08:47,240 --> 00:08:47,560
+Konung Gustaf	åtföljd av prinsessan Ingrid		NN
+
+9
+00:09:30,680 --> 00:09:31,400
+IDEER	av hästar i krig,	(Röda stjärnan).		De ”röda stjärnorna” instrueras	i ridkonsten av löjtnant Henri		KRO

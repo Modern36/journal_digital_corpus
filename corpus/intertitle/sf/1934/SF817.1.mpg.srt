@@ -1,0 +1,59 @@
+0
+00:00:00,080 --> 00:00:00,760
+EEE Veckorevy 1934		De oroliga dagarna	FREDS
+
+1
+00:01:49,360 --> 00:01:49,360
+nr	tel
+
+2
+00:01:49,400 --> 00:01:49,400
+pl	(SET
+
+3
+00:01:49,480 --> 00:01:49,480
+FI
+
+4
+00:01:49,600 --> 00:01:49,600
+EN	Lr SFÄR Hausse för	isartister!
+
+5
+00:01:49,640 --> 00:01:56,880
+EN	ä IR ETS		KE		; FR FE EO
+
+6
+00:07:00,640 --> 00:07:00,640
+FO		ITA
+
+7
+00:07:00,680 --> 00:07:00,680
+s 4
+
+8
+00:07:00,720 --> 00:07:00,720
+STÄV
+
+9
+00:07:00,800 --> 00:07:00,800
+4U
+
+10
+00:07:00,920 --> 00:07:00,920
+FI
+
+11
+00:07:01,040 --> 00:07:05,360
+Vallentuna-loppet.		S. M. K:s stora fartfest.
+
+12
+00:07:09,240 --> 00:07:10,000
+I första heatet startade 22		solomaskiner. Tre av Hus-		kvarna-märket körde först		i mål med Ragnar Sunnquist	som segrare.
+
+13
+00:07:44,360 --> 00:07:48,680
+I sidvagnsklassen segrade	Curt Tyllén på Harley	Davidson . . .
+
+14
+00:08:27,840 --> 00:08:31,320
+... och bland bilama tysken	Pietsch på Alfa Romeo.

@@ -1,0 +1,19 @@
+0
+00:00:00,320 --> 00:00:00,320
+ARNE,		fp
+
+1
+00:00:00,720 --> 00:00:01,320
+GUSTAV II ADOLFS-	MINNET		högtidlighölls bl. a		ländska förbund		av Foster-		 		 		med fackel-	tåg till Solna kyrka.
+
+2
+00:00:56,160 --> 00:00:56,200
+ER Nb
+
+3
+00:00:56,240 --> 00:00:56,240
+EL
+
+4
+00:00:56,600 --> 00:00:57,080
+RÖRSTRANDS 200-ARIGA	FABRIKER

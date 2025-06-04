@@ -1,0 +1,15 @@
+0
+00:00:00,320 --> 00:00:00,320
+87		INT Va	YYTN
+
+1
+00:00:00,480 --> 00:00:00,640
+Bilder från Kalmar.		INTOG n		PE ESTeE NGG		Kristianstad.
+
+2
+00:06:00,000 --> 00:06:00,160
+NUTS
+
+3
+00:09:07,680 --> 00:09:08,000
+SA		CK EN		ND

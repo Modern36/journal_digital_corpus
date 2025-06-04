@@ -1,0 +1,63 @@
+0
+00:00:00,680 --> 00:00:00,840
+EVINSeEG	FILMINDUSTRIS	JA
+
+1
+00:00:00,880 --> 00:00:01,480
+( BEE		JAGAREN	vet:	får en sidenflagga av	Stockholms stad.
+
+2
+00:02:18,680 --> 00:02:19,280
+GB EEE		HEMSLÖJD-	UTSTÄLLNING	i Liljevalchs konsthall.
+
+3
+00:03:02,800 --> 00:03:03,640
+EP Svensk Filmindustris Revy 1937		DANMARK SLOG		SVERIGE KLART	med 2—1 i landskampen	på Råsunda fotbollstadion.
+
+4
+00:07:04,920 --> 00:07:05,640
+NE		KONSTEN ATT	NAC.	ingår också i den ameri-	[ENS EN STENEN SN	utbildning.
+
+5
+00:08:03,520 --> 00:08:03,520
+KR	4Uu
+
+6
+00:08:03,560 --> 00:08:03,560
+JP	VYER
+
+7
+00:08:03,640 --> 00:08:03,640
+ML	AR
+
+8
+00:08:03,760 --> 00:08:04,360
+GE Svensk Filmindustris Revy 1937		GLADA LAXAR.
+
+9
+00:08:34,520 --> 00:08:34,520
+ia,		FAN
+
+10
+00:08:34,560 --> 00:08:34,560
+MR		VA
+
+11
+00:08:34,600 --> 00:08:34,600
+EE
+
+12
+00:08:34,680 --> 00:08:34,680
+193	BEV
+
+13
+00:08:34,920 --> 00:08:35,400
+KO SM		TYAJÄMeTVVIM	ENE EE	fojeiomud Sxenex		219804 Ii
+
+14
+00:09:06,160 --> 00:09:06,160
+Fi
+
+15
+00:09:06,280 --> 00:09:06,720
+GE Svensk Filmindustris Revy 1937		HÖSTENS	HATTMODER.

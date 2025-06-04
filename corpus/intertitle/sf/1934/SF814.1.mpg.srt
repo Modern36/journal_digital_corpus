@@ -1,0 +1,91 @@
+0
+00:00:00,040 --> 00:00:04,040
+FET NN	NERV
+
+1
+00:03:54,560 --> 00:03:55,280
+Svensk FILMINDUSTRIS		VECKOREVY	1934
+
+2
+00:03:55,520 --> 00:03:55,520
+CF		Lå
+
+3
+00:03:55,560 --> 00:03:55,560
+AL		7S
+
+4
+00:03:55,600 --> 00:03:55,600
+Hl
+
+5
+00:03:55,640 --> 00:03:55,640
+193	AU
+
+6
+00:03:55,680 --> 00:03:55,680
+fl-		TTV	2 e
+
+7
+00:03:55,760 --> 00:03:55,760
+VAN
+
+8
+00:03:55,920 --> 00:03:55,920
+Österrikes		handelsminister,	Friedrich Stockinger, har gjort	ET RT NI
+
+9
+00:03:55,960 --> 00:03:56,480
+Österrikes		ENT BESVRESA	IF 41 Ts Te SRS TSL TTT TT nd	besök i Stockholm.
+
+10
+00:05:19,600 --> 00:05:20,160
+Ett handelsavtal mellan Sverige	och Österrike låg färdigt att	undertecknas i vårt utrikes-	departement av Österrikes	minister i Stockholm, baron		Heinrich von Sommaruga . . .
+
+11
+00:05:26,760 --> 00:05:27,280
+ESO nt RE	bsotre te so
+
+12
+00:05:36,240 --> 00:05:36,680
+SGI		Sandler.
+
+13
+00:06:03,800 --> 00:06:03,800
+TEEN	SAZN
+
+14
+00:06:03,840 --> 00:06:03,880
+LSAYI		FÖ
+
+15
+00:06:03,960 --> 00:06:03,960
+SE
+
+16
+00:06:04,080 --> 00:06:04,080
+FI		AR
+
+17
+00:06:04,240 --> 00:06:05,000
+Till botten		gick inne vid själva kajen	spannmålslastade motorfar-	” tyget Emst av Stockholm	efter dust med Mälarens isar.
+
+18
+00:06:36,440 --> 00:06:36,440
+NERE	SJR
+
+19
+00:06:36,520 --> 00:06:36,520
+JP	KEL	ES
+
+20
+00:06:36,600 --> 00:06:36,600
+AR
+
+21
+00:06:36,760 --> 00:06:36,760
+Ia RT		Amerikansk ishockeymatch,	där inte enbart spelskicklig-	TSG ENE
+
+22
+00:06:36,800 --> 00:06:37,440
+Puck och puckel.		Amerikansk ishockeymatch,	där inte enbart spelskicklig-	heten fäller utslaget.

@@ -1,0 +1,167 @@
+0
+00:00:00,040 --> 00:00:00,040
+RER		BAI
+
+1
+00:00:00,080 --> 00:00:00,080
+NN		NE AT
+
+2
+00:00:00,160 --> 00:00:00,160
+AN		SÅ
+
+3
+00:00:00,200 --> 00:00:00,200
+LÄMG	554
+
+4
+00:00:00,240 --> 00:00:00,240
+192	4U
+
+5
+00:00:00,280 --> 00:00:00,360
+Fl
+
+6
+00:01:32,160 --> 00:01:32,640
+land |	sjö	Si
+
+7
+00:02:57,200 --> 00:02:57,200
+ML
+
+8
+00:02:57,360 --> 00:03:00,600
+4 (5 Svensk Filmindustris Veckorevy 1933		BLAND FILMENS	LEJON.
+
+9
+00:04:40,560 --> 00:04:40,560
+nr		tel
+
+10
+00:04:40,600 --> 00:04:40,600
+EA	JD
+
+11
+00:04:40,680 --> 00:04:40,680
+AR
+
+12
+00:04:40,800 --> 00:04:41,160
+ISBERGSFARAN	INU NSD		söka amerikanarna avvärja	genom att beskjuta eller	spränga de flytande iskolos-	serna. Resultatet blir dock	minimalt.
+
+13
+00:05:20,880 --> 00:05:20,880
+SN
+
+14
+00:05:21,000 --> 00:05:21,000
+VIE
+
+15
+00:05:21,040 --> 00:05:21,040
+192	4U
+
+16
+00:05:21,080 --> 00:05:21,080
+sk	VIUELG	RQ
+
+17
+00:05:21,280 --> 00:05:21,920
+4 ( Svensk Filmindustris Veckorevy 1933		VÅRENS TID STUNDAR	och de nya dammoderna	BAER
+
+18
+00:06:47,000 --> 00:06:47,080
+Ir
+
+19
+00:06:47,120 --> 00:06:47,120
+SN
+
+20
+00:06:47,160 --> 00:06:47,160
+VAS
+
+21
+00:06:47,200 --> 00:06:47,200
+ÅA	NN
+
+22
+00:06:47,240 --> 00:06:47,240
+VAINd	VINN
+
+23
+00:06:47,280 --> 00:06:47,280
+SLIBVG	MA
+
+24
+00:06:47,320 --> 00:06:47,320
+EL	RU
+
+25
+00:06:47,360 --> 00:06:47,360
+I	LORCA
+
+26
+00:06:47,560 --> 00:06:48,080
+Svensk Filmindustris Veckorevy 1933		NNE	Arbetslösa musiker och sångare	ha fått polistillstånd att spela	och sjunga på Paris gator för		att skaffa sig uppehälle	för dagen.
+
+27
+00:07:18,080 --> 00:07:18,080
+PAA
+
+28
+00:07:18,120 --> 00:07:18,120
+VALA
+
+29
+00:07:18,160 --> 00:07:18,160
+jak	Mif
+
+30
+00:07:18,200 --> 00:07:18,200
+WL	ra
+
+31
+00:07:18,240 --> 00:07:18,240
+EL	AU
+
+32
+00:07:18,480 --> 00:07:19,040
+C Ö Svensk Filmindustris Veckorevy 1933		NI NNBOILONIN TEN	NO	Mussolini mottager Englands	premierminister McDonald i	Ostia's flyghamn.
+
+33
+00:08:17,760 --> 00:08:17,760
+2	KAJ
+
+34
+00:08:18,000 --> 00:08:18,200
+RA		Svensk Filmindustris Veckorevy 1933		ONANI		SISTA DAGAR.	Ett trevligt inslag blev stor-	Febetsse ki Setilä ai:	Bland deltagarna märktes Särna-
+
+35
+00:08:18,240 --> 00:08:18,440
+Svens		 		TRE		BODEN-SPELENS		SISTA DAGAR.	Ett trevligt inslag blev stor-	rännarnas tolkning efter häst.	Bland deltagarna märktes Särna-		Tatt Hnelont ock.
+
+36
+00:09:01,200 --> 00:09:01,800
+”Uttern” får sitt pris ur	prinsessan Sibyllas hand.
+
+37
+00:09:05,720 --> 00:09:06,040
+Spelen avslutades med back-		tävling i Pagla-backen, där		dagens längsta hopp mätte	IA
+
+38
+00:09:37,120 --> 00:09:37,120
+F		FILMNING UTAN	STRÅLKASTARE.	RN Getter SN	Fotos [Ses inl testa MET	bilder från teaterparkett under	pågående föreställning utan
+
+39
+00:09:37,160 --> 00:09:37,680
+Svensk Filmindustris Veckorevy 1933		FILMNING UTAN	STRÅLKASTARE.	En S. F-.-fotograf har med sin	moderna filmkamera tagit dessa	bilder från teaterparkett under	pågående föreställning utan	extra belysning.
+
+40
+00:11:21,320 --> 00:11:21,800
+<		NOK:	I TIMMEN	uppnås med denna franska	motor-isjakt, även om det		är snö på isen.
+
+41
+00:11:50,800 --> 00:11:51,360
+Svensk Filminc		 		 		PÅVEN ÅR TIDSENLIG.	I Vatikanen har Pius XI in-	vigt egen radiostation för	ultra-korta våglängder.

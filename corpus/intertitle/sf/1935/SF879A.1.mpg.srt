@@ -1,0 +1,51 @@
+0
+00:00:00,040 --> 00:00:00,640
+SVE	TVISDES	REVY		NER EET		(e
+
+1
+00:00:00,760 --> 00:00:00,760
+EAA	RLER
+
+2
+00:00:01,080 --> 00:00:01,920
+Ly Svensk Filmindustris Revy 1935		Stockholms Stads		lys HEIRTEToNSI Sr NT:		UREA	1.500 skyttar deltogo i	fältskyttetävlan för att	celebrera jubiléet.
+
+3
+00:02:18,200 --> 00:02:19,280
+VA	5 Svensk Filmindustris Revy 1935		SKIDHOPP	INOMHUS.
+
+4
+00:03:16,600 --> 00:03:17,200
+EE SN		[DC NER FYI CRC
+
+5
+00:03:45,520 --> 00:03:46,120
+e Svensk Filmindustris Revy 1935		ABESSINIEN-ITALIEN		Senaste nytt.
+
+6
+00:04:01,840 --> 00:04:02,320
+Italienska ministern, greve	Vinci, som inte ville resa.
+
+7
+00:04:07,280 --> 00:04:08,120
+INA tet RET CNS	farväl av sin lärare, franske	fregattkaptenen Vigli.
+
+8
+00:04:37,880 --> 00:04:38,560
+Meneliks stora trumma samlar	dagligen tiotusenden av unga	krigare.
+
+9
+00:05:04,680 --> 00:05:05,200
+GE TN		Bland italienare	och överlöpare	i Abessinien.
+
+10
+00:07:49,400 --> 00:07:50,360
+I Addis Abeba ha de infödda	krigarna demonstrerat sin	Eur SNSa
+
+11
+00:09:37,520 --> 00:09:37,800
+FI AG		 		OHSCPT
+
+12
+00:09:37,840 --> 00:09:37,840
+1n	lar

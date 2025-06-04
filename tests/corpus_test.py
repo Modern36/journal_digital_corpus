@@ -1,6 +1,6 @@
 import pytest
 
-from journal_digital_corpus import Corpus
+from journal_digital import Corpus
 
 
 @pytest.fixture(scope="module")
@@ -25,7 +25,7 @@ def test_read_txt(srt_file):
 
 def test_count_files():
     corpus = Corpus("txt")
-    assert len(corpus) == 2554
+    assert len(corpus) == 2553
 
 
 def test_count_files_iter():
@@ -33,7 +33,7 @@ def test_count_files_iter():
     c = 0
     for file in corpus:
         c += 1
-    assert c == 2554
+    assert c == 2553
 
 
 def test_no_empty_files():

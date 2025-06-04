@@ -1,0 +1,79 @@
+0
+00:00:00,040 --> 00:00:00,080
+SVENSK	FILMINDUSTRIS	REVY		19 3A
+
+1
+00:00:00,320 --> 00:00:00,320
+BÖr
+
+2
+00:00:00,720 --> 00:00:01,040
+eB ST		SVENSK EXPORT.	I Göteborgs frihamn ha	tre stycken kappseglings-
+
+3
+00:00:53,880 --> 00:00:53,880
+JUL		LE
+
+4
+00:00:53,960 --> 00:00:53,960
+KBUE	208
+
+5
+00:00:54,000 --> 00:00:54,000
+EL	4U
+
+6
+00:00:54,120 --> 00:00:54,120
+ML
+
+7
+00:00:54,240 --> 00:00:54,720
+KE Svensk Filmindustris Revy 1936		FINLANDSVECKA.
+
+8
+00:01:36,600 --> 00:01:40,840
+KT
+
+9
+00:01:54,520 --> 00:01:54,520
+ZZ
+
+10
+00:01:54,600 --> 00:01:54,600
+SÅ
+
+11
+00:01:54,640 --> 00:01:54,640
+EN	JU
+
+12
+00:01:54,880 --> 00:01:54,880
+KE TH		KAPPLÖPNINGARNA	7 ro eler NIA	igång trots kylan i Paris.
+
+13
+00:01:54,920 --> 00:01:55,200
+GB Svensk Filmindustris Revy 1936		KAPPLÖPNINGARNA	PÅ LONGCHAMP	EES SE
+
+14
+00:02:58,800 --> 00:02:58,800
+| AON
+
+15
+00:02:59,080 --> 00:02:59,080
+BB Svensk Filmindustris Revy 1938		MODERNISERAD	DYKARDRÄKT.	CTR TIER: as ETT	SETT SS	varmvattenledning för att
+
+16
+00:02:59,120 --> 00:02:59,480
+B SE		MODERNISERAD	DYKARDRÄKT.	IR CTER ETEN FIS ETT	strerats som försetts med	varmvattenledning för att	utestänga kvlan.
+
+17
+00:03:57,400 --> 00:03:57,400
+RA	AEA
+
+18
+00:03:57,600 --> 00:03:57,600
+KE SE		LUFTVÄRDINNOR.
+
+19
+00:03:57,640 --> 00:03:58,280
+KE Svensk Filmindustris Revy 1936		LUFTVÄRDINNOR.

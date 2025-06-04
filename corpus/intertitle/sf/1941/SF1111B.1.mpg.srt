@@ -1,0 +1,55 @@
+0
+00:00:00,080 --> 00:00:00,080
+20		MA
+
+1
+00:00:00,280 --> 00:00:00,280
+ER	SEU
+
+2
+00:00:00,400 --> 00:00:00,400
+AR
+
+3
+00:00:00,520 --> 00:00:01,280
+ODESSA	FÖRE STRIDEN		Kameran är	ögonvittne
+
+4
+00:04:21,600 --> 00:04:21,600
+7445	Tä
+
+5
+00:04:21,640 --> 00:04:21,640
+192	EU
+
+6
+00:04:21,760 --> 00:04:21,760
+FANA
+
+7
+00:04:21,880 --> 00:04:22,680
+STRIDERNA	I LIBYEN		ESS STI	FO
+
+8
+00:08:12,720 --> 00:08:12,720
+FAL	ERIN
+
+9
+00:08:12,840 --> 00:08:12,840
+4U
+
+10
+00:08:12,960 --> 00:08:12,960
+AR
+
+11
+00:08:13,080 --> 00:08:13,720
+Boxningslandskampen		Sverige-Tyskland		Sverige vann 5—3.
+
+12
+00:08:30,400 --> 00:08:31,040
+Första matchen gick i flugvikt	mellan Allan Hansson-Heinz	Götzke.		Tysken gjorde en bra match	och vann på poäng.
+
+13
+00:08:57,920 --> 00:08:58,520
+Stig Kreöger gjorde en över-	lägsen match mot tysken	Heinz Schims.

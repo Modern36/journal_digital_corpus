@@ -1,0 +1,11 @@
+0
+00:00:00,040 --> 00:00:07,760
+Distribution:		EINER	JÄRNVÄGSSTYRELSEN	Stockholm
+
+1
+00:00:07,920 --> 00:00:07,920
+MN 4bale	3 HVIN		mr. ei
+
+2
+00:01:20,920 --> 00:01:28,680
+Distribution:		NONE	JÄRNVÄGSSTYRELSEN	BIE

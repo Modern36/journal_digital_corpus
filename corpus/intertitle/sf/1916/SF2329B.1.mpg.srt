@@ -1,0 +1,35 @@
+0
+00:00:00,400 --> 00:00:00,400
+193	4U
+
+1
+00:00:00,440 --> 00:00:00,440
+JP		VIP
+
+2
+00:00:00,520 --> 00:00:00,520
+FI		AR
+
+3
+00:00:21,640 --> 00:00:21,880
+Nedanför raden av fall ligger	den stora kraftstationen, här	under utbyggnad,
+
+4
+00:00:59,640 --> 00:00:59,880
+Vattenfallen.
+
+5
+00:02:43,360 --> 00:02:43,640
+Kungsgrottan och	Polhemsslussen.
+
+6
+00:03:17,480 --> 00:03:17,640
+Kraftstationen.
+
+7
+00:03:31,640 --> 00:03:31,880
+Kanalen och Nya	slussarne.
+
+8
+00:04:10,720 --> 00:04:10,840
+Gamla Slussarne.

@@ -1,0 +1,3 @@
+0
+00:00:00,040 --> 00:00:18,600
+UI		Värre tågolycka vid	Ulriksdal.

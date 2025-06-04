@@ -1,0 +1,39 @@
+0
+00:00:00,160 --> 00:00:00,160
+LYNN	SON		AN
+
+1
+00:02:57,400 --> 00:02:57,400
+ISA
+
+2
+00:04:04,520 --> 00:04:04,680
+WW a		”
+
+3
+00:04:04,720 --> 00:04:04,720
+dl	SN		N
+
+4
+00:09:39,440 --> 00:09:39,440
+192	4U
+
+5
+00:09:39,480 --> 00:09:39,480
+ti-
+
+6
+00:09:39,560 --> 00:09:39,560
+AR
+
+7
+00:09:39,680 --> 00:09:40,040
+TS		NYTT
+
+8
+00:10:09,320 --> 00:10:09,920
+Matuppehåll gjordes i Lot-	tefors. Efter personlig hy-	gien gick färden vidare	söderut.
+
+9
+00:11:55,240 --> 00:11:55,840
+Trupperna utskeppades		över Trelleborg. Egen		proviant utspisades före	embarkeringen.

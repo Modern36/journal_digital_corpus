@@ -1,0 +1,19 @@
+0
+00:00:00,560 --> 00:00:00,680
+Detaljer från kontaktledningar.
+
+1
+00:03:36,600 --> 00:03:36,680
+Revidering av loken i Statens		Järnvägars Centralverkstäder	i Örebro.
+
+2
+00:10:17,160 --> 00:10:17,240
+Loket åter färdigt för linjetjänst.
+
+3
+00:10:58,760 --> 00:10:58,840
+Värmepost för tåguppvärmning.
+
+4
+00:11:18,760 --> 00:11:18,840
+Den anläggning, vi nu haft tillfälle se,	representerar en anläggningskostnad av c:a	35 millioner kronor eller c:a 75000 kronor	per trafikkm.		Genom elektrifieringen har resehastig-		heten för såväl godståg som person- och	snälltåg avsevärt ökats, vilket betyder ökad		transportkapacitet. Dessutom hava under-	hälls- och personalkostnader reducerats.

@@ -1,0 +1,31 @@
+0
+00:02:35,320 --> 00:02:35,720
+”Vad ska du göra över söndagen?		Skaffa dig en flicka och följ med		oss i båten — så kan vi meta	abborrar i morgon.”
+
+1
+00:02:39,800 --> 00:02:40,120
+”Tack ska du ha — men jag	har mitt eget lilla abborrgrund.”
+
+2
+00:02:45,000 --> 00:02:45,320
+MOSSE	[SAT
+
+3
+00:04:04,240 --> 00:04:04,640
+Merca surt
+
+4
+00:04:10,240 --> 00:04:10,520
+”Goddag, Sven! Tänk att det	är så vackert väder!”
+
+5
+00:05:59,280 --> 00:06:00,040
+”Vad ska du göra i morgon,	Sven? Kom hem till oss och	ät middag om du vill.”
+
+6
+00:06:06,440 --> 00:06:06,800
+”Tack du, det ska bli roligt —		men din far? Han är ju så arg		på oss socialister. Du vet hur vi	rök ihop sist.”
+
+7
+00:06:11,640 --> 00:06:12,000
+NARE CSE endel	ett

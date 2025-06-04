@@ -1,0 +1,43 @@
+0
+00:00:29,960 --> 00:00:29,960
+FI	AR
+
+1
+00:02:44,800 --> 00:02:45,280
+(= FILMINDUSTRIS VECKOREVY 1951		BRANDSTATIONEN PÅ		KUNGSHOLMEN,	Stockholms nyaste och	modernaste, har invigts.
+
+2
+00:03:07,960 --> 00:03:08,360
+Borgarrådet Yngve Larsson fram-	förde ett tack till Stockholms Stads	brandförsäkringskontor, som möj-		liggjort bygget genom en donation	av 750.000 kronor.
+
+3
+00:03:19,160 --> 00:03:19,160
+Ip		KAEL	3
+
+4
+00:04:21,400 --> 00:04:21,400
+FI	AR
+
+5
+00:05:04,800 --> 00:05:04,800
+192	sEU
+
+6
+00:05:04,920 --> 00:05:04,920
+ML
+
+7
+00:05:05,080 --> 00:05:06,160
+- ROR		SEGELPLAN ERSÄTTER	FALLSKÄRM.	Lyckade försök ha gjörts vid	Lakeburst att med segelplan	verkställa nedstigning från	RT
+
+8
+00:05:20,440 --> 00:05:20,720
+Starten skedde på 1000		meters höjd.
+
+9
+00:05:35,720 --> 00:05:36,080
+Efter 12 minuter landade segel-	planet utan missöde.
+
+10
+00:05:53,960 --> 00:05:54,360
+Löjtnant Barnaby, som utförde	experimentet.

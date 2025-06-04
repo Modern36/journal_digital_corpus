@@ -1,0 +1,27 @@
+0
+00:00:00,080 --> 00:00:00,080
+192	4Uu
+
+1
+00:00:00,200 --> 00:00:00,200
+Fi		AR
+
+2
+00:00:02,360 --> 00:00:02,440
+Hela världen följer kampen om	Sevastopol med spänt intresse.	Tyskarna ha förgäves gjort storm-	anfall mot den viktiga hamnsta-	den. Ryssarna bjuder hårdnackat	motstånd i den förbittrade striden.	Följande bilder är sammanställda	av ryska journalfotografer.
+
+3
+00:05:32,160 --> 00:05:32,240
+END
+
+4
+00:05:32,640 --> 00:05:32,640
+nr		tel
+
+5
+00:05:32,760 --> 00:05:32,760
+Fl		AR
+
+6
+00:05:32,880 --> 00:05:33,680
+AT		a

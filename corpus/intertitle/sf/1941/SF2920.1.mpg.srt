@@ -1,0 +1,15 @@
+0
+00:03:52,840 --> 00:03:52,840
+eÅN		SN
+
+1
+00:03:53,080 --> 00:03:53,080
+FAN
+
+2
+00:03:53,200 --> 00:03:53,760
+EUGEN MRAVINSKY	dirigerar	Leningrads filharmoniska	orkester
+
+3
+00:03:53,800 --> 00:03:54,520
+Ur baletten	Raymonda		CRIS UNOVv

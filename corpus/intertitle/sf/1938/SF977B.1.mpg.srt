@@ -1,0 +1,31 @@
+0
+00:00:00,560 --> 00:00:00,560
+Fi	AR
+
+1
+00:00:00,680 --> 00:00:01,320
+C Svensk Filmindustris Revy 1938		HITLER HYLLAS	vid sin återkomst från	Wien av 2” million		berlinare.
+
+2
+00:01:05,560 --> 00:01:05,560
+WNEIA
+
+3
+00:01:05,640 --> 00:01:05,640
+Fi	AR
+
+4
+00:01:05,800 --> 00:01:06,240
+Be Svensk Filmindustris Revy 1938		DANSKA	KRONPRINSPARET		har öppnat vårutställningen		i Köpenhamn.
+
+5
+00:01:44,840 --> 00:01:44,840
+REVY		ti-
+
+6
+00:01:44,920 --> 00:02:36,520
+Fi		AR
+
+7
+00:09:11,040 --> 00:09:15,480
+TT

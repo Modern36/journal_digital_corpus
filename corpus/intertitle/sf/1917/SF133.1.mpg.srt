@@ -1,0 +1,19 @@
+0
+00:00:58,840 --> 00:00:59,000
+SC
+
+1
+00:03:24,800 --> 00:03:24,800
+RA
+
+2
+00:03:24,840 --> 00:03:24,840
+SAN
+
+3
+00:10:15,120 --> 00:10:15,920
+BARNENS DAG I STOCKHOLM		GS ARV ERESEN ND		KEANE
+
+4
+00:19:50,800 --> 00:19:51,240
+EN TOMBOLAVINST SOM	by	Barnens Dags lotterivilla	EN OSCEENA	som nyligen blifvit färdig.	visas för pressen

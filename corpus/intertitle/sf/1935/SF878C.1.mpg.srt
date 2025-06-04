@@ -1,0 +1,75 @@
+0
+00:00:00,280 --> 00:00:00,280
+TEORNN		AA
+
+1
+00:00:00,440 --> 00:00:00,440
+193	4U
+
+2
+00:00:00,480 --> 00:00:00,480
+13		AA	15
+
+3
+00:01:19,120 --> 00:01:19,120
+4U
+
+4
+00:05:08,760 --> 00:05:08,760
+pA
+
+5
+00:05:08,960 --> 00:05:08,960
+LT
+
+6
+00:06:39,200 --> 00:06:39,200
+nr		tel
+
+7
+00:06:39,440 --> 00:06:39,840
+B Svensk Filmi s Revy 1935		NYTT OCH DUMT		FRÅN PARIS.
+
+8
+00:06:39,880 --> 00:06:40,720
+ELLER Hf gp Sa a	Ixus| sov 29liöl ewsieesM	2 mudeilod
+
+9
+00:06:40,760 --> 00:06:40,760
+SR	Coliséum , Parj
+
+10
+00:07:51,920 --> 00:07:51,920
+NIAS
+
+11
+00:07:51,960 --> 00:07:51,960
+193
+
+12
+00:07:52,000 --> 00:07:52,000
+13	1A3,
+
+13
+00:07:52,160 --> 00:07:52,240
+BB Svonsk Filmindustris Revy 1935		SVEN HEDIN		GÄSTAR WIEN		och hälsas av Dr. Hans	Pernter.
+
+14
+00:07:52,320 --> 00:07:52,400
+BEG wvoR 2intaubnimlia	FR		 		oa . VIGAH väva	ATIW, "FÄT2ÄOD	206H 10 ve 2e2löd doo		 		1911”
+
+15
+00:07:52,480 --> 00:07:52,640
+Svensk Filmindustris Revy 1935		 		SVEN HEDIN		 		oci		GÄSTAR WIEN	hälsas av Dr. Hans	Pernter.
+
+16
+00:07:52,680 --> 00:07:53,360
+BegriBung durch	Staatssekretär för Unterricht	Dr. Hans Pernter
+
+17
+00:08:46,720 --> 00:08:46,720
+193	41U
+
+18
+00:08:46,760 --> 00:08:46,760
+AEVY		ti-

@@ -1,0 +1,103 @@
+0
+00:00:00,120 --> 00:00:00,440
+POLSK PENNALISM.	De unga konstnärsämnena i	Konstakademien i Varsjava få		skämtsam ”livning” av äldre	kurserna under första arbets-		terminen.
+
+1
+00:01:37,360 --> 00:01:37,360
+NSN
+
+2
+00:01:37,400 --> 00:01:37,400
+be	NR
+
+3
+00:01:37,440 --> 00:01:37,440
+OENT
+
+4
+00:01:37,520 --> 00:01:37,520
+nr		tel
+
+5
+00:01:37,560 --> 00:01:37,560
+-1]	KATY
+
+6
+00:01:37,800 --> 00:01:38,160
+Presidenten vid rösturnan.	Vid senaste allmänna valen i		U.S. A. fick man se presidenten	Roosevelt med mor och maka	rösta och ”gå bakom skärmen”	som andra medborgare.
+
+7
+00:02:12,840 --> 00:02:12,840
+LA	LIF	GEO
+
+8
+00:02:12,920 --> 00:02:12,920
+YOSSN	IVAN
+
+9
+00:02:12,960 --> 00:02:12,960
+837
+
+10
+00:02:13,000 --> 00:02:13,000
+4U
+
+11
+00:02:13,040 --> 00:02:13,040
+PA	ANS	SS
+
+12
+00:03:32,320 --> 00:03:32,320
+MFL	SWISS
+
+13
+00:03:32,440 --> 00:03:32,440
+HED
+
+14
+00:03:32,480 --> 00:03:32,480
+NEZL
+
+15
+00:03:32,520 --> 00:03:32,520
+AR	ATI
+
+16
+00:03:32,560 --> 00:03:32,560
+LAG	82778.
+
+17
+00:03:32,640 --> 00:03:32,640
+193	4U
+
+18
+00:06:10,120 --> 00:06:10,120
+4U
+
+19
+00:06:10,160 --> 00:06:10,160
+-I 1]	NELL
+
+20
+00:09:09,320 --> 00:09:09,320
+TN	VON
+
+21
+00:09:09,440 --> 00:09:09,440
+193	4U
+
+22
+00:11:35,320 --> 00:11:36,640
+ESA OTEN	BORN TS EST STEEN	ESSENS DEN ITE	asbra vhaondO astildnog Iisbrott	FÖRS KRC SATA IT EE 4	FSE RTR LTT EST TS I Et	KET RIE TIER NANA ES		kd ewau IHTAJI te
+
+23
+00:13:57,360 --> 00:13:57,360
+nr		tel
+
+24
+00:13:57,400 --> 00:13:57,400
+NE	NEN	SÅ
+
+25
+00:13:57,520 --> 00:13:58,040
+Gamla Kreml	i det nya tecknet.		Den ryska örnen har tagits	ned från tomen i Kreml,	och sovjetstjärnan har	hissats upp.

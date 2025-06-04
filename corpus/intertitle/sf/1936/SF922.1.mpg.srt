@@ -1,0 +1,143 @@
+0
+00:00:00,080 --> 00:00:00,240
+SVENSK	FILMINDUSTRIS	REVY		AES		LER
+
+1
+00:00:00,280 --> 00:00:00,840
+B SOA		SPÄNNANDE	SPÅNAD	i Blå Hallen.
+
+2
+00:00:33,160 --> 00:00:33,920
+BG ST NER		F.N		ABSOLUT SISTA	tack- och avskeds-	föreställning på Stadion.
+
+3
+00:01:52,880 --> 00:01:52,880
+736
+
+4
+00:01:52,920 --> 00:01:52,920
+NOTE
+
+5
+00:01:52,960 --> 00:01:52,960
+JA
+
+6
+00:01:53,040 --> 00:01:53,040
+KRA
+
+7
+00:01:53,200 --> 00:01:53,200
+ML
+
+8
+00:01:53,320 --> 00:01:54,000
+BG SEE		FLOTTAN	GALLRAR	bland sina äldsta		fartyg.
+
+9
+00:02:42,840 --> 00:02:42,840
+AS
+
+10
+00:02:43,080 --> 00:02:43,080
+hAR	ARS
+
+11
+00:02:43,160 --> 00:02:43,160
+ML
+
+12
+00:02:43,280 --> 00:02:43,280
+GB TEE		JUNIORMÄSTER:	NING	I BOXNING	ha haft premiär.
+
+13
+00:02:43,320 --> 00:02:43,960
+TE HE SN		ATTÄMAOIVNUT	CET LA	DUINZOT I	Breen.
+
+14
+00:03:23,600 --> 00:03:23,600
+EL
+
+15
+00:03:23,720 --> 00:03:23,720
+kk	EES
+
+16
+00:03:23,800 --> 00:03:23,800
+EL	SKU
+
+17
+00:03:23,840 --> 00:03:23,840
+IKE	MÅ ”'s
+
+18
+00:03:23,920 --> 00:03:23,920
+FI
+
+19
+00:03:24,040 --> 00:03:24,760
+I Svensk Filmindustris Revy 1936		BIL FÖR	BESVÄRLIGA	BACKAR.
+
+20
+00:04:15,320 --> 00:04:15,320
+ka
+
+21
+00:04:15,360 --> 00:04:15,360
+YAN	NEN
+
+22
+00:04:15,560 --> 00:04:15,560
+192	4U
+
+23
+00:04:15,600 --> 00:04:15,600
+64	IE
+
+24
+00:04:15,680 --> 00:04:15,680
+ML
+
+25
+00:04:15,800 --> 00:04:15,800
+KE Svensk Filmindustris Revy 19386		ÅRETS FRÄMSTA	IDROTTSBRAGD	blev Kiruna-Lasses	ERSSON
+
+26
+00:04:52,360 --> 00:04:52,360
+Å		LA	TL
+
+27
+00:04:52,560 --> 00:04:52,560
+ER	4U
+
+28
+00:04:52,680 --> 00:04:52,680
+ML
+
+29
+00:04:52,800 --> 00:04:53,680
+KE TE		SALENGRO,		den franske inrikesministern,	har begravts i sin hemstad, Lille.	En halv miljon människor hade	samlats till högtidligheten.
+
+30
+00:05:35,640 --> 00:05:35,640
+KT
+
+31
+00:05:35,680 --> 00:05:35,680
+AY
+
+32
+00:05:35,720 --> 00:05:35,720
+NM
+
+33
+00:05:35,760 --> 00:05:35,760
+Ck fn
+
+34
+00:05:35,920 --> 00:05:35,920
+FI
+
+35
+00:05:36,040 --> 00:05:36,560
+SÖ		KUNG KONSTANTIN	FEN SANN	som dog i landsflykt, har	nu fått upprättelse då hans	kista förts till det gamla	hemlandet.

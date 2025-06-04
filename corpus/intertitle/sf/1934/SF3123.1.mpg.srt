@@ -1,0 +1,15 @@
+0
+00:00:00,240 --> 00:00:00,240
+192
+
+1
+00:00:00,360 --> 00:00:00,360
+HM
+
+2
+00:00:00,480 --> 00:00:36,320
+ILLUSTRERAD MUSIK:		HEBRIDERNA		(Ouverture)		av	J. L. MENDELSSON-BARTHOLDY	PSN	The Pritish Philharmonic Orchestra	Dirigent: Kurt Schroeder
+
+3
+00:08:56,280 --> 00:09:05,080
+SLUT

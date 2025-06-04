@@ -1,0 +1,131 @@
+0
+00:00:00,320 --> 00:00:00,320
+EL	AU
+
+1
+00:00:03,240 --> 00:00:03,360
+UT TEE Fa		De nationella trupperna	[FESTER SERENA	LR
+
+2
+00:00:21,920 --> 00:00:22,080
+TN TTT a]		Barcelona.  Regeringstrup-	perna utdela vapen till de	frivilliga.
+
+3
+00:01:44,120 --> 00:01:44,280
+3 mmounjounnaen 3		Utlänningarna lämna	landet.
+
+4
+00:02:20,880 --> 00:02:21,080
+TT IT		Några bilder från striderna	kring Saragossa.
+
+5
+00:03:18,000 --> 00:03:18,000
+191	1U
+
+6
+00:03:18,040 --> 00:03:18,040
+12	KJ2U
+
+7
+00:03:18,120 --> 00:03:18,120
+AR
+
+8
+00:03:18,600 --> 00:03:18,800
+as TIN a		Krigsfartyg tillhörande olika	europeiska stater samlas i	Tanger.
+
+9
+00:03:25,120 --> 00:03:25,280
+FE rmnountfounnaen £83		[35 TE TATE Ng	flygplan har störtat i franska	Marocko.
+
+10
+00:03:36,200 --> 00:03:36,400
+5 poRaMounTjouRNALEN 2		Toledo efter bombarde-	manget. Regeringstrupper-	na vila sig efter striden.
+
+11
+00:04:05,480 --> 00:04:05,720
+24 ppramountjouRNarEn &&		General Molas trupper för-	bereda sig för stormningen	av Madrid.
+
+12
+00:04:24,360 --> 00:04:24,600
+2 pRAMOUNTOURNALEN ZE		Madrid.  Regeringstrupper	och frivilliga bege sig till	Somo Sierra-fronten.
+
+13
+00:05:05,760 --> 00:05:06,040
+ES mmnnounTjourNLen 28		Från striderna kring Madrid.
+
+14
+00:06:18,760 --> 00:06:18,760
+192	4U
+
+15
+00:06:18,800 --> 00:06:18,800
+VNag	-1]
+
+16
+00:06:18,880 --> 00:06:18,880
+AR
+
+17
+00:06:19,320 --> 00:06:19,560
+as TI		Engelska konsulatet i Alge-	ciras har träffats vid bom-	bardemanget av staden.
+
+18
+00:06:46,160 --> 00:06:46,440
+LTT II		Madrid. Den nye krigsmi-	[EKOT ETT AT:	kalistledaren El Vayo orga-	nisera förstärkningar av re-	geringstrupperna.
+
+19
+00:07:11,800 --> 00:07:12,040
+fs manoovjounnaren 88		I Toledo, där en mängd	sårade vårdas, har regerings-	trupperna motstått rebel-	lernas attacker.
+
+20
+00:07:52,560 --> 00:07:52,800
+IT ITNE		Burgos, rebellernas huvud-	kvarter. General Mola talar	LUST
+
+21
+00:08:16,800 --> 00:08:17,080
+2 paRANOUNTÖOURKALEN		I Sierra Guadarrama fort-	sätta striderna om Madrid.
+
+22
+00:08:29,160 --> 00:08:29,400
+TN TI		Vid San Sebastian ha blodiga	strider utkämpats.
+
+23
+00:08:50,800 --> 00:08:51,080
+I TI		USE TNC a a	intagits av rebellerna och	härifrån ha nya trupper	sänts till San Sebastian.
+
+24
+00:09:22,080 --> 00:09:22,320
+LT II		Biarritz. Ett tremotorigt	aeroplan, fört av polacken	Losacki, har störtat.
+
+25
+00:09:36,680 --> 00:09:36,720
+192	4U
+
+26
+00:09:36,800 --> 00:09:36,800
+AR
+
+27
+00:09:37,240 --> 00:09:37,520
+SSSPARAMOUNTJOURNALEN 233		Den tyska kryssaren ”Wies-	baden” i Alicantes hamn.
+
+28
+00:09:53,280 --> 00:09:53,400
+5 rumnauolruuonaan 3		Ka LiR Eka MN ENT [Sa Idea TA	KJ: SN TE VER EST	Jom mest smeqquitpnin	absjord smelladai vs nob		Ela
+
+29
+00:10:52,120 --> 00:10:52,320
+Lt CEETT ULL Ly fand		sd smegquitepninspaål .nval	KO Ta fä CT VE	KTGElEC
+
+30
+00:11:09,440 --> 00:11:09,760
+SESPARAMOUNTJOURNALEN 23		- San Sebastian. Bomber ha	slagit ned i Barnbördshuset	och anställt stor förödelse	Många barn kommo till	världen under bombarde-	manget.
+
+31
+00:11:45,680 --> 00:11:45,920
+SSPARAMOUNTJOURNALEN 23		Burgos. Generalerna Franco	och Mola överlägga om	situationen och hyllas av	folkmassorna.
+
+32
+00:12:02,200 --> 00:12:02,400
+S3ParanountfouRNALEN 23		Madrid. Frivilliga sändas till	fronten i Somosierra.

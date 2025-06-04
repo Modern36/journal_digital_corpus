@@ -1,0 +1,71 @@
+0
+00:06:13,600 --> 00:06:13,600
+E nagäve	SVS CN
+
+1
+00:06:13,640 --> 00:06:13,640
+KR RAN
+
+2
+00:06:14,600 --> 00:06:14,600
+IL	FABEL		ALT
+
+3
+00:06:14,640 --> 00:06:14,640
+B. 1		9
+
+4
+00:06:23,520 --> 00:06:23,520
+vx
+
+5
+00:06:23,640 --> 00:06:23,640
+LE	NS
+
+6
+00:06:23,680 --> 00:06:23,680
+n	te
+
+7
+00:06:23,800 --> 00:06:23,800
+Fl
+
+8
+00:06:23,920 --> 00:06:24,160
+225 pARAMOUNTJOURNALEN 28		PALT		KONUNG	GEORGE V:s		begravning har försiggått	under stora högtidligheter.
+
+9
+00:10:33,520 --> 00:10:33,520
+EA
+
+10
+00:10:33,920 --> 00:10:34,040
+ad LTT ITIL a		GEORGE V,		det brittiska världsväldets	avhållne härskare, har av-	lidit efter en kort tids	SLS
+
+11
+00:10:37,480 --> 00:10:37,680
+65 eoramountfjouRnarEn 283		Några bilder ur konungens	liv. Georg V krönes efter	Edward VII:s död.
+
+12
+00:11:00,000 --> 00:11:00,160
+Glad		Under världskriget mötas	konung Georg, konung	Albert av Belgien och gene-	ral Pétain vid franska fronten.		ks
+
+13
+00:11:30,320 --> 00:11:30,480
+km TE		Från 2S-årsjubileet av ko-	nung Georges tronbestig-	ning. Konungaparet beger	sig till tacksägelsegudstjäns-	ten i St. Paulskatedralen.
+
+14
+00:12:15,120 --> 00:12:15,240
+LITT ITE a		Efter tacksägelsegudstjäns-	ten återvänder konungapa-	ret till Buckingham Palace.
+
+15
+00:13:19,040 --> 00:13:19,200
+25 paRAMOUNT|OURNALEN 8&		Garden Party i Buckingham	Palace.
+
+16
+00:13:58,480 --> 00:13:58,640
+LTT II		Konung George ombord på	sin yacht Brittannia vid en	regatta i Cowes.
+
+17
+00:14:45,920 --> 00:14:46,160
+TN TIN		Några bilder från konung	Edward VIll:s — dåvarande	prins av Wales — besök i	Stockholm härom året till-	sammans med hertigen av	Kent.

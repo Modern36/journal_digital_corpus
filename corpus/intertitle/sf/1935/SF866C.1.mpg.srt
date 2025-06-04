@@ -1,0 +1,15 @@
+0
+00:00:00,040 --> 00:00:00,040
+935
+
+1
+00:00:00,240 --> 00:00:00,240
+Cu	MAIL
+
+2
+00:00:00,440 --> 00:00:01,000
+SER		 		BETER		 		Skådespelarnas	Djurgårdsmässa.	Trots kyla och rusk fick man	en glimt av gångna tiders	glada folkliv, då Majbruden	och Majgreven redo över	Djurgårdsslätten.
+
+3
+00:01:02,280 --> 00:01:02,920
+Filmjournalen och Svenska	Teaterförbundet ha anordnat	stor tävlan om Majdrottning	och Majgreve till det stora	festtåget vid Djurgårdsmässans	andra dag, sönd. d. 19 maj.	Här följa aspiranterna, välj	och välj den rätta!

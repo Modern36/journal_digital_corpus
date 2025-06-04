@@ -1,0 +1,151 @@
+0
+00:00:00,080 --> 00:00:00,080
+VO
+
+1
+00:00:00,120 --> 00:00:00,120
+SÅN	NVYARRA
+
+2
+00:00:00,320 --> 00:00:00,320
+-1 1]	ANIS	5
+
+3
+00:00:00,560 --> 00:00:00,880
+KARL SCHÄFER	ger en uppvisning i Madison	Square Garden, New York.
+
+4
+00:00:56,680 --> 00:00:56,680
+ÅN	SSP
+
+5
+00:00:56,760 --> 00:00:56,760
+TILL	$SESS
+
+6
+00:00:56,840 --> 00:00:56,840
+4U
+
+7
+00:00:56,880 --> 00:00:56,880
+-I 1	AA LI
+
+8
+00:00:57,080 --> 00:00:57,400
+B Svensk Filmindustris Revy 1937		VILHELM TELL	PÅ PISTOL.
+
+9
+00:01:21,880 --> 00:01:21,880
+SAM	9
+
+10
+00:01:21,960 --> 00:01:21,960
+192	4U
+
+11
+00:01:22,000 --> 00:01:22,000
+-I 1	Av
+
+12
+00:02:04,960 --> 00:02:04,960
+PERKR
+
+13
+00:02:05,000 --> 00:02:05,000
+77	FRED
+
+14
+00:02:05,040 --> 00:02:05,040
+192	4Uu
+
+15
+00:02:05,080 --> 00:02:05,080
+11	AHAY
+
+16
+00:02:05,320 --> 00:02:05,760
+GB Svensk Filmindustris Revy 1937		FRED PERRY		besegrar Big Bill Tilden	i New York. Tilden har	svart skjorta, Perry klädd	helt i vitt.
+
+17
+00:03:26,600 --> 00:03:26,600
+Za.
+
+18
+00:03:26,680 --> 00:03:26,680
+ed
+
+19
+00:03:26,720 --> 00:03:26,720
+11	KANIN
+
+20
+00:03:26,960 --> 00:03:27,280
+ee Svensk Filmindustris Revy 1937		CYKELTÄVLING	VID BUDAPEST.
+
+21
+00:04:10,280 --> 00:04:10,280
+FÅ	vig	FE
+
+22
+00:04:10,360 --> 00:04:10,360
+nt
+
+23
+00:04:10,400 --> 00:04:10,400
+-I 1]		ANTI	SAS
+
+24
+00:04:10,640 --> 00:04:11,120
+e Svensk Filmindustris Revy 1937		GANGSTERFÄLLA.		Väskan innehåller patroner,	som explodera och utveckla	rök, vilket hindrar rånarna att	komma undan med sitt byte.
+
+25
+00:04:48,640 --> 00:04:48,640
+WSR	-1 3
+
+26
+00:04:48,880 --> 00:04:49,440
+PB Svensk Filmindustris Revy 1937		TILL SIST	be vi få presentera några	nykomlingar i New Yorks	Zoo.
+
+27
+00:06:06,640 --> 00:06:06,640
+SEN	TR
+
+28
+00:06:06,720 --> 00:06:06,720
+SESE	DAC	ee dd
+
+29
+00:06:06,760 --> 00:06:06,760
+TNA
+
+30
+00:06:06,800 --> 00:06:06,800
+4U
+
+31
+00:06:06,840 --> 00:06:06,840
+-I 2	SATS
+
+32
+00:06:07,080 --> 00:06:07,400
+e Svensk Filmindustris Revy 1937		”ARMÉNS DAG”	högtidlighölls i Washington	med en stor parad för	president Roosevelt.
+
+33
+00:07:17,800 --> 00:07:17,800
+FT
+
+34
+00:07:17,840 --> 00:07:17,840
+3	LA
+
+35
+00:07:17,880 --> 00:07:17,880
+192	4U
+
+36
+00:07:18,160 --> 00:07:18,560
+B Svensk Filmindustris Revy 1937		 		ALLA TIDERS	LEKSAKSTÅG	äges av Ä. E. G:s tyska	tjänstemän.
+
+37
+00:08:01,800 --> 00:08:02,320
+AA	fe TD SEE		BERLIN HAR FIRAT	FÖRSTA MAJ	ESS ETT		ca

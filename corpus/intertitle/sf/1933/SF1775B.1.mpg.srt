@@ -1,0 +1,31 @@
+0
+00:00:00,120 --> 00:00:00,120
+ev iegtög		SY
+
+1
+00:00:00,160 --> 00:00:00,200
+UC
+
+2
+00:00:00,280 --> 00:00:00,280
+LEI
+
+3
+00:00:00,320 --> 00:00:00,320
+(OD,	SES
+
+4
+00:00:00,360 --> 00:00:00,360
+ACA	d
+
+5
+00:00:15,080 --> 00:00:19,280
+Statsminister Per Albin	Hanssons blivande hem.
+
+6
+00:00:38,200 --> 00:00:39,120
+Modernt kök.
+
+7
+00:01:42,560 --> 00:01:44,440
+(4 EEE		TYSKA RIKSDAGS-	HUSETS BRAND	kom den Hitlerska valrörelsen	att blossa med oerhörd hets.

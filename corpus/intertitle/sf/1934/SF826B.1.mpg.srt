@@ -1,0 +1,15 @@
+0
+00:00:00,240 --> 00:00:00,240
+IR	IANA
+
+1
+00:00:00,280 --> 00:00:00,280
+192	4U
+
+2
+00:00:00,520 --> 00:00:00,680
+SCR	demonstrationerna	FROST
+
+3
+00:01:31,880 --> 00:01:31,880
+Ävsnitt av finansminister		Wigforss tal på Gärdet.

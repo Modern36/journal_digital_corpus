@@ -1,0 +1,151 @@
+0
+00:00:00,040 --> 00:00:00,440
+GB Svensk Filmindustris Revy 1937		KUNGENS FÅR.
+
+1
+00:01:16,200 --> 00:01:16,200
+NN
+
+2
+00:01:16,240 --> 00:01:16,240
+VALA	9
+
+3
+00:01:16,320 --> 00:01:16,320
+INR	ESS
+
+4
+00:01:16,440 --> 00:01:16,440
+Py	ANT	SS
+
+5
+00:01:16,520 --> 00:01:16,520
+FI
+
+6
+00:01:16,680 --> 00:01:17,200
+B Svensk Filmindustris Revy 1937		IAEYNe	LJUSREKLAM.
+
+7
+00:02:00,040 --> 00:02:00,040
+Se	SOL
+
+8
+00:02:00,120 --> 00:02:00,120
+4Uu
+
+9
+00:02:00,360 --> 00:02:00,920
+GB Svensk Filmindustris Revy 1937		VÅRT NEDERLAG		I HAMBURG.
+
+10
+00:02:00,960 --> 00:02:01,480
+VER! NvA ehleubnimlia deneve		DAIAICAIVU TAÅV		.DAUAMAH I
+
+11
+00:04:26,000 --> 00:04:26,120
+mg
+
+12
+00:04:26,160 --> 00:04:26,160
+pe	NS
+
+13
+00:04:26,360 --> 00:04:26,360
+12	TY
+
+14
+00:04:26,600 --> 00:04:26,880
+Be Svensk Fil		TJUGUFEMÅRS-		JUBILEUM	av serbernas seger över	turkarna har firats i Skoplje.
+
+15
+00:04:26,920 --> 00:04:27,080
+Skoplje-Jugoslavien		25 Jahrfeier des	Befreiungssieges	bei Kumanovo
+
+16
+00:05:31,280 --> 00:05:31,280
+PO		/Ö-
+
+17
+00:05:31,320 --> 00:05:31,320
+nr
+
+18
+00:05:31,360 --> 00:05:31,360
+13	AATY
+
+19
+00:05:31,600 --> 00:05:31,960
+Ge Svensk Filmindustris Revy 1937		NIOMAKTS-	KONFERENSEN	I BRYSSEL.		Yvon Delbos, Frankrike, Norman	Davis, U. S. A., och Wellington	Koo, Kina, yttra sig här om det	hotande läget.
+
+20
+00:06:27,560 --> 00:06:27,560
+PL NE
+
+21
+00:06:27,600 --> 00:06:27,600
+4U
+
+22
+00:06:27,880 --> 00:06:28,320
+2vYKEY 21IOIVE		 		Ne 2A6u2K EllWIugnefuje KSM 1933
+
+23
+00:07:07,640 --> 00:07:07,640
+SÅN	NYNN
+
+24
+00:07:07,800 --> 00:07:07,800
+193	4U
+
+25
+00:07:07,840 --> 00:07:07,840
+AE	WAR	13
+
+26
+00:07:08,080 --> 00:07:08,280
+"NAOK AIN I		ANOHS ISYOH		LEGI ÅNIH SMISNpujuNIA HSUDAS PD
+
+27
+00:08:49,520 --> 00:08:49,520
+DL
+
+28
+00:08:49,680 --> 00:08:49,680
+4Uu
+
+29
+00:08:49,960 --> 00:08:50,440
+ISBALETT I PRAG.
+
+30
+00:09:58,160 --> 00:09:58,160
+EN
+
+31
+00:09:58,240 --> 00:09:58,240
+tel
+
+32
+00:09:58,280 --> 00:09:58,280
+ALVs		ti-
+
+33
+00:09:58,480 --> 00:09:59,040
+EN MILJONBRAND		i Rotterdams hamn.
+
+34
+00:09:59,080 --> 00:09:59,760
+PROFILTI-NIEUWS		ROTTERDAM.		VIER GROTE PAKHUIZEN	AAN DE RIUNHAVEN,	bevattende tabak, koffie en	stearine, zijn door een zware	brand totaal verwoest.		G45
+
+35
+00:10:40,120 --> 00:10:40,120
+LOLL
+
+36
+00:10:40,200 --> 00:10:40,200
+bk
+
+37
+00:10:40,480 --> 00:10:40,920
+Ge Svensk Filmindustris Revy 1937		TYSKLAND SLOG	NORGE MED 3-0		i fotbollslandsmatchen	i Berlin inför 100.000	åskådare.

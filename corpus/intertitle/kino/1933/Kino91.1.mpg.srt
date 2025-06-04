@@ -1,0 +1,15 @@
+0
+00:01:35,920 --> 00:01:35,920
+FI
+
+1
+00:09:48,240 --> 00:09:49,280
+KOrE ETT		Den amerikanske filmidolen	ROBERT TAYLOR	har anlänt till Bromma flygplats	emottagen av entusiastiska	beundrare och beundrarinnor.
+
+2
+00:11:39,200 --> 00:11:46,320
+fd		[1400
+
+3
+00:11:46,800 --> 00:11:46,800
+dd

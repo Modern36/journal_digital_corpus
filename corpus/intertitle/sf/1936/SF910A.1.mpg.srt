@@ -1,0 +1,51 @@
+0
+00:00:00,040 --> 00:00:00,320
+NMS
+
+1
+00:00:00,360 --> 00:00:00,360
+Wi	-13
+
+2
+00:00:00,560 --> 00:00:01,280
+”TACK FÖR		GOD VAKT”		Den svenska Åbessinien-	ambulansens högtidliga	mottagande i Stockholm.
+
+3
+00:03:54,440 --> 00:03:54,440
+EE		KA 06 FAIT ANA	Notialkne log	RV ERARSn ie		Wett
+
+4
+00:03:54,480 --> 00:03:54,880
+EE SV		KAU ETNINT NAN CA	Msktanke lor	RO EARSn es		Rans
+
+5
+00:04:42,200 --> 00:04:42,800
+EE SN		NrVNUVNI CN	.GVAII AÅD
+
+6
+00:05:58,200 --> 00:05:58,640
+JE EE y 1936		ÖVNING I DIMMA.
+
+7
+00:07:17,640 --> 00:07:17,640
+PYSS	OSAR
+
+8
+00:07:17,680 --> 00:07:17,680
+FEL
+
+9
+00:07:17,800 --> 00:07:17,800
+122	SU
+
+10
+00:07:17,840 --> 00:07:17,840
+Ra	KLELG	ÖN
+
+11
+00:07:17,920 --> 00:07:17,920
+ML
+
+12
+00:07:18,040 --> 00:07:18,600
+EE ÖN		UV EINE	BEN UIUTR 16 Fd

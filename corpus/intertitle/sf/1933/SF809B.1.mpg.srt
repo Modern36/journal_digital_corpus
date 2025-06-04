@@ -1,0 +1,31 @@
+0
+00:00:00,760 --> 00:00:01,440
+OJUYVYENSA LT ILMINUUSIKIS		VECKOREVY	PI
+
+1
+00:00:01,640 --> 00:00:01,640
+Ni	SAG
+
+2
+00:00:01,800 --> 00:00:01,800
+193	AU
+
+3
+00:00:01,840 --> 00:00:01,840
+-I]		AAIYX
+
+4
+00:00:01,920 --> 00:00:01,920
+HM	AR
+
+5
+00:00:29,280 --> 00:00:29,760
+Professor Werner Heisenberg,		Leipzig, som tilldelats 1932 års		fysikaliska pris för sina epok-	görande atomforskningar.
+
+6
+00:00:39,360 --> 00:00:39,800
+Österrikaren Erwin Schrödinger,		professor vid Oxfords universi-		tet, delade 1933 års fysikaliska	pris med...
+
+7
+00:00:51,600 --> 00:00:52,120
+... professor P. A. M. Dirac,	som bekläder Newtons läro-	stol vid Cambridge universitet.	Bägge ha uppställt bärande		atomteorier.

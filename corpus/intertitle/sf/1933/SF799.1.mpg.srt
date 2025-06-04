@@ -1,0 +1,111 @@
+0
+00:00:01,160 --> 00:00:01,160
+nr		tel
+
+1
+00:00:01,280 --> 00:00:01,280
+Fi		AR
+
+2
+00:00:01,400 --> 00:00:01,840
+f Ö Svensk Filmindustris Veckorevy 1933		Folkets hyllning.	De lojala holländarna firade sin	drottning vid hennes 35-års-	jubileum som regent.
+
+3
+00:00:01,880 --> 00:00:02,200
+AMSTERDAM		De Nationale Huldiging van	H.M. DE KONINGIN	ter gelegenheid van Haar	35 jarig regeerings-jubileum.
+
+4
+00:01:49,120 --> 00:01:49,120
+NH SIA		Ol
+
+5
+00:01:49,240 --> 00:01:49,240
+4U
+
+6
+00:01:49,360 --> 00:01:49,360
+Fi		AR
+
+7
+00:01:49,480 --> 00:01:49,960
+6 ff Svensk Filmindustris Veckorevy 1933		Tänk om han nös!	En fransk kypare visar här,	hur det går till att bära 40	glas utan bricka.
+
+8
+00:02:53,560 --> 00:02:53,560
+192	4U
+
+9
+00:02:53,680 --> 00:02:53,680
+Fi		AR
+
+10
+00:02:53,800 --> 00:02:54,160
+6 Ö Svensk Filmindustris Veckorevy 1933		Gynt för	motorcyklar		ställer stora fordringar på förar-		nas manövreringsförmåga.
+
+11
+00:02:54,200 --> 00:02:54,680
+QUISTELLO.		(NK	ORIGINALI PROVE	BRUTE VIKENS	MOTOCICLISTICA	SUL CAMPO DOMINATO	DAL GRANDIOSO EDIFICIO	DELL O. N. B.		OTRS
+
+12
+00:04:41,000 --> 00:04:41,000
+EN
+
+13
+00:04:41,040 --> 00:04:41,040
+-11	MAJY
+
+14
+00:04:41,240 --> 00:04:41,640
+t ET Fn		Efter seger — katastrof.	Mr. H. Scott-Paines racerbåt	"Miss Britain III” fattade eld		efter att just ha satt två nya	rekord.
+
+15
+00:05:58,200 --> 00:05:58,760
+UJUYLNISA 2 1ILSIUNUUJDSIRNID		VECKOREVY		ISS
+
+16
+00:05:59,000 --> 00:05:59,000
+AA LLAd	SSA
+
+17
+00:05:59,040 --> 00:05:59,040
+Uk		Va
+
+18
+00:05:59,120 --> 00:05:59,120
+74
+
+19
+00:05:59,160 --> 00:05:59,160
+KR
+
+20
+00:05:59,200 --> 00:05:59,200
+el	VIELJ
+
+21
+00:05:59,400 --> 00:06:00,040
+Stockholm — Malmö	ERSSON		Invigningståg den 1 oktober	1933, då den elektriska driften	på södra stambanan hopkny-	tes vid Alvesta.
+
+22
+00:06:32,400 --> 00:06:32,880
+Några glimtar från det stora		arbetet, som slutförts på ett		halvt år kortare tid än som	fo)
+
+23
+00:07:14,120 --> 00:07:14,600
+( Ö Svensk Filmindustris Veckorevy 1933		Södertunnelns		CIA	Stockholms första spårvägs-	tunnel är färdig för trafik.	Invigningen ägde rum på	stationen vid Södra Bantorget.
+
+24
+00:08:16,320 --> 00:08:16,760
+k (5 enar Tre PR KARTA		Ju bättre kockar,	EEE Je	Underofficerare från hela ar-	mén, flottan och flyget utbildas	till instruktörer i ”gulaschkano-	nens” rätta och effektiva skötsel.
+
+25
+00:09:19,200 --> 00:09:19,640
+”Rodeotävlingar” med många	roliga situationer och förarnas	skicklighet på hårda prov.
+
+26
+00:10:51,040 --> 00:10:51,040
+ML
+
+27
+00:10:51,120 --> 00:10:51,600
+(4 (5 EEE		Vår egen Ästrid	har hjälpt sin gemål och sin	SGC Ne Sass	tunnel under Schelde.

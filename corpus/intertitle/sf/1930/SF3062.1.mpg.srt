@@ -1,0 +1,3 @@
+0
+00:07:19,680 --> 00:07:19,800
+Oc	ESA bord		stro		dr seta

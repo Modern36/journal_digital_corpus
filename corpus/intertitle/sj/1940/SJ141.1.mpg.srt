@@ -1,0 +1,15 @@
+0
+00:00:00,040 --> 00:00:12,880
+SJ NYA	PERSON-	VAGNAR
+
+1
+00:02:41,040 --> 00:02:48,400
+Baron von Köhler inspek		terar vagnen tillsammans		med verkstadschefen dir	Gustaf Rosén
+
+2
+00:04:26,920 --> 00:04:32,080
+En sista översyn varefter	vagnen provköres och	överlämnas till SJ
+
+3
+00:04:41,880 --> 00:04:55,960
+EXEEIEEEN

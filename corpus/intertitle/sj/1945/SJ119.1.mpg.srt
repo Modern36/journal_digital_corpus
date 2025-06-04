@@ -1,0 +1,31 @@
+0
+00:00:00,160 --> 00:00:00,160
+STI		Tel. Kai
+
+1
+00:00:00,200 --> 00:00:00,200
+DN
+
+2
+00:00:00,280 --> 00:00:00,280
+JOL		LJ	a 0	py	ER STR
+
+3
+00:09:52,720 --> 00:09:56,480
+Hjulparen sättas på	plats...
+
+4
+00:10:41,600 --> 00:10:41,600
+I montagehallen	i Trollhättan ser	man av arbetet	på Hc-loket bl.a.:		Boggien i en	fräsmaskin ...
+
+5
+00:11:41,680 --> 00:11:41,680
+Drivmotor lyftes...
+
+6
+00:12:02,360 --> 00:12:02,360
+Lokkorgen sänkes ned	på sina hjulpar
+
+7
+00:13:34,040 --> 00:13:34,040
+Hc-loket med avrullade	huvtak ...

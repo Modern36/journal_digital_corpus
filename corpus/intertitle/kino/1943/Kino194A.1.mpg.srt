@@ -1,0 +1,55 @@
+0
+00:00:00,240 --> 00:00:00,240
+192	AU
+
+1
+00:00:00,280 --> 00:00:00,280
+LE!		FSLTel,	Dp	ON/
+
+2
+00:00:00,360 --> 00:00:00,360
+ML
+
+3
+00:00:00,480 --> 00:00:00,760
+FE
+
+4
+00:02:08,400 --> 00:02:22,400
+och dryga ut med	GEVALIA = V		[TINGS	Kom
+
+5
+00:04:56,920 --> 00:04:56,960
+EVA		preSen		   	 		LA
+
+6
+00:04:57,080 --> 00:05:00,880
+ETT PAR AV	FURUVIKSBARNEN
+
+7
+00:05:52,200 --> 00:05:56,760
+GEVALLIA	wgtiketskallet ;
+
+8
+00:07:01,840 --> 00:07:06,120
+GEVALIA	otalt I		a		Kd +,
+
+9
+00:07:08,880 --> 00:07:11,120
+ETT PAR AV	LUNDURESTRO 02
+
+10
+00:08:06,920 --> 00:08:12,800
+N ANAVID	Psllosk oas)
+
+11
+00:08:17,200 --> 00:08:17,200
+FURUVIKSBARNENS
+
+12
+00:09:23,240 --> 00:09:29,640
+GEVALA	koglitelskalfet
+
+13
+00:10:45,320 --> 00:10:48,760
+GEVALIA	fog alle		RN	pr

@@ -1,0 +1,35 @@
+0
+00:00:00,040 --> 00:00:00,160
+ÄK
+
+1
+00:00:00,280 --> 00:00:00,280
+EN	BEU
+
+2
+00:00:00,320 --> 00:00:00,320
+Sp	lr
+
+3
+00:00:00,400 --> 00:00:00,400
+MÅ
+
+4
+00:00:34,240 --> 00:00:36,760
+4 (& Svensk Filmindustris Veckorevy 1933		VÅR 75-ÅRIGE KONUNG.
+
+5
+00:01:30,480 --> 00:01:32,600
+NONIAN	GÖTEBORG INVIGES.
+
+6
+00:02:02,280 --> 00:03:45,960
+4 (5 Svensk Filmindustris Veckorevy 1933		TVÅ KONGRESSER.
+
+7
+00:05:09,280 --> 00:05:11,520
+SVENSK-DANSKA	TOO B ETC VISIN
+
+8
+00:06:12,240 --> 00:09:08,920
+(4 Ö Svensk Filmindustris Veckorevy 1933		NY AMERIKANSK	MINISTER.

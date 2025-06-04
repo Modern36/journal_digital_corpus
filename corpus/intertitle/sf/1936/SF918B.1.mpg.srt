@@ -1,0 +1,167 @@
+0
+00:00:00,080 --> 00:00:00,080
+YJLN:	4
+
+1
+00:00:00,120 --> 00:00:00,120
+M		KRYSS.	ff
+
+2
+00:00:00,200 --> 00:00:00,200
+INS
+
+3
+00:00:00,240 --> 00:00:00,240
+4U
+
+4
+00:00:00,520 --> 00:00:00,640
+SVENSK	FILMINDUSTRIS
+
+5
+00:00:00,680 --> 00:00:01,120
+BE Svensk Filmindustris Revy 1936		HANGARKRYSSAREN	”ENTERPRICE”	är U. S. Ä:s senaste till-	skott till kapprustningen.
+
+6
+00:00:36,080 --> 00:00:36,080
+OTÅN		AMD
+
+7
+00:00:36,240 --> 00:00:36,240
+]ÖNR	LLQ N Å
+
+8
+00:00:36,280 --> 00:00:36,280
+4U
+
+9
+00:01:37,800 --> 00:01:37,800
+SNYY	I
+
+10
+00:01:37,840 --> 00:01:37,840
+4U
+
+11
+00:01:38,120 --> 00:01:38,520
+fr		PÅ TOPPEN AV	PIZ BUIN		 		i de österikiska alperna har	man under stora svårigheter	rest ett väldigt träkors.
+
+12
+00:01:38,560 --> 00:01:38,840
+In 3333m Höhe		Das neue Giptelkreuz	auf dem Piz Buin
+
+13
+00:03:02,760 --> 00:03:02,760
+.	Or
+
+14
+00:03:02,800 --> 00:03:02,800
+YGAS	M
+
+15
+00:03:02,880 --> 00:03:02,880
+INR
+
+16
+00:03:02,920 --> 00:03:02,920
+192
+
+17
+00:03:02,960 --> 00:03:02,960
+PE VY	ti-
+
+18
+00:03:03,200 --> 00:03:03,600
+B Svensk Filmindustris Revy 1936		ALARM.		En generalmönstring av Paris'	luftförsvar har hållits; staden	lades i mörker. Polis, brandkår,	sjukvård och hjälptrupper av	alla slag arbetade för fullt.
+
+19
+00:04:39,800 --> 00:04:39,800
+AR
+
+20
+00:04:39,920 --> 00:04:39,920
+4U
+
+21
+00:05:37,200 --> 00:05:37,200
+Mac
+
+22
+00:05:37,440 --> 00:05:37,440
+NYA	1371
+
+23
+00:05:37,720 --> 00:05:38,000
+EB Svensk Filmindustris Revy 1936		SOVJET OCH	SPANIEN.		Ett stort sympatimöte för	det republikanska Spanien	har hållits i Moskva.
+
+24
+00:05:38,040 --> 00:05:38,640
+Events in el occasion	a national meeting	oil
+
+25
+00:06:28,000 --> 00:06:28,000
+bär
+
+26
+00:06:28,120 --> 00:06:28,120
+TFYG
+
+27
+00:06:28,200 --> 00:06:28,200
+Sv	VANN
+
+28
+00:06:28,240 --> 00:06:28,240
+192	4Uu
+
+29
+00:07:54,320 --> 00:07:54,320
+YSO
+
+30
+00:07:54,400 --> 00:07:54,400
+TEA
+
+31
+00:07:54,480 --> 00:07:54,480
+4Uu
+
+32
+00:07:54,520 --> 00:07:54,520
+ti-
+
+33
+00:07:54,760 --> 00:07:55,080
+Be Svensk Filmindustris Revy 1936		KARNEVAL	I MOSKVA.
+
+34
+00:09:12,040 --> 00:09:12,040
+4U
+
+35
+00:09:12,080 --> 00:09:12,080
+PEVY	ti-
+
+36
+00:09:12,320 --> 00:09:12,560
+Ge Svensk Filmindustris Revy 1936		SKÖRDEFEST	i ett ryskt judekollektiv		i Ukrajna.
+
+37
+00:09:12,600 --> 00:09:13,200
+HINES Lu	on a Jewis	ol
+
+38
+00:09:58,200 --> 00:09:58,200
+NN		AMN
+
+39
+00:09:58,240 --> 00:09:58,240
+Tr-
+
+40
+00:09:58,360 --> 00:09:58,360
+-I 1	FAT?
+
+41
+00:09:58,560 --> 00:09:58,880
+Svensk Filmindustris Revy 1936	NNE		BALETTSKOLA	I SAMARKAND.
