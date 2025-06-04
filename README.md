@@ -32,9 +32,9 @@ resource containing curated parts of Swedish film archives.
 Git clone repository, cd in to the directory and run:
 `python -m pip install -e . `
 
-## Version 0.0.1
+## 2025-06-04
 
-Created with `SweScribe==v0.1.0` and `stum==v.0.1.0` on `2025-0X-XX`.
+Created with `SweScribe==v0.1.0` and `stum==v.0.2.0` on `2025-06-04`.
 No manual editing done.
 
 ## Files

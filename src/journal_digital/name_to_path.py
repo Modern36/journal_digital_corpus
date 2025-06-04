@@ -1,7 +1,7 @@
 from collections import defaultdict
 from pathlib import Path
 
-from journal_digital_corpus.settings import name_year_mapping, speech_root
+from journal_digital.settings import name_year_mapping, speech_root
 
 
 class NameToPathMapper(object):

@@ -1,6 +1,6 @@
 import pytest
 
-from journal_digital_corpus import Corpus
+from journal_digital import Corpus
 
 
 @pytest.fixture(scope="module")

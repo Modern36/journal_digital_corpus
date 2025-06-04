@@ -5,8 +5,8 @@ dependencies =[
   "pandas==2.2.3",
   "tqdm==4.67.1",
 ]
-name = "journal_digital_corpus"
-version = "0.0.1"
+name = "journal_digital"
+version = "2025-06-04"
 readme = "README.md"
 
 [project.urls]
@@ -49,7 +49,6 @@ force-exclude = '''
 )/
 '''
 
-readme = "README.md"
 
 
 [tool.pytest.ini_options]
@@ -57,4 +56,4 @@ addopts = [
     "--import-mode=importlib",
 ]
 testpaths = ["tests"]
-pythonpath = "src"
+pythonpath = "src/journal_digital"

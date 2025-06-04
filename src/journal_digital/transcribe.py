@@ -5,13 +5,13 @@ from stum.video_to_srt import pipeline as stum_pipeline
 from swescribe.__main__ import pipeline as swescribe_pipeline
 from tqdm import tqdm
 
-from journal_digital_corpus.blank_transcripts import (
+from journal_digital.blank_transcripts import (
     load_empty_filenames,
     remove_empty_transcripts,
     write_empty_filenames,
 )
-from journal_digital_corpus.name_to_path import NameToPathMapper
-from journal_digital_corpus.settings import (
+from journal_digital.name_to_path import NameToPathMapper
+from journal_digital.settings import (
     intertitle_root,
     speech_root,
     video_root,

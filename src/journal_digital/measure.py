@@ -20,10 +20,7 @@ def srt_time_to_seconds(t):
     hours, minutes, s_milli = t.split(":")
     seconds, milli = s_milli.split(",")
     return int(
-        int(hours) * 3600
-        + int(minutes) * 60
-        + int(seconds)
-        + int(milli) / 1000.0
+        int(hours) * 3600 + int(minutes) * 60 + int(seconds) + int(milli) / 1000.0
     )
 
 
@@ -77,7 +74,6 @@ def measure_corpus(corpus_subdir: Path):
 
 
 def store_corpus_measurements(corpus_subdir: Path):
-
     measurements = corpus_subdir / "measurements.tsv"
     measurements_description = corpus_subdir / "measurements_description.tsv"
     measurements_sum = corpus_subdir / "measurements_sum.tsv"
@@ -87,9 +83,7 @@ def store_corpus_measurements(corpus_subdir: Path):
 
     df.to_csv(measurements, sep="\t", index=False)
 
-    df.describe().to_csv(
-        measurements_description, sep="\t", float_format="%.2f"
-    )
+    df.describe().to_csv(measurements_description, sep="\t", float_format="%.2f")
 
     sum_df = df.sum().reset_index()
     sum_df.iloc[0, 0] = "num_files"
@@ -104,6 +98,5 @@ def store_corpus_measurements(corpus_subdir: Path):
 
 
 if __name__ == "__main__":
-
     store_corpus_measurements(speech_root)
     store_corpus_measurements(intertitle_root)
