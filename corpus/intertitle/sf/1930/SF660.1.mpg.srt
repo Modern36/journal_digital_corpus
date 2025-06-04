@@ -1,0 +1,31 @@
+0
+00:03:51,040 --> 00:03:51,040
+MNODL		18 SS
+
+1
+00:03:51,080 --> 00:03:51,080
+VBA
+
+2
+00:07:14,480 --> 00:07:14,920
+Nyårskväll i svenskt hem.
+
+3
+00:08:49,480 --> 00:08:49,480
+sä	4U
+
+4
+00:08:49,520 --> 00:08:49,520
+EX a		fpE PN	ti-
+
+5
+00:08:49,600 --> 00:08:49,600
+Fi	AR
+
+6
+00:08:49,720 --> 00:08:49,840
+$ PATHÉ JOURNAL, PARIS 1930		VATIKAN OCH KVIRINAL.		Italienska kungaparets första be-	sök sedan år 1870 hos påven.
+
+7
+00:09:07,240 --> 00:09:07,600
+Efter audiensen besökte	ITE La MT ae Vt L sd	även S:t Peterskyrkan.

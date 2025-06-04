@@ -1,0 +1,43 @@
+0
+00:00:00,040 --> 00:00:09,920
+6 (5 Svensk Filmindustris Veckorevy 1932		FRILUFTSKONSERT	INO (OKT ND	av Katarina södra folkskolas	gossorkester, som ägt bestånd	sedan år 1906. Ledare	J. A. Bergquist.
+
+1
+00:06:59,920 --> 00:06:59,960
+LLA
+
+2
+00:07:00,000 --> 00:07:00,000
+CL	REA
+
+3
+00:07:00,200 --> 00:07:00,200
+LR	KEEL
+
+4
+00:07:00,280 --> 00:07:00,280
+FI
+
+5
+00:07:00,400 --> 00:07:00,400
+BURGVIKSPOJKARNAS	NYSE
+
+6
+00:07:00,440 --> 00:07:06,480
+PE Svensk Filmindustri Veckorevy 1932		BURGVIKSPOJKARNAS	FASS:
+
+7
+00:08:57,600 --> 00:08:57,600
+ANN
+
+8
+00:08:57,800 --> 00:08:57,800
+R	KIEL	Er
+
+9
+00:08:57,880 --> 00:08:57,880
+ML
+
+10
+00:08:58,000 --> 00:08:58,000
+VINTERMODER	demonstrerade på sadelplatsen	i Long Champs.

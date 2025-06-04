@@ -1,0 +1,7 @@
+0
+00:00:00,600 --> 00:00:00,600
+Fi		AR
+
+1
+00:00:00,800 --> 00:00:03,200
+Officin:	STRAND FILM PRODUCTION.	Technicolor.

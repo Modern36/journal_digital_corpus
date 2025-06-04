@@ -1,0 +1,71 @@
+0
+00:00:00,400 --> 00:00:00,400
+ULN		SIN
+
+1
+00:00:00,440 --> 00:00:00,440
+4U
+
+2
+00:00:00,480 --> 00:00:00,480
+-I 1	FA22
+
+3
+00:00:00,560 --> 00:00:00,560
+AR
+
+4
+00:00:00,680 --> 00:04:49,680
+BE Svensk Filmindustris Revy 1937		MUSSOLINIS	OFFICIELLA BESÖK	i Hitlers Tyskland. —	Mottagandet i Mänchen.
+
+5
+00:06:44,840 --> 00:06:44,840
+NI	ZSIH
+
+6
+00:06:44,880 --> 00:06:44,880
+IG 7	INNOK
+
+7
+00:06:44,920 --> 00:06:44,920
+27:
+
+8
+00:06:44,960 --> 00:06:44,960
+VIS	RV
+
+9
+00:06:45,000 --> 00:06:45,000
+4U
+
+10
+00:06:45,040 --> 00:06:45,040
+-11	FI2Y
+
+11
+00:06:45,120 --> 00:06:45,120
+AR
+
+12
+00:06:45,280 --> 00:06:45,640
+SLL III		I Duce hyllades på ban-	gården i Innsbruck vid ge-	nomresan till Tyskland.
+
+13
+00:07:13,440 --> 00:07:13,600
+as ITE		RT: Na sg	Mussolini ett festligt mot-	LT tf
+
+14
+00:08:18,720 --> 00:08:18,720
+nr
+
+15
+00:08:18,760 --> 00:08:18,760
+11	FNZ
+
+16
+00:08:18,840 --> 00:08:18,840
+AR
+
+17
+00:08:18,960 --> 00:08:19,640
+B Svensk Filmindustris Revy 1937		MUSSOLINIS	OFFICIELLA BESÖK	i Hitlers Tyskland. —	Mottagandet i Munchen.

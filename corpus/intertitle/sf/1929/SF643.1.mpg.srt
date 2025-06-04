@@ -1,0 +1,19 @@
+0
+00:04:15,760 --> 00:04:15,760
+PENN	NANd
+
+1
+00:04:15,800 --> 00:04:15,800
+då	ANS
+
+2
+00:04:15,880 --> 00:04:15,880
+”	ns
+
+3
+00:04:16,160 --> 00:04:16,480
+EN MINNESTAVLA	har i Paris uppsatts på den bygg-	nad, där bröderna Lumiére år		1895 första gången offentligen	förevisade sina "levande	bilder”.
+
+4
+00:09:51,280 --> 00:09:51,360
+Dir röst...

@@ -1,0 +1,67 @@
+0
+00:00:00,040 --> 00:00:00,040
+FYV	VÄLA
+
+1
+00:00:00,120 --> 00:00:00,120
+Pa	1736
+
+2
+00:00:00,160 --> 00:00:00,160
+TION		 		SS
+
+3
+00:00:00,200 --> 00:00:00,200
+NV SÅ	AED
+
+4
+00:00:00,240 --> 00:00:00,240
+122	BAU
+
+5
+00:00:00,280 --> 00:00:00,280
+LIT		[äR
+
+6
+00:00:00,360 --> 00:00:00,360
+ML
+
+7
+00:00:00,480 --> 00:00:00,680
+NAUENA	KAR IRA BIE GUNETR	MEL)		FSE
+
+8
+00:00:00,720 --> 00:00:01,200
+(4 SR		NI	NOBELGÄSTER.
+
+9
+00:00:36,960 --> 00:00:36,960
+Ge Svensk Filmindustris Revy 1936		ONA	ELDSVÅDESYN.
+
+10
+00:00:37,000 --> 00:00:37,640
+MEn		MODERN	ELDSVÅDESYN.
+
+11
+00:01:15,640 --> 00:01:15,640
+GB SE		FINLANDS	INA	Pekka Svinhufvud,	VERSER LEE	ICT
+
+12
+00:01:15,680 --> 00:01:16,360
+BG ST NE		FINLANDS		INA	ICEA	LER E.R GE	ST
+
+13
+00:01:50,680 --> 00:02:28,960
+(E Svensk Filmindustris Revy 1936		RULLANDE	SPORTSTUGA.
+
+14
+00:03:06,800 --> 00:03:06,800
+STAN		CARL CARLSON	VÄRLDSMÄSTARE!	Man kan anordna tävlingar	i allt — även i att skörda	majskolvar. Och den här	[s/s TaT NR TBS		ESR ISESESN
+
+15
+00:03:06,840 --> 00:03:07,680
+Svensk Filmindustris Revy 1936		CARL CARLSON	VÄRLDSMÄSTARE!	Man kan anordna tävlingar	FRE NGIE OG E	majskolvar. Och den här	gången tog en svensk mäs-	terskapet.
+
+16
+00:03:53,000 --> 00:03:53,680
+OCH SÅ ÄR	DEN HÄR IGEN —

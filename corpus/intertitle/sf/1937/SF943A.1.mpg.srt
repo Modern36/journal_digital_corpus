@@ -1,0 +1,31 @@
+0
+00:00:00,160 --> 00:00:00,160
+SE	ASA
+
+1
+00:00:00,320 --> 00:00:00,320
+dT		 		Uk
+
+2
+00:00:00,360 --> 00:00:00,360
+Re	ANN	KÖ
+
+3
+00:00:00,560 --> 00:00:00,800
+SVENSK	FILMINDUSTRIS	REVY		LE EVE
+
+4
+00:00:00,840 --> 00:00:01,280
+4 Svensk Filmindustris Revy 1937		SVERIGES		CENTRALFÖRENING	FÖR IDROTTENS	FRÄMJANDE 40 ÅR.
+
+5
+00:03:08,000 --> 00:03:08,560
+e Enn		U.S. A.-KRYSSAREN	SINN	har besökt Stockholm och		mottagit visit av minister		Steinhardt.
+
+6
+00:03:55,680 --> 00:03:55,880
+= V
+
+7
+00:03:56,280 --> 00:03:56,480
+Malmö Luftförsvarsför-	enings hedersordförande,	landshövdingen friherre		Fredrik Ramel lämnar		orientering angående		Malmö luftförsvar.

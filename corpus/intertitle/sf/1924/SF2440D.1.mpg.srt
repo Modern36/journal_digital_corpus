@@ -1,0 +1,51 @@
+0
+00:00:00,360 --> 00:00:00,360
+=	AR
+
+1
+00:00:00,600 --> 00:00:00,840
+Tillhör Svensk Filmindustris	Skolflimsvåelning.
+
+2
+00:01:19,800 --> 00:01:19,880
+Lera och chamotte malas sam-	man och blandas med vatten i		en kollergång.
+
+3
+00:02:58,560 --> 00:02:58,600
+Den fukfiga massan pressas av	en kraftig skruv genom ett mun-	stycke, varefter strängen avskäres		i lämpliga bitar.
+
+4
+00:03:52,560 --> 00:03:52,600
+Dessa lerbitar pressas sedan i en		maskin för att få exakt storlek.
+
+5
+00:04:50,160 --> 00:04:50,240
+Särskilda former av eldfast tegel		tillverkas för hand.
+
+6
+00:06:15,760 --> 00:06:15,840
+Kamintegel.
+
+7
+00:07:03,040 --> 00:07:03,080
+Siltegel till en sulfitkokare till-		verkas av syrefast lera.
+
+8
+00:08:09,920 --> 00:08:10,000
+Taktegel göres däremot av		vanlig lera.
+
+9
+00:09:00,720 --> 00:09:00,760
+Transporten till torkställningarna		sker snabbt och bekvämt.
+
+10
+00:09:17,120 --> 00:09:17,200
+När teglet torkat, flyttas det över		till brännugnen.
+
+11
+00:10:05,120 --> 00:10:18,880
+Hal	TT		alt
+
+12
+00:10:31,000 --> 00:10:31,120
+Det brända teglet glider av sin		egen tyngd på en rullbana från		upplaget till järnvägsvagnen.

@@ -1,0 +1,27 @@
+0
+00:00:27,920 --> 00:00:27,920
+AR
+
+1
+00:00:28,080 --> 00:00:28,440
+SELMA LAGERLÖF,	i dagarna 65-årig, i sitt hem	Mårbacka, förvandlat från en	idyllisk värmlandsstuga till en	Net: et
+
+2
+00:00:47,480 --> 00:00:47,480
+mn	SEC
+
+3
+00:00:47,520 --> 00:00:47,520
+UK		NORS ne		KV
+
+4
+00:00:47,600 --> 00:00:47,600
+nr
+
+5
+00:00:47,640 --> 00:00:47,640
+-I 1	KATY	AS
+
+6
+00:00:47,720 --> 00:00:47,720
+AR

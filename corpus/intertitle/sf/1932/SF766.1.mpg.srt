@@ -1,0 +1,83 @@
+0
+00:00:00,160 --> 00:00:04,760
+5 NA		STOCKHOLM	VÄLKOMNAR	prins Gustaf Adolf och	FSE KSV IE
+
+1
+00:02:05,280 --> 00:02:05,280
+AT	PSA
+
+2
+00:02:05,320 --> 00:02:05,320
+WE	NN
+
+3
+00:02:05,360 --> 00:02:05,360
+EN	SY
+
+4
+00:02:05,400 --> 00:02:05,400
+HC
+
+5
+00:02:05,440 --> 00:02:05,440
+193	4U
+
+6
+00:02:05,560 --> 00:02:05,560
+AR
+
+7
+00:02:05,680 --> 00:02:06,560
+Svensk Filmindustris Veckorevy 1932		JOMKULLRUNKELIG	PASSBÅT.	En engelsk dingy, 4.25 meter	lång och driven med en 32	hästars Johnsonmotor, visar sin	vidunderliga manövreringsför-	måga. Båten kan byggas vid	svenska varv för omkring	400 kronor. ,
+
+8
+00:03:40,680 --> 00:03:40,680
+NU		EN
+
+9
+00:03:41,040 --> 00:03:42,040
+1932		 		YO-YO-JOE.
+
+10
+00:05:16,400 --> 00:05:16,400
+RAS
+
+11
+00:05:16,480 --> 00:05:16,480
+SV	FIESY
+
+12
+00:05:16,520 --> 00:05:16,520
+a NY
+
+13
+00:05:16,560 --> 00:05:16,560
+123	4U
+
+14
+00:07:54,040 --> 00:07:54,040
+OT
+
+15
+00:07:54,280 --> 00:07:54,280
+EL	4U
+
+16
+00:07:54,320 --> 00:07:54,320
+rd
+
+17
+00:07:54,400 --> 00:07:54,400
+ML
+
+18
+00:07:54,720 --> 00:07:54,720
+VA	Ka
+
+19
+00:07:54,880 --> 00:07:54,880
+PA	SEIN	IVNU
+
+20
+00:07:54,960 --> 00:08:00,560
+BE Svensk Filmindustris Veckorevy 1932		PÅ FISKAUKTION	IMeo ya: Te

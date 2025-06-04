@@ -1,0 +1,15 @@
+0
+00:00:00,040 --> 00:00:00,200
+NN o
+
+1
+00:00:00,240 --> 00:00:00,240
+nAr		tel
+
+2
+00:00:00,520 --> 00:00:00,840
+SVENSK FILMINDUSTRIS VECKOREVY 1929		VANNS	INS	På hertigparet Carls vackra	sommarhem Fridhem voro	vid ett tillfälle i sommar alla		bCTst [So nt Läns esEt a	samlade.
+
+3
+00:00:30,840 --> 00:00:31,120
+ARGA

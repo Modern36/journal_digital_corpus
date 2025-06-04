@@ -1,0 +1,7 @@
+0
+00:04:35,000 --> 00:04:35,480
+SETS FSS		PN NANNSKOG	INO	Några inlägg i diskussionen	Cr
+
+1
+00:05:59,400 --> 00:06:00,160
+Ärkebiskopens förslag.

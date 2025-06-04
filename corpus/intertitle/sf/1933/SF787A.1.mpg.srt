@@ -1,0 +1,163 @@
+0
+00:00:00,200 --> 00:00:00,200
+ET	4Uu
+
+1
+00:00:00,240 --> 00:00:00,240
+pt	IVER /
+
+2
+00:00:00,320 --> 00:00:00,320
+ET
+
+3
+00:00:00,440 --> 00:00:00,680
+NÄR BÅTEN SKALL	IRON
+
+4
+00:03:36,760 --> 00:03:37,440
+SVENSK FILMINDUSTRIS		VECKOREVY	[CI
+
+5
+00:03:37,480 --> 00:03:37,480
+22	STA
+
+6
+00:03:37,560 --> 00:03:37,560
+Å pd		VLSELN
+
+7
+00:03:37,640 --> 00:03:37,640
+ED	4Uu
+
+8
+00:03:37,680 --> 00:03:37,680
+-I 1	VOR.
+
+9
+00:03:37,760 --> 00:03:37,760
+ML
+
+10
+00:03:37,880 --> 00:03:38,320
+( (5 LER		MONACOS GRAND PRIX	gick längs stadens gator — den	ordinarie trafiken fick vila	[TC CN
+
+11
+00:04:27,280 --> 00:04:27,280
+RAN		ODES
+
+12
+00:04:27,320 --> 00:04:27,320
+EEIVEN		See
+
+13
+00:04:27,360 --> 00:04:27,360
+LLUYS	| | em	IT		VEN
+
+14
+00:04:27,440 --> 00:04:27,440
+192	AU
+
+15
+00:04:27,480 --> 00:04:27,480
+I		KAIJ	Ö FAN
+
+16
+00:04:27,560 --> 00:04:27,560
+ML
+
+17
+00:04:27,680 --> 00:04:28,080
+682 KILOMETER	ULL	nåddes av italienska flygaren	Aggelo. Resultatet var världs-	rekord — som dock redan är	slaget!
+
+18
+00:05:13,000 --> 00:05:13,000
+IGT		INA
+
+19
+00:05:13,080 --> 00:05:13,080
+VIE
+
+20
+00:05:13,120 --> 00:05:13,120
+ER	EU
+
+21
+00:05:13,160 --> 00:05:13,160
+Re,	NAEV,		JD
+
+22
+00:05:13,240 --> 00:05:13,240
+ML
+
+23
+00:05:13,360 --> 00:05:13,840
+PRAKTISK DYKAR-	DRÄKT.	Med den utrustning, som vi få	se här, kan en person utan		obehag vistas under vatten	tio minuter.
+
+24
+00:06:14,640 --> 00:06:14,640
+pf	Ad
+
+25
+00:06:14,720 --> 00:06:14,720
+ZI	FA
+
+26
+00:06:14,760 --> 00:06:14,760
+Ale		I)
+
+27
+00:06:14,800 --> 00:06:14,800
+ARRN	SD
+
+28
+00:06:14,880 --> 00:06:14,880
+ML
+
+29
+00:06:15,000 --> 00:06:15,680
+MILITÄRPARAD	I BRYSSEL.	Stadens garnisonstrupper para-	dera för konung Albert och	kronprins Leopold. Kronprin-	sessan Astrid och lilla Josephine	Charlotte beskåda ståten.
+
+30
+00:06:47,760 --> 00:06:47,760
+Ed	FEL
+
+31
+00:06:47,800 --> 00:06:47,800
+TE
+
+32
+00:06:47,880 --> 00:06:47,880
+12	MES	JD
+
+33
+00:06:48,080 --> 00:06:48,600
+MOTORHJUL		av splitter ny konstruktion.
+
+34
+00:07:39,440 --> 00:07:39,440
+ML,	sg
+
+35
+00:07:39,480 --> 00:07:39,480
+ER	BEU
+
+36
+00:07:39,520 --> 00:07:39,520
+-I pi	KAFY
+
+37
+00:07:39,720 --> 00:07:40,080
+6 5 Svensl dustris Veckorevy 1933		”THE NOBLE ART”	utövas i Paris också av det	SYErEr old s Fld nr	mellan ”Svarta demonen” och		”Blonda cyklonen”.
+
+38
+00:08:15,920 --> 00:08:15,920
+4U
+
+39
+00:08:15,960 --> 00:08:15,960
+-I 1	M29
+
+40
+00:08:16,040 --> 00:08:16,040
+FI		AR

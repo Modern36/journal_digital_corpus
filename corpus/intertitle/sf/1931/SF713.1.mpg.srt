@@ -1,0 +1,67 @@
+0
+00:00:00,200 --> 00:00:00,200
+nr		tel
+
+1
+00:00:00,240 --> 00:00:00,240
+RA	NA		LP
+
+2
+00:04:59,920 --> 00:05:00,240
+GG Svensk Filmindustris Veckorevy 1931.		AHRENBERGS	GRÖNLANDSFÄRD =&	anträddes 29 april från Malmö.	— Maskinen väges och
+
+3
+00:05:20,440 --> 00:05:20,840
+Expeditionens befälhavare,	ET NTA
+
+4
+00:05:23,680 --> 00:05:24,080
+Ahrenberg i samtal med	engelska ombudet, kapten	eva
+
+5
+00:05:26,360 --> 00:05:26,760
+Deltagarna i färden, radiotele-	grafisten Ljunglund, kapten	Ahrenberg, mekaniker Malm.
+
+6
+00:05:37,800 --> 00:05:38,160
+IEEE	DEN
+
+7
+00:05:56,320 --> 00:05:56,800
+PARAPLY-PARAD	blev årets J:a majdemonstra-	[1 B UR TS -S a	[641 Sarge t std		lll
+
+8
+00:07:00,520 --> 00:07:00,760
+Pe SnG :ckorevy 1931.		KAPPLÖPNINGS-VÅR.	Träningen för kapplöpnings-	säsongen pågår dagligen på	Ulriksdalsbanan. Jockejerna	Saager och Gabor på väg		EE SEEN
+
+9
+00:07:00,800 --> 00:07:00,960
+REN EE k SN		BL ARA AON GEN		BO Tael) (eteT SS IB SsTersS O		RETT ETTA		smstsasol .nsnsdalsbadislU		KU SSE. SIS YA	BOSS
+
+10
+00:07:08,680 --> 00:07:09,040
+I2 SY ere TMS Te RT RNE a	major Ahlströms stall, där	tränaren, ryttmästare Wester-	Big TNE	skyddslingar.
+
+11
+00:07:47,440 --> 00:07:47,880
+JM :ebralLECElaeen	tränaren Buchmann's stall	på skrittvolten.
+
+12
+00:08:03,800 --> 00:08:04,160
+NR SKE STEEN rn		mästare, ryttmästaren Kurt		Mannerstråle, granskar träna-	ren Browns hästar.
+
+13
+00:08:16,240 --> 00:08:16,720
+Tränaren Brown övervakar	galopparbetet.
+
+14
+00:08:41,200 --> 00:08:41,200
+f—		[NNK eLUNN Na OEI		från Västafrika hemförda in-		 		tressanta samlingar ha tillfälligt
+
+15
+00:09:39,160 --> 00:09:39,160
+e ) FEYSESTIEANN ALT		SVENSKA TIDNINGS-	KORRESPONDENTER	studera kolonialutställningen	FRV ENSE		TREE [DEE NIO I
+
+16
+00:09:39,200 --> 00:09:39,680
+GG ECLAIR JOURNAL PARIS 1931		SNS NDNNES	KORRESPONDENTER	studera kolonialutställningen	FRV fiale ar NS ENSE		i maj månad.

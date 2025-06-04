@@ -1,0 +1,31 @@
+0
+00:00:00,760 --> 00:00:00,760
+TR	4U
+
+1
+00:00:01,000 --> 00:00:03,680
+NYA	ZEELAND
+
+2
+00:02:05,640 --> 00:02:08,240
+INTTANE NT ELIN jå
+
+3
+00:03:43,680 --> 00:03:44,880
+BETS HTV
+
+4
+00:04:14,400 --> 00:04:17,920
+Flertalet invånare är britter.
+
+5
+00:04:45,640 --> 00:04:49,800
+[Ts [al NET TTT STAS
+
+6
+00:05:01,760 --> 00:05:16,760
+Några viktiga näringsgrenar.
+
+7
+00:06:09,200 --> 00:06:14,560
+2	KLEN	Fåravel.	Ull. den största exportvaran.

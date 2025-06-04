@@ -1,0 +1,39 @@
+0
+00:00:39,640 --> 00:00:39,640
+TEN	bif
+
+1
+00:00:39,920 --> 00:00:39,920
+MF	cd
+
+2
+00:00:39,960 --> 00:00:39,960
+SLU
+
+3
+00:00:40,080 --> 00:00:40,080
+FI	AR
+
+4
+00:01:36,320 --> 00:01:36,320
+KAL
+
+5
+00:01:36,760 --> 00:01:37,360
+Nol Kon VI NDNolKoN	Ingenjör Tage Blomberg åter i	Stockholm med sin Solo, med vil-	ken han ensam seglat längs hela		Skandinaviens kust.
+
+6
+00:02:24,240 --> 00:02:24,320
+REN
+
+7
+00:03:58,400 --> 00:03:58,520
+”Lämlarna äro ilskna och sätta		sig till motvärn, då man vill taga		dem samt angripa och bita per-		soner som komma i deras omedel-		bara närhet.” Men — ingen regel	utan undantag!
+
+8
+00:03:58,680 --> 00:03:58,680
+Fa	ä Fö SA	nun a
+
+9
+00:04:07,280 --> 00:04:07,480
+Lä

@@ -1,0 +1,83 @@
+0
+00:00:00,720 --> 00:00:01,080
+=		LIT LI		PROMENADDRÄKTER,	[LOTT
+
+1
+00:01:15,880 --> 00:01:16,520
+SEN	Isle		Ett svenskt försök med kinematografiskt	KUOEK Ser	LSS NEN	Officin: SVENSK FILMINDUSTRL
+
+2
+00:03:47,360 --> 00:03:47,600
+SKE ins	SP TA SiS		RE
+
+3
+00:03:58,560 --> 00:03:58,840
+f		I Under romaretiden	ar GOMSKT.		KL. $
+
+4
+00:04:10,320 --> 00:04:10,680
+0 nt UTG	ER		L..
+
+5
+00:04:22,320 --> 00:04:22,680
+Å		I Under Renaissancen,	| år 1515	I
+
+6
+00:04:22,720 --> 00:04:22,760
+AON	EID
+
+7
+00:04:50,240 --> 00:04:50,560
+|	JTIIX givbul Tobe |		ICE		..		1
+
+8
+00:05:01,320 --> 00:05:01,600
+l		| Under Ludvig XIV,	b år 1643		6...
+
+9
+00:05:13,600 --> 00:05:13,920
+KOTA	NG		Li .
+
+10
+00:05:25,040 --> 00:05:25,360
+Under Ludvig XVI,	år 1786
+
+11
+00:05:36,960 --> 00:05:37,400
+BEI CCR	IVT
+
+12
+00:05:47,560 --> 00:05:47,880
+Under Napoleon I	år 1807		” $
+
+13
+00:05:59,280 --> 00:05:59,600
+In NNn	tid, år 1830		kel ed
+
+14
+00:06:10,920 --> 00:06:11,240
+GD RR	andra Käjsardömet	år 1867
+
+15
+00:06:37,800 --> 00:06:38,200
+Klädedräkt		CNN Lr: OR ENE	början
+
+16
+00:06:52,040 --> 00:06:52,400
+Modern kostym,	2i SL		> &
+
+17
+00:07:10,200 --> 00:07:10,400
+=		NART	NI TNGRTURITL TUNN E
+
+18
+00:07:58,280 --> 00:07:58,480
+ÅN
+
+19
+00:07:58,560 --> 00:07:58,560
+193	4Uu
+
+20
+00:07:58,680 --> 00:07:58,680
+AR

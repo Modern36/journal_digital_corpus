@@ -1,0 +1,39 @@
+0
+00:01:45,160 --> 00:01:45,520
+LEG	MAA
+
+1
+00:03:28,480 --> 00:03:28,480
+193	4U
+
+2
+00:03:28,520 --> 00:03:28,520
+AT		Ne
+
+3
+00:03:28,600 --> 00:04:29,440
+AR
+
+4
+00:04:29,600 --> 00:04:30,120
+(5 SVENSK FILMINDUSTRIS VECKOREVY		KRAFTVERKSBYGGET		VID HAMMARFORSEN		i Jämtland har pågått hela		vintern och närmar sig nu	sin fullbordan.
+
+5
+00:05:12,480 --> 00:05:12,480
+AR
+
+6
+00:05:12,640 --> 00:05:13,200
+[( KJ PATHÉ GAZETTE, LONDON		DE LJUSBLÅ VUNNO.	Även i år tillkämpade sig Cam-	bridgeuniversitetets roddarlag den		åtrådda segern i Themsen-		ace
+
+7
+00:05:36,800 --> 00:05:37,320
+Vid Hammersmithbron låg	Oxford en halv båtlängd		före.
+
+8
+00:05:53,440 --> 00:05:54,000
+Cambridge nådde målet vid	Mortlake, tre båtlängder före	de mörkblå.
+
+9
+00:06:36,200 --> 00:06:36,720
+Te TS	Bibel

@@ -1,0 +1,43 @@
+0
+00:00:00,960 --> 00:00:01,160
+RN ara	2000		er		NYA STOCKHOLM.
+
+1
+00:00:20,800 --> 00:00:20,880
+MCS IEI		Katarinahissen.		ET ET
+
+2
+00:01:32,120 --> 00:01:32,240
+Trafiken vid Slussen.		IEA ET
+
+3
+00:02:02,640 --> 00:02:02,840
+Riksdagshuset och	Kungl. Slottet.		EEE sörenone. &
+
+4
+00:02:17,200 --> 00:02:17,320
+Vaktparaden.		EAT särenone. 5
+
+5
+00:04:07,200 --> 00:04:07,360
+Drottninggatan.		SEAT söremne. 6
+
+6
+00:05:38,760 --> 00:05:38,880
+Dramatiska Teatern.		ESSEN vd
+
+7
+00:06:38,040 --> 00:06:38,480
+GÖTEBORG
+
+8
+00:06:46,760 --> 00:06:46,880
+OTUR ORAL		LE PTE
+
+9
+00:07:01,280 --> 00:07:01,400
+Urvädersgränd.		NESS Ed
+
+10
+00:07:35,080 --> 00:07:36,720
+FESTENS DN

@@ -1,0 +1,63 @@
+0
+00:00:00,040 --> 00:00:00,040
+ELLE	KING	LE
+
+1
+00:00:00,080 --> 00:00:00,080
+MN
+
+2
+00:00:00,280 --> 00:00:00,280
+ANS	FNS
+
+3
+00:00:00,400 --> 00:00:00,400
+192	BEU
+
+4
+00:00:00,440 --> 00:00:00,440
+mA	NA		JR
+
+5
+00:00:00,520 --> 00:00:00,520
+AR
+
+6
+00:00:00,640 --> 00:00:00,680
+5 Svensk Filmindustris Veckorevy 1934		Ni kunna vara övertygade	om min erkänsla och	landets tacksamhet.”		Med dessa ord bjöd konungen	på Sveagardes kaserngård den	till. Saarområdet avresande	bataljonen sitt farväl.
+
+7
+00:00:00,720 --> 00:00:00,720
+NR STERN	om min erkänsla och		landets tacksamhet.”		SS ESRI		/ Sytagardes kaserngård den		Saärområdet avresande	ITIS
+
+8
+00:00:00,760 --> 00:00:01,760
+(5 Svensk Filmindustris Veckorevy 1934		"Ni kunna vara övertygade	om min erkänsla och	landets tacksamhet.”		Med dessa ord bjöd konungen		på Sveagardes kaserngård den		till Saarområdet avresande	bataljonen sitt farväl.
+
+9
+00:01:49,880 --> 00:01:57,560
+LE	UU	i
+
+10
+00:04:29,640 --> 00:04:30,240
+KALAS	I KONSTNÄRS-		  		KLUBBEN.
+
+11
+00:07:24,240 --> 00:07:24,240
+IN	NY, a
+
+12
+00:07:24,280 --> 00:07:24,960
+AN		Use	INKL NA
+
+13
+00:10:22,840 --> 00:10:23,440
+Svensk FILMINDUSTRIS		VECKOREVY	ICKE
+
+14
+00:11:11,840 --> 00:11:12,400
+Två offer för	decemberdiset.
+
+15
+00:11:56,000 --> 00:11:56,440
+DAGENS NYHETER	firar sin 70-årsdag med		grundläggningsfest.

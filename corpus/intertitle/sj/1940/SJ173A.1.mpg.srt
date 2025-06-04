@@ -1,0 +1,7 @@
+0
+00:00:00,040 --> 00:01:24,080
+DEL I.		Intagande	CRT GT	skyddsberedskap
+
+1
+00:06:21,080 --> 00:07:05,200
+SA

@@ -1,0 +1,183 @@
+0
+00:00:00,160 --> 00:00:00,560
+SVENSK FILMINDUSTRIS		VECKOREVY	1933		Ner 29. ( Ö Tjugonde årg.
+
+1
+00:00:00,600 --> 00:00:00,640
+EDEN.
+
+2
+00:00:00,680 --> 00:00:00,680
+INF
+
+3
+00:00:00,880 --> 00:00:00,880
+122	4U
+
+4
+00:00:00,920 --> 00:00:00,920
+11	LER
+
+5
+00:00:01,000 --> 00:00:01,000
+AR
+
+6
+00:01:12,800 --> 00:01:12,800
+-1]	LEK
+
+7
+00:01:12,880 --> 00:01:12,880
+FI	AR
+
+8
+00:01:13,480 --> 00:01:13,680
+Bm ECLAIR - JOURNAL BH		ALERTE ... AUX FLEURS !		(-		   	   		La AST		navale fait rage		VILLEFRANCHE
+
+9
+00:02:21,240 --> 00:02:21,240
+122	4Uu
+
+10
+00:02:21,360 --> 00:02:21,360
+Fi	AR
+
+11
+00:02:21,480 --> 00:02:21,800
+ITALIEN	ELEKTRIFIERAS.		Flera stora elektriska kraft-	stationer ha byggts de senaste	åren i Italien.
+
+12
+00:03:46,240 --> 00:03:46,240
+TIL	YR
+
+13
+00:03:46,320 --> 00:03:46,320
+ON	IA
+
+14
+00:03:46,360 --> 00:03:46,360
+122	4U
+
+15
+00:03:46,480 --> 00:03:46,480
+AR
+
+16
+00:03:46,600 --> 00:03:47,080
+SOLENS	LÄKEKRAFT.	En internationell klinik för	fabriksarbetare har anlagts	på en solig alpsluttning i	Schweiz.
+
+17
+00:03:47,320 --> 00:03:47,320
+[ESA	La santé par le solkil.	'Gesundheit Fn		ds
+
+18
+00:03:47,360 --> 00:03:47,360
+FSA		BIE CERT REN		TE
+
+19
+00:04:05,520 --> 00:04:05,880
+Le travail, par le maintien	FR RYTTARE	raccourcit efficacement	[CNS		Die Arbeit erhält die geistige	Gesundheit und verkärzt damit	wesentich die Kur.		Ciné-Journal Suisse
+
+20
+00:04:56,520 --> 00:04:56,800
+På lediga stunder idkas musik.
+
+21
+00:04:56,840 --> 00:04:57,240
+Heures de distractions.		ETT TEE		Ciné-Journal Suisse
+
+22
+00:05:42,080 --> 00:05:42,080
+NR
+
+23
+00:05:42,160 --> 00:05:42,160
+NS	OST
+
+24
+00:05:42,200 --> 00:05:42,200
+193	4Uu
+
+25
+00:05:42,240 --> 00:05:42,240
+-[ 1		KAIY
+
+26
+00:05:42,320 --> 00:05:42,320
+AR
+
+27
+00:05:42,440 --> 00:05:42,800
+MUHAMMEDANERNAS	FASTA		— månaden Ramadan — av-		slutas av spahisryttarna med	festmåltid på helstekt får.
+
+28
+00:07:42,360 --> 00:07:42,360
+SAY		IS
+
+29
+00:07:42,440 --> 00:07:42,440
+192	4U
+
+30
+00:07:42,480 --> 00:07:42,480
+-1)	KAKA 3IT
+
+31
+00:07:42,680 --> 00:07:43,200
+ENMANSORKESTER.		En företagsam fransk gatu-		musikant konserterar för en	tacksam publik.
+
+32
+00:07:43,240 --> 00:07:43,640
+ZTarseille		Ane silhouette populaire		LAR TT ERSTA
+
+33
+00:08:20,560 --> 00:08:20,560
+ÖN		ULARQ
+
+34
+00:08:20,680 --> 00:08:20,680
+192	4U
+
+35
+00:08:20,800 --> 00:08:20,800
+AR
+
+36
+00:08:20,920 --> 00:08:21,200
+ARGENTINITA,		den berömda dansösen, visar		hur äkta spansk tango skall	dansas.
+
+37
+00:08:21,240 --> 00:08:21,560
+ALS	BESS
+
+38
+00:09:48,560 --> 00:09:48,560
+ARIIEA
+
+39
+00:09:48,680 --> 00:09:48,680
+NIKYVI		08
+
+40
+00:09:48,720 --> 00:09:48,720
+4U
+
+41
+00:09:48,760 --> 00:09:48,760
+-I 1	ANI
+
+42
+00:09:48,840 --> 00:09:48,840
+AR
+
+43
+00:09:48,960 --> 00:09:49,360
+GLADA	BEVÄRINGAR.	Dagen före inryckningen roa	sig franska rekryter med skämt-	samma upptåg.
+
+44
+00:09:49,400 --> 00:09:49,840
+B EÉCLAIR - JOURNAL FH		    		dn Md	UTE folk edsttAdL IR	RER a Ma RN	VILLEEDANCHE - SHID- SAÄNE
+
+45
+00:09:49,880 --> 00:09:49,880
+EJAMAUOL- AIAJIS a		   		FLAT Ta EEE	ELNA LAGA

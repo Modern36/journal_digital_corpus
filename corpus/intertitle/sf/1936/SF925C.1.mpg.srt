@@ -1,0 +1,31 @@
+0
+00:00:00,120 --> 00:00:00,760
+GB GET 1936		ARVID LINDMAN,	ENE VARAO SEO EIS	har omkommit vid en	fruktansvärd  flygkatastrof	STEN
+
+1
+00:02:42,040 --> 00:02:42,040
+kyla	SS
+
+2
+00:02:42,080 --> 00:02:42,080
+Ll	AAA
+
+3
+00:02:42,120 --> 00:02:42,120
+ULlke	KV
+
+4
+00:02:42,160 --> 00:02:42,160
+EL	EU
+
+5
+00:02:42,200 --> 00:02:42,200
+SE	VARG	,S
+
+6
+00:02:42,280 --> 00:02:42,280
+FI
+
+7
+00:02:42,400 --> 00:02:43,040
+Be Svensk Filmindustris Revy 1936		ARVID LINDMANS	JORDAFÄRD.

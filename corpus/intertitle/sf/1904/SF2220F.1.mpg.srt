@@ -1,0 +1,51 @@
+0
+00:01:38,320 --> 00:01:38,520
+elen
+
+1
+00:01:40,600 --> 00:01:43,440
+CTS Tan UV
+
+2
+00:01:44,200 --> 00:01:44,400
+”hsbl 15 noteoduit
+
+3
+00:01:48,440 --> 00:01:48,480
+”asTod snim 2psblsM”
+
+4
+00:01:54,640 --> 00:01:56,080
+UCL
+
+5
+00:01:58,320 --> 00:01:59,920
+”l220 barn jox2 tiviib 16 moC”
+
+6
+00:02:04,440 --> 00:02:04,680
+"Vi ha förbaska mig aldrig sett		något roligare — vill ni ha en-		gagemang hos oss som film-	skådespelare?"
+
+7
+00:02:05,440 --> 00:02:05,680
+ROAD	BL a	RR		LURA a E LA
+
+8
+00:03:34,400 --> 00:03:34,600
+AFFÄRDEN		[I
+
+9
+00:04:28,320 --> 00:04:30,680
+FÖRSTA	STATION
+
+10
+00:05:16,120 --> 00:05:18,680
+UNOITAT? AAGUA	SÅ bd		pr emfn
+
+11
+00:06:14,520 --> 00:06:14,600
+ATERKOMSTEN	Lee	AFGÅNGSSTATIONEN	SÅ t		fed ve
+
+12
+00:06:36,920 --> 00:06:37,160
+AEA

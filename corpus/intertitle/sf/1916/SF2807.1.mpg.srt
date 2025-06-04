@@ -1,0 +1,247 @@
+0
+00:00:00,080 --> 00:00:00,080
+LL	ASIV
+
+1
+00:00:00,120 --> 00:00:00,120
+DEN:
+
+2
+00:00:00,160 --> 00:00:00,160
+807		KL RR
+
+3
+00:00:00,200 --> 00:00:00,200
+JAIX
+
+4
+00:00:00,240 --> 00:00:00,240
+Arad
+
+5
+00:00:00,320 --> 00:00:00,320
+4U
+
+6
+00:00:00,560 --> 00:00:01,080
+SVENSKA MOTORCYKEL:		KLUBBENS VINTERTÄVLAN	STOCKHOLM - NORRTÄLJE-	STOCKHOLM.
+
+7
+00:01:19,400 --> 00:01:19,880
+ANKOMSTEN TILL NORRTÄLJE.
+
+8
+00:01:57,680 --> 00:01:57,680
+4U
+
+9
+00:01:57,720 --> 00:01:57,720
+-I 1		FR Wd
+
+10
+00:01:57,920 --> 00:01:58,720
+Motorcykeltäflingen		DOT ETOy DEE		1
+
+11
+00:02:04,320 --> 00:02:04,360
+TNI
+
+12
+00:02:04,400 --> 00:02:04,400
+JAP		NR	SIV
+
+13
+00:02:04,640 --> 00:02:04,640
+4U
+
+14
+00:02:04,880 --> 00:02:05,120
+NDS	motorcykelklubben	på utflykt till Dalarö.
+
+15
+00:02:45,360 --> 00:02:45,360
+NUSVA		Oo
+
+16
+00:02:45,440 --> 00:02:45,440
+JV	VV
+
+17
+00:02:45,520 --> 00:02:45,520
+”TAGL
+
+18
+00:02:45,600 --> 00:02:45,600
+-7323A
+
+19
+00:02:45,640 --> 00:02:45,640
+NAVY
+
+20
+00:02:45,720 --> 00:02:45,720
+192	4U
+
+21
+00:02:45,960 --> 00:02:46,720
+Svenska Motorcykelklubbens	täfling om Novemberkåsan	hvilken eröfrades af		TD		LIE
+
+22
+00:03:34,800 --> 00:03:43,800
+TE		Ao		SRA	LEG a		SS		3		6
+
+23
+00:03:44,080 --> 00:03:44,080
+2	NN
+
+24
+00:03:44,160 --> 00:03:44,160
+-		FÄVONV
+
+25
+00:03:44,440 --> 00:03:45,200
+Stockholm. DEN 394-30NOV, [919		OM NOVEMBERKÅSAN	har Svenska Motorcykel-	klubbens AOC tävling gått	av BET från Stockholm	och vidare den 633 kilo-	meter långa sträckan Lin-	[TTT LE GT
+
+26
+00:04:42,360 --> 00:04:42,840
+Ankomsten till målet dagen	CU
+
+27
+00:04:59,040 --> 00:04:59,520
+Efter en storartad körning an-	länder ingenjör Gustaf Göthe	som förste pristagare. Av 16	startande fullföljde endast tre	tävlingen.
+
+28
+00:05:05,040 --> 00:05:05,040
+ARKIV
+
+29
+00:05:05,120 --> 00:05:05,120
+193	JU
+
+30
+00:06:12,440 --> 00:06:12,440
+Ng		- 9412
+
+31
+00:06:12,560 --> 00:06:12,560
+UNO		UGKIA :
+
+32
+00:06:12,640 --> 00:06:12,640
+4U
+
+33
+00:06:12,880 --> 00:06:13,400
+Svenska motorcykelklubbens	sidovagnstävling 2 — 3 nov.	[CI
+
+34
+00:07:09,440 --> 00:07:09,560
+-JAAD
+
+35
+00:07:09,640 --> 00:07:09,640
+-YlON		2088
+
+36
+00:07:09,760 --> 00:07:09,760
+INGYL
+
+37
+00:07:09,800 --> 00:07:09,800
+4U
+
+38
+00:08:00,680 --> 00:08:00,680
+OCLI
+
+39
+00:08:00,760 --> 00:08:00,760
+2207		OTOR.-
+
+40
+00:08:00,840 --> 00:08:00,840
+VII SÅ	a TOT
+
+41
+00:08:00,920 --> 00:08:00,920
+4U
+
+42
+00:08:01,160 --> 00:08:01,640
+ENN Ra		 		[TAS		VIRTUOSER PÅ	NOU KOT Leh 027		MÖTE ARNSn Ed SNen or	amerikanskt övningsfält.
+
+43
+00:08:54,040 --> 00:08:54,040
+ba	NIA
+
+44
+00:08:54,120 --> 00:08:54,120
+2087
+
+45
+00:08:54,160 --> 00:08:54,160
+VAT
+
+46
+00:08:54,200 --> 00:08:54,200
+CJ
+
+47
+00:08:54,280 --> 00:08:54,280
+192	4Uu
+
+48
+00:08:54,520 --> 00:08:55,280
+Stockholm, april.	MOTORCYKELKLUBBENS  TRÄ-	NUNeS el R Ne GL Sa (ONA		STRAPATSER.	Icke minst i Tvetabergsbacken,	UTTER
+
+49
+00:10:04,200 --> 00:10:04,200
+AdNU
+
+50
+00:10:04,240 --> 00:10:04,240
+-1TIOJ		2086
+
+51
+00:10:04,400 --> 00:10:04,400
+192	JU
+
+52
+00:10:04,640 --> 00:10:05,480
+SVENSKA MOTORCYKEL-	KLUBBENS BACKTÄVLAN		i Tullingebacken söndagen d.	3 oktober 1926.
+
+53
+00:11:14,480 --> 00:11:14,840
+Favoriten Erik Westerberg	hade som vanligt dagens	ISEN
+
+54
+00:12:16,160 --> 00:12:16,160
+NVOLOWM
+
+55
+00:12:16,280 --> 00:12:16,280
+192	4Uu
+
+56
+00:12:16,520 --> 00:12:17,480
+Damernas	motortävlan,		som anordnats av Svenska	Motorklubben den 26—27	juni, blev en verklig succes	i alla avseenden. Här se vi	en bild av de käcka delta-	latt
+
+57
+00:12:45,280 --> 00:12:46,080
+Från starten vid Stadion kl.	7 på lördag morgon. Fru	Eva Dickson på Fiat 509 och	fru Olga York på Dodge	Special starta.
+
+58
+00:13:06,880 --> 00:13:07,400
+I sakta fart för att ej gå	under den stipulerade tiden	anlände de tävlande till Älv-	karleby, där den efterläng-		tade lunchen väntade.
+
+59
+00:13:31,640 --> 00:13:32,120
+Efter en ansträngande färd	i regnväder och på upp-	blötta vägar rullade vagnar-	na in till kontrollstationen		i Falun.
+
+60
+00:14:23,640 --> 00:14:24,200
+KORSETT RER	till Rättvik, där de tävlan-	de hälsades välkomna av		stora åskådareskaror.
+
+61
+00:14:57,600 --> 00:14:58,280
+Slutmålet för den lyckade	tävlingen var förlagt till	Djursholm, dit de tävlande	anlände på söndag kväll,	och där tidkorten överläm-		nades till tävlingsledaren.

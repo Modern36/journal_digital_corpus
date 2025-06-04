@@ -1,0 +1,15 @@
+0
+00:01:59,720 --> 00:01:59,800
+bh		ON
+
+1
+00:04:38,960 --> 00:04:38,960
+192
+
+2
+00:04:39,000 --> 00:04:39,000
+R	ANF MN
+
+3
+00:04:39,200 --> 00:05:11,160
+Mit Kampfaufnahmen der Filmberichter:		[Tee	Baumgartl, Böllinghaus,	SAS	133	Guischer, Lusteck, Saxinger,	Vogt.

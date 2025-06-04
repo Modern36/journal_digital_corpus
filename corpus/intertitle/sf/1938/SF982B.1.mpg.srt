@@ -1,0 +1,11 @@
+0
+00:00:00,440 --> 00:00:00,840
+NA	MUSE A		Specialreportage för	RUS: Fo NN vd	AA
+
+1
+00:00:00,880 --> 00:00:01,880
+BE SE		iu ANE	ANKOMST	urna OA
+
+2
+00:01:41,800 --> 00:01:42,520
+Meg leo ro el	flottparad.

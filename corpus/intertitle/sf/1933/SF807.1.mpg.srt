@@ -1,0 +1,159 @@
+0
+00:00:00,040 --> 00:00:00,080
+bl FT
+
+1
+00:00:00,240 --> 00:00:00,240
+le
+
+2
+00:00:00,280 --> 00:00:00,280
+HefEAA	WES
+
+3
+00:00:00,400 --> 00:00:00,400
+11		VARE	SS
+
+4
+00:00:00,600 --> 00:00:01,680
+IRnERE		PrnneaA		-19vö monsg Asjböv Ad	nidioM nsjeroT arellådiåje	-bön eb li glöd mo		Eh
+
+5
+00:01:42,360 --> 00:01:42,400
+rer
+
+6
+00:01:42,440 --> 00:01:42,440
+tel
+
+7
+00:01:42,560 --> 00:01:42,560
+ML
+
+8
+00:01:42,680 --> 00:01:42,680
+Vem blir Lucia?		Stockholms-Tidningens pris-		nämnd har utvalt årets 10	Lucia-aspiranter, och Berco		SSR
+
+9
+00:01:42,720 --> 00:01:43,360
+ISRN CEN	RON RN Tin SERENA		Ol 296 ilsviv 16d bamön	oa doo s9tn0sriges-siovt	mob 1519tlageni
+
+10
+00:03:01,440 --> 00:03:01,440
+192	BEUV
+
+11
+00:03:01,480 --> 00:03:01,480
+NNVAR		di
+
+12
+00:03:01,560 --> 00:03:01,560
+ML
+
+13
+00:03:01,680 --> 00:03:01,680
+IgllN ARTS	ögonblick.
+
+14
+00:03:01,720 --> 00:03:04,240
+Svensk Filmindustris Veckorevy 1933		 		lä T AST	ögonblick.
+
+15
+00:04:19,720 --> 00:04:19,720
+SEÄSKN
+
+16
+00:04:19,760 --> 00:04:19,760
+192	4U
+
+17
+00:04:20,040 --> 00:04:20,800
+Svensk FILMINDUSTRI		VECKOREVY		1933		Ner 18 4 Ö Tjuguförsta årg.
+
+18
+00:04:20,840 --> 00:04:21,200
+(45 Svensk Filmindustris Veckorevy 1933		Känd ungersk melodi,	spelad äv zigenare på mando-		liner och dragspel.
+
+19
+00:05:31,800 --> 00:05:31,800
+M		TEA
+
+20
+00:05:31,840 --> 00:05:31,840
+”	na
+
+21
+00:05:31,880 --> 00:05:31,880
+uu
+
+22
+00:05:32,160 --> 00:05:32,560
+(5 Svensk Filmindustris Veckorevy 1933		Funkis monument.		Italienska kungen och tron-	följaren närvoro vid avtäck-	ningen i Brindisi av ett högst	modernt marinmonument.
+
+23
+00:06:34,000 --> 00:06:34,000
+192	4Uu
+
+24
+00:06:34,280 --> 00:06:34,720
+ec Svensk Filmir Veckorevy 1933		Polens luftflotta		är respektingivande. Vid en	luftmanöver i Warschau	kunde 200 maskiner sändas	upp i luften.
+
+25
+00:07:35,800 --> 00:07:35,800
+re od	SÅ
+
+26
+00:07:35,840 --> 00:07:35,840
+ILLA		4	'A
+
+27
+00:07:36,080 --> 00:07:36,440
+ec Svensk Filmindustris Veckorevy 1933		Charles Lindbergh	startar från Paris och har	därefter lyckligt passerat sin	första nödlandning.
+
+28
+00:07:36,480 --> 00:07:37,080
+B ECLAIR- JOURNALE		 		Uillustre aviateur et sa femme	sont partis pour Amsterdam.
+
+29
+00:08:36,000 --> 00:08:36,000
+HV	AA
+
+30
+00:08:36,160 --> 00:08:36,160
+nA		tel
+
+31
+00:08:36,200 --> 00:08:36,200
+2	0	3
+
+32
+00:08:36,440 --> 00:08:36,880
+GG Svensk Filmi is Veckorevy 1933		Jaktrittsäsongen	har sin höjdpunkt på sen-	"hösten i Frankrike.
+
+33
+00:09:27,840 --> 00:09:27,840
+4U
+
+34
+00:09:28,120 --> 00:09:28,440
+Ge Svensk Filmindustris Veckorevy 1933		Nytt världsrekord.	En helikopter, konstruerad av	en rysk ingenjör, har hållit	sig svävande i 9 min. och	50 sekunder.
+
+35
+00:10:06,200 --> 00:10:06,200
+Xog		UANY
+
+36
+00:10:06,240 --> 00:10:06,240
+4U
+
+37
+00:10:06,280 --> 00:10:06,280
+Se.	REVY		ti-
+
+38
+00:10:06,360 --> 00:10:06,360
+FI		AR
+
+39
+00:10:06,480 --> 00:10:06,720
+6 Ö Svensk Filmindustris Veckorevy 1933		Ivan Bunin,	1933 års Nobelpristagare i	litteratur, har lovat komma	till Stockholm, trots sin	rädsla för kölden.

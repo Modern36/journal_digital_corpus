@@ -1,0 +1,43 @@
+0
+00:00:00,040 --> 00:00:00,040
+INET
+
+1
+00:00:00,080 --> 00:00:00,080
+Vas	vå g Vd
+
+2
+00:00:00,480 --> 00:00:00,480
+EB SER		Fy NRA	50-ÅRSDAG.
+
+3
+00:00:00,520 --> 00:00:04,720
+BB Svensk Filmindustris Revy 1935		Ky: NERE	50-ÅRSDAG.
+
+4
+00:00:57,600 --> 00:00:58,280
+GE Svensk Filmindustris Revy 1935		STATSMINISTERN	PER ALBIN HANSON		intervjuad av S. F-revyn	inför 50-årsdagen.
+
+5
+00:04:02,760 --> 00:04:02,760
+på		ACS/
+
+6
+00:04:02,920 --> 00:04:02,920
+4U
+
+7
+00:04:02,960 --> 00:04:02,960
+11	har
+
+8
+00:04:03,040 --> 00:04:03,040
+AR
+
+9
+00:04:03,400 --> 00:04:03,680
+a III		Stockholm		STATSMINISTERN		Per Albin Hansson, har på	sin 50-års dag uppvaktats	av gratulanter från när och	fjärran.
+
+10
+00:05:37,440 --> 00:05:37,560
+SiuT

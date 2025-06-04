@@ -1,0 +1,31 @@
+0
+00:00:00,040 --> 00:00:00,080
+N	VN
+
+1
+00:00:00,200 --> 00:00:00,200
+nn		tel
+
+2
+00:00:00,240 --> 00:00:00,240
+F		VI	ti-		S	E
+
+3
+00:00:00,440 --> 00:00:01,160
+Fa iskarneval i Madison		Square Garden i New York.
+
+4
+00:00:01,200 --> 00:00:01,440
+LON
+
+5
+00:02:47,880 --> 00:02:48,160
+Maedtas isprinsessa Bess		Erhardt dansar rumba.
+
+6
+00:03:44,560 --> 00:03:44,760
+PD. gamla grå märren”,	utförd av Edward Shipstad		och Oscar Johnson.
+
+7
+00:04:18,600 --> 00:04:18,920
+Edane blev dock	Mr Heinie Brocks dråpliga		konståkning

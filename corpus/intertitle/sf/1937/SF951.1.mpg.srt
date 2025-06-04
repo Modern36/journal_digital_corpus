@@ -1,0 +1,267 @@
+0
+00:00:00,040 --> 00:00:00,640
+GE ETT vy 1937		NORDENS	UTRIKESMINISTRAR		samlade i Stockholm.
+
+1
+00:00:44,200 --> 00:00:44,200
+Ad
+
+2
+00:00:44,280 --> 00:00:44,280
+Cl
+
+3
+00:00:44,320 --> 00:00:44,320
+10	FN
+
+4
+00:00:44,440 --> 00:00:44,440
+Fl	AR
+
+5
+00:00:44,560 --> 00:00:45,120
+Filmindustris Revy 1937		 		RODDKLUBBEN	VALLGRAVEN.
+
+6
+00:01:24,000 --> 00:01:24,000
+NIER
+
+7
+00:01:24,040 --> 00:01:24,040
+Md	Räf
+
+8
+00:01:24,080 --> 00:01:24,080
+EL	SKU
+
+9
+00:01:24,120 --> 00:01:24,120
+ER	EK	TD
+
+10
+00:01:24,320 --> 00:01:24,920
+ST		 		INTERNATIONELLT	BÅGSKYTTE	I STOCKHOLM.
+
+11
+00:01:50,760 --> 00:01:51,120
+IN
+
+12
+00:01:51,160 --> 00:01:51,160
+År	Ja		C		LR
+
+13
+00:01:51,360 --> 00:01:51,920
+FE		 		FIN	UTSTÄLLNINGEN	I VENEDIG.
+
+14
+00:02:51,000 --> 00:02:51,000
+Vä
+
+15
+00:02:51,120 --> 00:02:51,120
+Rå	LV. R	EN
+
+16
+00:02:51,320 --> 00:02:52,120
+GB SOT vy 1937		KRIGET I KINA.
+
+17
+00:03:01,960 --> 00:03:10,160
+Vi NYSE	I 1 SPAR N	PN
+
+18
+00:03:54,480 --> 00:03:54,480
+NE		2VÅ
+
+19
+00:03:54,600 --> 00:03:54,600
+nr		tel
+
+20
+00:03:54,640 --> 00:03:54,640
+-I )	9
+
+21
+00:03:54,840 --> 00:03:55,200
+(EA		MAG	SOCIALDEMOKRATISKA	UNGDOMSFÖRBUNDS	JUBILEUM.
+
+22
+00:04:24,520 --> 00:04:31,000
+FE UV vän ST
+
+23
+00:05:05,760 --> 00:05:06,680
+4 Svensk		SOCIALDEMOKRATISKA		UNGDOMSFÖRBUNDET	inviger en partiskola	på Bommersviks gamla	herrgård i Sörmland.
+
+24
+00:06:04,080 --> 00:06:04,080
+RAA		VaSnd
+
+25
+00:06:04,160 --> 00:06:04,160
+VEN		2AN
+
+26
+00:06:04,200 --> 00:06:04,200
+4U
+
+27
+00:06:04,440 --> 00:06:04,880
+RIKSPARTIDAGEN		I NUÖRNBERG.
+
+28
+00:07:23,400 --> 00:07:23,400
+4U
+
+29
+00:07:23,440 --> 00:07:23,440
+11		DAR
+
+30
+00:07:23,520 --> 00:07:23,520
+FI	AR
+
+31
+00:07:23,640 --> 00:07:23,840
+Be Svensk Filmindustris Revy 1937		KRIGET I KINA	har slagit ut i full låga.	Japanska trupper inta		Peiping.
+
+32
+00:07:23,880 --> 00:07:24,280
+kf PST	UTSATTA
+
+33
+00:08:31,040 --> 00:08:31,520
+(GTIN		WAR STORES FLOW	INTO HONG KONG		rr
+
+34
+00:09:31,120 --> 00:09:31,120
+RAL
+
+35
+00:09:31,160 --> 00:09:31,160
+GLSIS		hn		47
+
+36
+00:09:31,320 --> 00:09:31,320
+IT
+
+37
+00:09:31,360 --> 00:09:31,360
+REVY		IR
+
+38
+00:09:31,560 --> 00:09:32,040
+(45 Svensk Filmindustris Revy 1937		FULLRIGGAREN		AF CHAPMAN	har tjänat ut och bogserats	till Stockholm för att överta	Vanadis plats som loge-	mentsfartyg.
+
+39
+00:09:57,600 --> 00:09:57,600
+LA
+
+40
+00:09:57,680 --> 00:09:57,680
+EJ	IS
+
+41
+00:09:57,720 --> 00:09:57,720
+193	4U
+
+42
+00:09:57,760 --> 00:09:57,760
+pa	ET
+
+43
+00:09:57,840 --> 00:09:57,840
+FI
+
+44
+00:09:57,960 --> 00:09:57,960
+BE ST		ful N EN	INDIANER	utföra en religiös ceremoni.	IPEESVENER RENEE ET	[SST a
+
+45
+00:09:58,000 --> 00:09:58,560
+KE Svensk Filmindustris Revy 1937		MEXIKANSKA	PENN:	utföra en religiös ceremoni.	De sväva i luften som örnar	BE:
+
+46
+00:10:38,480 --> 00:10:38,480
+KAN		TT
+
+47
+00:10:38,560 --> 00:10:38,560
+SBI
+
+48
+00:10:38,600 --> 00:10:38,600
+NE
+
+49
+00:10:38,640 --> 00:10:38,640
+VER	AVN
+
+50
+00:10:38,680 --> 00:10:38,680
+SU
+
+51
+00:10:38,800 --> 00:10:38,800
+ML
+
+52
+00:10:38,920 --> 00:10:39,440
+GB SEA		EN FLODVÅG	har överspolat en stadsdel	i New York, husen rasade	och 19 människor om-	LISTS
+
+53
+00:11:20,320 --> 00:11:20,440
+Ö VI
+
+54
+00:11:20,520 --> 00:11:20,520
+äLV	VA
+
+55
+00:11:20,600 --> 00:11:20,600
+Pa
+
+56
+00:11:20,640 --> 00:11:20,640
+ML
+
+57
+00:11:20,680 --> 00:11:20,680
+SLU
+
+58
+00:11:20,720 --> 00:11:20,720
+Ne	ES	-1]
+
+59
+00:11:20,920 --> 00:11:21,560
+BB Svensk Filmindu ECE		MINIATYRMODELL	av den internationella	Golden Gate-utställningen	i San Francisco 1939.
+
+60
+00:12:13,120 --> 00:12:13,120
+la		BT
+
+61
+00:12:13,200 --> 00:12:13,200
+S	AA
+
+62
+00:12:13,280 --> 00:12:13,280
+VIN
+
+63
+00:12:13,320 --> 00:12:13,320
+SLU
+
+64
+00:12:13,360 --> 00:12:13,360
+KR	WAS
+
+65
+00:12:13,440 --> 00:12:13,440
+FI
+
+66
+00:12:13,560 --> 00:12:14,040
+Ge DS		BRÖLLOPSHAUSSE	i Sverige i höst. Därför	BSR NIST

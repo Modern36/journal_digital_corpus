@@ -1,0 +1,83 @@
+0
+00:01:07,520 --> 00:01:07,520
+AR
+
+1
+00:10:59,000 --> 00:11:00,400
+Sveriges		Sjöfartsmuseum		N		Specialupptagning	EX		Svensk Filmindustri
+
+2
+00:11:09,360 --> 00:11:10,040
+Från museets fönster har	man en hänförande utsikt	END V EO ES	RT
+
+3
+00:11:32,600 --> 00:11:33,360
+Föreningens ordförande, kom-	mendör Hans Ericson (t.h.)	och museiintendenten, marin-		målare Gerh. Albe.
+
+4
+00:11:50,640 --> 00:11:51,400
+Museet är lycklig ägare av	en samling vackra och värde-	fulla fartygsmodeller. Bark-	skeppet ”Saga” av Stockholm.
+
+5
+00:11:56,680 --> 00:11:57,200
+Skrovet till denna vackra		fullriggare upptäcktes i en		lumpbod, restaurerades och	riggades upp.
+
+6
+00:12:13,720 --> 00:12:14,200
+En vacker skonaretyp.
+
+7
+00:12:21,040 --> 00:12:21,560
+Briggen är en utdöende far-	tygstyp. I svenska handels-	flottan finnes nu blott en kvar.
+
+8
+00:12:27,240 --> 00:12:27,800
+EDGES	FIVE
+
+9
+00:12:33,320 --> 00:12:33,880
+Ett vackert prov på gammal	god sjömanskonst: en fyr-	mastad fullriggare med rigg	och allt byggd av valbarder.
+
+10
+00:12:39,680 --> 00:12:40,240
+”Skön jungfrun” är en galjons-	bild som prytt förstäven på	en gammal seglare.
+
+11
+00:12:44,440 --> 00:12:44,960
+Norrköpings första	JON STA
+
+12
+00:12:49,080 --> 00:12:49,680
+Den första vid Bergsunds	verkstad byggda propeller-	ORT
+
+13
+00:12:58,960 --> 00:12:59,560
+Museets pärla! Europas san-	nolikt förnämligaste ångfar-	tygsmodell återger i detalj	Sveaångaren AEOLUS med	pannor och maskiner	CEN
+
+14
+00:13:10,920 --> 00:13:11,600
+Nautiska avdelningen är sär-	skilt innehållsrik. Instrument	för latitudbestämning finnas	från de äldsta kända till de	moderna. Den äldsta	kvadranten.
+
+15
+00:13:21,600 --> 00:13:22,040
+Astrolabium.
+
+16
+00:13:26,880 --> 00:13:27,640
+Jakobstaven.
+
+17
+00:13:31,200 --> 00:13:31,800
+Sextanten.
+
+18
+00:13:38,520 --> 00:13:39,080
+Sjömansavdelningen ger en	intressant inblick i gammalt	sjömanskap och sjömans-	IA
+
+19
+00:13:56,040 --> 00:13:56,800
+Seglingssporten har eget rum		i museet. Båttypernas utveck-		UTTER LME ES RE ES	i olika slags modeller.
+
+20
+00:14:03,440 --> 00:14:03,960
+Det är ingen skepparhistoria		att fartygsmodellen av en		händig sjöman förts in genom	flaskhalsen.

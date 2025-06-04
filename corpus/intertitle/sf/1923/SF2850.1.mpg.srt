@@ -1,0 +1,55 @@
+0
+00:00:00,280 --> 00:00:00,280
+MoYY		05227
+
+1
+00:00:00,440 --> 00:00:00,440
+AR
+
+2
+00:00:00,560 --> 00:00:07,400
+Kronobergs Rege-	mentes 300 års	LT
+
+3
+00:00:37,320 --> 00:00:41,280
+H. M. Konungen anländer	tidigt på morgonen till Wäxjö.
+
+4
+00:00:52,120 --> 00:00:57,320
+Efter en kort lunch lämnar	konungen landshövdingens	IL
+
+5
+00:01:04,760 --> 00:01:05,040
+300
+
+6
+00:01:05,080 --> 00:01:05,080
+ÄNVSW	RITA
+
+7
+00:01:05,120 --> 00:01:05,120
+4U
+
+8
+00:01:05,320 --> 00:04:31,560
+Kronobergs Rege-	mentes 300 års	LAT
+
+9
+00:05:01,480 --> 00:05:01,880
+H. M. Konungen anländer	tidigt på morgonen till Wäxjö.
+
+10
+00:05:12,720 --> 00:05:13,240
+Efter en kort lunch lämnar	konungen landshövdingens	[OST
+
+11
+00:05:51,960 --> 00:05:52,400
+Wäxjöborna hade massvis	Fe
+
+12
+00:06:50,960 --> 00:06:51,280
+TETROR
+
+13
+00:09:44,080 --> 00:09:44,520
+Konungen avreste samma”	LAN

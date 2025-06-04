@@ -1,0 +1,11 @@
+0
+00:03:08,160 --> 00:03:09,840
+Fd
+
+1
+00:05:07,880 --> 00:05:08,240
+KAND
+
+2
+00:05:24,920 --> 00:05:25,320
+P9 KINOGRAMS, U.S.A 1930		JORDBUNDEN FLYG-	MASKIN.	in amerikansk uppfinnare har	ter försökt konstruera en flyg-	naskin, som kan starta utan sats,	nen hans maskin bara flaxade	ach stannade envist nå

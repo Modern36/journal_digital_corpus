@@ -1,0 +1,191 @@
+0
+00:00:00,080 --> 00:00:00,280
+SVENSK	FILMINDUSTRIS	REVY		PR
+
+1
+00:00:00,320 --> 00:00:00,760
+BRÖLLOP HOS	CARL BERNADOTTE	PÅ FRÖTUNA.
+
+2
+00:02:17,000 --> 00:02:17,000
+se	VÄEX
+
+3
+00:02:17,040 --> 00:02:17,040
+” Z	Za
+
+4
+00:02:17,080 --> 00:02:17,080
+ALS
+
+5
+00:02:17,400 --> 00:02:17,800
+BG Svensk Filmindustris Revy 1936		STRÄNGNÄS	LANDSVÄGSBRO		har invigts av prins Wilhelm.	Den gamla färjan har gått sin	PRC
+
+6
+00:02:45,080 --> 00:02:45,080
+192	sä
+
+7
+00:02:45,120 --> 00:02:45,120
+KIEL	Få
+
+8
+00:02:45,200 --> 00:02:45,200
+FI
+
+9
+00:02:45,320 --> 00:02:46,560
+BG Svensk Filmindustris Revy 1936		FÄLTSKYTTE-	TÄVLAN		vid Rosersberg samlade 1200	skyttar och gav en rad ut-	märkta resultat.
+
+10
+00:03:29,960 --> 00:03:29,960
+Vd	VÄXA
+
+11
+00:03:30,000 --> 00:03:30,000
+PE		9
+
+12
+00:03:30,040 --> 00:03:30,040
+ofäee	OSS
+
+13
+00:03:30,080 --> 00:03:30,080
+IA
+
+14
+00:03:30,120 --> 00:03:30,120
+EL	4U
+
+15
+00:03:30,160 --> 00:03:30,160
+11	NAS	PR
+
+16
+00:03:30,240 --> 00:03:30,240
+FI
+
+17
+00:03:30,360 --> 00:03:30,360
+NYBAKAD	CHAMPION	Is BUT FNLEI NAN
+
+18
+00:03:30,400 --> 00:03:31,000
+e Svensk Filmindustris Revy 1936		NYBAKAD	CHAMPION	HEMMA IGEN.
+
+19
+00:04:30,120 --> 00:04:30,120
+SN	NS
+
+20
+00:04:30,280 --> 00:04:30,280
+EL	4U
+
+21
+00:04:30,400 --> 00:04:30,400
+FI
+
+22
+00:04:30,520 --> 00:04:30,880
+KE Svensk Filmindustris Revy 1938		PV: AKG INN	Frågan har riktats till de sven-	ska damerna, och ”Hon” är	den nya filmstjärnan Maria von	Tasnady, som plötsligt blossat	upp i ”Slutackord”.
+
+23
+00:04:52,360 --> 00:04:57,120
+ae NN
+
+24
+00:04:59,680 --> 00:04:59,680
+AS	LYSA
+
+25
+00:04:59,720 --> 00:04:59,720
+def		JA
+
+26
+00:04:59,760 --> 00:04:59,760
+KAAEfa	VAL
+
+27
+00:04:59,800 --> 00:04:59,800
+VG
+
+28
+00:04:59,840 --> 00:04:59,840
+EN	JU
+
+29
+00:04:59,960 --> 00:04:59,960
+Fi
+
+30
+00:05:00,080 --> 00:05:00,080
+4 RR SN		JAGARBESÖK	OCH	JAGARMANÖVER.
+
+31
+00:05:00,120 --> 00:05:00,760
+E Svensk Filmindustris Revy 1936		JAGARBESÖK	OCH	JAGARMANÖVER.
+
+32
+00:06:39,480 --> 00:06:39,480
+EV	VAS
+
+33
+00:06:39,560 --> 00:06:39,560
+EN	4U
+
+34
+00:06:39,680 --> 00:06:39,680
+ML
+
+35
+00:06:39,800 --> 00:06:40,440
+KE SE		VALET I NORGE		gav de båda huvudpartierna	framgång. Deltagandet var	utomordentligt.
+
+36
+00:06:45,560 --> 00:06:47,440
+alk Hl Fick fal lå
+
+37
+00:06:49,680 --> 00:06:50,160
+& ABDE STORTINGSHENN TIL	OG MASKEN FALLER		”ISTEN:HalnE, |	ER.
+
+38
+00:07:43,200 --> 00:07:43,200
+SFatL Å
+
+39
+00:07:43,400 --> 00:07:43,400
+ML
+
+40
+00:07:43,520 --> 00:07:44,240
+KE SE		POLIS OCH	STREJKANDE		i Reading, Pennsylvania, ha		haft svåra sammandrabbningar,		varvid ett fyrtiotal personer		skadats.
+
+41
+00:08:05,040 --> 00:08:05,040
+NEN
+
+42
+00:08:05,160 --> 00:08:05,160
+KL
+
+43
+00:08:05,200 --> 00:08:05,200
+0	FN
+
+44
+00:08:05,440 --> 00:08:06,120
+KE Svonsk Filmindustris Revy 1936		KALIFORNIENS	SKOGAR BRINNA.
+
+45
+00:08:44,120 --> 00:08:44,240
+EN
+
+46
+00:08:44,360 --> 00:08:44,360
+ML
+
+47
+00:08:44,480 --> 00:08:44,720
+E RH		BROTTARNA	ha haft en stilig uppvisning	i Stockholms konserthus.

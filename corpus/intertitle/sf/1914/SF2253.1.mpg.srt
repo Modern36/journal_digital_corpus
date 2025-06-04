@@ -1,0 +1,67 @@
+0
+00:00:00,240 --> 00:00:00,240
+LR	ds Al
+
+1
+00:00:00,320 --> 00:00:00,320
+AA	HI	SUEL
+
+2
+00:00:00,480 --> 00:00:00,480
+vB
+
+3
+00:00:00,720 --> 00:00:03,280
+Hans Majestät Konung Ludwig	EVR CCR REEF		kronprinsen och den sedermera	avlidne arvprinsen, avsked av	de i fält utryckande trupperna.
+
+4
+00:01:45,640 --> 00:01:47,720
+IR TIC GD	draga ut i fält.
+
+5
+00:03:06,440 --> 00:03:06,440
+xx
+
+6
+00:03:06,560 --> 00:03:06,560
+EL	4U
+
+7
+00:03:06,680 --> 00:03:06,680
+AR
+
+8
+00:03:06,840 --> 00:03:07,160
+TURKIET INDRAGET I		UGN		LUDEN
+
+9
+00:03:14,800 --> 00:03:14,920
+Den turkiska värvningen	börjar.		Vid det eggande och monotona		ljudet av trummorna försiggår		värvningen bland de fanatiska		beduinerna över hela Turkiet	och Syrien.
+
+10
+00:03:42,440 --> 00:03:42,520
+Muhammedansk krigsdans.		Folket smittas av den uppjagade		krigsstämningen, och många sluta		ej upp med den vilda dansen		förrän de, utmattade av trötthet,	digna ned.
+
+11
+00:03:53,280 --> 00:03:53,360
+I likhet med förfäderna offrar	folket fortfarande för de turkiska	vapnens framgång i	[arg
+
+12
+00:04:28,160 --> 00:04:28,200
+TO ARD Er LU	LE	ÄTS TA STIL OTTTE:	LT: TJ 7) TTR AT	agnivbed sxvol tis röt — nopnåp	RT NT TTR Tr TTT OR TT	lag. teven sbödl vs natenr	KIKA
+
+13
+00:05:12,960 --> 00:05:13,080
+Kameler som lastdragare åt		LTTE
+
+14
+00:05:39,120 --> 00:05:39,200
+TS ER TEST Gr TE GT	gossar paradera överallt för att	därmed bidraga till att höja	krigsstämningen.
+
+15
+00:06:09,840 --> 00:06:09,920
+Turkiskt och Beduinkavalleri på	övningar. Turkarna lära ha lagt	beslag på hvarje häst och kamel	i Syrien för den tilltänkta	ESA
+
+16
+00:06:16,600 --> 00:06:16,720
+US CR	avgå till Egypten.

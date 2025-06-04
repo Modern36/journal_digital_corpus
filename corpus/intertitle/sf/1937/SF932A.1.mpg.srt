@@ -1,0 +1,131 @@
+0
+00:00:00,120 --> 00:00:00,120
+IN
+
+1
+00:00:00,360 --> 00:00:00,360
+FI
+
+2
+00:00:00,480 --> 00:00:01,240
+[qy Svensk Filmindustris Revy 1937		IS OCH SOL	KORSA
+
+3
+00:02:13,840 --> 00:02:14,560
+Be Svensk Filmindustris Revy 1937		RYSK-FRANSKA	ANN	Kalinin mottager Frankrikes		nyutnämnde ambassadör i	Moskva — M. Coulondre.
+
+4
+00:02:40,400 --> 00:02:40,400
+ÅN
+
+5
+00:02:40,440 --> 00:02:40,440
+WARE
+
+6
+00:02:40,480 --> 00:02:40,480
+MS
+
+7
+00:02:40,520 --> 00:02:40,520
+ja
+
+8
+00:02:40,640 --> 00:02:40,640
+ML
+
+9
+00:02:40,760 --> 00:02:40,760
+DELAWARE:	ön	FÖRBEREDES		PRI
+
+10
+00:02:40,800 --> 00:02:41,240
+KE SETT		DELAWARE:	JUBILÉET	FÖRBEREDES	RO
+
+11
+00:03:15,040 --> 00:03:15,120
+la	Bb
+
+12
+00:03:15,360 --> 00:03:16,000
+KE ST		WIEN HAR FÅTT	EN NY BRO	ÖVER DONAU.
+
+13
+00:04:17,840 --> 00:04:18,040
+då
+
+14
+00:04:18,120 --> 00:04:18,160
+PX
+
+15
+00:04:18,240 --> 00:04:18,240
+LE	NAT
+
+16
+00:04:18,440 --> 00:04:19,240
+eB ETTA		FRÅN DET SNÖIGA	OCH BLOMSTRANDE	KALIFORNIEN.
+
+17
+00:05:32,960 --> 00:05:32,960
+LSNON		5
+
+18
+00:05:33,000 --> 00:05:33,000
+JA	Bee
+
+19
+00:05:33,040 --> 00:05:33,040
+EN	4U
+
+20
+00:05:33,080 --> 00:05:33,080
+bl		NAIY	Fö
+
+21
+00:05:33,160 --> 00:05:33,160
+ML
+
+22
+00:05:33,280 --> 00:05:33,800
+EE		NYTTOKONST-	UTSTÄLLNINGEN	på Nationalmuseum besökes	av kronprinsparet, som bl. a.	beundrar prinsessan Birgittas	vagga.
+
+23
+00:06:33,480 --> 00:06:33,480
+NILET	SVA
+
+24
+00:06:33,520 --> 00:06:33,520
+NN		NS
+
+25
+00:06:33,600 --> 00:06:33,600
+BTJ
+
+26
+00:06:33,640 --> 00:06:33,640
+ER	4U
+
+27
+00:07:04,840 --> 00:07:05,360
+OE SN		07	AVAADVIIVÄT	MEN RNE.
+
+28
+00:07:46,840 --> 00:07:47,440
+Motorcykelloppets segrare	Uno Duzäll på Saroléa.
+
+29
+00:07:55,880 --> 00:07:56,400
+Racerklassen vanns överlägset	av Eugen Bjömstad,		Älfa-Romeo.
+
+30
+00:08:40,960 --> 00:08:41,480
+Standardklassens segrare blev	Sven Servais, Ford.
+
+31
+00:09:20,440 --> 00:09:20,440
+KK	SKI
+
+32
+00:09:20,840 --> 00:09:21,400
+KE ET TEE		HOVRÄTTEN		I ADDIS ABEBA	invigd av hertigen	av Äncona.

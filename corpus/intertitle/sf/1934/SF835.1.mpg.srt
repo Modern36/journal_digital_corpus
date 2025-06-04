@@ -1,0 +1,43 @@
+0
+00:01:26,000 --> 00:01:26,000
+EA	PL
+
+1
+00:01:26,040 --> 00:01:26,040
+TEL	EL
+
+2
+00:01:26,080 --> 00:01:26,080
+rv
+
+3
+00:01:26,120 --> 00:01:26,120
+192	JU
+
+4
+00:01:26,240 --> 00:01:26,240
+AR
+
+5
+00:01:26,360 --> 00:01:27,040
+BN NaN Dac.		Orr	EA
+
+6
+00:07:49,600 --> 00:08:11,000
+ÖS		AA		SO
+
+7
+00:08:32,320 --> 00:08:32,720
+Svensk FILMINDUSTRIS		VECKOREVY	1934
+
+8
+00:09:59,720 --> 00:10:00,280
+420	Då kronprinsparet den 13 sep-	tember avreste från Stockholm	till Österlandet, hade mycket	folk samlats för att bjuda rese-	närerna farväl och lyckosam		FRE
+
+9
+00:10:40,680 --> 00:10:41,120
+Vår nya Parisminister,	envoyén Einar Hennings, an-		 		länder till Paris för att över-		taga sin nya post.
+
+10
+00:10:59,720 --> 00:11:00,200
+Ovälkomna gäster.	En verklig landsplåga i Algeriet		 	  	  		är de väldiga gräshopps-		. svärmar, som på några		72 timmar förstöra all	| vegetation.

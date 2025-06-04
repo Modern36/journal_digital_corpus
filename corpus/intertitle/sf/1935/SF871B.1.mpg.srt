@@ -1,0 +1,31 @@
+0
+00:00:00,200 --> 00:00:00,680
+SVENSK	FILMINDUSTRIS		REVY		1935 23:dje årg.
+
+1
+00:00:00,720 --> 00:00:01,440
+e Svensk Filmindustris Revy 1935		Kinematografiska		konstutställningen	och världstävlan i film öpp-	nades i Venedig av greve	Volpi di Misurata och Italiens	propagandaminister.
+
+2
+00:00:49,840 --> 00:00:49,840
+if
+
+3
+00:00:49,880 --> 00:00:49,880
+AT	Was
+
+4
+00:00:50,120 --> 00:00:51,080
+Svensk Filmindustris Revy 1935		Utställningsbranden	i Berlin,		varvid den just öppnade	radioutställningen rampo-	nerades och människoliv	spilldes.
+
+5
+00:01:55,760 --> 00:01:55,800
+INN
+
+6
+00:01:55,920 --> 00:01:55,920
+Knaö
+
+7
+00:01:56,160 --> 00:01:56,480
+6 E Svens		Konflikten mellan	Italien och Abessinien.		 		Tremaktskonferensens för-	handlingar i Paris mellan om-	bud för England, Frankrike	och Italien blevo resultatlösa.

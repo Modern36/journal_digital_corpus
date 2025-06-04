@@ -1,0 +1,115 @@
+0
+00:00:00,480 --> 00:00:00,480
+Ad
+
+1
+00:00:00,640 --> 00:00:00,640
+CL	AU
+
+2
+00:00:00,680 --> 00:00:00,680
+DI		LYER-A	Rb
+
+3
+00:00:00,720 --> 00:00:00,720
+ADI	IAN
+
+4
+00:00:00,880 --> 00:00:01,840
+Svensk Filmindust y		Väggen som tennislärare.
+
+5
+00:01:54,320 --> 00:01:54,320
+Okt
+
+6
+00:01:54,360 --> 00:01:54,360
+KAR		KAR
+
+7
+00:01:54,400 --> 00:01:54,400
+JA
+
+8
+00:01:54,440 --> 00:01:54,440
+Ta	131
+
+9
+00:01:54,560 --> 00:01:54,560
+ML
+
+10
+00:01:54,680 --> 00:01:55,640
+HA		BEN nian
+
+11
+00:02:54,920 --> 00:02:54,920
+KJEN
+
+12
+00:02:54,960 --> 00:02:54,960
+OA		Vv		0
+
+13
+00:02:55,000 --> 00:02:55,000
+EL	4U
+
+14
+00:02:55,040 --> 00:02:55,040
+se	VE
+
+15
+00:02:55,240 --> 00:03:07,160
+GARBIO.
+
+16
+00:04:44,040 --> 00:04:44,040
+ja	RAT
+
+17
+00:04:44,120 --> 00:04:44,120
+Re	KIEL
+
+18
+00:04:44,160 --> 00:04:44,160
+EN		HG JUD
+
+19
+00:04:44,200 --> 00:04:44,200
+EI	41Uu
+
+20
+00:04:44,240 --> 00:04:44,240
+I		ANTJY
+
+21
+00:04:44,440 --> 00:04:45,160
+Ungdomens bokvecka.
+
+22
+00:06:39,160 --> 00:06:39,680
+Svensk FILMINDUSTRIS		VECKOREVY		1933
+
+23
+00:06:40,120 --> 00:06:40,120
+Jb		ANTI	Så
+
+24
+00:06:40,320 --> 00:06:40,760
+Svensk Filmind		När man		improviserar broar.	Karlbergskadetter pröva spant-	lösa, lätta pontoner för bro-	slagning. 20 båtar rymmas på	en bil. Det gäller övergång av	ett vattendrag.
+
+25
+00:07:50,320 --> 00:07:50,720
+På fem kvart byggdes en	40 meter lång spång, som		bar häst och kärra
+
+26
+00:07:56,880 --> 00:07:57,240
+BSSSC	trupp.
+
+27
+00:08:05,440 --> 00:08:05,800
+Frigymnastiken		vinner terräng.		Uppvisning på Stadion av	en liten spänstig trupp från	Örebro
+
+28
+00:09:39,920 --> 00:09:40,400
+q Spanjorerna vilja		ERE:		Genom konstbevattning har	en lönande risodling påbörjats	i trakten av Valencia.

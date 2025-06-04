@@ -1,0 +1,63 @@
+0
+00:00:00,080 --> 00:00:00,080
+JOUR	ÄMN	SCEN
+
+1
+00:00:00,120 --> 00:00:00,120
+RSA	SN	MANA
+
+2
+00:00:00,160 --> 00:00:00,160
+NS		HTENSRBA	|
+
+3
+00:00:00,200 --> 00:00:00,200
+VBU”	FRANS		VY
+
+4
+00:00:00,240 --> 00:00:00,240
+SINUS
+
+5
+00:00:00,280 --> 00:00:00,440
+amg NinNäesA	.bTodfrro 26063		SE:
+
+6
+00:00:00,520 --> 00:00:00,520
+SS a F	Er |
+
+7
+00:00:00,560 --> 00:00:00,640
+BESÄTTNINGARNE EMBARKERA.		.d Zz
+
+8
+00:00:14,920 --> 00:00:15,120
+BÅTARNE GÅ UT PÅ ÖVNING.		Cd Zz
+
+9
+00:00:47,200 --> 00:00:47,440
+Surrning af lösa föremål	å däcket, äfvensom andra	böna	den förestående dykningen.		2 £
+
+10
+00:02:07,360 --> 00:02:07,640
+Neddykning och undervattensgång		(denna sker med elektrisk kraft).		ål pa
+
+11
+00:03:08,840 --> 00:03:09,160
+Styrning medelst	periskopets tillhjälp.		SS 9	ed SM	onda dam
+
+12
+00:03:19,520 --> 00:03:19,640
+Likt jättestora tumlare	tilta undervattensbåtarne	då och då upp öfver	ytan för att undersöka	23 farvaltnet. de		rad
+
+13
+00:03:52,640 --> 00:03:52,880
+[US erg		ng
+
+14
+00:04:19,400 --> 00:04:19,640
+Återkomsten		UTEN	Cå
+
+15
+00:05:24,160 --> 00:05:24,440
+Torpederna tagas ombord		och undersökas.

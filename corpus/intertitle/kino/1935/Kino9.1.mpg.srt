@@ -1,0 +1,35 @@
+0
+00:00:02,680 --> 00:00:02,680
+MH
+
+1
+00:02:05,640 --> 00:02:05,920
+NESS		STbI
+
+2
+00:02:06,000 --> 00:02:06,000
+SAORNIE
+
+3
+00:02:06,080 --> 00:02:06,080
+HM
+
+4
+00:02:59,440 --> 00:02:59,840
+223 FRAANVUNTJUUNARLER 225		DROTTNING ASTRIDS	GRIFTEFÄRD		har ägt rum under en över-	väldigande anslutning av	Belgiens sörjande folk.
+
+5
+00:04:43,400 --> 00:04:43,760
+SE TRNAMIVUNTAU URRRLEN 223		Jordfästningen ägde rum	i S:te Gudule-katedralen.
+
+6
+00:05:41,000 --> 00:05:47,480
+2 FRAAMVUNITJUUNAHLEN 223		Kistan  föres till slottet	Laeken för att gravsättas	i S:ta Marias krypta.
+
+7
+00:06:25,480 --> 00:06:25,480
+KR	EV
+
+8
+00:06:25,520 --> 00:06:25,520
+Rd		KAL

@@ -1,0 +1,27 @@
+0
+00:00:00,680 --> 00:00:00,680
+ATL	NIA
+
+1
+00:00:46,440 --> 00:00:46,440
+nr
+
+2
+00:00:46,680 --> 00:00:47,080
+Be Svensk Filmindustris Revy 1938		NY AMERIKANSK	FLOTTCHEF.
+
+3
+00:00:47,120 --> 00:00:47,600
+SRS		NAVY CHANGES	HIGH COMMAND		akad
+
+4
+00:01:17,440 --> 00:01:17,880
+ee Svensk Filmindustris Revy 1938		SWING-MUSIKEN	har intagit Carnegie Hall	i New York, där Benny		Goodmann gett en konsert.
+
+5
+00:03:05,720 --> 00:03:06,120
+CB Svensk Filmindustris Revy 1938		BOWLING	SER LÄTT UT!
+
+6
+00:05:57,880 --> 00:07:33,000
+Fl		AR

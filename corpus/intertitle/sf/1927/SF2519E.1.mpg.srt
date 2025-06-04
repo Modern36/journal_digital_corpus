@@ -1,0 +1,19 @@
+0
+00:00:00,480 --> 00:00:00,480
+Ae	RA
+
+1
+00:00:00,520 --> 00:00:00,520
+SLU
+
+2
+00:00:00,560 --> 00:00:00,560
+pl	INUYL
+
+3
+00:00:00,800 --> 00:00:01,200
+”Alla tiders största boxnings-		match” — i Sverige, utkäm-		pades den 18 sept. på Velo-		dromen i Stockholm mellan	Harry Persson och Bud	Gorman.
+
+4
+00:02:25,680 --> 00:02:26,160
+Bland hedersgästerna märktes		prins Carl med son och	prins Wilhelm.

@@ -1,0 +1,107 @@
+0
+00:00:00,200 --> 00:00:00,200
+4U
+
+1
+00:00:00,240 --> 00:00:00,240
+NICE	bi
+
+2
+00:00:00,320 --> 00:00:00,320
+AR
+
+3
+00:01:51,000 --> 00:01:51,240
+UK		NIT Y
+
+4
+00:01:51,360 --> 00:01:51,360
+4U
+
+5
+00:01:51,400 --> 00:01:51,400
+LE	RR
+
+6
+00:01:51,640 --> 00:01:51,960
+TN INT		3 VETERINÄR-		| HÖGSKOLAN I |	STOCKHOLM. i		[ä		   	  		FÖRSATTES
+
+7
+00:02:44,800 --> 00:03:44,360
+Osteologisalen.
+
+8
+00:04:05,960 --> 00:04:06,160
+Anatomiska museet.
+
+9
+00:04:29,880 --> 00:04:30,120
+Kärlpreparat från	olika organ.
+
+10
+00:04:39,920 --> 00:04:40,080
+Kemiska laboratoriet.
+
+11
+00:05:16,680 --> 00:05:16,880
+Hundkliniken.
+
+12
+00:05:23,200 --> 00:05:23,360
+Motionsgårdar för	hundar.
+
+13
+00:05:41,640 --> 00:05:41,840
+Hundstall.
+
+14
+00:05:56,880 --> 00:05:57,080
+Operationssal för	mindre husdjur.
+
+15
+00:06:19,880 --> 00:06:20,160
+Kirurgiska klinikens	EiclETA
+
+16
+00:06:37,480 --> 00:06:37,680
+Rännarbanan å	kirurgiska kliniken.	Här framföras hästarne i		skridt och traf i o. f. konsta-	terande af olika rörelsestö-	randen i extremiteterna.
+
+17
+00:06:57,760 --> 00:06:57,960
+LTT ETEN SITES	operationssalar.
+
+18
+00:07:24,600 --> 00:07:25,120
+Kastning af häst	i o. f. operation.
+
+19
+00:08:08,320 --> 00:08:08,560
+Operationsbordet		WJEORST EET ES		medelst hydraulisk	LENA
+
+20
+00:09:54,880 --> 00:09:55,080
+husdjursskötsel.
+
+21
+00:10:09,840 --> 00:10:10,120
+En å veterinärhög-	skolan uppfödd tjur.
+
+22
+00:10:17,200 --> 00:10:32,440
+Hönsgården.
+
+23
+00:11:18,640 --> 00:11:18,880
+Motionsgård för kor.
+
+24
+00:11:38,800 --> 00:11:39,160
+Den nya	djurtransportvagnen,	skänkt av Djurskydds-	LLA
+
+25
+00:12:43,840 --> 00:12:44,000
+sjuktransportkärran.
+
+26
+00:12:54,840 --> 00:12:57,920
+GÖTEBORG

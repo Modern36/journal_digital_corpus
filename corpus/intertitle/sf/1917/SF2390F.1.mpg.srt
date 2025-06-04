@@ -1,0 +1,11 @@
+0
+00:00:00,720 --> 00:00:00,840
+EES a	PANT	FATTA
+
+1
+00:01:48,360 --> 00:02:08,600
+should,	ar		Ag	target		presents	LE
+
+2
+00:06:39,880 --> 00:07:15,440
+His Inilialion

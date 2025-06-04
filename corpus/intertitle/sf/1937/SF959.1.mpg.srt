@@ -1,0 +1,111 @@
+0
+00:01:45,360 --> 00:01:45,360
+SJ	fr age	Nä		|
+
+1
+00:01:45,440 --> 00:01:45,440
+MÅ
+
+2
+00:01:45,560 --> 00:01:46,240
+Ge Svensk Filmindustris Revy 1937		AINO TAUBE	har fått Svensk Filmindustris	FEET SIT Hr
+
+3
+00:03:27,000 --> 00:03:27,000
+TR	BEV
+
+4
+00:03:27,120 --> 00:03:27,120
+MH
+
+5
+00:03:27,240 --> 00:03:28,320
+Ge ET EOS		ANNE NEAGLIE,	Victoria i Röda Kvarnfilmen	”Hennes kungarike”, anländer	till New York.
+
+6
+00:03:51,760 --> 00:03:51,760
+CD	SIT
+
+7
+00:03:51,800 --> 00:03:51,800
+YvV3		Jå
+
+8
+00:03:51,880 --> 00:03:51,880
+Fi
+
+9
+00:03:52,000 --> 00:03:52,680
+5 SEE		VITTORIO	MUSSOLINI	kommer flygande till	Washington från Hollywood.
+
+10
+00:04:28,360 --> 00:04:28,360
+192	SU
+
+11
+00:04:28,480 --> 00:04:28,480
+FI
+
+12
+00:04:28,600 --> 00:04:28,960
+Ge Svensk Filmindustris Revy 1937		SIMTÄVLINGAR	I LENINGRAD.
+
+13
+00:05:52,680 --> 00:05:52,680
+MÅ
+
+14
+00:05:52,800 --> 00:05:53,440
+GE SEN		H. M. KONUNGEN	bevistade fredagen den	5 november Röda Kvarns	välgörenhetsföreställning	av ”Hennes kungarike”.
+
+15
+00:07:21,360 --> 00:07:21,360
+-I a	Mö
+
+16
+00:07:21,440 --> 00:07:21,440
+MÅ
+
+17
+00:07:21,560 --> 00:07:22,040
+GE SE		KRONPRINSEN	15LTER 14021 Na TS		SEN
+
+18
+00:07:53,480 --> 00:07:53,480
+TD	EV
+
+19
+00:07:53,520 --> 00:07:53,520
+ES	LYELL
+
+20
+00:07:53,600 --> 00:07:53,600
+MÅ
+
+21
+00:07:53,720 --> 00:07:54,200
+e Svensk Filmindustris Revy 1937		AMBULERANDE	POSTKONTOR		har införts i Tjeckoslovakien.	PERSER CEr SLOTT	kan också erhållas med den	rullande poststationen.
+
+22
+00:08:34,280 --> 00:08:34,280
+|		KR	EV
+
+23
+00:08:34,320 --> 00:08:34,320
+-12	VER	PR
+
+24
+00:08:34,400 --> 00:08:34,400
+Ld
+
+25
+00:08:34,520 --> 00:08:35,080
+(E Svensk Filmindustris Revy 1937		VÄRLDENS STÖRSTA	BOMBFLYGPLAN	har provflugits i U. S. Ä.
+
+26
+00:09:02,680 --> 00:09:03,280
+GG SE		PARDUBITZER		I vINSAAO AN	Europas svåraste hinderlopp,	SSE: NES ORKEN	[TEA TENTAN	av en kvinna.
+
+27
+00:10:18,400 --> 00:10:19,000
+MODENYTT.		Med ett krås eller en spets-	jacka kan man lätt piffa upp	vardagsklänningen.
