@@ -17,15 +17,16 @@ This corpus is the result of two purpose-built libraries:
   developed for transcription of speech in historical Swedish newsreels.
 - **[stum](https://github.com/Modern36/stum)** – an OCR tool for detecting and
   transcribing intertitles in silent film footage.
+
 The corpus consists
 of <!-- words --> 2,XXX,XXX <!-- words --> words
 transcribed
 from <!-- videos --> 2,XXX  <!-- videos --> videos,
-totalling <!-- minutes --> XXXXXX <!-- minutes --> minutes
+totalling <!-- hours --> XXXXXX <!-- hours --> hours
 of speech. In addition, it
 includes <!-- iwords --> XXXX <!-- iwords --> words
 from <!-- intertitles --> XXXX <!-- intertitles --> intertitles
-from <!-- silent --> XXXX <!-- words --> videos.
+from <!-- silent --> XXXX <!-- silent --> videos.
 
 The primary files used for this project are publicly available on
 [Filmarkivet.se](https://www.filmarkivet.se/), a web

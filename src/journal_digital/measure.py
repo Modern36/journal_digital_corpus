@@ -95,8 +95,19 @@ def store_corpus_measurements(corpus_subdir: Path):
         index=False,
         header=False,
     )
+    return sum_df.set_index("index").T
 
 
 if __name__ == "__main__":
-    store_corpus_measurements(speech_root)
-    store_corpus_measurements(intertitle_root)
+    speech = store_corpus_measurements(speech_root)
+    intertitle = store_corpus_measurements(intertitle_root)
+
+    speech_files = speech.num_files.values[0]
+    speech_hours = int(speech.speech_seconds.values[0] / 3600)
+    speech_words = speech.num_words.values[0]
+
+    intertitle_files = intertitle.num_files.values[0]
+    intertitle_count = intertitle.num_segments.values[0]
+    intertitle_words = intertitle.num_words.values[0]
+
+    pass
