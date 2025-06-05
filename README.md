@@ -1,3 +1,9 @@
+[![Publish Python Package to PyPI](https://github.com/Modern36/journal_digital_corpus/actions/workflows/hatch-publish-to-pypi.yml/badge.svg)](https://github.com/Modern36/journal_digital_corpus/actions/workflows/hatch-publish-to-pypi.yml)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+[![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch)
+[![DOI](https://zenodo.org/badge/937956064.svg)](https://doi.org/10.5281/zenodo.15596191)
+
+
 # Journal Digital Corpus
 
 The **Journal Digital Corpus** is a curated, timestamped transcription corpus
