@@ -11,16 +11,12 @@ from journal_digital.blank_transcripts import (
     write_empty_filenames,
 )
 from journal_digital.name_to_path import NameToPathMapper
-from journal_digital.settings import (
-    intertitle_root,
-    speech_root,
-    video_root,
-)
+from journal_digital.settings import intertitle_root, speech_root, video_root
 
 speech_path_mapper = NameToPathMapper(speech_root)
 intetitel_path_mapper = NameToPathMapper(intertitle_root)
 
-groups = ("kino", "nuet", "sf", "sj", "ufa")
+groups = ("kino", "nuet", "sf", "sj")
 
 
 def speech_path_pairs():
