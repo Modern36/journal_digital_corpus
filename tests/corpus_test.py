@@ -36,10 +36,14 @@ def test_count_files_iter():
     assert c == 2544
 
 
+@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_no_empty_files():
     corpus = Corpus("txt")
-    for file, text in corpus:
-        assert len(text) > 0
+    for doc in corpus:
+        assert len(doc.text) > 0
+        # Reconstruct the file path from the corpus structure
+
+        file = doc.path
         with open(file, "r", encoding="utf-8") as f:
             txt2 = corpus._read_file(file)
-        assert text == txt2
+        assert doc.text == txt2
