@@ -1,7 +1,7 @@
 import pytest
 
 from journal_digital import Corpus
-from journal_digital.measure import SubtitleSegment
+from journal_digital.SubtitleSegment import SubtitleSegment
 
 
 @pytest.fixture(scope="module")

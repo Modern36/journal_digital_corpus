@@ -1,6 +1,6 @@
 import pytest
 
-from journal_digital.measure import (
+from journal_digital.SubtitleSegment import (
     SubtitleSegment,
     parse_srt,
     srt_time_to_seconds,

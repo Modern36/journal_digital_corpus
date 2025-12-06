@@ -2,8 +2,8 @@ import re
 from itertools import batched
 from pathlib import Path
 
-from journal_digital.measure import SubtitleSegment
 from journal_digital.settings import speech_root
+from journal_digital.SubtitleSegment import SubtitleSegment
 
 
 class Corpus:
