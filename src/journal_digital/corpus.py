@@ -35,7 +35,7 @@ class Corpus:
                 f"Invalid output_format: {output_format}. "
                 f"Allowed values are 'txt' and 'srt'."
             )
-        self._mode = output_format
+        self._output_format = output_format
         if output_format == "txt":
             self.set_txt_mode()
         elif output_format == "srt":
