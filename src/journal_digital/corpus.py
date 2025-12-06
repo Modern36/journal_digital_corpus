@@ -1,6 +1,12 @@
+from collections import namedtuple
 from pathlib import Path
 
 from journal_digital.settings import intertitle_root, speech_root
+
+CorpusDocument = namedtuple(
+    "CorpusDocument",
+    ["filename", "text", "collection", "year", "subcorpus", "path"],
+)
 
 
 class Corpus:
@@ -54,15 +60,24 @@ class Corpus:
             )
         return result
 
-    def __iter__(self):
+    def _files(self):
         if self._intertitle:
             for file in intertitle_root.glob("**/*.srt"):
-                yield file, self._read_file(file)
+                yield file, "intertitle"
         if self._speech:
-            print("Speeching!")
             for file in speech_root.glob("**/*.srt"):
-                print(file)
-                yield file, self._read_file(file)
+                yield file, "speech"
+
+    def __iter__(self):
+        for file, subcorpus in self._files():
+            yield CorpusDocument(
+                filename=file.stem,
+                text=self._read_file(file),
+                collection=file.parent.parent.name,
+                year=file.parent.name,
+                subcorpus=subcorpus,
+                path=file.resolve(),
+            )
 
     def __len__(self):
         return len([_ for _ in self])

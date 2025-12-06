@@ -36,7 +36,6 @@ def test_count_files_iter():
     assert c == 2544
 
 
-@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_no_empty_files():
     corpus = Corpus("txt")
     for doc in corpus:

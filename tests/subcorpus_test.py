@@ -19,7 +19,6 @@ def text_count_speech():
     assert c == 2544
 
 
-@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_speech_subcorpus_metadata():
     corpus = Corpus("txt", texts_to_include="speech")
     for doc in corpus:
@@ -31,7 +30,6 @@ def test_speech_subcorpus_metadata():
         break
 
 
-@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_intertitle_subcorpus_metadata():
     corpus = Corpus("txt", texts_to_include="intertitles")
     for doc in corpus:
@@ -43,7 +41,6 @@ def test_intertitle_subcorpus_metadata():
         break
 
 
-@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_both_subcorpora_metadata():
     corpus = Corpus("txt", texts_to_include="both")
     subcorpora_seen = set()
@@ -59,7 +56,6 @@ def test_both_subcorpora_metadata():
     assert subcorpora_seen == {"speech", "intertitle"}
 
 
-@pytest.mark.xfail(strict=True, reason="Red Phase")
 def test_metadata_attributes_exist():
     corpus = Corpus("txt", texts_to_include="speech")
     doc = next(iter(corpus))
