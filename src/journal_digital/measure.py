@@ -6,11 +6,14 @@ from NameSeconds import NameSeconds
 from settings import intertitle_root, speech_root
 from tqdm import tqdm
 
-from journal_digital.SubtitleSegment import parse_srt
+from journal_digital.corpus import Corpus
 
 
 def measure_corpus(corpus_subdir: Path):
     ns = NameSeconds()
+    corpus = Corpus(
+        mode="srt", calculate_num_words=True, calculate_duration=True
+    )
 
     srts = tqdm(list(corpus_subdir.glob("**/*.srt")))
     for srt in srts:
@@ -18,9 +21,9 @@ def measure_corpus(corpus_subdir: Path):
         num_segments = 0
         duration_seconds = 0
         num_words = 0
-        for segment in parse_srt(srt):
+        for segment in corpus.read_srt(srt):
             num_segments += 1
-            duration_seconds += segment.duration_seconds
+            duration_seconds += segment.duration_seconds / 1000
             num_words += segment.num_words
         yield {
             "file": srt.stem,

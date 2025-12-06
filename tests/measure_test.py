@@ -1,39 +1,19 @@
 import pytest
 
-from journal_digital.SubtitleSegment import (
-    SubtitleSegment,
-    parse_srt,
-    srt_time_to_seconds,
-)
+from journal_digital.corpus import Corpus
+from journal_digital.SubtitleSegment import SubtitleSegment
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: measure.py core function tests"
-)
-def test_srt_time_to_seconds_basic():
-    assert srt_time_to_seconds("00:00:09,830") == 9830
-    assert srt_time_to_seconds("00:00:10,730") == 10730
-
-
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: measure.py core function tests"
-)
-def test_srt_time_to_seconds_edge_cases():
-    assert srt_time_to_seconds("00:00:00,000") == 0
-    assert srt_time_to_seconds("01:00:00,000") == 3600000
-    assert srt_time_to_seconds("01:23:45,678") == 5025678
-
-
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: measure.py core function tests"
-)
 def test_parse_srt_basic(tmpdir):
     srt = tmpdir / "test.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("1\n00:00:09,830 --> 00:00:10,730\nFirst line\n\n")
-        f.write("2\n00:00:10,769 --> 00:00:11,191\nSecond line")
+        f.write("2\n00:00:10,769 --> 00:00:11,191\nSecond line\n\n")
 
-    segments = list(parse_srt(srt))
+    corpus = Corpus(
+        mode="srt", calculate_num_words=True, calculate_duration=True
+    )
+    segments = corpus.read_srt(srt)
     assert len(segments) == 2
 
     # First segment
@@ -53,17 +33,17 @@ def test_parse_srt_basic(tmpdir):
     assert segments[1].duration_seconds == 422  # 11191 - 10769 = 422ms
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: measure.py core function tests"
-)
 def test_parse_srt_word_count(tmpdir):
     srt = tmpdir / "test.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("1\n00:00:00,000 --> 00:00:01,000\nOne\n\n")
         f.write("2\n00:00:01,000 --> 00:00:02,000\nOne Two Three\n\n")
-        f.write("3\n00:00:02,000 --> 00:00:03,000\n")  # Empty text
+        f.write("3\n00:00:02,000 --> 00:00:03,000\n\n\n")  # Empty text
 
-    segments = list(parse_srt(srt))
+    corpus = Corpus(
+        mode="srt", calculate_num_words=True, calculate_duration=True
+    )
+    segments = corpus.read_srt(srt)
     assert segments[0].num_words == 1
     assert segments[1].num_words == 3
     assert segments[2].num_words == 0
