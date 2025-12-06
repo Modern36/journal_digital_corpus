@@ -39,6 +39,39 @@ Git clone repository, cd in to the directory and run:
 
 `python -m pip install journal_digital`
 
+## Usage
+
+### Reading the corpus in text mode
+
+```python
+from journal_digital import Corpus
+
+# Iterate over speech transcriptions as plain text
+corpus = Corpus(mode="txt")
+for file, text in corpus:
+    print(f"{file.stem}: {text[:100]}...")
+```
+
+### Reading the corpus in SRT mode
+
+```python
+from journal_digital import Corpus
+
+# Iterate over speech transcriptions as timestamped segments
+corpus = Corpus(mode="srt")
+for file, segments in corpus:
+    for segment in segments:
+        print(f"[{segment.start} --> {segment.end}] {segment.text}")
+```
+
+Each segment is a `SubtitleSegment` namedtuple with fields:
+- `idx`: Segment index (starts at 1)
+- `start`: Start timestamp (format: `HH:MM:SS,mmm`)
+- `end`: End timestamp (format: `HH:MM:SS,mmm`)
+- `text`: Transcribed text
+- `num_words`: Word count (optional, `None` by default)
+- `duration_seconds`: Segment duration in seconds (optional, `None` by default)
+
 ## 2025-06-04
 
 Created with `SweScribe==v0.1.0` and `stum==v.0.2.0` on `2025-06-04` without
@@ -87,7 +120,7 @@ manual editing.
 
 ### Development Setup
 
-`python -m pip install '.[dev]'`
+`python -m pip install -e '.[dev]'`
 `pre-commit install`
 
 Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.

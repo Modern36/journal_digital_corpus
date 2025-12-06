@@ -160,91 +160,61 @@ def test_read_srt_validates_timestamp_format(srt_file):
         assert time_pattern.fullmatch(seg.end)
 
 
-# RED PHASE: Optional calculations tests
+# Optional calculations tests
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_corpus_init_with_calculate_num_words():
     corpus = Corpus(mode="txt", calculate_num_words=True)
     assert corpus._calculate_num_words is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_corpus_init_with_calculate_duration():
     corpus = Corpus(mode="txt", calculate_duration=True)
     assert corpus._calculate_duration is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_corpus_init_defaults_to_false():
     corpus = Corpus(mode="txt")
     assert corpus._calculate_num_words is False
     assert corpus._calculate_duration is False
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_words_enable():
     corpus = Corpus(mode="txt")
     corpus.set_calculate_words(True)
     assert corpus._calculate_num_words is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_words_disable():
     corpus = Corpus(mode="txt", calculate_num_words=True)
     corpus.set_calculate_words(False)
     assert corpus._calculate_num_words is False
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_words_default_true():
     corpus = Corpus(mode="txt")
     corpus.set_calculate_words()
     assert corpus._calculate_num_words is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_duration_enable():
     corpus = Corpus(mode="txt")
     corpus.set_calculate_duration(True)
     assert corpus._calculate_duration is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_duration_disable():
     corpus = Corpus(mode="txt", calculate_duration=True)
     corpus.set_calculate_duration(False)
     assert corpus._calculate_duration is False
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_set_calculate_duration_default_true():
     corpus = Corpus(mode="txt")
     corpus.set_calculate_duration()
     assert corpus._calculate_duration is True
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_read_srt_calculates_num_words_when_enabled(srt_file):
     corpus = Corpus(mode="txt", calculate_num_words=True)
     segments = corpus.read_srt(srt_file)
@@ -253,9 +223,6 @@ def test_read_srt_calculates_num_words_when_enabled(srt_file):
     assert segments[1].num_words == 2
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_read_srt_num_words_none_when_disabled(srt_file):
     corpus = Corpus(mode="txt", calculate_num_words=False)
     segments = corpus.read_srt(srt_file)
@@ -263,9 +230,6 @@ def test_read_srt_num_words_none_when_disabled(srt_file):
     assert segments[1].num_words is None
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_read_srt_calculates_duration_when_enabled(srt_file):
     corpus = Corpus(mode="txt", calculate_duration=True)
     segments = corpus.read_srt(srt_file)
@@ -275,9 +239,6 @@ def test_read_srt_calculates_duration_when_enabled(srt_file):
     assert segments[1].duration_seconds == 422
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_read_srt_duration_none_when_disabled(srt_file):
     corpus = Corpus(mode="txt", calculate_duration=False)
     segments = corpus.read_srt(srt_file)
@@ -285,9 +246,6 @@ def test_read_srt_duration_none_when_disabled(srt_file):
     assert segments[1].duration_seconds is None
 
 
-@pytest.mark.xfail(
-    strict=True, reason="Red Phase: Optional calculations not implemented"
-)
 def test_read_srt_calculates_both_when_enabled(srt_file):
     corpus = Corpus(
         mode="txt", calculate_num_words=True, calculate_duration=True

@@ -9,7 +9,11 @@ from journal_digital.settings import speech_root
 class Corpus:
     _root = speech_root
 
-    def __init__(self, mode="txt"):
+    def __init__(
+        self, mode="txt", calculate_num_words=False, calculate_duration=False
+    ):
+        self._calculate_num_words = calculate_num_words
+        self._calculate_duration = calculate_duration
         self.set_mode(mode=mode)
 
     def set_mode(self, *, mode):
@@ -25,6 +29,22 @@ class Corpus:
 
     def set_txt_mode(self):
         self._read_file = self.read_txt
+
+    def set_calculate_words(self, setting=True):
+        self._calculate_num_words = setting
+
+    def set_calculate_duration(self, setting=True):
+        self._calculate_duration = setting
+
+    def _srt_time_to_milliseconds(self, t):
+        hours, minutes, s_milli = t.split(":")
+        seconds, milli = s_milli.split(",")
+        return (
+            int(hours) * 3600000
+            + int(minutes) * 60000
+            + int(seconds) * 1000
+            + int(milli)
+        )
 
     def read_txt(self, file: Path):
         with open(file, "r", encoding="utf-8") as f:
@@ -73,13 +93,23 @@ class Corpus:
 
             start, end = match.groups()
 
+            num_words = (
+                len(text_line.split()) if self._calculate_num_words else None
+            )
+            if self._calculate_duration:
+                start_ms = self._srt_time_to_milliseconds(start)
+                end_ms = self._srt_time_to_milliseconds(end)
+                duration_seconds = end_ms - start_ms
+            else:
+                duration_seconds = None
+
             segment = SubtitleSegment(
                 idx=idx,
                 start=start,
                 end=end,
                 text=text_line,
-                num_words=None,
-                duration_seconds=None,
+                num_words=num_words,
+                duration_seconds=duration_seconds,
             )
             segments.append(segment)
             expected_idx += 1
