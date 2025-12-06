@@ -6,16 +6,12 @@ from journal_digital.measure import (
     srt_time_to_seconds,
 )
 
-# RED PHASE: Tests for measure.py core functions
-
 
 @pytest.mark.xfail(
     strict=True, reason="Red Phase: measure.py core function tests"
 )
 def test_srt_time_to_seconds_basic():
-    # Test: 00:00:09,830 = 9830 milliseconds
     assert srt_time_to_seconds("00:00:09,830") == 9830
-    # Test: 00:00:10,730 = 10730 milliseconds
     assert srt_time_to_seconds("00:00:10,730") == 10730
 
 
@@ -23,11 +19,8 @@ def test_srt_time_to_seconds_basic():
     strict=True, reason="Red Phase: measure.py core function tests"
 )
 def test_srt_time_to_seconds_edge_cases():
-    # Zero time
     assert srt_time_to_seconds("00:00:00,000") == 0
-    # One hour
     assert srt_time_to_seconds("01:00:00,000") == 3600000
-    # Full timestamp with hours, minutes, seconds, milliseconds
     assert srt_time_to_seconds("01:23:45,678") == 5025678
 
 
@@ -100,8 +93,7 @@ def test_subtitle_segment_immutable():
         seg.idx = 2
 
 
-def test_subtitle_segment_fields():
-    # Verify all expected fields exist
+def test_subtitle_segment_fields_exist():
     assert hasattr(SubtitleSegment, "_fields")
     assert SubtitleSegment._fields == (
         "idx",
