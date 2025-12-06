@@ -1,4 +1,16 @@
+"""Measure and store statistics about the Journal Digital corpus.
+
+This module provides functionality to:
+- Measure corpus statistics (segments, duration, word counts) from SRT files
+- Store measurements as TSV files for analysis
+- Update README.md with corpus statistics
+
+The module can be run directly to measure both speech and intertitle corpora
+and update the README with current statistics.
+"""
+
 import re
+import subprocess
 from pathlib import Path
 
 import pandas as pd
@@ -93,6 +105,26 @@ class VideoDurationCache:
 
 
 def measure_corpus(corpus_subdir: Path):
+    """Measure statistics for all SRT files in a corpus subdirectory.
+
+    Iterates through all .srt files in the given directory and computes:
+    - Number of subtitle segments
+    - Total speech duration (in seconds)
+    - Total word count
+    - Video duration (retrieved from cache)
+
+    Args:
+        corpus_subdir (Path): Path to corpus subdirectory containing .srt files
+                             (e.g., speech_root or intertitle_root)
+
+    Yields:
+        dict: Statistics for each file with keys:
+            - file (str): Filename stem
+            - num_segments (int): Number of subtitle segments
+            - speech_seconds (float): Total duration of speech in seconds
+            - num_words (int): Total word count
+            - video_seconds (int): Total video duration in seconds
+    """
     ns = VideoDurationCache()
     corpus = Corpus(
         mode="srt", calculate_num_words=True, calculate_duration=True
@@ -120,6 +152,21 @@ def measure_corpus(corpus_subdir: Path):
 
 
 def store_corpus_measurements(corpus_subdir: Path):
+    """Measure corpus and save statistics to TSV files.
+
+    Computes statistics for all SRT files in the corpus subdirectory and
+    saves three files:
+    - measurements.tsv: Per-file statistics
+    - measurements_description.tsv: Statistical summary (describe())
+    - measurements_sum.tsv: Sum totals across all files
+
+    Args:
+        corpus_subdir (Path): Path to corpus subdirectory containing .srt files
+                             (e.g., speech_root or intertitle_root)
+
+    Returns:
+        pd.DataFrame: Transposed DataFrame of sum statistics
+    """
     measurements = corpus_subdir / "measurements.tsv"
     measurements_description = corpus_subdir / "measurements_description.tsv"
     measurements_sum = corpus_subdir / "measurements_sum.tsv"
