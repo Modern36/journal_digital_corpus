@@ -3,7 +3,7 @@ import subprocess
 from settings import name_seconds_mapping, video_root
 
 
-class NameSeconds:
+class VideoDurationCache:
     """A class to manage video duration mappings by name, with caching and persistence.
 
     This class maintains a mapping of video names to their durations in seconds,

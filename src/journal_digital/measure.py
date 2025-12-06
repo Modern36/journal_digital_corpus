@@ -2,7 +2,7 @@ import re
 from pathlib import Path
 
 import pandas as pd
-from NameSeconds import NameSeconds
+from NameSeconds import VideoDurationCache
 from settings import intertitle_root, speech_root
 from tqdm import tqdm
 
@@ -10,7 +10,7 @@ from journal_digital.corpus import Corpus
 
 
 def measure_corpus(corpus_subdir: Path):
-    ns = NameSeconds()
+    ns = VideoDurationCache()
     corpus = Corpus(
         mode="srt", calculate_num_words=True, calculate_duration=True
     )
