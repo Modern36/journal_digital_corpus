@@ -1,7 +1,6 @@
 import pytest
 
-from journal_digital.corpus import Corpus
-from journal_digital.SubtitleSegment import SubtitleSegment
+from journal_digital.corpus import Corpus, SubtitleSegment
 
 
 def test_parse_srt_basic(tmpdir):

@@ -1,9 +1,14 @@
 import re
+from collections import namedtuple
 from itertools import batched
 from pathlib import Path
 
 from journal_digital.settings import speech_root
-from journal_digital.SubtitleSegment import SubtitleSegment
+
+SubtitleSegment = namedtuple(
+    "SubtitleSegment",
+    ["idx", "start", "end", "text", "num_words", "duration_seconds"],
+)
 
 
 class Corpus:
