@@ -14,11 +14,15 @@ import subprocess
 from pathlib import Path
 
 import pandas as pd
-from settings import intertitle_root, speech_root
 from tqdm import tqdm
 
 from journal_digital.corpus import Corpus
-from journal_digital.settings import name_seconds_mapping, video_root
+from journal_digital.settings import (
+    intertitle_root,
+    name_seconds_mapping,
+    speech_root,
+    video_root,
+)
 
 
 class VideoDurationCache:
@@ -125,7 +129,7 @@ def measure_corpus(corpus_subdir: Path):
             - num_words (int): Total word count
             - video_seconds (int): Total video duration in seconds
     """
-    ns = VideoDurationCache()
+    video_cache = VideoDurationCache()
     corpus = Corpus(
         mode="srt", calculate_num_words=True, calculate_duration=True
     )
@@ -145,10 +149,10 @@ def measure_corpus(corpus_subdir: Path):
             "num_segments": num_segments,
             "speech_seconds": duration_seconds,
             "num_words": num_words,
-            "video_seconds": ns[srt.stem],
+            "video_seconds": video_cache[srt.stem],
         }
 
-    ns.save()
+    video_cache.save()
 
 
 def store_corpus_measurements(corpus_subdir: Path):
@@ -174,7 +178,7 @@ def store_corpus_measurements(corpus_subdir: Path):
     df = pd.DataFrame(measure_corpus(corpus_subdir))
     df.sort_values(by="file", inplace=True)
 
-    df.to_csv(measurements, sep="\t", index=False)
+    df.to_csv(measurements, sep="\t", index=False, float_format="%.2f")
 
     df.describe().to_csv(
         measurements_description, sep="\t", float_format="%.2f"

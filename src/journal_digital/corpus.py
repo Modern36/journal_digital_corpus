@@ -149,7 +149,7 @@ class Corpus:
             r"(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})"
         )
         segments = []
-        expected_idx = 1
+        expected_idx = None
         with open(file, "r", encoding="utf-8") as f:
             lines = [line.rstrip() for line in f.readlines()]
 
@@ -166,7 +166,13 @@ class Corpus:
                     f"Invalid SRT segment in {file}: index '{idx_line}' is not an integer"
                 )
 
-            if idx != expected_idx:
+            if expected_idx is None:
+                if idx not in (0, 1):
+                    raise ValueError(
+                        f"Invalid SRT segment in {file}: expected index 1, got {idx}"
+                    )
+                expected_idx = idx
+            elif idx != expected_idx:
                 raise ValueError(
                     f"Invalid SRT segment in {file}: expected index {expected_idx}, got {idx}"
                 )
