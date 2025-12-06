@@ -6,15 +6,15 @@ from journal_digital.settings import speech_root
 class Corpus:
     _root = speech_root
 
-    def __init__(self, mode="txt"):
-        self.set_mode(mode=mode)
+    def __init__(self, output_format="txt"):
+        self.set_output_format(output_format=output_format)
 
-    def set_mode(self, *, mode):
-        assert mode in ["txt", "srt"]
-        self._mode = mode
-        if mode == "txt":
+    def set_output_format(self, *, output_format):
+        assert output_format in ["txt", "srt"]
+        self._mode = output_format
+        if output_format == "txt":
             self.set_txt_mode()
-        elif mode == "srt":
+        elif output_format == "srt":
             self.set_srt_mode()
 
     def set_srt_mode(self):
