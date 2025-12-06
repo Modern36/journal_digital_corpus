@@ -1,3 +1,10 @@
+"""Journal Digital Corpus - Access to timestamped transcriptions from Swedish newsreels.
+
+This module provides the Corpus class for iterating over and reading transcription
+files from the Journal Digital corpus, which contains speech-to-text and intertitle
+OCR from SF Veckorevy newsreels.
+"""
+
 import re
 from collections import namedtuple
 from itertools import batched
@@ -12,16 +19,47 @@ SubtitleSegment = namedtuple(
 
 
 class Corpus:
+    """Iterator for transcription files in the Journal Digital corpus.
+
+    Provides lazy iteration over SRT transcription files with two output modes:
+    - 'txt': Returns plain text (every 4th line from SRT files)
+    - 'srt': Returns SubtitleSegment namedtuples with optional calculations
+
+    The class supports optional word count and duration calculations that can
+    be enabled at initialization or via setter methods.
+
+    Attributes:
+        _root (Path): Root directory for corpus files (default: speech_root)
+        _mode (str): Current output mode ('txt' or 'srt')
+        _calculate_num_words (bool): Whether to calculate word counts
+        _calculate_duration (bool): Whether to calculate segment durations
+    """
+
     _root = speech_root
 
     def __init__(
         self, mode="txt", calculate_num_words=False, calculate_duration=False
     ):
+        """Initialize the Corpus iterator.
+
+        Args:
+            mode (str): Output mode - 'txt' for plain text or 'srt' for SubtitleSegments
+            calculate_num_words (bool): If True, calculate word counts (srt mode only)
+            calculate_duration (bool): If True, calculate durations in milliseconds (srt mode only)
+        """
         self._calculate_num_words = calculate_num_words
         self._calculate_duration = calculate_duration
         self.set_mode(mode=mode)
 
     def set_mode(self, *, mode):
+        """Set the output mode for corpus iteration.
+
+        Args:
+            mode (str): Either 'txt' or 'srt'
+
+        Raises:
+            AssertionError: If mode is not 'txt' or 'srt'
+        """
         assert mode in ["txt", "srt"]
         self._mode = mode
         if mode == "txt":
@@ -30,15 +68,27 @@ class Corpus:
             self.set_srt_mode()
 
     def set_srt_mode(self):
+        """Set reader to SRT mode (returns SubtitleSegment namedtuples)."""
         self._read_file = self.read_srt
 
     def set_txt_mode(self):
+        """Set reader to text mode (returns plain text strings)."""
         self._read_file = self.read_txt
 
     def set_calculate_words(self, setting=True):
+        """Enable or disable word count calculation.
+
+        Args:
+            setting (bool): True to enable, False to disable (default: True)
+        """
         self._calculate_num_words = setting
 
     def set_calculate_duration(self, setting=True):
+        """Enable or disable duration calculation.
+
+        Args:
+            setting (bool): True to enable, False to disable (default: True)
+        """
         self._calculate_duration = setting
 
     def _srt_time_to_milliseconds(self, t):
@@ -52,6 +102,17 @@ class Corpus:
         )
 
     def read_txt(self, file: Path):
+        """Read an SRT file and extract plain text content.
+
+        Extracts every 4th line (index % 4 == 2) from the SRT file,
+        which corresponds to the subtitle text lines.
+
+        Args:
+            file (Path): Path to the SRT file
+
+        Returns:
+            str: Newline-joined text content from all subtitle segments
+        """
         with open(file, "r", encoding="utf-8") as f:
             result = "\n".join(
                 line for i, line in enumerate(f.readlines()) if i % 4 == 2
@@ -59,6 +120,31 @@ class Corpus:
         return result
 
     def read_srt(self, file: Path):
+        """Parse an SRT file into SubtitleSegment namedtuples.
+
+        Reads and validates SRT file format, parsing each segment into a
+        SubtitleSegment with optional word count and duration calculations.
+
+        Validation includes:
+        - Index must be an integer starting at 1, incrementing by 1
+        - Timestamp must match format HH:MM:SS,mmm --> HH:MM:SS,mmm
+        - All required lines must be present
+
+        Args:
+            file (Path): Path to the SRT file
+
+        Returns:
+            list[SubtitleSegment]: List of parsed subtitle segments with fields:
+                - idx (int): Segment index (1-based)
+                - start (str): Start timestamp
+                - end (str): End timestamp
+                - text (str): Subtitle text
+                - num_words (int|None): Word count if enabled, else None
+                - duration_seconds (int|None): Duration in milliseconds if enabled, else None
+
+        Raises:
+            ValueError: If SRT format is invalid (missing lines, bad timestamps, etc.)
+        """
         time_pattern = re.compile(
             r"(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})"
         )
@@ -122,8 +208,22 @@ class Corpus:
         return segments
 
     def __iter__(self):
+        """Iterate over all SRT files in the corpus.
+
+        Yields:
+            tuple: (file_path, content) where content format depends on mode:
+                - txt mode: (Path, str) - file path and plain text
+                - srt mode: (Path, list[SubtitleSegment]) - file path and segments
+        """
         for file in self._root.glob("**/*.srt"):
             yield file, self._read_file(file)
 
     def __len__(self):
+        """Return the total number of files in the corpus.
+
+        Note: This consumes the iterator, so it's O(n) where n is file count.
+
+        Returns:
+            int: Number of SRT files in the corpus
+        """
         return len([_ for _ in self])
