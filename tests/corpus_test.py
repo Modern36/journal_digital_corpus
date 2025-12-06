@@ -40,6 +40,6 @@ def test_no_empty_files():
     corpus = Corpus("txt")
     for file, text in corpus:
         assert len(text) > 0
-        with open(file, "r", encoding="utf-8") as f:
+        with open(file, "r", encoding="utf-8"):
             txt2 = corpus._read_file(file)
         assert text == txt2
