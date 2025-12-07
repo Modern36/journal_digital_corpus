@@ -85,6 +85,19 @@ being merged.
     git commit -m "Refactor: Make my awesome feature more readable"
     ```
 
+### Contributing Manual Corrections to the Corpus
+
+If you've found errors in the transcriptions (typos, character encoding issues, timing problems), you can fix them directly:
+
+1. **Edit SRT Files**: Make your corrections to files in `corpus/speech/` or `corpus/intertitle/`
+2. **Commit Your Changes**:
+   ```sh
+   git add corpus/speech/sf/1935/SF855B.1.mpg.srt
+   git commit -m "Fix: Change 'C4' to 'Sefyr' (character encoding)"
+   ```
+3. **Submit a Pull Request**: Follow the standard PR process below
+
+For details on how manual corrections are preserved during pipeline updates, see the [Contributing Manual Corrections](README.md#contributing-manual-corrections) section in the README.
 
 ### Submitting Your Contribution
 

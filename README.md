@@ -127,6 +127,48 @@ manual editing.
 
 Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.
 
+## Contributing Manual Corrections
+
+The corpus uses standard git workflows to preserve manual edits when transcription pipelines are updated.
+
+### Making Corrections
+
+Edit SRT files and commit to git:
+
+```bash
+# Fix typos, character encoding, or timing in any SRT file
+vim corpus/speech/sf/1935/SF855B.1.mpg.srt
+
+# Commit your changes
+git add corpus/speech/sf/1935/SF855B.1.mpg.srt
+git commit -m "Fix: Change 'C4' to 'Sefyr' (character encoding)"
+```
+
+### Updating Transcription Pipelines
+
+When the underlying transcription tools (SweScribe/stum) improve:
+
+```bash
+# 1. Run the pipeline manually
+python -m journal_digital.transcribe
+
+# 2. Commit and tag the pipeline output
+git add corpus/
+git commit -m "Run transcription pipeline (swescribe 2.1.0)"
+git tag -a pipeline-2025-12-08 -m "Pipeline run with swescribe 2.1.0"
+
+# 3. Cherry-pick manual edits (excluding pipeline commits)
+# The --reverse flag ensures commits are applied in chronological order
+COMMITS=$(git rev-list pipeline-2025-12-06..HEAD~1 --reverse --format='%H %D' |
+  grep -v '^commit' |
+  grep -v 'tag: pipeline-' |
+  cut -d' ' -f1)
+
+echo $COMMITS | xargs git cherry-pick
+```
+
+Git's conflict resolution will show you exactly where manual edits conflict with pipeline changes.
+
 
 ## Research Context and Licensing
 
