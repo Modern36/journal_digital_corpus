@@ -1,20 +1,50 @@
+from collections import namedtuple
 from pathlib import Path
 
-from journal_digital.settings import speech_root
+from journal_digital.settings import intertitle_root, speech_root
+
+CorpusDocument = namedtuple(
+    "CorpusDocument",
+    ["filename", "text", "collection", "year", "subcorpus", "path"],
+)
 
 
 class Corpus:
-    _root = speech_root
+    _intertitle = True
+    _speech = True
 
-    def __init__(self, mode="txt"):
-        self.set_mode(mode=mode)
+    def __init__(self, output_format="txt", texts_to_include="speech"):
+        self._set_output_format(output_format=output_format)
+        self.set_subcorpora(texts_to_include)
 
-    def set_mode(self, *, mode):
-        assert mode in ["txt", "srt"]
-        self._mode = mode
-        if mode == "txt":
+    def set_subcorpora(self, texts_to_include):
+        if texts_to_include not in ["speech", "intertitles", "both"]:
+            raise ValueError(
+                f"Invalid texts_to_include: {texts_to_include}. "
+                f"Allowed values are 'speech', 'intertitles', 'both'."
+            )
+
+        if texts_to_include == "intertitles":
+            self._speech = False
+            self._intertitle = True
+
+        elif texts_to_include == "speech":
+            self._speech = True
+            self._intertitle = False
+        else:
+            self._speech = True
+            self._intertitle = True
+
+    def _set_output_format(self, *, output_format):
+        if output_format not in ["txt", "srt"]:
+            raise ValueError(
+                f"Invalid output_format: {output_format}. "
+                f"Allowed values are 'txt' and 'srt'."
+            )
+        self._output_format = output_format
+        if output_format == "txt":
             self.set_txt_mode()
-        elif mode == "srt":
+        elif output_format == "srt":
             self.set_srt_mode()
 
     def set_srt_mode(self):
@@ -30,9 +60,24 @@ class Corpus:
             )
         return result
 
+    def _files(self):
+        if self._intertitle:
+            for file in intertitle_root.glob("**/*.srt"):
+                yield file, "intertitle"
+        if self._speech:
+            for file in speech_root.glob("**/*.srt"):
+                yield file, "speech"
+
     def __iter__(self):
-        for file in self._root.glob("**/*.srt"):
-            yield file, self._read_file(file)
+        for file, subcorpus in self._files():
+            yield CorpusDocument(
+                filename=file.stem,
+                text=self._read_file(file),
+                collection=file.parent.parent.name,
+                year=file.parent.name,
+                subcorpus=subcorpus,
+                path=file.resolve(),
+            )
 
     def __len__(self):
         return len([_ for _ in self])
