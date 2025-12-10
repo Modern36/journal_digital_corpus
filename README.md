@@ -110,6 +110,37 @@ historical sources. The project is
 The Journal Digital Corpus is licensed under the [CC-BY-NC 4.0](./LICENSE)
 International license.
 
+## How to Cite
+
+If you use this corpus in your research, please cite both the data paper and the repository:
+
+```bibtex
+@article{aspenskog2025journal,
+  title={Journal Digital Corpus: Swedish Newsreel Transcriptions},
+  author={Aspenskog, Robert and Johansson, Mathias and Snickars, Pelle},
+  journal={Journal of Open Humanities Data},
+  volume={11},
+  number={1},
+  pages={44},
+  year={2025},
+  publisher={Ubiquity Press},
+  doi={10.5334/johd.344},
+  url={https://doi.org/10.5334/johd.344}
+}
+```
+
+```bibtex
+@software{johansson2025corpus,
+  author={Johansson, Mathias and Aspenskog, Robert},
+  title={Modern36/journal\_digital\_corpus},
+  year={2025},
+  publisher={Zenodo},
+  version={2025.10.13},
+  doi={10.5281/zenodo.15596191},
+  url={https://doi.org/10.5281/zenodo.15596191}
+}
+```
+
 ## References
 
 ```bibtex

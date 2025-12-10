@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+title: 'Journal Digital Corpus: Swedish Newsreel Transcriptions'
+message: >-
+  If you use this corpus, please cite both the data paper and the repository.
+type: dataset
+authors:
+  - family-names: Aspenskog
+    given-names: Robert
+    affiliation: Lund University
+  - family-names: Johansson
+    given-names: Mathias
+    affiliation: Lund University
+  - family-names: Snickars
+    given-names: Pelle
+    affiliation: Lund University
+repository-code: 'https://github.com/Modern36/journal_digital_corpus'
+abstract: >-
+  A curated, timestamped transcription corpus derived from Swedish historical
+  newsreels. Combines speech-to-text transcriptions and intertitle OCR from
+  SF Veckorevy newsreels spanning five decades of 20th-century Swedish
+  audiovisual media.
+keywords:
+  - transcription corpus
+  - Swedish newsreels
+  - speech-to-text
+  - OCR
+  - digital humanities
+license: CC-BY-NC-4.0
+version: 2025.10.13
+doi: 10.5281/zenodo.15596191
+date-released: '2025-10-13'
+preferred-citation:
+  type: article
+  title: 'Journal Digital Corpus: Swedish Newsreel Transcriptions'
+  authors:
+    - family-names: Aspenskog
+      given-names: Robert
+      affiliation: Lund University
+    - family-names: Johansson
+      given-names: Mathias
+      affiliation: Lund University
+    - family-names: Snickars
+      given-names: Pelle
+      affiliation: Lund University
+  journal: Journal of Open Humanities Data
+  volume: 11
+  issue: 1
+  year: 2025
+  doi: 10.5334/johd.344
+  url: 'https://doi.org/10.5334/johd.344'
+references:
+  - type: software
+    title: 'Modern36/journal_digital_corpus repository'
+    doi: 10.5281/zenodo.15596191
+    repository-code: 'https://github.com/Modern36/journal_digital_corpus'
