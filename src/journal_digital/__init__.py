@@ -1,1 +1,1 @@
-from journal_digital.corpus import Corpus
+from journal_digital.corpus import Corpus as Corpus

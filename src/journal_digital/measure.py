@@ -39,12 +39,15 @@ class VideoDurationCache:
     def __init__(self):
         """Initialize the NameSeconds object by loading existing mappings from file."""
         self.mapping = {}
-        if self.mapping_file.exists():
-            with open(self.mapping_file, "r", encoding="utf-8") as f:
-                f.readline()
-                for line in f.readlines():
-                    name, seconds = line.strip().split("\t")
-                    self.mapping[name.strip()] = int(seconds)
+        if not self.mapping_file.exists():
+            raise FileNotFoundError(f"Could not find {self.mapping_file=}")
+        if not self.video_root.exists():
+            raise FileNotFoundError(f"Could not find {self.video_root=}")
+
+        with open(self.mapping_file, "r", encoding="utf-8") as f:
+            for line in f.readlines():
+                name, seconds = line.strip().split("\t")
+                self.mapping[name.strip()] = int(seconds)
 
     def __getitem__(self, name):
         """Get the duration of a video by name, retrieving it if not cached.
@@ -80,7 +83,15 @@ class VideoDurationCache:
         """
         video_paths = list(self.video_root.glob(f"**/{stripped_name}"))
 
-        assert len(video_paths) == 1
+        if len(video_paths) == 0:
+            raise FileNotFoundError(
+                f'Could not find file: "{stripped_name}" in "{self.video_root}"'
+            )
+        elif len(video_paths) > 1:
+            raise FileNotFoundError(
+                f'Found multiple candidets for: "{stripped_name}" in "{self.video_root}"'
+            )
+
         video_path = video_paths[0]
 
         q = subprocess.run(
@@ -151,8 +162,8 @@ def measure_corpus(corpus_subdir: Path):
             "num_words": num_words,
             "video_seconds": video_cache[srt.stem],
         }
-
-    video_cache.save()
+    else:
+        video_cache.save()
 
 
 def store_corpus_measurements(corpus_subdir: Path):
@@ -217,6 +228,12 @@ if __name__ == "__main__":
         "<!-- numbers -->.+<!-- numbers -->",
         f"""<!-- numbers --> The corpus consists of {speech_words:,} words transcribed from {speech_hours:,} hours of speech across {speech_files:,} videos and {intertitle_words:,} words from {intertitle_count:,} intertitles from {intertitle_files:,} videos. <!-- numbers -->
 """,
+        readme,
+    )
+
+    readme = re.sub(
+        "\n\n+",
+        "\n\n",
         readme,
     )
 

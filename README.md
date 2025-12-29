@@ -3,7 +3,6 @@
 [![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch)
 [![DOI](https://zenodo.org/badge/937956064.svg)](https://doi.org/10.5281/zenodo.15596191)
 
-
 # Journal Digital Corpus
 
 The **Journal Digital Corpus** is a curated, timestamped transcription corpus
@@ -26,13 +25,9 @@ This corpus is the result of two purpose-built libraries:
 
 <!-- numbers --> The corpus consists of 2,225,334 words transcribed from 204 hours of speech across 2,544 videos and 302,312 words from 49,107 intertitles from 4,327 videos. <!-- numbers -->
 
-
-
-
-
 The primary files used for this project are publicly available on
-[Filmarkivet.se](https://www.filmarkivet.se/), a web
-resource containing curated parts of Swedish film archives.
+[Filmarkivet.se](https://www.filmarkivet.se/), a web resource containing
+curated parts of Swedish film archives.
 
 ## Installation
 
@@ -81,8 +76,8 @@ manual editing.
 
 ## Files
 
-- `/name_year.tsv`: Pairings of filename and publication year, based on metadata
-  from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
+- `/name_year.tsv`: Pairings of filename and publication year, based on
+  metadata from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
 
 ```
 /corpus
@@ -122,14 +117,18 @@ manual editing.
 
 ### Development Setup
 
-`python -m pip install -e '.[dev]'`
-`pre-commit install`
+```sh
+python -m pip install -e '.[dev]'
+pre-commit install
+pre-commit install --hook-type pre-push
+```
 
 Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.
 
 ## Contributing Manual Corrections
 
-The corpus uses standard git workflows to preserve manual edits when transcription pipelines are updated.
+The corpus uses standard git workflows to preserve manual edits when
+transcription pipelines are updated.
 
 ### Making Corrections
 
@@ -167,7 +166,8 @@ COMMITS=$(git rev-list pipeline-2025-12-06..HEAD~1 --reverse --format='%H %D' |
 echo $COMMITS | xargs git cherry-pick
 ```
 
-Git's conflict resolution will show you exactly where manual edits conflict with pipeline changes.
+Git's conflict resolution will show you exactly where manual edits conflict
+with pipeline changes.
 
 
 ## Research Context and Licensing

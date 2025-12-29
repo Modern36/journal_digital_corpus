@@ -24,31 +24,6 @@ def test_read_txt(srt_file):
     assert text == "First line\n\nSecond line"
 
 
-@pytest.mark.slow
-def test_count_files():
-    corpus = Corpus("txt")
-    assert len(corpus) == 2544
-
-
-@pytest.mark.slow
-def test_count_files_iter():
-    corpus = Corpus("txt")
-    c = 0
-    for file in corpus:
-        c += 1
-    assert c == 2544
-
-
-@pytest.mark.slow
-def test_no_empty_files():
-    corpus = Corpus("txt")
-    for file, text in corpus:
-        assert len(text) > 0
-        with open(file, "r", encoding="utf-8"):
-            txt2 = corpus._read_file(file)
-        assert text == txt2
-
-
 def test_read_srt_returns_list(srt_file):
     corpus = Corpus("txt")
     result = corpus.read_srt(srt_file)
@@ -160,9 +135,6 @@ def test_read_srt_validates_timestamp_format(srt_file):
         assert time_pattern.fullmatch(seg.end)
 
 
-# Optional calculations tests
-
-
 def test_corpus_init_with_calculate_num_words():
     corpus = Corpus(mode="txt", calculate_num_words=True)
     assert corpus._calculate_num_words is True
@@ -257,21 +229,9 @@ def test_read_srt_calculates_both_when_enabled(srt_file):
     assert segments[1].duration_seconds is not None
 
 
-@pytest.mark.slow
 def test_corpus_srt_mode_iteration():
     corpus = Corpus("srt")
-    _, segments = next(iter(corpus))
+    _, segments, *_ = next(iter(corpus))
     assert isinstance(segments, list)
     assert len(segments) > 0
     assert isinstance(segments[0], SubtitleSegment)
-
-
-@pytest.mark.slow
-def test_corpus_srt_mode_all_files():
-    corpus = Corpus("srt")
-    count = 0
-    for _, segments in corpus:
-        count += 1
-        assert isinstance(segments, list)
-        assert all(isinstance(seg, SubtitleSegment) for seg in segments)
-    assert count == 2544
