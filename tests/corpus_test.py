@@ -27,14 +27,17 @@ def test_read_txt(srt_file):
 @pytest.mark.slow
 def test_count_files():
     corpus = Corpus("txt")
+    corpus.set_subcorpora("speech")
     assert len(corpus) == 2544
 
 
 @pytest.mark.slow
 def test_count_files_iter():
     corpus = Corpus("txt")
+    corpus.set_subcorpora("speech")
+
     c = 0
-    for file in corpus:
+    for _ in corpus:
         c += 1
     assert c == 2544
 
@@ -42,11 +45,13 @@ def test_count_files_iter():
 @pytest.mark.slow
 def test_no_empty_files():
     corpus = Corpus("txt")
-    for file, text in corpus:
-        assert len(text) > 0
-        with open(file, "r", encoding="utf-8"):
-            txt2 = corpus._read_file(file)
-        assert text == txt2
+    for doc in corpus:
+        assert len(doc.content) > 0
+
+        file = doc.path
+        txt2 = corpus._read_file(file)
+
+        assert doc.content == txt2
 
 
 def test_read_srt_returns_list(srt_file):
@@ -122,9 +127,7 @@ def test_read_srt_rejects_non_integer_index(tmpdir):
     srt = tmpdir / "bad.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("NOT_A_NUMBER\n00:00:09,830 --> 00:00:10,730\nText")
-    with pytest.raises(
-        ValueError, match="index 'NOT_A_NUMBER' is not an integer"
-    ):
+    with pytest.raises(ValueError, match="index 'NOT_A_NUMBER' is not an integer"):
         corpus.read_srt(srt)
 
 
@@ -142,9 +145,7 @@ def test_read_srt_rejects_malformed_timestamp(tmpdir):
     srt = tmpdir / "bad.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("1\nBAD_TIMESTAMP\nText")
-    with pytest.raises(
-        ValueError, match="malformed timestamp 'BAD_TIMESTAMP'"
-    ):
+    with pytest.raises(ValueError, match="malformed timestamp 'BAD_TIMESTAMP'"):
         corpus.read_srt(srt)
 
 
@@ -247,9 +248,7 @@ def test_read_srt_duration_none_when_disabled(srt_file):
 
 
 def test_read_srt_calculates_both_when_enabled(srt_file):
-    corpus = Corpus(
-        mode="txt", calculate_num_words=True, calculate_duration=True
-    )
+    corpus = Corpus(mode="txt", calculate_num_words=True, calculate_duration=True)
     segments = corpus.read_srt(srt_file)
     assert segments[0].num_words is not None
     assert segments[0].duration_seconds is not None
@@ -260,7 +259,7 @@ def test_read_srt_calculates_both_when_enabled(srt_file):
 @pytest.mark.slow
 def test_corpus_srt_mode_iteration():
     corpus = Corpus("srt")
-    _, segments = next(iter(corpus))
+    _, segments, *_ = next(iter(corpus))
     assert isinstance(segments, list)
     assert len(segments) > 0
     assert isinstance(segments[0], SubtitleSegment)
@@ -269,8 +268,9 @@ def test_corpus_srt_mode_iteration():
 @pytest.mark.slow
 def test_corpus_srt_mode_all_files():
     corpus = Corpus("srt")
+    corpus.set_subcorpora("speech")
     count = 0
-    for _, segments in corpus:
+    for _, segments, *_ in corpus:
         count += 1
         assert isinstance(segments, list)
         assert all(isinstance(seg, SubtitleSegment) for seg in segments)

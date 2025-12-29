@@ -10,7 +10,12 @@ from collections import namedtuple
 from itertools import islice
 from pathlib import Path
 
-from journal_digital.settings import speech_root
+from journal_digital.settings import intertitle_root, speech_root
+
+CorpusDocument = namedtuple(
+    "CorpusDocument",
+    ["filename", "content", "collection", "year", "subcorpus", "path"],
+)
 
 SubtitleSegment = namedtuple(
     "SubtitleSegment",
@@ -45,7 +50,8 @@ class Corpus:
         _calculate_duration (bool): Whether to calculate segment durations
     """
 
-    _root = speech_root
+    _intertitle = True
+    _speech = True
 
     def __init__(self, mode="txt", calculate_num_words=False, calculate_duration=False):
         """Initialize the Corpus iterator.
@@ -68,12 +74,30 @@ class Corpus:
         Raises:
             AssertionError: If mode is not 'txt' or 'srt'
         """
-        assert mode in ["txt", "srt"]
+        assert mode in {"txt", "srt"}
         self._mode = mode
         if mode == "txt":
             self.set_txt_mode()
-        elif mode == "srt":
+        else:
             self.set_srt_mode()
+
+    def set_subcorpora(self, texts_to_include):
+        if texts_to_include not in ["speech", "intertitles", "both"]:
+            raise ValueError(
+                f"Invalid texts_to_include: {texts_to_include}. "
+                f"Allowed values are 'speech', 'intertitles', 'both'."
+            )
+
+        if texts_to_include == "intertitles":
+            self._speech = False
+            self._intertitle = True
+
+        elif texts_to_include == "speech":
+            self._speech = True
+            self._intertitle = False
+        else:
+            self._speech = True
+            self._intertitle = True
 
     def set_srt_mode(self):
         """Set reader to SRT mode (returns SubtitleSegment namedtuples)."""
@@ -217,16 +241,34 @@ class Corpus:
 
         return segments
 
-    def __iter__(self):
-        """Iterate over all SRT files in the corpus.
+    def _files(self):
+        if self._intertitle:
+            for file in intertitle_root.glob("**/*.srt"):
+                yield file, "intertitle"
+        if self._speech:
+            for file in speech_root.glob("**/*.srt"):
+                yield file, "speech"
 
-        Yields:
-            tuple: (file_path, content) where content format depends on mode:
-                - txt mode: (Path, str) - file path and plain text
-                - srt mode: (Path, list[SubtitleSegment]) - file path and segments
+    def __iter__(self):
+        """Iterate over all SRT files in the selected sub-corpus.
+
+        Yields CorpusDocument (NamedTuple):
+            filename: name of the .srt file
+            content: str with all text or list of subtitle segments depending on output mode
+            collection: name of the collection {'sf', 'sj', 'kino', 'nuet'}
+            year: year the video was published
+            subcorpus: {'speech', 'intertitle'}
+            path: absolute path to the .srt file
         """
-        for file in self._root.glob("**/*.srt"):
-            yield file, self._read_file(file)
+        for file, subcorpus in self._files():
+            yield CorpusDocument(
+                filename=file.stem,
+                content=self._read_file(file),
+                collection=file.parent.parent.name,
+                year=file.parent.name,
+                subcorpus=subcorpus,
+                path=file.resolve(),
+            )
 
     def __len__(self):
         """Return the total number of files in the corpus.
