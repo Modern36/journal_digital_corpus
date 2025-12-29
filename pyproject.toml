@@ -64,7 +64,9 @@ dev = [
   "swescribe[whisperx]==0.1.0",
   "stum==0.2.0",
   "pytest==8.3.5",
-  "tqdm==4.67.1"
+]
+test = [
+  "pytest==8.3.5",
 ]
 
 [tool.isort]
@@ -95,12 +97,18 @@ force-exclude = '''
 )/
 '''
 
+[tool.ruff]
+line-length = 79
+
 [tool.pytest.ini_options]
 addopts = [
     "--import-mode=importlib",
 ]
 testpaths = ["tests"]
 pythonpath = "src/journal_digital"
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
 
 
 

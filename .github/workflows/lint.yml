@@ -1,0 +1,49 @@
+name: Lint Code
+
+on:
+  push:
+    branches: [ main, dev ]
+  pull_request:
+    branches: [ main, dev ]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install linting tools
+        run: |
+          pip install isort black ruff
+
+      - name: Run isort
+        run: |
+          isort src/ tests/
+
+      - name: Run black
+        run: |
+          black src/ tests/
+
+      - name: Run ruff
+        run: |
+          ruff check src/ tests/ --fix
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "style: apply linting fixes (isort, black, ruff)"

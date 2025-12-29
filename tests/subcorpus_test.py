@@ -1,5 +1,3 @@
-import pytest
-
 from journal_digital import Corpus
 
 
@@ -26,7 +24,7 @@ def test_speech_subcorpus_metadata():
         assert doc.collection in ("kino", "nuet", "sf", "sj")
         assert doc.year.isdigit() or doc.year == "XXXX"
         assert doc.filename
-        assert doc.text
+        assert doc.content
         break
 
 
@@ -37,7 +35,7 @@ def test_intertitle_subcorpus_metadata():
         assert doc.collection in ("kino", "nuet", "sf", "sj")
         assert doc.year.isdigit() or doc.year == "XXXX"
         assert doc.filename
-        assert doc.text
+        assert doc.content
         break
 
 
@@ -49,7 +47,7 @@ def test_both_subcorpora_metadata():
         assert doc.collection in ("kino", "nuet", "sf", "sj")
         assert doc.year.isdigit() or doc.year == "XXXX"
         assert doc.filename
-        assert doc.text
+        assert doc.content
         subcorpora_seen.add(doc.subcorpus)
         if len(subcorpora_seen) == 2:
             break
@@ -60,7 +58,7 @@ def test_metadata_attributes_exist():
     corpus = Corpus("txt", texts_to_include="speech")
     doc = next(iter(corpus))
     assert hasattr(doc, "filename")
-    assert hasattr(doc, "text")
+    assert hasattr(doc, "content")
     assert hasattr(doc, "collection")
     assert hasattr(doc, "year")
     assert hasattr(doc, "subcorpus")

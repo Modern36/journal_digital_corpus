@@ -3,7 +3,6 @@
 [![Hatch project](https://img.shields.io/badge/%F0%9F%A5%9A-Hatch-4051b5.svg)](https://github.com/pypa/hatch)
 [![DOI](https://zenodo.org/badge/937956064.svg)](https://doi.org/10.5281/zenodo.15596191)
 
-
 # Journal Digital Corpus
 
 The **Journal Digital Corpus** is a curated, timestamped transcription corpus
@@ -26,11 +25,9 @@ This corpus is the result of two purpose-built libraries:
 
 <!-- numbers --> The corpus consists of 2,225,334 words transcribed from 204 hours of speech across 2,544 videos and 302,312 words from 49,107 intertitles from 4,327 videos. <!-- numbers -->
 
-
-
 The primary files used for this project are publicly available on
-[Filmarkivet.se](https://www.filmarkivet.se/), a web
-resource containing curated parts of Swedish film archives.
+[Filmarkivet.se](https://www.filmarkivet.se/), a web resource containing
+curated parts of Swedish film archives.
 
 ## Installation
 
@@ -39,6 +36,39 @@ Git clone repository, cd in to the directory and run:
 
 `python -m pip install journal_digital`
 
+## Usage
+
+### Reading the corpus in text mode
+
+```python
+from journal_digital import Corpus
+
+# Iterate over speech transcriptions as plain text
+corpus = Corpus(mode="txt")
+for file, text in corpus:
+    print(f"{file.stem}: {text[:100]}...")
+```
+
+### Reading the corpus in SRT mode
+
+```python
+from journal_digital import Corpus
+
+# Iterate over speech transcriptions as timestamped segments
+corpus = Corpus(mode="srt")
+for file, segments in corpus:
+    for segment in segments:
+        print(f"[{segment.start} --> {segment.end}] {segment.text}")
+```
+
+Each segment is a `SubtitleSegment` namedtuple with fields:
+- `idx`: Segment index (starts at 1)
+- `start`: Start timestamp (format: `HH:MM:SS,mmm`)
+- `end`: End timestamp (format: `HH:MM:SS,mmm`)
+- `text`: Transcribed text
+- `num_words`: Word count (optional, `None` by default)
+- `duration_seconds`: Segment duration in seconds (optional, `None` by default)
+
 ## 2025-06-04
 
 Created with `SweScribe==v0.1.0` and `stum==v.0.2.0` on `2025-06-04` without
@@ -46,8 +76,8 @@ manual editing.
 
 ## Files
 
-- `/name_year.tsv`: Pairings of filename and publication year, based on metadata
-  from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
+- `/name_year.tsv`: Pairings of filename and publication year, based on
+  metadata from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
 
 ```
 /corpus
@@ -87,11 +117,13 @@ manual editing.
 
 ### Development Setup
 
-`python -m pip install '.[dev]'`
-`pre-commit install`
+```sh
+python -m pip install -e '.[dev]'
+pre-commit install
+pre-commit install --hook-type pre-push
+```
 
 Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.
-
 
 ## Research Context and Licensing
 

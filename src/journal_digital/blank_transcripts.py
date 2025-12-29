@@ -31,7 +31,8 @@ def write_empty_filenames(empty_srts_file, empyt_ids_set: list):
 def remove_empty_transcripts(corpus_dir: Path):
     empty_srts_file = corpus_dir / "empty.tsv"
     empty_ids = load_empty_filenames(empty_srts_file) | {
-        empty_srt.name.replace(".srt", "") for empty_srt in emtpy_srt(corpus_dir)
+        empty_srt.name.replace(".srt", "")
+        for empty_srt in emtpy_srt(corpus_dir)
     }
 
     write_empty_filenames(empty_srts_file, sorted(empty_ids))
