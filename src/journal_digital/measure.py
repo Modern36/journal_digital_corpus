@@ -39,12 +39,16 @@ class VideoDurationCache:
     def __init__(self):
         """Initialize the NameSeconds object by loading existing mappings from file."""
         self.mapping = {}
-        if self.mapping_file.exists():
-            with open(self.mapping_file, "r", encoding="utf-8") as f:
-                f.readline()
-                for line in f.readlines():
-                    name, seconds = line.strip().split("\t")
-                    self.mapping[name.strip()] = int(seconds)
+        if not self.mapping_file.exists():
+            raise FileNotFoundError(f"Could not find {self.mapping_file=}")
+        if not self.video_root.exists():
+            raise FileNotFoundError(f"Could not find {self.video_root=}")
+
+        with open(self.mapping_file, "r", encoding="utf-8") as f:
+            f.readline()
+            for line in f.readlines():
+                name, seconds = line.strip().split("\t")
+                self.mapping[name.strip()] = int(seconds)
 
     def __getitem__(self, name):
         """Get the duration of a video by name, retrieving it if not cached.
