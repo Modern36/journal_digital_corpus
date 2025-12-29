@@ -32,3 +32,10 @@ repos:
         entry: pytest
         language: system
         pass_filenames: false
+    -   id: pytest-check
+        name: pytest-check
+        always_run: true
+        entry: pytest -m slow
+        language: system
+        pass_filenames: false
+        stages: [pre-push]
