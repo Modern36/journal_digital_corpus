@@ -1,5 +1,3 @@
-import pytest
-
 from journal_digital import Corpus
 
 

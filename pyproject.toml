@@ -64,8 +64,8 @@ dev = [
   "swescribe[whisperx]==0.1.0",
   "stum==0.2.0",
   "pytest==8.3.5",
-  "tqdm==4.67.1"
 ]
+
 
 [tool.isort]
 profile = "black"
