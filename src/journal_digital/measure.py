@@ -231,4 +231,10 @@ if __name__ == "__main__":
         readme,
     )
 
+    readme = re.sub(
+        "\n\n+",
+        "\n\n",
+        readme,
+    )
+
     readme_path.write_text(readme, encoding="utf-8")

@@ -65,7 +65,9 @@ dev = [
   "stum==0.2.0",
   "pytest==8.3.5",
 ]
-
+test = [
+  "pytest==8.3.5",
+]
 
 [tool.isort]
 profile = "black"
@@ -94,6 +96,9 @@ force-exclude = '''
   | \.yaml
 )/
 '''
+
+[tool.ruff]
+line-length = 79
 
 [tool.pytest.ini_options]
 addopts = [
