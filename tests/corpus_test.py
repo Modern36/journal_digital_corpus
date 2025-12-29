@@ -97,7 +97,9 @@ def test_read_srt_rejects_non_integer_index(tmpdir):
     srt = tmpdir / "bad.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("NOT_A_NUMBER\n00:00:09,830 --> 00:00:10,730\nText")
-    with pytest.raises(ValueError, match="index 'NOT_A_NUMBER' is not an integer"):
+    with pytest.raises(
+        ValueError, match="index 'NOT_A_NUMBER' is not an integer"
+    ):
         corpus.read_srt(srt)
 
 
@@ -115,7 +117,9 @@ def test_read_srt_rejects_malformed_timestamp(tmpdir):
     srt = tmpdir / "bad.srt"
     with open(srt, "w", encoding="utf-8") as f:
         f.write("1\nBAD_TIMESTAMP\nText")
-    with pytest.raises(ValueError, match="malformed timestamp 'BAD_TIMESTAMP'"):
+    with pytest.raises(
+        ValueError, match="malformed timestamp 'BAD_TIMESTAMP'"
+    ):
         corpus.read_srt(srt)
 
 
@@ -215,7 +219,9 @@ def test_read_srt_duration_none_when_disabled(srt_file):
 
 
 def test_read_srt_calculates_both_when_enabled(srt_file):
-    corpus = Corpus(mode="txt", calculate_num_words=True, calculate_duration=True)
+    corpus = Corpus(
+        mode="txt", calculate_num_words=True, calculate_duration=True
+    )
     segments = corpus.read_srt(srt_file)
     assert segments[0].num_words is not None
     assert segments[0].duration_seconds is not None
