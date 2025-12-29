@@ -45,7 +45,6 @@ class VideoDurationCache:
             raise FileNotFoundError(f"Could not find {self.video_root=}")
 
         with open(self.mapping_file, "r", encoding="utf-8") as f:
-            f.readline()
             for line in f.readlines():
                 name, seconds = line.strip().split("\t")
                 self.mapping[name.strip()] = int(seconds)
@@ -84,7 +83,15 @@ class VideoDurationCache:
         """
         video_paths = list(self.video_root.glob(f"**/{stripped_name}"))
 
-        assert len(video_paths) == 1
+        if len(video_paths) == 0:
+            raise FileNotFoundError(
+                f'Could not find file: "{stripped_name}" in "{self.video_root}"'
+            )
+        elif len(video_paths) > 1:
+            raise FileNotFoundError(
+                f'Found multiple candidets for: "{stripped_name}" in "{self.video_root}"'
+            )
+
         video_path = video_paths[0]
 
         q = subprocess.run(
@@ -155,8 +162,8 @@ def measure_corpus(corpus_subdir: Path):
             "num_words": num_words,
             "video_seconds": video_cache[srt.stem],
         }
-
-    video_cache.save()
+    else:
+        video_cache.save()
 
 
 def store_corpus_measurements(corpus_subdir: Path):
