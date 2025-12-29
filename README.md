@@ -169,7 +169,6 @@ echo $COMMITS | xargs git cherry-pick
 Git's conflict resolution will show you exactly where manual edits conflict
 with pipeline changes.
 
-
 ## Research Context and Licensing
 
 ### Modern Times 1936
