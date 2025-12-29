@@ -22,6 +22,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Create .env file
+        run: |
+          echo "JOURNAL_DIGITALROOT=/tmp/videos" > .env
+          mkdir -p /tmp/videos
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -29,7 +34,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install hatch hatch-vcs
           pip install -e ".[test]"
 
       - name: Run pytest
