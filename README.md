@@ -117,7 +117,11 @@ manual editing.
 
 ### Development Setup
 
-`python -m pip install -e '.[dev]'` `pre-commit install`
+```sh
+python -m pip install -e '.[dev]'
+pre-commit install
+pre-commit install --hook-type pre-push
+```
 
 Add your path to videos got `JOURNAL_DIGITALROOT` in `.env`.
 

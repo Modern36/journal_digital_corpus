@@ -50,9 +50,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md corpus/*/measurements*.tsv name_seconds.tsv
-          git commit -m "Update corpus measurements and README
-
-          🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-          Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>"
+          git commit -m "Update corpus measurements and README"
           git push
