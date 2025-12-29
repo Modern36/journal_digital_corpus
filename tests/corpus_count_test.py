@@ -12,21 +12,27 @@ counts["both"] = sum(counts.values())
 
 counts = {key: (key, count) for key, count in counts.items()}
 
-# output_modes = {"txt", "srt"}
+output_modes = {"txt", "srt"}
 
 
-@pytest.mark.parametrize("sub_corpus, target_count", counts.values(), ids=counts.keys())
+@pytest.mark.parametrize("output_mode", output_modes, ids=output_modes)
+@pytest.mark.parametrize(
+    "sub_corpus, target_count", counts.values(), ids=counts.keys()
+)
 @pytest.mark.slow
-def test_count_files(sub_corpus, target_count):
-    corpus = Corpus("txt")
+def test_count_files(sub_corpus, target_count, output_mode):
+    corpus = Corpus(output_mode)
     corpus.set_subcorpora(sub_corpus)
     assert len(corpus) == target_count
 
 
-@pytest.mark.parametrize("sub_corpus, target_count", counts.values(), ids=counts.keys())
+@pytest.mark.parametrize("output_mode", output_modes, ids=output_modes)
+@pytest.mark.parametrize(
+    "sub_corpus, target_count", counts.values(), ids=counts.keys()
+)
 @pytest.mark.slow
-def test_count_files_iter(sub_corpus, target_count):
-    corpus = Corpus("txt")
+def test_count_files_iter(sub_corpus, target_count, output_mode):
+    corpus = Corpus(output_mode)
     corpus.set_subcorpora(sub_corpus)
 
     c = 0
@@ -35,10 +41,13 @@ def test_count_files_iter(sub_corpus, target_count):
     assert c == target_count
 
 
+@pytest.mark.parametrize(
+    "sub_corpus, target_count", counts.values(), ids=counts.keys()
+)
 @pytest.mark.slow
-def test_corpus_srt_mode_all_files(target_count=counts["speech"][1]):
+def test_corpus_srt_mode_all_files(sub_corpus, target_count):
     corpus = Corpus("srt")
-    corpus.set_subcorpora("speech")
+    corpus.set_subcorpora(sub_corpus)
     count = 0
     for _, segments, *_ in corpus:
         count += 1
