@@ -7,7 +7,7 @@ OCR from SF Veckorevy newsreels.
 
 import re
 from collections import namedtuple
-from itertools import batched
+from itertools import islice
 from pathlib import Path
 
 from journal_digital.settings import speech_root
@@ -16,6 +16,16 @@ SubtitleSegment = namedtuple(
     "SubtitleSegment",
     ["idx", "start", "end", "text", "num_words", "duration_seconds"],
 )
+
+
+def batched(iterable, n, *, strict=False):
+    if n < 1:
+        raise ValueError("n must be at least one")
+    iterator = iter(iterable)
+    while batch := tuple(islice(iterator, n)):
+        if strict and len(batch) != n:
+            raise ValueError("batched(): incomplete batch")
+        yield batch
 
 
 class Corpus:
@@ -37,9 +47,7 @@ class Corpus:
 
     _root = speech_root
 
-    def __init__(
-        self, mode="txt", calculate_num_words=False, calculate_duration=False
-    ):
+    def __init__(self, mode="txt", calculate_num_words=False, calculate_duration=False):
         """Initialize the Corpus iterator.
 
         Args:
@@ -155,9 +163,7 @@ class Corpus:
 
         for idx_line, time_line, text_line, *_ in batched(lines, 4):
             if not idx_line:
-                raise ValueError(
-                    f"Invalid SRT segment in {file}: missing index line"
-                )
+                raise ValueError(f"Invalid SRT segment in {file}: missing index line")
 
             try:
                 idx = int(idx_line)
@@ -190,9 +196,7 @@ class Corpus:
 
             start, end = match.groups()
 
-            num_words = (
-                len(text_line.split()) if self._calculate_num_words else None
-            )
+            num_words = len(text_line.split()) if self._calculate_num_words else None
             if self._calculate_duration:
                 start_ms = self._srt_time_to_milliseconds(start)
                 end_ms = self._srt_time_to_milliseconds(end)
