@@ -56,29 +56,6 @@ def test_corpus_srt_mode_all_files(sub_corpus, target_count):
     assert count == target_count
 
 
-# -----------------------------#
-#       Unparametrized         #
-# -----------------------------#
-
-
-@pytest.mark.slow
-def test_count_files_old():
-    corpus = Corpus("txt")
-    corpus.set_subcorpora("speech")
-    assert len(corpus) == 2544
-
-
-@pytest.mark.slow
-def test_count_files_iter_old():
-    corpus = Corpus("txt")
-    corpus.set_subcorpora("speech")
-
-    c = 0
-    for _ in corpus:
-        c += 1
-    assert c == 2544
-
-
 @pytest.mark.slow
 def test_no_empty_files(target_count=counts["both"][1]):
     corpus = Corpus("txt")
