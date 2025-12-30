@@ -115,7 +115,8 @@ markers = [
 [tool.hatch.build.targets.sdist]
 include = [
     "/src/journal_digital",
-    "/corpus",
+    "/corpus/**/*.srt",
+    "/**/*.tsv",
     "LICENSE",
     "README.md"
 ]
@@ -123,6 +124,10 @@ include = [
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/journal_digital"]
+include = [
+    "/corpus/**/*.srt",
+    "/**/*.tsv",
+]
 
 
 [tool.hatch.envs.default]
