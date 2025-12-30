@@ -80,7 +80,7 @@ manual editing.
   metadata from [The Swedish Media Database (SMDB)](https://smdb.kb.se/).
 
 ```
-/corpus
+/src/journal_digital/corpus
 ├── /intertitle
 │   ├── /collection_1
 │   ├── /collection_2
@@ -136,10 +136,10 @@ Edit SRT files and commit to git:
 
 ```bash
 # Fix typos, character encoding, or timing in any SRT file
-vim corpus/speech/sf/1935/SF855B.1.mpg.srt
+vim src/journal_digital/corpus/speech/sf/1935/SF855B.1.mpg.srt
 
 # Commit your changes
-git add corpus/speech/sf/1935/SF855B.1.mpg.srt
+git add src/journal_digital/corpus/speech/sf/1935/SF855B.1.mpg.srt
 git commit -m "Fix: Change 'C4' to 'Sefyr' (character encoding)"
 ```
 
@@ -152,7 +152,7 @@ When the underlying transcription tools (SweScribe/stum) improve:
 python -m journal_digital.transcribe
 
 # 2. Commit and tag the pipeline output
-git add corpus/
+git add src/journal_digital/corpus/
 git commit -m "Run transcription pipeline (swescribe 2.1.0)"
 git tag -a pipeline-2025-12-08 -m "Pipeline run with swescribe 2.1.0"
 

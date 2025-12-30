@@ -22,7 +22,8 @@ assert video_root.exists(), f"Video root {video_root} does not exist."
 assert video_root.is_dir(), f"Video root {video_root} is not a directory."
 
 project_root = Path(__file__).parents[2]
-corpus_root = project_root / "corpus"
+package_root = Path(__file__).parent
+corpus_root = package_root / "corpus"
 speech_root = corpus_root / "speech"
 intertitle_root = corpus_root / "intertitle"
 
