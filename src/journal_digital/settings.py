@@ -5,7 +5,19 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-video_root = Path(os.getenv("JOURNAL_DIGITALROOT"))
+try:
+    video_str_path = os.environ["JOURNAL_DIGITALROOT"]
+
+    if not video_str_path or video_str_path == ".":
+        video_str_path = "/tmp"
+except KeyError:
+    Warning(
+        "Could not find environment variable JOURNAL_DIGITALROOT."
+        'defaulting to "/tmp"'
+    )
+    video_str_path = "/tmp"
+
+video_root = Path(video_str_path)
 assert video_root.exists(), f"Video root {video_root} does not exist."
 assert video_root.is_dir(), f"Video root {video_root} is not a directory."
 
